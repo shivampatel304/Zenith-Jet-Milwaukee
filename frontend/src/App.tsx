@@ -1,122 +1,95 @@
-import { useState } from 'react'
-import heroImg from './assets/hero.png'
-import reactLogo from './assets/react.svg'
-import viteLogo from './assets/vite.svg'
-import './App.css'
+import { useState } from 'react';
+import PinGate from './components/PinGate';
+import MapView from './components/MapView';
+import StatsBar from './components/StatsBar';
+import SearchBar from './components/SearchBar';
+import Sidebar from './components/Sidebar';
+import DetailPanel from './components/DetailPanel';
+import { useBuildings } from './hooks/useBuildings';
+import { emptyFilters } from './lib/types';
+import type { Building, FilterState, ColorMode } from './lib/types';
 
-function App() {
-  const [count, setCount] = useState(0)
+export default function App() {
+  const [authenticated, setAuthenticated] = useState(false);
+  const [selectedBuilding, setSelectedBuilding] = useState<Building | null>(null);
+  const [hoveredBuilding, setHoveredBuilding] = useState<Building | null>(null);
+  const [colorMode, setColorMode] = useState<ColorMode>('contact');
+  const [filters, setFilters] = useState<FilterState>(emptyFilters());
+  const [showAllArcs, setShowAllArcs] = useState(false);
+  const [flyTo, setFlyTo] = useState<{ lng: number; lat: number; zoom: number } | null>(null);
+
+  const { buildings, filtered, loading } = useBuildings(filters);
+
+  if (!authenticated) {
+    return <PinGate onSuccess={() => setAuthenticated(true)} />;
+  }
+
+  function handleSelectBuilding(b: Building) {
+    setSelectedBuilding(b);
+    setFlyTo({ lng: b.lng, lat: b.lat, zoom: 16 });
+  }
 
   return (
-    <>
-      <section id="center">
-        <div className="hero">
-          <img src={heroImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
+    <div className="fixed inset-0 flex flex-col bg-gray-100">
+      {/* Top bar */}
+      <div className="flex items-center gap-2 px-3 py-2 bg-gray-900 border-b border-gray-700 z-20 shrink-0">
+        <div className="font-semibold text-white text-sm mr-4 whitespace-nowrap">MKW Buildings</div>
+        <div className="flex-1 max-w-md">
+          <SearchBar onSelectBuilding={handleSelectBuilding} />
         </div>
-        <div>
-          <h1>Get started</h1>
-          <p>
-            Edit <code>src/App.tsx</code> and save to test <code>HMR</code>
-          </p>
-        </div>
-        <button
-          type="button"
-          className="counter"
-          onClick={() => setCount((count) => count + 1)}
-        >
-          Count is {count}
-        </button>
-      </section>
+        <div className="flex-1" />
+        <StatsBar buildings={buildings} filtered={filtered} />
+      </div>
 
-      <div className="ticks"></div>
+      {/* Main area */}
+      <div className="flex flex-1 overflow-hidden">
+        {/* Left sidebar */}
+        <Sidebar
+          buildings={buildings}
+          filtered={filtered}
+          filters={filters}
+          onFiltersChange={setFilters}
+          colorMode={colorMode}
+          onColorModeChange={setColorMode}
+          showAllArcs={showAllArcs}
+          onShowAllArcsChange={setShowAllArcs}
+        />
 
-      <section id="next-steps">
-        <div id="docs">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#documentation-icon"></use>
-          </svg>
-          <h2>Documentation</h2>
-          <p>Your questions, answered</p>
-          <ul>
-            <li>
-              <a href="https://vite.dev/" target="_blank">
-                <img className="logo" src={viteLogo} alt="" />
-                Explore Vite
-              </a>
-            </li>
-            <li>
-              <a href="https://react.dev/" target="_blank">
-                <img className="button-icon" src={reactLogo} alt="" />
-                Learn more
-              </a>
-            </li>
-          </ul>
+        {/* Map */}
+        <div className="flex-1 relative">
+          {loading && (
+            <div className="absolute inset-0 flex items-center justify-center bg-gray-900/50 z-10">
+              <div className="text-white text-sm bg-gray-900 px-4 py-2 rounded-lg">
+                Loading buildings…
+              </div>
+            </div>
+          )}
+          <MapView
+            buildings={filtered}
+            allBuildings={buildings}
+            selectedBuilding={selectedBuilding}
+            hoveredBuilding={hoveredBuilding}
+            colorMode={colorMode}
+            showAllArcs={showAllArcs}
+            flyTo={flyTo}
+            onFlyToComplete={() => setFlyTo(null)}
+            onBuildingClick={setSelectedBuilding}
+            onBuildingHover={setHoveredBuilding}
+          />
         </div>
-        <div id="social">
-          <svg className="icon" role="presentation" aria-hidden="true">
-            <use href="/icons.svg#social-icon"></use>
-          </svg>
-          <h2>Connect with us</h2>
-          <p>Join the Vite community</p>
-          <ul>
-            <li>
-              <a href="https://github.com/vitejs/vite" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#github-icon"></use>
-                </svg>
-                GitHub
-              </a>
-            </li>
-            <li>
-              <a href="https://chat.vite.dev/" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#discord-icon"></use>
-                </svg>
-                Discord
-              </a>
-            </li>
-            <li>
-              <a href="https://x.com/vite_js" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#x-icon"></use>
-                </svg>
-                X.com
-              </a>
-            </li>
-            <li>
-              <a href="https://bsky.app/profile/vite.dev" target="_blank">
-                <svg
-                  className="button-icon"
-                  role="presentation"
-                  aria-hidden="true"
-                >
-                  <use href="/icons.svg#bluesky-icon"></use>
-                </svg>
-                Bluesky
-              </a>
-            </li>
-          </ul>
-        </div>
-      </section>
 
-      <div className="ticks"></div>
-      <section id="spacer"></section>
-    </>
-  )
+        {/* Right detail panel */}
+        {selectedBuilding && (
+          <DetailPanel
+            building={selectedBuilding}
+            onClose={() => setSelectedBuilding(null)}
+            onOwnerClick={(ownerId) => {
+              setFilters(f => ({ ...f, ownerId }));
+              setSelectedBuilding(null);
+            }}
+          />
+        )}
+      </div>
+    </div>
+  );
 }
-
-export default App
