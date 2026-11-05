@@ -8,3 +8,4 @@ pipeline/data/
 map/data/
 .vercel
 .superpowers/
+!map/.env.example
