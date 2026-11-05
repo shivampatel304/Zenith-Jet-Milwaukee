@@ -4,4 +4,7 @@ dist/
 *.geojson
 *.xlsx
 data/
+pipeline/data/
+map/data/
+.vercel
 .superpowers/
