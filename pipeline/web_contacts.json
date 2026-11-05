@@ -1,51 +1,1543 @@
 {
-  "entity-northwestern-mutual-life-insurance-company": {
-    "website": "https://www.northwesternmutual.com",
-    "company_phone": "414-271-1444",
-    "contacts": []
-  },
-  "entity-aurora-health-care-metro-inc": {
-    "website": "https://www.aurorahealthcare.org",
-    "company_phone": "414-219-7434",
-    "contacts": []
-  },
-  "entity-forest-county-potawatomi-community-of-wi": {
-    "website": "https://www.potawatomi.com",
-    "company_phone": "414-847-8600",
-    "contacts": []
-  },
-  "entity-forest-county-potawatomi-community-of-wisconsin": {
-    "website": "https://www.potawatomi.com",
-    "company_phone": "414-847-8600",
-    "contacts": []
-  },
-  "entity-alexian-village-of-milwaukee-inc-attn-executive-director": {
-    "website": "https://www.ascensionliving.org",
-    "company_phone": "414-355-9300",
-    "contacts": []
-  },
-  "entity-wisconsin-center-district": {
-    "website": "https://wcd.org",
-    "company_phone": "414-908-6000",
-    "contacts": []
-  },
-  "entity-us-bank-national-assn-c-o-ryan-pts-dept-908": {
-    "website": "https://www.usbcmilwaukee.com",
-    "company_phone": "414-928-1700",
-    "property_manager": "Hines — U.S. Bank Center building management",
-    "contacts": [
-      {
-        "name": "Jim Cavanaugh",
-        "title": "Principal, Cushman & Wakefield | Boerke (leasing)",
-        "phone": "414-347-1000",
-        "source": "https://www.usbcmilwaukee.com/contact"
-      },
-      {
-        "name": "Katie Melbye",
-        "title": "Real Estate Advisor, Cushman & Wakefield | Boerke",
-        "phone": "414-347-1000",
-        "source": "https://www.usbcmilwaukee.com/contact"
-      }
-    ]
+ "entity-northwestern-mutual-life-insurance-company": {
+  "website": "https://www.northwesternmutual.com",
+  "company_phone": "414-271-1444",
+  "contacts": []
+ },
+ "entity-aurora-health-care-metro-inc": {
+  "website": "https://www.aurorahealthcare.org",
+  "company_phone": "414-219-7434",
+  "contacts": []
+ },
+ "entity-forest-county-potawatomi-community-of-wi": {
+  "website": "https://www.potawatomi.com",
+  "company_phone": "414-847-8600",
+  "contacts": []
+ },
+ "entity-forest-county-potawatomi-community-of-wisconsin": {
+  "website": "https://www.potawatomi.com",
+  "company_phone": "414-847-8600",
+  "contacts": []
+ },
+ "entity-alexian-village-of-milwaukee-inc-attn-executive-director": {
+  "website": "https://www.ascensionliving.org",
+  "company_phone": "414-355-9300",
+  "contacts": []
+ },
+ "entity-wisconsin-center-district": {
+  "website": "https://wcd.org",
+  "company_phone": "414-908-6000",
+  "contacts": []
+ },
+ "entity-us-bank-national-assn-c-o-ryan-pts-dept-908": {
+  "website": "https://www.usbcmilwaukee.com",
+  "company_phone": "414-928-1700",
+  "property_manager": "Hines \u2014 U.S. Bank Center building management",
+  "contacts": [
+   {
+    "name": "Jim Cavanaugh",
+    "title": "Principal, Cushman & Wakefield | Boerke (leasing)",
+    "phone": "414-347-1000",
+    "source": "https://www.usbcmilwaukee.com/contact"
+   },
+   {
+    "name": "Katie Melbye",
+    "title": "Real Estate Advisor, Cushman & Wakefield | Boerke",
+    "phone": "414-347-1000",
+    "source": "https://www.usbcmilwaukee.com/contact"
+   }
+  ]
+ },
+ "entity-city-of-milwaukee": {
+  "website": "https://city.milwaukee.gov/DCD/CityRealEstate",
+  "company_phone": "414-286-5730",
+  "company_email": null,
+  "property_manager": "City of Milwaukee Department of City Development - Real Estate",
+  "contacts": [
+   {
+    "name": "Matt Haessly",
+    "title": "Real Estate / Commercial Properties, DCD",
+    "email": null,
+    "phone": "414-286-5736",
+    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info"
+   },
+   {
+    "name": "Dwayne Edwards",
+    "title": "Commercial and Multi-Family Buildings, DCD",
+    "email": null,
+    "phone": "414-286-5735",
+    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info"
+   }
+  ],
+  "sources": {
+   "website": "https://city.milwaukee.gov/DCD/CityRealEstate",
+   "company_phone": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
+   "company_email": null,
+   "property_manager": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info"
   }
+ },
+ "entity-city-of-milwaukee-school": {
+  "website": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+  "company_phone": "414-283-4600",
+  "company_email": "fms@milwaukeepublicschools.org",
+  "property_manager": "Milwaukee Public Schools - Facilities and Maintenance Services",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "company_phone": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "company_email": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "property_manager": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance"
+  }
+ },
+ "entity-city-of-milwaukee-c-o-city-real-estate": {
+  "website": "https://city.milwaukee.gov/DCD/CityRealEstate",
+  "company_phone": "414-286-5730",
+  "company_email": null,
+  "property_manager": "City of Milwaukee Department of City Development - Real Estate",
+  "contacts": [
+   {
+    "name": "Matt Haessly",
+    "title": "Real Estate / Commercial Properties, DCD",
+    "email": null,
+    "phone": "414-286-5736",
+    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info"
+   }
+  ],
+  "sources": {
+   "website": "https://city.milwaukee.gov/DCD/CityRealEstate",
+   "company_phone": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
+   "company_email": null,
+   "property_manager": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info"
+  }
+ },
+ "entity-redevelopment-authority-of-the-city-of-milwaukee": {
+  "website": "https://city.milwaukee.gov/DCD/BoardsCommissions/racm",
+  "company_phone": "414-286-5730",
+  "company_email": "RACMInfo@milwaukee.gov",
+  "property_manager": "Redevelopment Authority of the City of Milwaukee (RACM)",
+  "contacts": [
+   {
+    "name": "Dave Misky",
+    "title": "RACM Staff",
+    "email": null,
+    "phone": "414-286-8682",
+    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/Shares/Contact-Redevelopment1.htm"
+   }
+  ],
+  "sources": {
+   "website": "https://city.milwaukee.gov/DCD/BoardsCommissions/racm",
+   "company_phone": "https://city.milwaukee.gov/DCD/CityRealEstate/Shares/Contact-Redevelopment1.htm",
+   "company_email": "https://city.milwaukee.gov/DCD/CityRealEstate/Shares/Contact-Redevelopment1.htm",
+   "property_manager": "https://city.milwaukee.gov/DCD/BoardsCommissions/racm"
+  }
+ },
+ "entity-city-of-milw-school-site": {
+  "website": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+  "company_phone": "414-283-4600",
+  "company_email": "fms@milwaukeepublicschools.org",
+  "property_manager": "Milwaukee Public Schools - Facilities and Maintenance Services",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "company_phone": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "company_email": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "property_manager": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance"
+  }
+ },
+ "entity-city-of-milwaukee-c-o-dpw-parking": {
+  "website": "https://city.milwaukee.gov/Parking",
+  "company_phone": "414-286-8350",
+  "company_email": "dpw@milwaukee.gov",
+  "property_manager": "City of Milwaukee Department of Public Works - Parking Services",
+  "contacts": [],
+  "sources": {
+   "website": "https://city.milwaukee.gov/Parking",
+   "company_phone": "https://city.milwaukee.gov/dpw/Contact",
+   "company_email": "https://city.milwaukee.gov/dpw/Contact",
+   "property_manager": "https://city.milwaukee.gov/dpw/AdministrativeServices"
+  }
+ },
+ "entity-sp-milwaukee-propco-1-llc": {
+  "website": "https://urbanmilwaukee.com/building/rivercenter-building/",
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Cushman & Wakefield | Boerke (leasing)",
+  "contacts": [
+   {
+    "name": "Katie Melbye",
+    "title": "Leasing, Cushman & Wakefield | Boerke",
+    "email": "kmelbye@boerke.com",
+    "phone": "414-310-5723",
+    "source": "https://www.moodyscre.com/marketplace/listing/31893063/1505-1555-N-Rivercenter-Dr-Milwaukee-WI-53212"
+   }
+  ],
+  "sources": {
+   "website": "https://urbanmilwaukee.com/building/rivercenter-building/",
+   "company_phone": null,
+   "company_email": null,
+   "property_manager": "https://www.moodyscre.com/marketplace/listing/31893063/1505-1555-N-Rivercenter-Dr-Milwaukee-WI-53212"
+  }
+ },
+ "entity-310-wi-equities-llc-310-w-farber-llc": {
+  "website": "https://the310w.com/",
+  "company_phone": null,
+  "company_email": "info@the310w.com",
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "John Mazza",
+    "title": "Office Leasing, CBRE",
+    "email": "john.mazza@cbre.com",
+    "phone": "414-274-1627",
+    "source": "https://the310w.com/leasing/"
+   },
+   {
+    "name": "Matt Chappell",
+    "title": "Retail Leasing, Mid-America Real Estate",
+    "email": "mchappell@midamericagrp.com",
+    "phone": "414-273-4600",
+    "source": "https://the310w.com/leasing/"
+   },
+   {
+    "name": "Dan Rosenfeld",
+    "title": "Retail Leasing, Mid-America Real Estate",
+    "email": "drosenfeld@midamericagrp.com",
+    "phone": "414-273-4600",
+    "source": "https://the310w.com/leasing/"
+   }
+  ],
+  "sources": {
+   "website": "https://the310w.com/",
+   "company_phone": null,
+   "company_email": "https://the310w.com/contact/",
+   "property_manager": null
+  }
+ },
+ "entity-330-kilbourn-wi-realty-lp": {
+  "website": "https://330kilbourn.com/",
+  "company_phone": "414-347-6900",
+  "company_email": null,
+  "property_manager": "Tower Realty Management Corporation",
+  "contacts": [
+   {
+    "name": "Matt Fahey",
+    "title": "Leasing, Colliers",
+    "email": "matt.fahey@colliers.com",
+    "phone": "414-278-6860",
+    "source": "https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518"
+   },
+   {
+    "name": "Joe Moritz",
+    "title": "Leasing, Colliers",
+    "email": "joe.moritz@colliers.com",
+    "phone": "414-278-6871",
+    "source": "https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518"
+   },
+   {
+    "name": "Dan Wroblewski",
+    "title": "Leasing, Colliers",
+    "email": "dan.wroblewski@colliers.com",
+    "phone": "414-278-6813",
+    "source": "https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518"
+   }
+  ],
+  "sources": {
+   "website": "https://330kilbourn.com/",
+   "company_phone": "https://www.yelp.com/biz/tower-realty-management-corporation-milwaukee",
+   "company_email": null,
+   "property_manager": "https://www.yelp.com/biz/tower-realty-management-corporation-milwaukee"
+  }
+ },
+ "entity-middleton-milwaukee-investors-llc": {
+  "website": "https://411ewc.com/",
+  "company_phone": "(414) 347-0411",
+  "company_email": null,
+  "property_manager": "Colliers International (Middleton Partners)",
+  "contacts": [],
+  "sources": {
+   "website": "https://411ewc.com/building-management/",
+   "company_phone": "https://411ewc.com/building-management/",
+   "company_email": null,
+   "property_manager": "https://411ewc.com/about/"
+  }
+ },
+ "entity-city-of-milw-school": {
+  "website": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+  "company_phone": "(414) 283-4600",
+  "company_email": "fms@milwaukeepublicschools.org",
+  "property_manager": "Milwaukee Public Schools - Facilities and Maintenance Services",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "company_phone": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "company_email": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "property_manager": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance"
+  }
+ },
+ "entity-ge-precision-healthcare-llc": {
+  "website": null,
+  "company_phone": "(262) 544-3011",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {
+   "website": null,
+   "company_phone": "https://www.buzzfile.com/business/GE-Precision-Healthcare-LLC-262-544-3011",
+   "company_email": null,
+   "property_manager": null
+  }
+ },
+ "entity-city-center-milwaukee-holdings-llc": {
+  "website": "https://citycenter735.com",
+  "company_phone": "(414) 765-0305",
+  "company_email": null,
+  "property_manager": "Hunter Real Estate, LLC",
+  "contacts": [
+   {
+    "name": "Matt Hunter",
+    "title": "Leasing broker, Hunter Real Estate",
+    "email": "mhunter@hunter-re.com",
+    "phone": "414-931-9931",
+    "source": "https://hunter-re.com/wp-content/uploads/2025/02/HRE_CityCenter-flyer_v2.pdf"
+   },
+   {
+    "name": "Matt Hoy",
+    "title": "Leasing broker, Hunter Real Estate",
+    "email": "mhoy@hunter-re.com",
+    "phone": "262-751-0931",
+    "source": "https://hunter-re.com/culture-post/hunter-real-estate-is-the-new-listing-firm-for-citycenter/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.yelp.com/biz/citycenter-at-735-milwaukee",
+   "company_phone": "https://www.yelp.com/biz/citycenter-at-735-milwaukee",
+   "company_email": null,
+   "property_manager": "https://hunter-re.com/culture-post/hunter-real-estate-is-the-new-listing-firm-for-citycenter/"
+  }
+ },
+ "entity-museum-center-park-inc": {
+  "website": null,
+  "company_phone": "(414) 431-6555",
+  "company_email": null,
+  "property_manager": "Interstate Parking Company",
+  "contacts": [],
+  "sources": {
+   "website": null,
+   "company_phone": "https://www.chamberofcommerce.com/business-directory/wisconsin/milwaukee/parking-garage/2013904403-museum-center-park-1159",
+   "company_email": null,
+   "property_manager": "https://www.groupon.com/deals/parkwhiz-interstate-parking-company-34"
+  }
+ },
+ "entity-city-of-milwaukee-pulaski-sr-high-school": {
+  "website": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+  "company_phone": "(414) 283-4600",
+  "company_email": "fms@milwaukeepublicschools.org",
+  "property_manager": "Milwaukee Public Schools - Facilities and Maintenance Services",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "company_phone": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "company_email": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "property_manager": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance"
+  }
+ },
+ "entity-milw-city-center-llc": {
+  "website": "https://www.hilton.com/en/hotels/mkemhhf-hilton-milwaukee-city-center/",
+  "company_phone": "(414) 271-7250",
+  "company_email": null,
+  "property_manager": "Marcus Hotels & Resorts (Hilton Milwaukee City Center)",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.hilton.com/en/hotels/mkemhhf-hilton-milwaukee-city-center/hotel-location/",
+   "company_phone": "https://www.evisitorguide.com/milwaukee/guide/map-location.php",
+   "company_email": null,
+   "property_manager": "https://members.waukesha.org/member-directory/Details/hilton-milwaukee-city-center-affiliate-of-marcus-4712024"
+  }
+ },
+ "entity-chase-tower-wisconsin-realty-lp-c-o-cbre": {
+  "website": "https://www.colliers.com/en/properties/chase-tower-office-for-lease/usa-111-e-wisconsin-ave-milwaukee-wisconsin-53202/usa1024311",
+  "company_phone": "414-278-6868",
+  "company_email": null,
+  "property_manager": "CBRE Group (leasing by Colliers International)",
+  "contacts": [
+   {
+    "name": "Ben Anderson",
+    "title": "Leasing agent, Colliers International",
+    "email": null,
+    "phone": "414-278-6868",
+    "source": "https://images4.loopnet.com/d2/ILe7TMaYtZJfoUF2D0IMDeOdCh2wrzzipdHJuw3nMic/document.pdf"
+   }
+  ],
+  "sources": {
+   "website": "https://www.colliers.com/en/properties/chase-tower-office-for-lease/usa-111-e-wisconsin-ave-milwaukee-wisconsin-53202/usa1024311",
+   "company_phone": "https://images4.loopnet.com/d2/ILe7TMaYtZJfoUF2D0IMDeOdCh2wrzzipdHJuw3nMic/document.pdf",
+   "company_email": null,
+   "property_manager": "https://en.wikipedia.org/wiki/Chase_Tower_(Milwaukee)"
+  }
+ },
+ "entity-777-north-van-buren-parking-llc-c-o-northwestern-mutual": {
+  "website": "https://www.live7seventy7.com/",
+  "company_phone": "833-289-7525",
+  "company_email": null,
+  "property_manager": "Northwestern Mutual / 7Seventy7",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.live7seventy7.com/contact/",
+   "company_phone": "https://en.wikipedia.org/wiki/7Seventy7",
+   "company_email": null,
+   "property_manager": "https://urbanmilwaukee.com/building/northwestern-mutual-apartment-tower/"
+  }
+ },
+ "entity-thrive-on-investors-p1-llc": {
+  "website": "https://thriveoncollaboration.org/",
+  "company_phone": "414-272-5805",
+  "company_email": "communityengagement@greatermilwaukeefoundation.org",
+  "property_manager": "ThriveOn Collaboration (Royal Capital / Greater Milwaukee Foundation)",
+  "contacts": [
+   {
+    "name": "Cydney Key",
+    "title": "Senior Director, ThriveOn guest experience and strategic partnerships",
+    "email": "ckey@thriveonmke.org",
+    "phone": null,
+    "source": "https://thriveoncollaboration.org/contact-us"
+   },
+   {
+    "name": "Zipporah Turnbull",
+    "title": "Program Manager",
+    "email": "zturnbull@thriveonmke.org",
+    "phone": null,
+    "source": "https://thriveoncollaboration.org/contact-us"
+   }
+  ],
+  "sources": {
+   "website": "https://thriveoncollaboration.org/",
+   "company_phone": "https://thriveoncollaboration.org/contact-us",
+   "company_email": "https://thriveoncollaboration.org/contact-us",
+   "property_manager": "https://www.greatermilwaukeefoundation.org/community-partnerships/thrive-on-collaboration/"
+  }
+ },
+ "entity-100-east-propco-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Friedman Real Estate Group",
+  "contacts": [
+   {
+    "name": "Michael Klein",
+    "title": "Developer / Principal, Klein Development (100 East Propco LLC ownership group)",
+    "email": null,
+    "phone": null,
+    "source": "https://biztimes.com/judge-approves-sale-of-100-east/"
+   },
+   {
+    "name": "John Vassallo",
+    "title": "Restaurateur / Co-owner (100 East Propco LLC ownership group)",
+    "email": null,
+    "phone": null,
+    "source": "https://biztimes.com/judge-approves-sale-of-100-east/"
+   }
+  ],
+  "sources": {
+   "website": null,
+   "company_phone": null,
+   "company_email": null,
+   "property_manager": "https://biztimes.com/judge-approves-sale-of-100-east/"
+  }
+ },
+ "entity-city-of-milwaukee-school-site-washington-high": {
+  "website": "https://mps.school/washington/",
+  "company_phone": "414-875-5900",
+  "company_email": "039@milwaukee.k12.wi.us",
+  "property_manager": "Milwaukee Public Schools",
+  "contacts": [],
+  "sources": {
+   "website": "https://mps.school/washington/contact/",
+   "company_phone": "https://mps.school/washington/contact/",
+   "company_email": "https://mps.school/washington/contact/",
+   "property_manager": "https://mps.school/washington/contact/"
+  }
+ },
+ "entity-city-of-milwaukee-harold-vincent-high-school": {
+  "website": "https://mps.school/vincent/",
+  "company_phone": "262-236-1200",
+  "company_email": "033@milwaukee.k12.wi.us",
+  "property_manager": "Milwaukee Public Schools",
+  "contacts": [],
+  "sources": {
+   "website": "https://mps.school/vincent/contact/",
+   "company_phone": "https://mps.school/vincent/contact/",
+   "company_email": "https://mps.school/vincent/contact/",
+   "property_manager": "https://mps.school/vincent/contact/"
+  }
+ },
+ "entity-875-east-13-llc-875-east-17-llc": {
+  "website": "https://www.wangard.com/",
+  "company_phone": "414-777-1200",
+  "company_email": "legal@wangard.com",
+  "property_manager": "Wangard Partners, Inc.",
+  "contacts": [
+   {
+    "name": "Matt Moroney",
+    "title": "CEO, Wangard Partners",
+    "email": null,
+    "phone": "414-777-1200",
+    "source": "https://www.wangard.com/matt-moroney"
+   },
+   {
+    "name": "Matt Fahey",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "matt.fahey@colliers.com",
+    "phone": "414-276-6860",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   },
+   {
+    "name": "Jenna Maguire",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "jenna.maguire@colliers.com",
+    "phone": "414-982-6960",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.wangard.com/contact/",
+   "company_phone": "https://www.wangard.com/contact/",
+   "company_email": "https://www.wangard.com/contact/",
+   "property_manager": "https://www.wangard.com/office/875-e-wisconsin/"
+  }
+ },
+ "entity-875-east-1-llc-et-al-c-o-wangard": {
+  "website": "https://www.wangard.com/",
+  "company_phone": "414-777-1200",
+  "company_email": "legal@wangard.com",
+  "property_manager": "Wangard Partners, Inc.",
+  "contacts": [
+   {
+    "name": "Matt Moroney",
+    "title": "CEO, Wangard Partners",
+    "email": null,
+    "phone": "414-777-1200",
+    "source": "https://www.wangard.com/matt-moroney"
+   },
+   {
+    "name": "Matt Fahey",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "matt.fahey@colliers.com",
+    "phone": "414-276-6860",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   },
+   {
+    "name": "Jenna Maguire",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "jenna.maguire@colliers.com",
+    "phone": "414-982-6960",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.wangard.com/contact/",
+   "company_phone": "https://www.wangard.com/contact/",
+   "company_email": "https://www.wangard.com/contact/",
+   "property_manager": "https://www.wangard.com/office/875-e-wisconsin/"
+  }
+ },
+ "entity-875-east-3-llc-875-east-4-llc": {
+  "website": "https://www.wangard.com/",
+  "company_phone": "414-777-1200",
+  "company_email": "legal@wangard.com",
+  "property_manager": "Wangard Partners, Inc.",
+  "contacts": [
+   {
+    "name": "Matt Moroney",
+    "title": "CEO, Wangard Partners",
+    "email": null,
+    "phone": "414-777-1200",
+    "source": "https://www.wangard.com/matt-moroney"
+   },
+   {
+    "name": "Matt Fahey",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "matt.fahey@colliers.com",
+    "phone": "414-276-6860",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   },
+   {
+    "name": "Jenna Maguire",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "jenna.maguire@colliers.com",
+    "phone": "414-982-6960",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.wangard.com/contact/",
+   "company_phone": "https://www.wangard.com/contact/",
+   "company_email": "https://www.wangard.com/contact/",
+   "property_manager": "https://www.wangard.com/office/875-e-wisconsin/"
+  }
+ },
+ "entity-875-east-6-llc-875-east-7-llc": {
+  "website": "https://www.wangard.com/",
+  "company_phone": "414-777-1200",
+  "company_email": "legal@wangard.com",
+  "property_manager": "Wangard Partners, Inc.",
+  "contacts": [
+   {
+    "name": "Matt Moroney",
+    "title": "CEO, Wangard Partners",
+    "email": null,
+    "phone": "414-777-1200",
+    "source": "https://www.wangard.com/matt-moroney"
+   },
+   {
+    "name": "Matt Fahey",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "matt.fahey@colliers.com",
+    "phone": "414-276-6860",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   },
+   {
+    "name": "Jenna Maguire",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "jenna.maguire@colliers.com",
+    "phone": "414-982-6960",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.wangard.com/contact/",
+   "company_phone": "https://www.wangard.com/contact/",
+   "company_email": "https://www.wangard.com/contact/",
+   "property_manager": "https://www.wangard.com/office/875-e-wisconsin/"
+  }
+ },
+ "entity-875-east-15-llc-875-east-19-llc": {
+  "website": "https://www.wangard.com/",
+  "company_phone": "414-777-1200",
+  "company_email": "legal@wangard.com",
+  "property_manager": "Wangard Partners, Inc.",
+  "contacts": [
+   {
+    "name": "Matt Moroney",
+    "title": "CEO, Wangard Partners",
+    "email": null,
+    "phone": "414-777-1200",
+    "source": "https://www.wangard.com/matt-moroney"
+   },
+   {
+    "name": "Matt Fahey",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "matt.fahey@colliers.com",
+    "phone": "414-276-6860",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   },
+   {
+    "name": "Jenna Maguire",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "jenna.maguire@colliers.com",
+    "phone": "414-982-6960",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.wangard.com/contact/",
+   "company_phone": "https://www.wangard.com/contact/",
+   "company_email": "https://www.wangard.com/contact/",
+   "property_manager": "https://www.wangard.com/office/875-e-wisconsin/"
+  }
+ },
+ "entity-875-east-32-llc-875-east-33-llc": {
+  "website": "https://www.wangard.com/",
+  "company_phone": "414-777-1200",
+  "company_email": "legal@wangard.com",
+  "property_manager": "Wangard Partners, Inc.",
+  "contacts": [
+   {
+    "name": "Matt Moroney",
+    "title": "CEO, Wangard Partners",
+    "email": null,
+    "phone": "414-777-1200",
+    "source": "https://www.wangard.com/matt-moroney"
+   },
+   {
+    "name": "Matt Fahey",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "matt.fahey@colliers.com",
+    "phone": "414-276-6860",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   },
+   {
+    "name": "Jenna Maguire",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "jenna.maguire@colliers.com",
+    "phone": "414-982-6960",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.wangard.com/contact/",
+   "company_phone": "https://www.wangard.com/contact/",
+   "company_email": "https://www.wangard.com/contact/",
+   "property_manager": "https://www.wangard.com/office/875-e-wisconsin/"
+  }
+ },
+ "entity-875-east-9-llc-875-east-11-llc": {
+  "website": "https://www.wangard.com/",
+  "company_phone": "414-777-1200",
+  "company_email": "legal@wangard.com",
+  "property_manager": "Wangard Partners, Inc.",
+  "contacts": [
+   {
+    "name": "Matt Moroney",
+    "title": "CEO, Wangard Partners",
+    "email": null,
+    "phone": "414-777-1200",
+    "source": "https://www.wangard.com/matt-moroney"
+   },
+   {
+    "name": "Matt Fahey",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "matt.fahey@colliers.com",
+    "phone": "414-276-6860",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   },
+   {
+    "name": "Jenna Maguire",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "jenna.maguire@colliers.com",
+    "phone": "414-982-6960",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.wangard.com/contact/",
+   "company_phone": "https://www.wangard.com/contact/",
+   "company_email": "https://www.wangard.com/contact/",
+   "property_manager": "https://www.wangard.com/office/875-e-wisconsin/"
+  }
+ },
+ "entity-875-east-21-llc-875-east-22-llc": {
+  "website": "https://www.wangard.com/",
+  "company_phone": "414-777-1200",
+  "company_email": "legal@wangard.com",
+  "property_manager": "Wangard Partners, Inc.",
+  "contacts": [
+   {
+    "name": "Matt Moroney",
+    "title": "CEO, Wangard Partners",
+    "email": null,
+    "phone": "414-777-1200",
+    "source": "https://www.wangard.com/matt-moroney"
+   },
+   {
+    "name": "Matt Fahey",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "matt.fahey@colliers.com",
+    "phone": "414-276-6860",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   },
+   {
+    "name": "Jenna Maguire",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "jenna.maguire@colliers.com",
+    "phone": "414-982-6960",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.wangard.com/contact/",
+   "company_phone": "https://www.wangard.com/contact/",
+   "company_email": "https://www.wangard.com/contact/",
+   "property_manager": "https://www.wangard.com/office/875-e-wisconsin/"
+  }
+ },
+ "entity-875-east-29-llc-875-east-30-llc": {
+  "website": "https://www.wangard.com/",
+  "company_phone": "414-777-1200",
+  "company_email": "legal@wangard.com",
+  "property_manager": "Wangard Partners, Inc.",
+  "contacts": [
+   {
+    "name": "Matt Moroney",
+    "title": "CEO, Wangard Partners",
+    "email": null,
+    "phone": "414-777-1200",
+    "source": "https://www.wangard.com/matt-moroney"
+   },
+   {
+    "name": "Matt Fahey",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "matt.fahey@colliers.com",
+    "phone": "414-276-6860",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   },
+   {
+    "name": "Jenna Maguire",
+    "title": "Leasing Agent, Colliers (875 E Wisconsin)",
+    "email": "jenna.maguire@colliers.com",
+    "phone": "414-982-6960",
+    "source": "https://www.wangard.com/office/875-e-wisconsin/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.wangard.com/contact/",
+   "company_phone": "https://www.wangard.com/contact/",
+   "company_email": "https://www.wangard.com/contact/",
+   "property_manager": "https://www.wangard.com/office/875-e-wisconsin/"
+  }
+ },
+ "entity-875-east-26-llc-875-east-27-llc": {
+  "website": "https://www.wangard.com/",
+  "company_phone": "414-777-1200",
+  "company_email": "info@wangard.com",
+  "property_manager": "Wangard Partners, Inc.",
+  "contacts": [
+   {
+    "name": "Jamie Wolski",
+    "title": "Property Management",
+    "email": null,
+    "phone": "414-935-4116",
+    "source": "https://www.wangard.com/contact/"
+   },
+   {
+    "name": "Matt Hunter",
+    "title": "Executive Vice President, JLL (leasing)",
+    "email": null,
+    "phone": null,
+    "source": "https://urbanmilwaukee.com/building/875-e-wisconsin-ave/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.wangard.com/",
+   "company_phone": "https://www.wangard.com/contact/",
+   "company_email": "https://www.wangard.com/contact/",
+   "property_manager": "https://urbanmilwaukee.com/building/875-e-wisconsin-ave/"
+  }
+ },
+ "entity-875-east-35-llc-875-east-36-llc": {
+  "website": "https://www.wangard.com/",
+  "company_phone": "414-777-1200",
+  "company_email": "info@wangard.com",
+  "property_manager": "Wangard Partners, Inc.",
+  "contacts": [
+   {
+    "name": "Jamie Wolski",
+    "title": "Property Management",
+    "email": null,
+    "phone": "414-935-4116",
+    "source": "https://www.wangard.com/contact/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.wangard.com/",
+   "company_phone": "https://www.wangard.com/contact/",
+   "company_email": "https://www.wangard.com/contact/",
+   "property_manager": "https://urbanmilwaukee.com/building/875-e-wisconsin-ave/"
+  }
+ },
+ "entity-633-holdings-llc-c-o-colliers": {
+  "website": "https://www.colliers.com/en/united-states/cities/milwaukee",
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Colliers (Milwaukee)",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.colliers.com/en/united-states/cities/milwaukee",
+   "company_phone": null,
+   "company_email": null,
+   "property_manager": "https://www.loopnet.com/Listing/633-W-Wisconsin-Ave-Milwaukee-WI/24910792/"
+  }
+ },
+ "entity-tdc-brown-deer-owner-llc": {
+  "website": "https://transwestern.com/location/houston/",
+  "company_phone": "(713) 270-7700",
+  "company_email": "TranswesternDevelopmentCo@transwestern.com",
+  "property_manager": "Transwestern Development Company (TDC); leased via CBRE",
+  "contacts": [
+   {
+    "name": "Sean Suffel",
+    "title": "Regional Partner, Transwestern Development",
+    "email": "Sean.Suffel@transwestern.com",
+    "phone": "(713) 272-1264",
+    "source": "https://transwesterndevelopment.com/offices.html"
+   },
+   {
+    "name": "Gary Tesch",
+    "title": "Partner, Transwestern Development",
+    "email": "Gary.Tesch@transwestern.com",
+    "phone": "(832) 408-4000",
+    "source": "https://transwesterndevelopment.com/offices.html"
+   }
+  ],
+  "sources": {
+   "website": "https://transwestern.com/location/houston/",
+   "company_phone": "https://transwesterndevelopment.com/offices.html",
+   "company_email": "https://transwesterndevelopment.com/offices.html",
+   "property_manager": "https://urbanmilwaukee.com/2022/09/08/eyes-on-milwaukee-white-box-buildings-planned-for-124th-and-brown-deer/"
+  }
+ },
+ "entity-ivp-mmd-llc-attn-tax-dept": {
+  "website": "https://evoniapartments.com/",
+  "company_phone": "(414) 567-4809",
+  "company_email": null,
+  "property_manager": "Greystar (Evoni Historic Third Ward Apartments); developed by Kaeding Development Group",
+  "contacts": [],
+  "sources": {
+   "website": "https://evoniapartments.com/",
+   "company_phone": "https://www.apartments.com/evoni-milwaukee-wi/nepsgxm/",
+   "company_email": null,
+   "property_manager": "https://www.greystar.com/properties/milwaukee-wi/evoni"
+  }
+ },
+ "entity-city-of-milw-north-division-senior-high-school": {
+  "website": "https://mps.school/north/contact/",
+  "company_phone": "(414) 267-4900",
+  "company_email": null,
+  "property_manager": "Milwaukee Public Schools (North Division High School)",
+  "contacts": [],
+  "sources": {
+   "website": "https://mps.school/north/contact/",
+   "company_phone": "https://web.mmac.org/atlas/directory/category/talent-solutions-directory/north-division-high-school-14322",
+   "company_email": null,
+   "property_manager": "https://mps.school/north/contact/"
+  }
+ },
+ "entity-us-bank-national-association-c-o-ryan-pts-dept-908": {
+  "website": "https://www.hines.com/properties/u.s.-bank-center-milwaukee",
+  "company_phone": "414.928.1700",
+  "company_email": null,
+  "property_manager": "Hines (Asset & Property Manager, U.S. Bank Center)",
+  "contacts": [
+   {
+    "name": "Dion Watton",
+    "title": "Hines (Property Management)",
+    "email": null,
+    "phone": "414.928.1700",
+    "source": "https://www.hines.com/properties/u.s.-bank-center-milwaukee"
+   }
+  ],
+  "sources": {
+   "website": "https://www.hines.com/properties/u.s.-bank-center-milwaukee",
+   "company_phone": "https://www.hines.com/properties/u.s.-bank-center-milwaukee",
+   "company_email": null,
+   "property_manager": "https://www.hines.com/properties/u.s.-bank-center-milwaukee"
+  }
+ },
+ "entity-pfister-llc": {
+  "website": "https://www.thepfisterhotel.com",
+  "company_phone": "(414) 273-8222",
+  "company_email": null,
+  "property_manager": "The Pfister Hotel",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.yelp.com/biz/the-pfister-hotel-milwaukee-2",
+   "company_phone": "https://www.yelp.com/biz/the-pfister-hotel-milwaukee-2",
+   "company_email": null,
+   "property_manager": "https://www.yelp.com/biz/the-pfister-hotel-milwaukee-2"
+  }
+ },
+ "entity-rex-properties-llc": {
+  "website": null,
+  "company_phone": "(414) 747-7400",
+  "company_email": null,
+  "property_manager": "Mallory Properties (at same address, 445 W Oklahoma Ave)",
+  "contacts": [
+   {
+    "name": "Frank Giuffre",
+    "title": "President, Mallory Properties",
+    "email": null,
+    "phone": "(414) 747-7400",
+    "source": "https://www.thebluebook.com/iProView/402220/mallory-properties/vendor-services/locations-contacts/"
+   }
+  ],
+  "sources": {
+   "website": null,
+   "company_phone": "https://www.thebluebook.com/iProView/402220/mallory-properties/vendor-services/locations-contacts/",
+   "company_email": null,
+   "property_manager": "https://urbanmilwaukee.com/business/mallory-properties/"
+  }
+ },
+ "entity-broadway-tierra-partners-llc": {
+  "website": "https://irgens.com/properties/bmo-tower/",
+  "company_phone": "414.443.0700",
+  "company_email": "info@irgens.com",
+  "property_manager": "Irgens (BMO Tower)",
+  "contacts": [
+   {
+    "name": "Mark Irgens",
+    "title": "Irgens",
+    "email": "mirgens@irgens.com",
+    "phone": "414.443.2520",
+    "source": "https://irgens.com/properties/bmo-tower/"
+   },
+   {
+    "name": "Kevin Armstrong",
+    "title": "Irgens (leasing)",
+    "email": "karmstrong@irgens.com",
+    "phone": "414.443.2580",
+    "source": "https://irgens.com/properties/bmo-tower/"
+   }
+  ],
+  "sources": {
+   "website": "https://irgens.com/properties/bmo-tower/",
+   "company_phone": "https://irgens.com/properties/bmo-tower/",
+   "company_email": "https://irgens.com/properties/bmo-tower/",
+   "property_manager": "https://www.loopnet.com/Listing/790-N-Water-St-Milwaukee-WI/19678803/"
+  }
+ },
+ "entity-city-of-milwaukee-playground": {
+  "website": "https://city.milwaukee.gov/mpw/infrastructure/Playgrounds",
+  "company_phone": "(414) 286-2489",
+  "company_email": null,
+  "property_manager": "City of Milwaukee Department of Public Works",
+  "contacts": [],
+  "sources": {
+   "website": "https://city.milwaukee.gov/mpw/infrastructure/Playgrounds",
+   "company_phone": "https://city.milwaukee.gov/dpw/Contact",
+   "company_email": null,
+   "property_manager": "https://city.milwaukee.gov/mpw/infrastructure/Playgrounds"
+  }
+ },
+ "entity-milwaukee-center-mgmt-llc": {
+  "website": null,
+  "company_phone": "(414) 291-6100",
+  "company_email": null,
+  "property_manager": "Colliers International | Wisconsin (leasing)",
+  "contacts": [
+   {
+    "name": "Mike Wanezek",
+    "title": "Leasing Broker, Colliers International",
+    "email": "mike.wanezek@colliers.com",
+    "phone": "+1 414 278 6826",
+    "source": "https://www2.colliers.com/en/Properties/milwaukee%E2%80%99s-most-dynamic-office-complex-milwaukee-center/USA-111-e-kilbourn-avenue/USA1002784"
+   },
+   {
+    "name": "Lyle Landowski",
+    "title": "Leasing Broker, Colliers International",
+    "email": "lyle.landowski@colliers.com",
+    "phone": "+1 414 278 6827",
+    "source": "https://www2.colliers.com/en/Properties/milwaukee%E2%80%99s-most-dynamic-office-complex-milwaukee-center/USA-111-e-kilbourn-avenue/USA1002784"
+   }
+  ],
+  "sources": {
+   "website": null,
+   "company_phone": "https://www.yellowpages.com/milwaukee-wi/mip/milwaukee-center-office-tower-453066308",
+   "company_email": null,
+   "property_manager": "https://www2.colliers.com/en/Properties/milwaukee%E2%80%99s-most-dynamic-office-complex-milwaukee-center/USA-111-e-kilbourn-avenue/USA1002784"
+  }
+ },
+ "entity-schwer-pflicht-werkzeug-properties-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Milwaukee Tool (affiliate; HQ 13135 W. Lisbon Road, Brookfield WI)",
+  "contacts": [],
+  "sources": {
+   "website": null,
+   "company_phone": null,
+   "company_email": null,
+   "property_manager": "https://biztimes.com/breaking-ground-milwaukee-tools-downtown-milwaukee-office/"
+  }
+ },
+ "entity-833-buena-vista-tierra-investors-llc": {
+  "website": "https://irgens.com",
+  "company_phone": "(414) 443-0700",
+  "company_email": null,
+  "property_manager": "Irgens Partners LLC",
+  "contacts": [
+   {
+    "name": "Kevin Armstrong",
+    "title": "Senior VP, Portfolio Leasing",
+    "email": "karmstrong@irgens.com",
+    "phone": "414.443.2580",
+    "source": "https://irgens.com/properties/mayfair-woods/"
+   },
+   {
+    "name": "Tom Irgens",
+    "title": "Irgens Partners",
+    "email": "tirgens@irgens.com",
+    "phone": "414.443.2531",
+    "source": "https://irgens.com/properties/mayfair-woods/"
+   }
+  ],
+  "sources": {
+   "website": "https://en.wikipedia.org/wiki/833_East_Michigan",
+   "company_phone": "https://irgens.com/wp-content/uploads/2024/05/Data-Sheets_Innovation-One.pdf",
+   "company_email": null,
+   "property_manager": "https://biztimes.com/irgens-buys-office-tower-site-for-5-4-million/"
+  }
+ },
+ "entity-reign-co1-propco-llc": {
+  "website": "https://www.reigncapital.com",
+  "company_phone": "646.504.2689",
+  "company_email": "info@reigncapital.com",
+  "property_manager": "Reign Capital LLC",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.reigncapital.com/contact",
+   "company_phone": "https://www.reigncapital.com/contact",
+   "company_email": "https://www.reigncapital.com/contact",
+   "property_manager": "https://biztimes.com/featured-deal-sale-of-atts-downtown-milwaukee-office-building/"
+  }
+ },
+ "entity-nlca-milwaukee-fee-owner-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Hyatt Regency Milwaukee (property is the hotel at this address)",
+  "contacts": [],
+  "sources": {
+   "website": null,
+   "company_phone": null,
+   "company_email": null,
+   "property_manager": "https://www.loopnet.com/Listing/333-W-Kilbourn-Ave-Milwaukee-WI/13618786/"
+  }
+ },
+ "entity-phoenix-cudahy-llc": {
+  "website": "https://phoenixinvestors.com",
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Phoenix Investors LLC",
+  "contacts": [],
+  "sources": {
+   "website": "https://phoenixinvestors.com/portfolio/properties/4200-n-holton-st-milwaukee-wi/",
+   "company_phone": null,
+   "company_email": null,
+   "property_manager": "https://phoenixinvestors.com/portfolio/properties/4200-n-holton-st-milwaukee-wi/"
+  }
+ },
+ "entity-wheaton-franciscan-healthcare-attn-e-schinko-tax-department": {
+  "website": null,
+  "company_phone": "(414) 447-2000",
+  "company_email": null,
+  "property_manager": "Ascension Wisconsin (St. Joseph Campus)",
+  "contacts": [],
+  "sources": {
+   "website": null,
+   "company_phone": "https://en.wikipedia.org/wiki/Wheaton_Franciscan_Healthcare",
+   "company_email": null,
+   "property_manager": "https://en.wikipedia.org/wiki/Wheaton_Franciscan_Healthcare"
+  }
+ },
+ "entity-ech-milw-center-pkg-garage-llc-f-k-a-zml-milw-center": {
+  "website": null,
+  "company_phone": "414-291-6100",
+  "company_email": null,
+  "property_manager": "Milwaukee Center (garage at 819 N Water St; operated via InterPark/iParkit)",
+  "contacts": [],
+  "sources": {
+   "website": null,
+   "company_phone": "https://www.yellowpages.com/milwaukee-wi/mip/milwaukee-center-office-tower-453066308",
+   "company_email": null,
+   "property_manager": "https://www.mapquest.com/us/wisconsin/milwaukee-center-iparkit-garage-424674694"
+  }
+ },
+ "entity-wwb-development-ii-llc": {
+  "website": "https://irgens.com",
+  "company_phone": "(414) 443-0700",
+  "company_email": null,
+  "property_manager": "Irgens Partners LLC (WWB Development II, LLC is c/o Irgens Partners, 833 E Michigan St Ste 400)",
+  "contacts": [
+   {
+    "name": "Kevin Armstrong",
+    "title": "Senior VP, Portfolio Leasing, Irgens",
+    "email": "karmstrong@irgens.com",
+    "phone": "414.443.2580",
+    "source": "https://irgens.com/properties/mayfair-woods/"
+   }
+  ],
+  "sources": {
+   "website": "https://irgens.com/wp-content/uploads/2024/05/Data-Sheets_Innovation-One.pdf",
+   "company_phone": "https://irgens.com/wp-content/uploads/2024/05/Data-Sheets_Innovation-One.pdf",
+   "company_email": null,
+   "property_manager": "https://milwaukee.legistar.com/View.ashx?GUID=25F23F22-6392-4063-9C29-CAE5241A821D&ID=6284491&M=F"
+  }
+ },
+ "entity-century-city-industrial-llc": {
+  "website": "https://www.generalcapitalgroup.com/project/century-city-1",
+  "company_phone": "(414) 228-3500",
+  "company_email": null,
+  "property_manager": "General Capital Group",
+  "contacts": [
+   {
+    "name": "Michael Weiss",
+    "title": "President, General Capital Group",
+    "email": null,
+    "phone": "(414) 228-3500",
+    "source": "https://www.generalcapitalgroup.com/project/century-city-1"
+   }
+  ],
+  "sources": {
+   "website": "https://www.generalcapitalgroup.com/project/century-city-1",
+   "company_phone": "https://www.yelp.com/biz/general-capital-management-milwaukee",
+   "company_email": null,
+   "property_manager": "https://www.generalcapitalgroup.com/project/century-city-1"
+  }
+ },
+ "entity-marquette-university": {
+  "website": "https://www.marquette.edu",
+  "company_phone": "(800) 222-6544",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Andrew Hunt",
+    "title": "Executive Director, MU Center for Real Estate",
+    "email": "andrew.hunt@marquette.edu",
+    "phone": "(414) 288-6020",
+    "source": "https://www.marquette.edu/business/real-estate/reap.php"
+   },
+   {
+    "name": "Melanie Roepke",
+    "title": "Assistant Director - Real Estate",
+    "email": "melanie.roepke@marquette.edu",
+    "phone": "(414) 288-7940",
+    "source": "https://www.marquette.edu/business/real-estate/reap.php"
+   }
+  ],
+  "sources": {
+   "website": "https://www.marquette.edu",
+   "company_phone": "https://www.marquette.edu/business/real-estate/reap.php",
+   "company_email": null,
+   "property_manager": null
+  }
+ },
+ "entity-melrose-milwaukee-holdings-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Transwestern",
+  "contacts": [],
+  "sources": {
+   "website": null,
+   "company_phone": null,
+   "company_email": null,
+   "property_manager": "https://www.city-data.com/milwaukee/W/W-Park-Place-2.html"
+  }
+ },
+ "entity-aap-properties-llc": {
+  "website": null,
+  "company_phone": "(414) 277-1000",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Anthony Palermo",
+    "title": "Owner, AAP Properties LLC",
+    "email": null,
+    "phone": "(414) 277-1000",
+    "source": "https://www.buzzfile.com/business/Aap-Properties-Llc-414-277-1000"
+   }
+  ],
+  "sources": {
+   "website": null,
+   "company_phone": "https://www.mapquest.com/us/wisconsin/aap-properties-llc-273610958",
+   "company_email": null,
+   "property_manager": null
+  }
+ },
+ "entity-chase-tower-wisconsin-realty-lp": {
+  "website": "https://www.chasetowermilwaukee.com",
+  "company_phone": "(414) 755-8400",
+  "company_email": "adam.schmidt@colliers.com",
+  "property_manager": "Colliers International / Farbman Group",
+  "contacts": [
+   {
+    "name": "Adam Schmidt",
+    "title": "Property Manager, Colliers",
+    "email": "adam.schmidt@colliers.com",
+    "phone": "(414) 755-8400",
+    "source": "https://www.chasetowermilwaukee.com/tenant-services"
+   },
+   {
+    "name": "Matt Fahey",
+    "title": "Leasing, Colliers",
+    "email": null,
+    "phone": "(414) 278-6860",
+    "source": "https://www.colliers.com/en/properties/chase-tower-office-for-lease/usa-111-e-wisconsin-ave-milwaukee-wisconsin-53202/usa1024311"
+   }
+  ],
+  "sources": {
+   "website": "https://www.chasetowermilwaukee.com/tenant-services",
+   "company_phone": "https://www.chasetowermilwaukee.com/tenant-services",
+   "company_email": "https://www.chasetowermilwaukee.com/tenant-services",
+   "property_manager": "https://www.chasetowermilwaukee.com/tenant-services"
+  }
+ },
+ "entity-brewery-parking-structure-llc": {
+  "website": "https://thebrewery.org/parking-and-transportation/",
+  "company_phone": "(414) 431-6555",
+  "company_email": null,
+  "property_manager": "Interstate Parking",
+  "contacts": [],
+  "sources": {
+   "website": "https://thebrewery.org/parking-and-transportation/",
+   "company_phone": "https://thebrewery.org/parking-and-transportation/",
+   "company_email": null,
+   "property_manager": "https://thebrewery.org/parking-and-transportation/"
+  }
+ },
+ "entity-roma-properties-llc-gregg-r-lindner-llc-scott-c-lindn": {
+  "website": "https://www.lindnerlogistics.com",
+  "company_phone": "(414) 483-3080",
+  "company_email": "shewett@lindnerlogistics.com",
+  "property_manager": "Lindner Logistics, LLC",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.lindnerlogistics.com/facilities",
+   "company_phone": "https://www.yelp.com/biz/lindner-logistics-milwaukee",
+   "company_email": "https://www.yelp.com/biz/lindner-logistics-milwaukee",
+   "property_manager": "https://www.lindnerlogistics.com/facilities"
+  }
+ },
+ "entity-milwaukee-institute-of-art-and-design-inc": {
+  "website": "https://www.miad.edu/",
+  "company_phone": "414-847-3200",
+  "company_email": "admissions@miad.edu",
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "MIAD Admissions",
+    "title": "Admissions Office",
+    "email": "admissions@miad.edu",
+    "phone": "414-847-3272",
+    "source": "https://www.miad.edu/"
+   }
+  ],
+  "sources": {
+   "website": "https://www.miad.edu/",
+   "company_phone": "https://www.miad.edu/",
+   "company_email": "https://www.miad.edu/",
+   "property_manager": null
+  }
+ },
+ "entity-metavante-corp-nka-fis-payments-llc": {
+  "website": "https://www.fisglobal.com/",
+  "company_phone": "414-341-5000",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {
+   "website": "https://www.bloomberg.com/profile/company/20166Z:US",
+   "company_phone": "https://www.businessyab.com/explore/united_states/wisconsin/milwaukee_county/milwaukee/park_place/west_lake_park_drive/11000/fis-414-341-5000.html",
+   "company_email": null,
+   "property_manager": null
+  }
+ },
+ "entity-isaacs-parking-partners-llc": {
+  "website": "https://isaacsparking.com/",
+  "company_phone": "414-271-3858",
+  "company_email": "questions@isaacsparking.com",
+  "property_manager": null,
+  "contacts": [],
+  "sources": {
+   "website": "https://isaacsparking.com/",
+   "company_phone": "https://parking-lots.cmac.ws/isaacs-parking-service/18259/",
+   "company_email": "https://isaacsparking.com/",
+   "property_manager": null
+  }
+ },
+ "entity-7025-w-parkland-owner-lp": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Jeff Hoffman",
+    "title": "Leasing Broker",
+    "email": null,
+    "phone": null,
+    "source": "https://www.loopnet.com/Listing/7025-W-Parkland-Ct-Milwaukee-WI/8934761/"
+   },
+   {
+    "name": "Chad Vande Zande",
+    "title": "Leasing Broker",
+    "email": null,
+    "phone": null,
+    "source": "https://www.loopnet.com/Listing/7025-W-Parkland-Ct-Milwaukee-WI/8934761/"
+   },
+   {
+    "name": "Nicholas Unger",
+    "title": "Leasing Broker",
+    "email": null,
+    "phone": null,
+    "source": "https://www.loopnet.com/Listing/7025-W-Parkland-Ct-Milwaukee-WI/8934761/"
+   }
+  ],
+  "sources": {
+   "website": null,
+   "company_phone": null,
+   "company_email": null,
+   "property_manager": null
+  }
+ },
+ "entity-st-luke-s-hosptial-inc-attn-dave-kopplin": {
+  "website": "https://www.aurorahealthcare.org/locations/hospital/aurora-st-lukes-medical-center",
+  "company_phone": "414-649-6000",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {
+   "website": "https://www.aurorahealthcare.org/locations/hospital/aurora-st-lukes-medical-center",
+   "company_phone": "https://www.aurorahealthcare.org/locations/hospital/aurora-st-lukes-medical-center",
+   "company_email": null,
+   "property_manager": null
+  }
+ },
+ "entity-cathedral-place-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Van Buren Management",
+  "contacts": [],
+  "sources": {
+   "website": null,
+   "company_phone": null,
+   "company_email": null,
+   "property_manager": "https://www.commercialcafe.com/commercial-property/us/wi/milwaukee/cathedral-place-1/"
+  }
+ },
+ "entity-marcus-w-llc": {
+  "website": "https://www.marcuscorp.com/",
+  "company_phone": "414-905-1000",
+  "company_email": "investorrelations@marcuscorp.com",
+  "property_manager": "The Marcus Corporation",
+  "contacts": [
+   {
+    "name": "Investor Relations",
+    "title": "Investor Relations",
+    "email": "investorrelations@marcuscorp.com",
+    "phone": "414-905-1100",
+    "source": "https://www.marcuscorp.com/investors/resources/investor-contacts/default.aspx"
+   }
+  ],
+  "sources": {
+   "website": "https://www.marcuscorp.com/contact/",
+   "company_phone": "https://www.marcuscorp.com/contact/",
+   "company_email": "https://www.marcuscorp.com/investors/resources/investor-contacts/default.aspx",
+   "property_manager": "https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=MARCUS+W+LLC"
+  }
+ },
+ "entity-hg-sears-llc": {
+  "website": "https://www.haywood-group.com",
+  "company_phone": "414-461-1568",
+  "company_email": "info@haywood-group.com",
+  "property_manager": "Haywood Group LLC",
+  "contacts": [
+   {
+    "name": "Kalan Haywood",
+    "title": "Founder and President, Haywood Group LLC",
+    "email": "khaywood@haywood-group.com",
+    "phone": null,
+    "source": "https://www.zoominfo.com/p/Kalan-Haywood/14438265824"
+   }
+  ],
+  "sources": {
+   "website": "https://biztimes.com/developer-purchases-former-sears-store-in-central-city-neighborhood/",
+   "company_phone": "http://aaccwisconsin.chambermaster.com/list/member/haywood-group-llc-292",
+   "company_email": "http://aaccwisconsin.chambermaster.com/list/member/haywood-group-llc-292",
+   "property_manager": "https://biztimes.com/developer-purchases-former-sears-store-in-central-city-neighborhood/"
+  }
+ },
+ "entity-two-park-place-llc-c-o-interstate-partners": {
+  "website": "https://www.interstatepartners.com",
+  "company_phone": "414-359-9400",
+  "company_email": null,
+  "property_manager": "Interstate Partners LLC",
+  "contacts": [
+   {
+    "name": "Jeff Whipple",
+    "title": "Leasing/Broker",
+    "email": "jwhipple@interstatepartners.com",
+    "phone": "262-506-1007",
+    "source": "https://www.interstatepartners.com/property/15"
+   },
+   {
+    "name": "Bill Schwartz",
+    "title": "Leasing/Broker",
+    "email": "bschwartz@interstatepartners.com",
+    "phone": "262-506-1003",
+    "source": "https://www.interstatepartners.com/property/15"
+   }
+  ],
+  "sources": {
+   "website": "https://www.interstatepartners.com/property/15",
+   "company_phone": "https://www.yelp.com/biz/interstate-partners-milwaukee",
+   "company_email": null,
+   "property_manager": "https://www.loopnet.com/Listing/10850-W-Park-Pl-Milwaukee-WI/35495883/"
+  }
+ },
+ "entity-city-of-milwaukee-fire-police-academy": {
+  "website": "https://city.milwaukee.gov/MFD",
+  "company_phone": "414-286-8970",
+  "company_email": null,
+  "property_manager": "City of Milwaukee (Fire & Police Departments)",
+  "contacts": [],
+  "sources": {
+   "website": "https://city.milwaukee.gov/MFD/Shares/BUREAUS",
+   "company_phone": "https://city.milwaukee.gov/MFD/Shares/BUREAUS",
+   "company_email": null,
+   "property_manager": "https://city.milwaukee.gov/police/Police-Units-Partners/Safety-Division"
+  }
+ },
+ "entity-wal-mart-real-estate-business-tr-prop-tax-0555": {
+  "website": "https://www.walmart.com/store/2828-milwaukee-wi",
+  "company_phone": "414-383-1113",
+  "company_email": null,
+  "property_manager": "Walmart Real Estate Business Trust",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.walmart.com/store/2828-milwaukee-wi",
+   "company_phone": "https://www.yelp.com/biz/walmart-supercenter-milwaukee-5",
+   "company_email": null,
+   "property_manager": "https://www.walmart.com/store/2828-milwaukee-wi"
+  }
+ },
+ "entity-becher-office-1-llc": {
+  "website": "https://www.river1.us",
+  "company_phone": "414-290-1920",
+  "company_email": null,
+  "property_manager": "RIVER1 Asset Management (building tenant/manager; building developed by Becher Development LLC, a Michels Corp. affiliate)",
+  "contacts": [],
+  "sources": {
+   "website": "https://www.river1.us/",
+   "company_phone": "https://www.river1.us/aboutus.php",
+   "company_email": null,
+   "property_manager": "https://biztimes.com/downtown-financial-planning-firm-to-move-to-r1ver-development/"
+  }
+ },
+ "entity-courteen-llc": {
+  "website": "http://riverplacelofts.com",
+  "company_phone": "414-982-0690",
+  "company_email": null,
+  "property_manager": "Peter Moede / River Place Lofts LLC (registered owner of Courteen LLC)",
+  "contacts": [
+   {
+    "name": "Peter Moede",
+    "title": "Managing Partner, River Place Lofts LLC / registrant of Courteen LLC",
+    "email": null,
+    "phone": "414-982-0690",
+    "source": "https://rocketreach.co/river-place-lofts-profile_b42eecf1fec685cd"
+   }
+  ],
+  "sources": {
+   "website": "https://rocketreach.co/river-place-lofts-profile_b42eecf1fec685cd",
+   "company_phone": "https://rocketreach.co/river-place-lofts-profile_b42eecf1fec685cd",
+   "company_email": null,
+   "property_manager": "https://urbanmilwaukee.com/building/222-w-freshwater-wa/"
+  }
+ },
+ "entity-pettit-national-ice-center": {
+  "website": "https://www.thepettit.com",
+  "company_phone": "414-266-0100",
+  "company_email": "info@thepettit.com",
+  "property_manager": null,
+  "contacts": [],
+  "sources": {
+   "website": "https://www.thepettit.com/contact/",
+   "company_phone": "https://www.thepettit.com/contact/",
+   "company_email": "https://www.thepettit.com/contact/",
+   "property_manager": null
+  }
+ }
 }

@@ -1,0 +1,419 @@
+entity_id,owner,field,value,source_url
+entity-northwestern-mutual-life-insurance-company,NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY,website,https://www.northwesternmutual.com,
+entity-northwestern-mutual-life-insurance-company,NORTHWESTERN MUTUAL LIFE INSURANCE COMPANY,company_phone,414-271-1444,
+entity-aurora-health-care-metro-inc,AURORA HEALTH CARE METRO INC,website,https://www.aurorahealthcare.org,
+entity-aurora-health-care-metro-inc,AURORA HEALTH CARE METRO INC,company_phone,414-219-7434,
+entity-forest-county-potawatomi-community-of-wi,FOREST COUNTY POTAWATOMI COMMUNITY OF WI,website,https://www.potawatomi.com,
+entity-forest-county-potawatomi-community-of-wi,FOREST COUNTY POTAWATOMI COMMUNITY OF WI,company_phone,414-847-8600,
+entity-forest-county-potawatomi-community-of-wisconsin,FOREST COUNTY POTAWATOMI COMMUNITY OF WISCONSIN,website,https://www.potawatomi.com,
+entity-forest-county-potawatomi-community-of-wisconsin,FOREST COUNTY POTAWATOMI COMMUNITY OF WISCONSIN,company_phone,414-847-8600,
+entity-alexian-village-of-milwaukee-inc-attn-executive-director,ALEXIAN VILLAGE OF MILWAUKEE INC ATTN: EXECUTIVE DIRECTOR,website,https://www.ascensionliving.org,
+entity-alexian-village-of-milwaukee-inc-attn-executive-director,ALEXIAN VILLAGE OF MILWAUKEE INC ATTN: EXECUTIVE DIRECTOR,company_phone,414-355-9300,
+entity-wisconsin-center-district,WISCONSIN CENTER DISTRICT,website,https://wcd.org,
+entity-wisconsin-center-district,WISCONSIN CENTER DISTRICT,company_phone,414-908-6000,
+entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,website,https://www.usbcmilwaukee.com,
+entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,company_phone,414-928-1700,
+entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,property_manager,Hines — U.S. Bank Center building management,
+entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,contact.Jim Cavanaugh.phone,414-347-1000,https://www.usbcmilwaukee.com/contact
+entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,contact.Jim Cavanaugh.title,"Principal, Cushman & Wakefield | Boerke (leasing)",https://www.usbcmilwaukee.com/contact
+entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,contact.Katie Melbye.phone,414-347-1000,https://www.usbcmilwaukee.com/contact
+entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,contact.Katie Melbye.title,"Real Estate Advisor, Cushman & Wakefield | Boerke",https://www.usbcmilwaukee.com/contact
+entity-city-of-milwaukee,CITY OF MILWAUKEE,website,https://city.milwaukee.gov/DCD/CityRealEstate,https://city.milwaukee.gov/DCD/CityRealEstate
+entity-city-of-milwaukee,CITY OF MILWAUKEE,company_phone,414-286-5730,https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
+entity-city-of-milwaukee,CITY OF MILWAUKEE,property_manager,City of Milwaukee Department of City Development - Real Estate,https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
+entity-city-of-milwaukee,CITY OF MILWAUKEE,contact.Matt Haessly.phone,414-286-5736,https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
+entity-city-of-milwaukee,CITY OF MILWAUKEE,contact.Matt Haessly.title,"Real Estate / Commercial Properties, DCD",https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
+entity-city-of-milwaukee,CITY OF MILWAUKEE,contact.Dwayne Edwards.phone,414-286-5735,https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
+entity-city-of-milwaukee,CITY OF MILWAUKEE,contact.Dwayne Edwards.title,"Commercial and Multi-Family Buildings, DCD",https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
+entity-city-of-milwaukee-school,CITY OF MILWAUKEE (SCHOOL),website,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milwaukee-school,CITY OF MILWAUKEE (SCHOOL),company_phone,414-283-4600,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milwaukee-school,CITY OF MILWAUKEE (SCHOOL),company_email,fms@milwaukeepublicschools.org,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milwaukee-school,CITY OF MILWAUKEE (SCHOOL),property_manager,Milwaukee Public Schools - Facilities and Maintenance Services,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milwaukee-c-o-city-real-estate,CITY OF MILWAUKEE C/O CITY REAL ESTATE,website,https://city.milwaukee.gov/DCD/CityRealEstate,https://city.milwaukee.gov/DCD/CityRealEstate
+entity-city-of-milwaukee-c-o-city-real-estate,CITY OF MILWAUKEE C/O CITY REAL ESTATE,company_phone,414-286-5730,https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
+entity-city-of-milwaukee-c-o-city-real-estate,CITY OF MILWAUKEE C/O CITY REAL ESTATE,property_manager,City of Milwaukee Department of City Development - Real Estate,https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
+entity-city-of-milwaukee-c-o-city-real-estate,CITY OF MILWAUKEE C/O CITY REAL ESTATE,contact.Matt Haessly.phone,414-286-5736,https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
+entity-city-of-milwaukee-c-o-city-real-estate,CITY OF MILWAUKEE C/O CITY REAL ESTATE,contact.Matt Haessly.title,"Real Estate / Commercial Properties, DCD",https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
+entity-redevelopment-authority-of-the-city-of-milwaukee,REDEVELOPMENT AUTHORITY OF THE CITY OF MILWAUKEE,website,https://city.milwaukee.gov/DCD/BoardsCommissions/racm,https://city.milwaukee.gov/DCD/BoardsCommissions/racm
+entity-redevelopment-authority-of-the-city-of-milwaukee,REDEVELOPMENT AUTHORITY OF THE CITY OF MILWAUKEE,company_phone,414-286-5730,https://city.milwaukee.gov/DCD/CityRealEstate/Shares/Contact-Redevelopment1.htm
+entity-redevelopment-authority-of-the-city-of-milwaukee,REDEVELOPMENT AUTHORITY OF THE CITY OF MILWAUKEE,company_email,RACMInfo@milwaukee.gov,https://city.milwaukee.gov/DCD/CityRealEstate/Shares/Contact-Redevelopment1.htm
+entity-redevelopment-authority-of-the-city-of-milwaukee,REDEVELOPMENT AUTHORITY OF THE CITY OF MILWAUKEE,property_manager,Redevelopment Authority of the City of Milwaukee (RACM),https://city.milwaukee.gov/DCD/BoardsCommissions/racm
+entity-redevelopment-authority-of-the-city-of-milwaukee,REDEVELOPMENT AUTHORITY OF THE CITY OF MILWAUKEE,contact.Dave Misky.phone,414-286-8682,https://city.milwaukee.gov/DCD/CityRealEstate/Shares/Contact-Redevelopment1.htm
+entity-redevelopment-authority-of-the-city-of-milwaukee,REDEVELOPMENT AUTHORITY OF THE CITY OF MILWAUKEE,contact.Dave Misky.title,RACM Staff,https://city.milwaukee.gov/DCD/CityRealEstate/Shares/Contact-Redevelopment1.htm
+entity-city-of-milw-school-site,CITY OF MILW SCHOOL SITE,website,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milw-school-site,CITY OF MILW SCHOOL SITE,company_phone,414-283-4600,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milw-school-site,CITY OF MILW SCHOOL SITE,company_email,fms@milwaukeepublicschools.org,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milw-school-site,CITY OF MILW SCHOOL SITE,property_manager,Milwaukee Public Schools - Facilities and Maintenance Services,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milwaukee-c-o-dpw-parking,CITY OF MILWAUKEE C/O DPW PARKING,website,https://city.milwaukee.gov/Parking,https://city.milwaukee.gov/Parking
+entity-city-of-milwaukee-c-o-dpw-parking,CITY OF MILWAUKEE C/O DPW PARKING,company_phone,414-286-8350,https://city.milwaukee.gov/dpw/Contact
+entity-city-of-milwaukee-c-o-dpw-parking,CITY OF MILWAUKEE C/O DPW PARKING,company_email,dpw@milwaukee.gov,https://city.milwaukee.gov/dpw/Contact
+entity-city-of-milwaukee-c-o-dpw-parking,CITY OF MILWAUKEE C/O DPW PARKING,property_manager,City of Milwaukee Department of Public Works - Parking Services,https://city.milwaukee.gov/dpw/AdministrativeServices
+entity-sp-milwaukee-propco-1-llc,SP MILWAUKEE PROPCO 1 LLC,website,https://urbanmilwaukee.com/building/rivercenter-building/,https://urbanmilwaukee.com/building/rivercenter-building/
+entity-sp-milwaukee-propco-1-llc,SP MILWAUKEE PROPCO 1 LLC,property_manager,Cushman & Wakefield | Boerke (leasing),https://www.moodyscre.com/marketplace/listing/31893063/1505-1555-N-Rivercenter-Dr-Milwaukee-WI-53212
+entity-sp-milwaukee-propco-1-llc,SP MILWAUKEE PROPCO 1 LLC,contact.Katie Melbye.email,kmelbye@boerke.com,https://www.moodyscre.com/marketplace/listing/31893063/1505-1555-N-Rivercenter-Dr-Milwaukee-WI-53212
+entity-sp-milwaukee-propco-1-llc,SP MILWAUKEE PROPCO 1 LLC,contact.Katie Melbye.phone,414-310-5723,https://www.moodyscre.com/marketplace/listing/31893063/1505-1555-N-Rivercenter-Dr-Milwaukee-WI-53212
+entity-sp-milwaukee-propco-1-llc,SP MILWAUKEE PROPCO 1 LLC,contact.Katie Melbye.title,"Leasing, Cushman & Wakefield | Boerke",https://www.moodyscre.com/marketplace/listing/31893063/1505-1555-N-Rivercenter-Dr-Milwaukee-WI-53212
+entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,website,https://the310w.com/,https://the310w.com/
+entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,company_email,info@the310w.com,https://the310w.com/contact/
+entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,contact.John Mazza.email,john.mazza@cbre.com,https://the310w.com/leasing/
+entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,contact.John Mazza.phone,414-274-1627,https://the310w.com/leasing/
+entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,contact.John Mazza.title,"Office Leasing, CBRE",https://the310w.com/leasing/
+entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,contact.Matt Chappell.email,mchappell@midamericagrp.com,https://the310w.com/leasing/
+entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,contact.Matt Chappell.phone,414-273-4600,https://the310w.com/leasing/
+entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,contact.Matt Chappell.title,"Retail Leasing, Mid-America Real Estate",https://the310w.com/leasing/
+entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,contact.Dan Rosenfeld.email,drosenfeld@midamericagrp.com,https://the310w.com/leasing/
+entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,contact.Dan Rosenfeld.phone,414-273-4600,https://the310w.com/leasing/
+entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,contact.Dan Rosenfeld.title,"Retail Leasing, Mid-America Real Estate",https://the310w.com/leasing/
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,website,https://330kilbourn.com/,https://330kilbourn.com/
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,company_phone,414-347-6900,https://www.yelp.com/biz/tower-realty-management-corporation-milwaukee
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,property_manager,Tower Realty Management Corporation,https://www.yelp.com/biz/tower-realty-management-corporation-milwaukee
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,contact.Matt Fahey.email,matt.fahey@colliers.com,https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,contact.Matt Fahey.phone,414-278-6860,https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,contact.Matt Fahey.title,"Leasing, Colliers",https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,contact.Joe Moritz.email,joe.moritz@colliers.com,https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,contact.Joe Moritz.phone,414-278-6871,https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,contact.Joe Moritz.title,"Leasing, Colliers",https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,contact.Dan Wroblewski.email,dan.wroblewski@colliers.com,https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,contact.Dan Wroblewski.phone,414-278-6813,https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518
+entity-330-kilbourn-wi-realty-lp,330 KILBOURN WI REALTY LP,contact.Dan Wroblewski.title,"Leasing, Colliers",https://www.colliers.com/en/properties/330-kilbourn/usa-330-e-kilbourn-avenue-milwaukee-wi-53202/usa1090518
+entity-middleton-milwaukee-investors-llc,MIDDLETON MILWAUKEE INVESTORS LLC,website,https://411ewc.com/,https://411ewc.com/building-management/
+entity-middleton-milwaukee-investors-llc,MIDDLETON MILWAUKEE INVESTORS LLC,company_phone,(414) 347-0411,https://411ewc.com/building-management/
+entity-middleton-milwaukee-investors-llc,MIDDLETON MILWAUKEE INVESTORS LLC,property_manager,Colliers International (Middleton Partners),https://411ewc.com/about/
+entity-city-of-milw-school,CITY OF MILW SCHOOL,website,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milw-school,CITY OF MILW SCHOOL,company_phone,(414) 283-4600,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milw-school,CITY OF MILW SCHOOL,company_email,fms@milwaukeepublicschools.org,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milw-school,CITY OF MILW SCHOOL,property_manager,Milwaukee Public Schools - Facilities and Maintenance Services,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-ge-precision-healthcare-llc,GE PRECISION HEALTHCARE LLC,company_phone,(262) 544-3011,https://www.buzzfile.com/business/GE-Precision-Healthcare-LLC-262-544-3011
+entity-city-center-milwaukee-holdings-llc,CITY CENTER MILWAUKEE HOLDINGS LLC,website,https://citycenter735.com,https://www.yelp.com/biz/citycenter-at-735-milwaukee
+entity-city-center-milwaukee-holdings-llc,CITY CENTER MILWAUKEE HOLDINGS LLC,company_phone,(414) 765-0305,https://www.yelp.com/biz/citycenter-at-735-milwaukee
+entity-city-center-milwaukee-holdings-llc,CITY CENTER MILWAUKEE HOLDINGS LLC,property_manager,"Hunter Real Estate, LLC",https://hunter-re.com/culture-post/hunter-real-estate-is-the-new-listing-firm-for-citycenter/
+entity-city-center-milwaukee-holdings-llc,CITY CENTER MILWAUKEE HOLDINGS LLC,contact.Matt Hunter.email,mhunter@hunter-re.com,https://hunter-re.com/wp-content/uploads/2025/02/HRE_CityCenter-flyer_v2.pdf
+entity-city-center-milwaukee-holdings-llc,CITY CENTER MILWAUKEE HOLDINGS LLC,contact.Matt Hunter.phone,414-931-9931,https://hunter-re.com/wp-content/uploads/2025/02/HRE_CityCenter-flyer_v2.pdf
+entity-city-center-milwaukee-holdings-llc,CITY CENTER MILWAUKEE HOLDINGS LLC,contact.Matt Hunter.title,"Leasing broker, Hunter Real Estate",https://hunter-re.com/wp-content/uploads/2025/02/HRE_CityCenter-flyer_v2.pdf
+entity-city-center-milwaukee-holdings-llc,CITY CENTER MILWAUKEE HOLDINGS LLC,contact.Matt Hoy.email,mhoy@hunter-re.com,https://hunter-re.com/culture-post/hunter-real-estate-is-the-new-listing-firm-for-citycenter/
+entity-city-center-milwaukee-holdings-llc,CITY CENTER MILWAUKEE HOLDINGS LLC,contact.Matt Hoy.phone,262-751-0931,https://hunter-re.com/culture-post/hunter-real-estate-is-the-new-listing-firm-for-citycenter/
+entity-city-center-milwaukee-holdings-llc,CITY CENTER MILWAUKEE HOLDINGS LLC,contact.Matt Hoy.title,"Leasing broker, Hunter Real Estate",https://hunter-re.com/culture-post/hunter-real-estate-is-the-new-listing-firm-for-citycenter/
+entity-museum-center-park-inc,MUSEUM CENTER PARK INC,company_phone,(414) 431-6555,https://www.chamberofcommerce.com/business-directory/wisconsin/milwaukee/parking-garage/2013904403-museum-center-park-1159
+entity-museum-center-park-inc,MUSEUM CENTER PARK INC,property_manager,Interstate Parking Company,https://www.groupon.com/deals/parkwhiz-interstate-parking-company-34
+entity-city-of-milwaukee-pulaski-sr-high-school,CITY OF MILWAUKEE PULASKI SR HIGH SCHOOL,website,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milwaukee-pulaski-sr-high-school,CITY OF MILWAUKEE PULASKI SR HIGH SCHOOL,company_phone,(414) 283-4600,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milwaukee-pulaski-sr-high-school,CITY OF MILWAUKEE PULASKI SR HIGH SCHOOL,company_email,fms@milwaukeepublicschools.org,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-city-of-milwaukee-pulaski-sr-high-school,CITY OF MILWAUKEE PULASKI SR HIGH SCHOOL,property_manager,Milwaukee Public Schools - Facilities and Maintenance Services,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
+entity-milw-city-center-llc,MILW CITY CENTER LLC,website,https://www.hilton.com/en/hotels/mkemhhf-hilton-milwaukee-city-center/,https://www.hilton.com/en/hotels/mkemhhf-hilton-milwaukee-city-center/hotel-location/
+entity-milw-city-center-llc,MILW CITY CENTER LLC,company_phone,(414) 271-7250,https://www.evisitorguide.com/milwaukee/guide/map-location.php
+entity-milw-city-center-llc,MILW CITY CENTER LLC,property_manager,Marcus Hotels & Resorts (Hilton Milwaukee City Center),https://members.waukesha.org/member-directory/Details/hilton-milwaukee-city-center-affiliate-of-marcus-4712024
+entity-chase-tower-wisconsin-realty-lp-c-o-cbre,CHASE TOWER WISCONSIN REALTY LP C/O CBRE,website,https://www.colliers.com/en/properties/chase-tower-office-for-lease/usa-111-e-wisconsin-ave-milwaukee-wisconsin-53202/usa1024311,https://www.colliers.com/en/properties/chase-tower-office-for-lease/usa-111-e-wisconsin-ave-milwaukee-wisconsin-53202/usa1024311
+entity-chase-tower-wisconsin-realty-lp-c-o-cbre,CHASE TOWER WISCONSIN REALTY LP C/O CBRE,company_phone,414-278-6868,https://images4.loopnet.com/d2/ILe7TMaYtZJfoUF2D0IMDeOdCh2wrzzipdHJuw3nMic/document.pdf
+entity-chase-tower-wisconsin-realty-lp-c-o-cbre,CHASE TOWER WISCONSIN REALTY LP C/O CBRE,property_manager,CBRE Group (leasing by Colliers International),https://en.wikipedia.org/wiki/Chase_Tower_(Milwaukee)
+entity-chase-tower-wisconsin-realty-lp-c-o-cbre,CHASE TOWER WISCONSIN REALTY LP C/O CBRE,contact.Ben Anderson.phone,414-278-6868,https://images4.loopnet.com/d2/ILe7TMaYtZJfoUF2D0IMDeOdCh2wrzzipdHJuw3nMic/document.pdf
+entity-chase-tower-wisconsin-realty-lp-c-o-cbre,CHASE TOWER WISCONSIN REALTY LP C/O CBRE,contact.Ben Anderson.title,"Leasing agent, Colliers International",https://images4.loopnet.com/d2/ILe7TMaYtZJfoUF2D0IMDeOdCh2wrzzipdHJuw3nMic/document.pdf
+entity-777-north-van-buren-parking-llc-c-o-northwestern-mutual,777 NORTH VAN BUREN PARKING LLC C/O NORTHWESTERN MUTUAL,website,https://www.live7seventy7.com/,https://www.live7seventy7.com/contact/
+entity-777-north-van-buren-parking-llc-c-o-northwestern-mutual,777 NORTH VAN BUREN PARKING LLC C/O NORTHWESTERN MUTUAL,company_phone,833-289-7525,https://en.wikipedia.org/wiki/7Seventy7
+entity-777-north-van-buren-parking-llc-c-o-northwestern-mutual,777 NORTH VAN BUREN PARKING LLC C/O NORTHWESTERN MUTUAL,property_manager,Northwestern Mutual / 7Seventy7,https://urbanmilwaukee.com/building/northwestern-mutual-apartment-tower/
+entity-thrive-on-investors-p1-llc,"THRIVE ON INVESTORS P1, LLC",website,https://thriveoncollaboration.org/,https://thriveoncollaboration.org/
+entity-thrive-on-investors-p1-llc,"THRIVE ON INVESTORS P1, LLC",company_phone,414-272-5805,https://thriveoncollaboration.org/contact-us
+entity-thrive-on-investors-p1-llc,"THRIVE ON INVESTORS P1, LLC",company_email,communityengagement@greatermilwaukeefoundation.org,https://thriveoncollaboration.org/contact-us
+entity-thrive-on-investors-p1-llc,"THRIVE ON INVESTORS P1, LLC",property_manager,ThriveOn Collaboration (Royal Capital / Greater Milwaukee Foundation),https://www.greatermilwaukeefoundation.org/community-partnerships/thrive-on-collaboration/
+entity-thrive-on-investors-p1-llc,"THRIVE ON INVESTORS P1, LLC",contact.Cydney Key.email,ckey@thriveonmke.org,https://thriveoncollaboration.org/contact-us
+entity-thrive-on-investors-p1-llc,"THRIVE ON INVESTORS P1, LLC",contact.Cydney Key.title,"Senior Director, ThriveOn guest experience and strategic partnerships",https://thriveoncollaboration.org/contact-us
+entity-thrive-on-investors-p1-llc,"THRIVE ON INVESTORS P1, LLC",contact.Zipporah Turnbull.email,zturnbull@thriveonmke.org,https://thriveoncollaboration.org/contact-us
+entity-thrive-on-investors-p1-llc,"THRIVE ON INVESTORS P1, LLC",contact.Zipporah Turnbull.title,Program Manager,https://thriveoncollaboration.org/contact-us
+entity-100-east-propco-llc,100 EAST PROPCO LLC,property_manager,Friedman Real Estate Group,https://biztimes.com/judge-approves-sale-of-100-east/
+entity-100-east-propco-llc,100 EAST PROPCO LLC,contact.Michael Klein.title,"Developer / Principal, Klein Development (100 East Propco LLC ownership group)",https://biztimes.com/judge-approves-sale-of-100-east/
+entity-100-east-propco-llc,100 EAST PROPCO LLC,contact.John Vassallo.title,Restaurateur / Co-owner (100 East Propco LLC ownership group),https://biztimes.com/judge-approves-sale-of-100-east/
+entity-city-of-milwaukee-school-site-washington-high,CITY OF MILWAUKEE SCHOOL SITE WASHINGTON HIGH,website,https://mps.school/washington/,https://mps.school/washington/contact/
+entity-city-of-milwaukee-school-site-washington-high,CITY OF MILWAUKEE SCHOOL SITE WASHINGTON HIGH,company_phone,414-875-5900,https://mps.school/washington/contact/
+entity-city-of-milwaukee-school-site-washington-high,CITY OF MILWAUKEE SCHOOL SITE WASHINGTON HIGH,company_email,039@milwaukee.k12.wi.us,https://mps.school/washington/contact/
+entity-city-of-milwaukee-school-site-washington-high,CITY OF MILWAUKEE SCHOOL SITE WASHINGTON HIGH,property_manager,Milwaukee Public Schools,https://mps.school/washington/contact/
+entity-city-of-milwaukee-harold-vincent-high-school,CITY OF MILWAUKEE HAROLD VINCENT HIGH SCHOOL,website,https://mps.school/vincent/,https://mps.school/vincent/contact/
+entity-city-of-milwaukee-harold-vincent-high-school,CITY OF MILWAUKEE HAROLD VINCENT HIGH SCHOOL,company_phone,262-236-1200,https://mps.school/vincent/contact/
+entity-city-of-milwaukee-harold-vincent-high-school,CITY OF MILWAUKEE HAROLD VINCENT HIGH SCHOOL,company_email,033@milwaukee.k12.wi.us,https://mps.school/vincent/contact/
+entity-city-of-milwaukee-harold-vincent-high-school,CITY OF MILWAUKEE HAROLD VINCENT HIGH SCHOOL,property_manager,Milwaukee Public Schools,https://mps.school/vincent/contact/
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,website,https://www.wangard.com/,https://www.wangard.com/contact/
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,company_phone,414-777-1200,https://www.wangard.com/contact/
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,company_email,legal@wangard.com,https://www.wangard.com/contact/
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,property_manager,"Wangard Partners, Inc.",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,contact.Matt Moroney.phone,414-777-1200,https://www.wangard.com/matt-moroney
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,contact.Matt Moroney.title,"CEO, Wangard Partners",https://www.wangard.com/matt-moroney
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,contact.Matt Fahey.email,matt.fahey@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,contact.Matt Fahey.phone,414-276-6860,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,contact.Matt Fahey.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,contact.Jenna Maguire.email,jenna.maguire@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,contact.Jenna Maguire.phone,414-982-6960,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-13-llc-875-east-17-llc,875 EAST 13 LLC 875 EAST 17 LLC,contact.Jenna Maguire.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,website,https://www.wangard.com/,https://www.wangard.com/contact/
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,company_phone,414-777-1200,https://www.wangard.com/contact/
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,company_email,legal@wangard.com,https://www.wangard.com/contact/
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,property_manager,"Wangard Partners, Inc.",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,contact.Matt Moroney.phone,414-777-1200,https://www.wangard.com/matt-moroney
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,contact.Matt Moroney.title,"CEO, Wangard Partners",https://www.wangard.com/matt-moroney
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,contact.Matt Fahey.email,matt.fahey@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,contact.Matt Fahey.phone,414-276-6860,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,contact.Matt Fahey.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,contact.Jenna Maguire.email,jenna.maguire@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,contact.Jenna Maguire.phone,414-982-6960,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-1-llc-et-al-c-o-wangard,875 EAST 1 LLC ET AL C/O WANGARD,contact.Jenna Maguire.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,website,https://www.wangard.com/,https://www.wangard.com/contact/
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,company_phone,414-777-1200,https://www.wangard.com/contact/
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,company_email,legal@wangard.com,https://www.wangard.com/contact/
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,property_manager,"Wangard Partners, Inc.",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,contact.Matt Moroney.phone,414-777-1200,https://www.wangard.com/matt-moroney
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,contact.Matt Moroney.title,"CEO, Wangard Partners",https://www.wangard.com/matt-moroney
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,contact.Matt Fahey.email,matt.fahey@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,contact.Matt Fahey.phone,414-276-6860,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,contact.Matt Fahey.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,contact.Jenna Maguire.email,jenna.maguire@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,contact.Jenna Maguire.phone,414-982-6960,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-3-llc-875-east-4-llc,875 EAST 3 LLC 875 EAST 4 LLC,contact.Jenna Maguire.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,website,https://www.wangard.com/,https://www.wangard.com/contact/
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,company_phone,414-777-1200,https://www.wangard.com/contact/
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,company_email,legal@wangard.com,https://www.wangard.com/contact/
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,property_manager,"Wangard Partners, Inc.",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,contact.Matt Moroney.phone,414-777-1200,https://www.wangard.com/matt-moroney
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,contact.Matt Moroney.title,"CEO, Wangard Partners",https://www.wangard.com/matt-moroney
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,contact.Matt Fahey.email,matt.fahey@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,contact.Matt Fahey.phone,414-276-6860,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,contact.Matt Fahey.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,contact.Jenna Maguire.email,jenna.maguire@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,contact.Jenna Maguire.phone,414-982-6960,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-6-llc-875-east-7-llc,875 EAST 6 LLC 875 EAST 7 LLC,contact.Jenna Maguire.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,website,https://www.wangard.com/,https://www.wangard.com/contact/
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,company_phone,414-777-1200,https://www.wangard.com/contact/
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,company_email,legal@wangard.com,https://www.wangard.com/contact/
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,property_manager,"Wangard Partners, Inc.",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,contact.Matt Moroney.phone,414-777-1200,https://www.wangard.com/matt-moroney
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,contact.Matt Moroney.title,"CEO, Wangard Partners",https://www.wangard.com/matt-moroney
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,contact.Matt Fahey.email,matt.fahey@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,contact.Matt Fahey.phone,414-276-6860,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,contact.Matt Fahey.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,contact.Jenna Maguire.email,jenna.maguire@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,contact.Jenna Maguire.phone,414-982-6960,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-15-llc-875-east-19-llc,875 EAST 15 LLC 875 EAST 19 LLC,contact.Jenna Maguire.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,website,https://www.wangard.com/,https://www.wangard.com/contact/
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,company_phone,414-777-1200,https://www.wangard.com/contact/
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,company_email,legal@wangard.com,https://www.wangard.com/contact/
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,property_manager,"Wangard Partners, Inc.",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,contact.Matt Moroney.phone,414-777-1200,https://www.wangard.com/matt-moroney
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,contact.Matt Moroney.title,"CEO, Wangard Partners",https://www.wangard.com/matt-moroney
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,contact.Matt Fahey.email,matt.fahey@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,contact.Matt Fahey.phone,414-276-6860,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,contact.Matt Fahey.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,contact.Jenna Maguire.email,jenna.maguire@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,contact.Jenna Maguire.phone,414-982-6960,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-32-llc-875-east-33-llc,875 EAST 32 LLC 875 EAST 33 LLC,contact.Jenna Maguire.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,website,https://www.wangard.com/,https://www.wangard.com/contact/
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,company_phone,414-777-1200,https://www.wangard.com/contact/
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,company_email,legal@wangard.com,https://www.wangard.com/contact/
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,property_manager,"Wangard Partners, Inc.",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,contact.Matt Moroney.phone,414-777-1200,https://www.wangard.com/matt-moroney
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,contact.Matt Moroney.title,"CEO, Wangard Partners",https://www.wangard.com/matt-moroney
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,contact.Matt Fahey.email,matt.fahey@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,contact.Matt Fahey.phone,414-276-6860,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,contact.Matt Fahey.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,contact.Jenna Maguire.email,jenna.maguire@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,contact.Jenna Maguire.phone,414-982-6960,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-9-llc-875-east-11-llc,875 EAST 9 LLC 875 EAST 11 LLC,contact.Jenna Maguire.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,website,https://www.wangard.com/,https://www.wangard.com/contact/
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,company_phone,414-777-1200,https://www.wangard.com/contact/
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,company_email,legal@wangard.com,https://www.wangard.com/contact/
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,property_manager,"Wangard Partners, Inc.",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,contact.Matt Moroney.phone,414-777-1200,https://www.wangard.com/matt-moroney
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,contact.Matt Moroney.title,"CEO, Wangard Partners",https://www.wangard.com/matt-moroney
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,contact.Matt Fahey.email,matt.fahey@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,contact.Matt Fahey.phone,414-276-6860,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,contact.Matt Fahey.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,contact.Jenna Maguire.email,jenna.maguire@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,contact.Jenna Maguire.phone,414-982-6960,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-21-llc-875-east-22-llc,875 EAST 21 LLC 875 EAST 22 LLC,contact.Jenna Maguire.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,website,https://www.wangard.com/,https://www.wangard.com/contact/
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,company_phone,414-777-1200,https://www.wangard.com/contact/
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,company_email,legal@wangard.com,https://www.wangard.com/contact/
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,property_manager,"Wangard Partners, Inc.",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,contact.Matt Moroney.phone,414-777-1200,https://www.wangard.com/matt-moroney
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,contact.Matt Moroney.title,"CEO, Wangard Partners",https://www.wangard.com/matt-moroney
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,contact.Matt Fahey.email,matt.fahey@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,contact.Matt Fahey.phone,414-276-6860,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,contact.Matt Fahey.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,contact.Jenna Maguire.email,jenna.maguire@colliers.com,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,contact.Jenna Maguire.phone,414-982-6960,https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-29-llc-875-east-30-llc,875 EAST 29 LLC 875 EAST 30 LLC,contact.Jenna Maguire.title,"Leasing Agent, Colliers (875 E Wisconsin)",https://www.wangard.com/office/875-e-wisconsin/
+entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,website,https://www.wangard.com/,https://www.wangard.com/
+entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,company_phone,414-777-1200,https://www.wangard.com/contact/
+entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,company_email,info@wangard.com,https://www.wangard.com/contact/
+entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,property_manager,"Wangard Partners, Inc.",https://urbanmilwaukee.com/building/875-e-wisconsin-ave/
+entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,contact.Jamie Wolski.phone,414-935-4116,https://www.wangard.com/contact/
+entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,contact.Jamie Wolski.title,Property Management,https://www.wangard.com/contact/
+entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,contact.Matt Hunter.title,"Executive Vice President, JLL (leasing)",https://urbanmilwaukee.com/building/875-e-wisconsin-ave/
+entity-875-east-35-llc-875-east-36-llc,875 EAST 35 LLC 875 EAST 36 LLC,website,https://www.wangard.com/,https://www.wangard.com/
+entity-875-east-35-llc-875-east-36-llc,875 EAST 35 LLC 875 EAST 36 LLC,company_phone,414-777-1200,https://www.wangard.com/contact/
+entity-875-east-35-llc-875-east-36-llc,875 EAST 35 LLC 875 EAST 36 LLC,company_email,info@wangard.com,https://www.wangard.com/contact/
+entity-875-east-35-llc-875-east-36-llc,875 EAST 35 LLC 875 EAST 36 LLC,property_manager,"Wangard Partners, Inc.",https://urbanmilwaukee.com/building/875-e-wisconsin-ave/
+entity-875-east-35-llc-875-east-36-llc,875 EAST 35 LLC 875 EAST 36 LLC,contact.Jamie Wolski.phone,414-935-4116,https://www.wangard.com/contact/
+entity-875-east-35-llc-875-east-36-llc,875 EAST 35 LLC 875 EAST 36 LLC,contact.Jamie Wolski.title,Property Management,https://www.wangard.com/contact/
+entity-633-holdings-llc-c-o-colliers,633 HOLDINGS  LLC C/O COLLIERS,website,https://www.colliers.com/en/united-states/cities/milwaukee,https://www.colliers.com/en/united-states/cities/milwaukee
+entity-633-holdings-llc-c-o-colliers,633 HOLDINGS  LLC C/O COLLIERS,property_manager,Colliers (Milwaukee),https://www.loopnet.com/Listing/633-W-Wisconsin-Ave-Milwaukee-WI/24910792/
+entity-tdc-brown-deer-owner-llc,TDC BROWN DEER OWNER LLC,website,https://transwestern.com/location/houston/,https://transwestern.com/location/houston/
+entity-tdc-brown-deer-owner-llc,TDC BROWN DEER OWNER LLC,company_phone,(713) 270-7700,https://transwesterndevelopment.com/offices.html
+entity-tdc-brown-deer-owner-llc,TDC BROWN DEER OWNER LLC,company_email,TranswesternDevelopmentCo@transwestern.com,https://transwesterndevelopment.com/offices.html
+entity-tdc-brown-deer-owner-llc,TDC BROWN DEER OWNER LLC,property_manager,Transwestern Development Company (TDC); leased via CBRE,https://urbanmilwaukee.com/2022/09/08/eyes-on-milwaukee-white-box-buildings-planned-for-124th-and-brown-deer/
+entity-tdc-brown-deer-owner-llc,TDC BROWN DEER OWNER LLC,contact.Sean Suffel.email,Sean.Suffel@transwestern.com,https://transwesterndevelopment.com/offices.html
+entity-tdc-brown-deer-owner-llc,TDC BROWN DEER OWNER LLC,contact.Sean Suffel.phone,(713) 272-1264,https://transwesterndevelopment.com/offices.html
+entity-tdc-brown-deer-owner-llc,TDC BROWN DEER OWNER LLC,contact.Sean Suffel.title,"Regional Partner, Transwestern Development",https://transwesterndevelopment.com/offices.html
+entity-tdc-brown-deer-owner-llc,TDC BROWN DEER OWNER LLC,contact.Gary Tesch.email,Gary.Tesch@transwestern.com,https://transwesterndevelopment.com/offices.html
+entity-tdc-brown-deer-owner-llc,TDC BROWN DEER OWNER LLC,contact.Gary Tesch.phone,(832) 408-4000,https://transwesterndevelopment.com/offices.html
+entity-tdc-brown-deer-owner-llc,TDC BROWN DEER OWNER LLC,contact.Gary Tesch.title,"Partner, Transwestern Development",https://transwesterndevelopment.com/offices.html
+entity-ivp-mmd-llc-attn-tax-dept,IVP MMD LLC ATTN: TAX DEPT,website,https://evoniapartments.com/,https://evoniapartments.com/
+entity-ivp-mmd-llc-attn-tax-dept,IVP MMD LLC ATTN: TAX DEPT,company_phone,(414) 567-4809,https://www.apartments.com/evoni-milwaukee-wi/nepsgxm/
+entity-ivp-mmd-llc-attn-tax-dept,IVP MMD LLC ATTN: TAX DEPT,property_manager,Greystar (Evoni Historic Third Ward Apartments); developed by Kaeding Development Group,https://www.greystar.com/properties/milwaukee-wi/evoni
+entity-city-of-milw-north-division-senior-high-school,CITY OF MILW NORTH DIVISION SENIOR HIGH SCHOOL,website,https://mps.school/north/contact/,https://mps.school/north/contact/
+entity-city-of-milw-north-division-senior-high-school,CITY OF MILW NORTH DIVISION SENIOR HIGH SCHOOL,company_phone,(414) 267-4900,https://web.mmac.org/atlas/directory/category/talent-solutions-directory/north-division-high-school-14322
+entity-city-of-milw-north-division-senior-high-school,CITY OF MILW NORTH DIVISION SENIOR HIGH SCHOOL,property_manager,Milwaukee Public Schools (North Division High School),https://mps.school/north/contact/
+entity-us-bank-national-association-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSOCIATION C/O RYAN PTS DEPT 908,website,https://www.hines.com/properties/u.s.-bank-center-milwaukee,https://www.hines.com/properties/u.s.-bank-center-milwaukee
+entity-us-bank-national-association-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSOCIATION C/O RYAN PTS DEPT 908,company_phone,414.928.1700,https://www.hines.com/properties/u.s.-bank-center-milwaukee
+entity-us-bank-national-association-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSOCIATION C/O RYAN PTS DEPT 908,property_manager,"Hines (Asset & Property Manager, U.S. Bank Center)",https://www.hines.com/properties/u.s.-bank-center-milwaukee
+entity-us-bank-national-association-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSOCIATION C/O RYAN PTS DEPT 908,contact.Dion Watton.phone,414.928.1700,https://www.hines.com/properties/u.s.-bank-center-milwaukee
+entity-us-bank-national-association-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSOCIATION C/O RYAN PTS DEPT 908,contact.Dion Watton.title,Hines (Property Management),https://www.hines.com/properties/u.s.-bank-center-milwaukee
+entity-pfister-llc,PFISTER LLC,website,https://www.thepfisterhotel.com,https://www.yelp.com/biz/the-pfister-hotel-milwaukee-2
+entity-pfister-llc,PFISTER LLC,company_phone,(414) 273-8222,https://www.yelp.com/biz/the-pfister-hotel-milwaukee-2
+entity-pfister-llc,PFISTER LLC,property_manager,The Pfister Hotel,https://www.yelp.com/biz/the-pfister-hotel-milwaukee-2
+entity-rex-properties-llc,REX PROPERTIES LLC,company_phone,(414) 747-7400,https://www.thebluebook.com/iProView/402220/mallory-properties/vendor-services/locations-contacts/
+entity-rex-properties-llc,REX PROPERTIES LLC,property_manager,"Mallory Properties (at same address, 445 W Oklahoma Ave)",https://urbanmilwaukee.com/business/mallory-properties/
+entity-rex-properties-llc,REX PROPERTIES LLC,contact.Frank Giuffre.phone,(414) 747-7400,https://www.thebluebook.com/iProView/402220/mallory-properties/vendor-services/locations-contacts/
+entity-rex-properties-llc,REX PROPERTIES LLC,contact.Frank Giuffre.title,"President, Mallory Properties",https://www.thebluebook.com/iProView/402220/mallory-properties/vendor-services/locations-contacts/
+entity-broadway-tierra-partners-llc,BROADWAY TIERRA PARTNERS LLC,website,https://irgens.com/properties/bmo-tower/,https://irgens.com/properties/bmo-tower/
+entity-broadway-tierra-partners-llc,BROADWAY TIERRA PARTNERS LLC,company_phone,414.443.0700,https://irgens.com/properties/bmo-tower/
+entity-broadway-tierra-partners-llc,BROADWAY TIERRA PARTNERS LLC,company_email,info@irgens.com,https://irgens.com/properties/bmo-tower/
+entity-broadway-tierra-partners-llc,BROADWAY TIERRA PARTNERS LLC,property_manager,Irgens (BMO Tower),https://www.loopnet.com/Listing/790-N-Water-St-Milwaukee-WI/19678803/
+entity-broadway-tierra-partners-llc,BROADWAY TIERRA PARTNERS LLC,contact.Mark Irgens.email,mirgens@irgens.com,https://irgens.com/properties/bmo-tower/
+entity-broadway-tierra-partners-llc,BROADWAY TIERRA PARTNERS LLC,contact.Mark Irgens.phone,414.443.2520,https://irgens.com/properties/bmo-tower/
+entity-broadway-tierra-partners-llc,BROADWAY TIERRA PARTNERS LLC,contact.Mark Irgens.title,Irgens,https://irgens.com/properties/bmo-tower/
+entity-broadway-tierra-partners-llc,BROADWAY TIERRA PARTNERS LLC,contact.Kevin Armstrong.email,karmstrong@irgens.com,https://irgens.com/properties/bmo-tower/
+entity-broadway-tierra-partners-llc,BROADWAY TIERRA PARTNERS LLC,contact.Kevin Armstrong.phone,414.443.2580,https://irgens.com/properties/bmo-tower/
+entity-broadway-tierra-partners-llc,BROADWAY TIERRA PARTNERS LLC,contact.Kevin Armstrong.title,Irgens (leasing),https://irgens.com/properties/bmo-tower/
+entity-city-of-milwaukee-playground,CITY OF MILWAUKEE PLAYGROUND,website,https://city.milwaukee.gov/mpw/infrastructure/Playgrounds,https://city.milwaukee.gov/mpw/infrastructure/Playgrounds
+entity-city-of-milwaukee-playground,CITY OF MILWAUKEE PLAYGROUND,company_phone,(414) 286-2489,https://city.milwaukee.gov/dpw/Contact
+entity-city-of-milwaukee-playground,CITY OF MILWAUKEE PLAYGROUND,property_manager,City of Milwaukee Department of Public Works,https://city.milwaukee.gov/mpw/infrastructure/Playgrounds
+entity-milwaukee-center-mgmt-llc,MILWAUKEE CENTER MGMT LLC,company_phone,(414) 291-6100,https://www.yellowpages.com/milwaukee-wi/mip/milwaukee-center-office-tower-453066308
+entity-milwaukee-center-mgmt-llc,MILWAUKEE CENTER MGMT LLC,property_manager,Colliers International | Wisconsin (leasing),https://www2.colliers.com/en/Properties/milwaukee%E2%80%99s-most-dynamic-office-complex-milwaukee-center/USA-111-e-kilbourn-avenue/USA1002784
+entity-milwaukee-center-mgmt-llc,MILWAUKEE CENTER MGMT LLC,contact.Mike Wanezek.email,mike.wanezek@colliers.com,https://www2.colliers.com/en/Properties/milwaukee%E2%80%99s-most-dynamic-office-complex-milwaukee-center/USA-111-e-kilbourn-avenue/USA1002784
+entity-milwaukee-center-mgmt-llc,MILWAUKEE CENTER MGMT LLC,contact.Mike Wanezek.phone,+1 414 278 6826,https://www2.colliers.com/en/Properties/milwaukee%E2%80%99s-most-dynamic-office-complex-milwaukee-center/USA-111-e-kilbourn-avenue/USA1002784
+entity-milwaukee-center-mgmt-llc,MILWAUKEE CENTER MGMT LLC,contact.Mike Wanezek.title,"Leasing Broker, Colliers International",https://www2.colliers.com/en/Properties/milwaukee%E2%80%99s-most-dynamic-office-complex-milwaukee-center/USA-111-e-kilbourn-avenue/USA1002784
+entity-milwaukee-center-mgmt-llc,MILWAUKEE CENTER MGMT LLC,contact.Lyle Landowski.email,lyle.landowski@colliers.com,https://www2.colliers.com/en/Properties/milwaukee%E2%80%99s-most-dynamic-office-complex-milwaukee-center/USA-111-e-kilbourn-avenue/USA1002784
+entity-milwaukee-center-mgmt-llc,MILWAUKEE CENTER MGMT LLC,contact.Lyle Landowski.phone,+1 414 278 6827,https://www2.colliers.com/en/Properties/milwaukee%E2%80%99s-most-dynamic-office-complex-milwaukee-center/USA-111-e-kilbourn-avenue/USA1002784
+entity-milwaukee-center-mgmt-llc,MILWAUKEE CENTER MGMT LLC,contact.Lyle Landowski.title,"Leasing Broker, Colliers International",https://www2.colliers.com/en/Properties/milwaukee%E2%80%99s-most-dynamic-office-complex-milwaukee-center/USA-111-e-kilbourn-avenue/USA1002784
+entity-schwer-pflicht-werkzeug-properties-llc,"SCHWER, PFLICHT & WERKZEUG PROPERTIES LLC",property_manager,"Milwaukee Tool (affiliate; HQ 13135 W. Lisbon Road, Brookfield WI)",https://biztimes.com/breaking-ground-milwaukee-tools-downtown-milwaukee-office/
+entity-833-buena-vista-tierra-investors-llc,833 BUENA VISTA TIERRA INVESTORS LLC,website,https://irgens.com,https://en.wikipedia.org/wiki/833_East_Michigan
+entity-833-buena-vista-tierra-investors-llc,833 BUENA VISTA TIERRA INVESTORS LLC,company_phone,(414) 443-0700,https://irgens.com/wp-content/uploads/2024/05/Data-Sheets_Innovation-One.pdf
+entity-833-buena-vista-tierra-investors-llc,833 BUENA VISTA TIERRA INVESTORS LLC,property_manager,Irgens Partners LLC,https://biztimes.com/irgens-buys-office-tower-site-for-5-4-million/
+entity-833-buena-vista-tierra-investors-llc,833 BUENA VISTA TIERRA INVESTORS LLC,contact.Kevin Armstrong.email,karmstrong@irgens.com,https://irgens.com/properties/mayfair-woods/
+entity-833-buena-vista-tierra-investors-llc,833 BUENA VISTA TIERRA INVESTORS LLC,contact.Kevin Armstrong.phone,414.443.2580,https://irgens.com/properties/mayfair-woods/
+entity-833-buena-vista-tierra-investors-llc,833 BUENA VISTA TIERRA INVESTORS LLC,contact.Kevin Armstrong.title,"Senior VP, Portfolio Leasing",https://irgens.com/properties/mayfair-woods/
+entity-833-buena-vista-tierra-investors-llc,833 BUENA VISTA TIERRA INVESTORS LLC,contact.Tom Irgens.email,tirgens@irgens.com,https://irgens.com/properties/mayfair-woods/
+entity-833-buena-vista-tierra-investors-llc,833 BUENA VISTA TIERRA INVESTORS LLC,contact.Tom Irgens.phone,414.443.2531,https://irgens.com/properties/mayfair-woods/
+entity-833-buena-vista-tierra-investors-llc,833 BUENA VISTA TIERRA INVESTORS LLC,contact.Tom Irgens.title,Irgens Partners,https://irgens.com/properties/mayfair-woods/
+entity-reign-co1-propco-llc,REIGN CO1 PROPCO LLC,website,https://www.reigncapital.com,https://www.reigncapital.com/contact
+entity-reign-co1-propco-llc,REIGN CO1 PROPCO LLC,company_phone,646.504.2689,https://www.reigncapital.com/contact
+entity-reign-co1-propco-llc,REIGN CO1 PROPCO LLC,company_email,info@reigncapital.com,https://www.reigncapital.com/contact
+entity-reign-co1-propco-llc,REIGN CO1 PROPCO LLC,property_manager,Reign Capital LLC,https://biztimes.com/featured-deal-sale-of-atts-downtown-milwaukee-office-building/
+entity-nlca-milwaukee-fee-owner-llc,NLCA MILWAUKEE FEE OWNER LLC,property_manager,Hyatt Regency Milwaukee (property is the hotel at this address),https://www.loopnet.com/Listing/333-W-Kilbourn-Ave-Milwaukee-WI/13618786/
+entity-phoenix-cudahy-llc,PHOENIX CUDAHY LLC,website,https://phoenixinvestors.com,https://phoenixinvestors.com/portfolio/properties/4200-n-holton-st-milwaukee-wi/
+entity-phoenix-cudahy-llc,PHOENIX CUDAHY LLC,property_manager,Phoenix Investors LLC,https://phoenixinvestors.com/portfolio/properties/4200-n-holton-st-milwaukee-wi/
+entity-wheaton-franciscan-healthcare-attn-e-schinko-tax-department,WHEATON FRANCISCAN HEALTHCARE ATTN E SCHINKO TAX DEPARTMENT,company_phone,(414) 447-2000,https://en.wikipedia.org/wiki/Wheaton_Franciscan_Healthcare
+entity-wheaton-franciscan-healthcare-attn-e-schinko-tax-department,WHEATON FRANCISCAN HEALTHCARE ATTN E SCHINKO TAX DEPARTMENT,property_manager,Ascension Wisconsin (St. Joseph Campus),https://en.wikipedia.org/wiki/Wheaton_Franciscan_Healthcare
+entity-ech-milw-center-pkg-garage-llc-f-k-a-zml-milw-center,ECH-MILW CENTER PKG GARAGE LLC  F/K/A ZML-MILW CENTER,company_phone,414-291-6100,https://www.yellowpages.com/milwaukee-wi/mip/milwaukee-center-office-tower-453066308
+entity-ech-milw-center-pkg-garage-llc-f-k-a-zml-milw-center,ECH-MILW CENTER PKG GARAGE LLC  F/K/A ZML-MILW CENTER,property_manager,Milwaukee Center (garage at 819 N Water St; operated via InterPark/iParkit),https://www.mapquest.com/us/wisconsin/milwaukee-center-iparkit-garage-424674694
+entity-wwb-development-ii-llc,"WWB DEVELOPMENT II, LLC",website,https://irgens.com,https://irgens.com/wp-content/uploads/2024/05/Data-Sheets_Innovation-One.pdf
+entity-wwb-development-ii-llc,"WWB DEVELOPMENT II, LLC",company_phone,(414) 443-0700,https://irgens.com/wp-content/uploads/2024/05/Data-Sheets_Innovation-One.pdf
+entity-wwb-development-ii-llc,"WWB DEVELOPMENT II, LLC",property_manager,"Irgens Partners LLC (WWB Development II, LLC is c/o Irgens Partners, 833 E Michigan St Ste 400)",https://milwaukee.legistar.com/View.ashx?GUID=25F23F22-6392-4063-9C29-CAE5241A821D&ID=6284491&M=F
+entity-wwb-development-ii-llc,"WWB DEVELOPMENT II, LLC",contact.Kevin Armstrong.email,karmstrong@irgens.com,https://irgens.com/properties/mayfair-woods/
+entity-wwb-development-ii-llc,"WWB DEVELOPMENT II, LLC",contact.Kevin Armstrong.phone,414.443.2580,https://irgens.com/properties/mayfair-woods/
+entity-wwb-development-ii-llc,"WWB DEVELOPMENT II, LLC",contact.Kevin Armstrong.title,"Senior VP, Portfolio Leasing, Irgens",https://irgens.com/properties/mayfair-woods/
+entity-century-city-industrial-llc,CENTURY CITY INDUSTRIAL LLC,website,https://www.generalcapitalgroup.com/project/century-city-1,https://www.generalcapitalgroup.com/project/century-city-1
+entity-century-city-industrial-llc,CENTURY CITY INDUSTRIAL LLC,company_phone,(414) 228-3500,https://www.yelp.com/biz/general-capital-management-milwaukee
+entity-century-city-industrial-llc,CENTURY CITY INDUSTRIAL LLC,property_manager,General Capital Group,https://www.generalcapitalgroup.com/project/century-city-1
+entity-century-city-industrial-llc,CENTURY CITY INDUSTRIAL LLC,contact.Michael Weiss.phone,(414) 228-3500,https://www.generalcapitalgroup.com/project/century-city-1
+entity-century-city-industrial-llc,CENTURY CITY INDUSTRIAL LLC,contact.Michael Weiss.title,"President, General Capital Group",https://www.generalcapitalgroup.com/project/century-city-1
+entity-marquette-university,MARQUETTE UNIVERSITY,website,https://www.marquette.edu,https://www.marquette.edu
+entity-marquette-university,MARQUETTE UNIVERSITY,company_phone,(800) 222-6544,https://www.marquette.edu/business/real-estate/reap.php
+entity-marquette-university,MARQUETTE UNIVERSITY,contact.Andrew Hunt.email,andrew.hunt@marquette.edu,https://www.marquette.edu/business/real-estate/reap.php
+entity-marquette-university,MARQUETTE UNIVERSITY,contact.Andrew Hunt.phone,(414) 288-6020,https://www.marquette.edu/business/real-estate/reap.php
+entity-marquette-university,MARQUETTE UNIVERSITY,contact.Andrew Hunt.title,"Executive Director, MU Center for Real Estate",https://www.marquette.edu/business/real-estate/reap.php
+entity-marquette-university,MARQUETTE UNIVERSITY,contact.Melanie Roepke.email,melanie.roepke@marquette.edu,https://www.marquette.edu/business/real-estate/reap.php
+entity-marquette-university,MARQUETTE UNIVERSITY,contact.Melanie Roepke.phone,(414) 288-7940,https://www.marquette.edu/business/real-estate/reap.php
+entity-marquette-university,MARQUETTE UNIVERSITY,contact.Melanie Roepke.title,Assistant Director - Real Estate,https://www.marquette.edu/business/real-estate/reap.php
+entity-melrose-milwaukee-holdings-llc,MELROSE MILWAUKEE HOLDINGS LLC,property_manager,Transwestern,https://www.city-data.com/milwaukee/W/W-Park-Place-2.html
+entity-aap-properties-llc,AAP PROPERTIES LLC,company_phone,(414) 277-1000,https://www.mapquest.com/us/wisconsin/aap-properties-llc-273610958
+entity-aap-properties-llc,AAP PROPERTIES LLC,contact.Anthony Palermo.phone,(414) 277-1000,https://www.buzzfile.com/business/Aap-Properties-Llc-414-277-1000
+entity-aap-properties-llc,AAP PROPERTIES LLC,contact.Anthony Palermo.title,"Owner, AAP Properties LLC",https://www.buzzfile.com/business/Aap-Properties-Llc-414-277-1000
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,website,https://www.chasetowermilwaukee.com,https://www.chasetowermilwaukee.com/tenant-services
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,company_phone,(414) 755-8400,https://www.chasetowermilwaukee.com/tenant-services
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,company_email,adam.schmidt@colliers.com,https://www.chasetowermilwaukee.com/tenant-services
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,property_manager,Colliers International / Farbman Group,https://www.chasetowermilwaukee.com/tenant-services
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Adam Schmidt.email,adam.schmidt@colliers.com,https://www.chasetowermilwaukee.com/tenant-services
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Adam Schmidt.phone,(414) 755-8400,https://www.chasetowermilwaukee.com/tenant-services
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Adam Schmidt.title,"Property Manager, Colliers",https://www.chasetowermilwaukee.com/tenant-services
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Matt Fahey.phone,(414) 278-6860,https://www.colliers.com/en/properties/chase-tower-office-for-lease/usa-111-e-wisconsin-ave-milwaukee-wisconsin-53202/usa1024311
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Matt Fahey.title,"Leasing, Colliers",https://www.colliers.com/en/properties/chase-tower-office-for-lease/usa-111-e-wisconsin-ave-milwaukee-wisconsin-53202/usa1024311
+entity-brewery-parking-structure-llc,BREWERY PARKING STRUCTURE LLC,website,https://thebrewery.org/parking-and-transportation/,https://thebrewery.org/parking-and-transportation/
+entity-brewery-parking-structure-llc,BREWERY PARKING STRUCTURE LLC,company_phone,(414) 431-6555,https://thebrewery.org/parking-and-transportation/
+entity-brewery-parking-structure-llc,BREWERY PARKING STRUCTURE LLC,property_manager,Interstate Parking,https://thebrewery.org/parking-and-transportation/
+entity-roma-properties-llc-gregg-r-lindner-llc-scott-c-lindn,"ROMA PROPERTIES LLC, GREGG R LINDNER LLC, SCOTT C LINDN",website,https://www.lindnerlogistics.com,https://www.lindnerlogistics.com/facilities
+entity-roma-properties-llc-gregg-r-lindner-llc-scott-c-lindn,"ROMA PROPERTIES LLC, GREGG R LINDNER LLC, SCOTT C LINDN",company_phone,(414) 483-3080,https://www.yelp.com/biz/lindner-logistics-milwaukee
+entity-roma-properties-llc-gregg-r-lindner-llc-scott-c-lindn,"ROMA PROPERTIES LLC, GREGG R LINDNER LLC, SCOTT C LINDN",company_email,shewett@lindnerlogistics.com,https://www.yelp.com/biz/lindner-logistics-milwaukee
+entity-roma-properties-llc-gregg-r-lindner-llc-scott-c-lindn,"ROMA PROPERTIES LLC, GREGG R LINDNER LLC, SCOTT C LINDN",property_manager,"Lindner Logistics, LLC",https://www.lindnerlogistics.com/facilities
+entity-milwaukee-institute-of-art-and-design-inc,MILWAUKEE INSTITUTE OF ART AND DESIGN INC,website,https://www.miad.edu/,https://www.miad.edu/
+entity-milwaukee-institute-of-art-and-design-inc,MILWAUKEE INSTITUTE OF ART AND DESIGN INC,company_phone,414-847-3200,https://www.miad.edu/
+entity-milwaukee-institute-of-art-and-design-inc,MILWAUKEE INSTITUTE OF ART AND DESIGN INC,company_email,admissions@miad.edu,https://www.miad.edu/
+entity-milwaukee-institute-of-art-and-design-inc,MILWAUKEE INSTITUTE OF ART AND DESIGN INC,contact.MIAD Admissions.email,admissions@miad.edu,https://www.miad.edu/
+entity-milwaukee-institute-of-art-and-design-inc,MILWAUKEE INSTITUTE OF ART AND DESIGN INC,contact.MIAD Admissions.phone,414-847-3272,https://www.miad.edu/
+entity-milwaukee-institute-of-art-and-design-inc,MILWAUKEE INSTITUTE OF ART AND DESIGN INC,contact.MIAD Admissions.title,Admissions Office,https://www.miad.edu/
+entity-metavante-corp-nka-fis-payments-llc,METAVANTE CORP  NKA FIS PAYMENTS LLC,website,https://www.fisglobal.com/,https://www.bloomberg.com/profile/company/20166Z:US
+entity-metavante-corp-nka-fis-payments-llc,METAVANTE CORP  NKA FIS PAYMENTS LLC,company_phone,414-341-5000,https://www.businessyab.com/explore/united_states/wisconsin/milwaukee_county/milwaukee/park_place/west_lake_park_drive/11000/fis-414-341-5000.html
+entity-isaacs-parking-partners-llc,ISAACS PARKING PARTNERS LLC,website,https://isaacsparking.com/,https://isaacsparking.com/
+entity-isaacs-parking-partners-llc,ISAACS PARKING PARTNERS LLC,company_phone,414-271-3858,https://parking-lots.cmac.ws/isaacs-parking-service/18259/
+entity-isaacs-parking-partners-llc,ISAACS PARKING PARTNERS LLC,company_email,questions@isaacsparking.com,https://isaacsparking.com/
+entity-7025-w-parkland-owner-lp,7025 W PARKLAND OWNER LP,contact.Jeff Hoffman.title,Leasing Broker,https://www.loopnet.com/Listing/7025-W-Parkland-Ct-Milwaukee-WI/8934761/
+entity-7025-w-parkland-owner-lp,7025 W PARKLAND OWNER LP,contact.Chad Vande Zande.title,Leasing Broker,https://www.loopnet.com/Listing/7025-W-Parkland-Ct-Milwaukee-WI/8934761/
+entity-7025-w-parkland-owner-lp,7025 W PARKLAND OWNER LP,contact.Nicholas Unger.title,Leasing Broker,https://www.loopnet.com/Listing/7025-W-Parkland-Ct-Milwaukee-WI/8934761/
+entity-st-luke-s-hosptial-inc-attn-dave-kopplin,ST LUKE'S HOSPTIAL INC ATTN: DAVE KOPPLIN,website,https://www.aurorahealthcare.org/locations/hospital/aurora-st-lukes-medical-center,https://www.aurorahealthcare.org/locations/hospital/aurora-st-lukes-medical-center
+entity-st-luke-s-hosptial-inc-attn-dave-kopplin,ST LUKE'S HOSPTIAL INC ATTN: DAVE KOPPLIN,company_phone,414-649-6000,https://www.aurorahealthcare.org/locations/hospital/aurora-st-lukes-medical-center
+entity-cathedral-place-llc,CATHEDRAL PLACE LLC,property_manager,Van Buren Management,https://www.commercialcafe.com/commercial-property/us/wi/milwaukee/cathedral-place-1/
+entity-marcus-w-llc,MARCUS W LLC,website,https://www.marcuscorp.com/,https://www.marcuscorp.com/contact/
+entity-marcus-w-llc,MARCUS W LLC,company_phone,414-905-1000,https://www.marcuscorp.com/contact/
+entity-marcus-w-llc,MARCUS W LLC,company_email,investorrelations@marcuscorp.com,https://www.marcuscorp.com/investors/resources/investor-contacts/default.aspx
+entity-marcus-w-llc,MARCUS W LLC,property_manager,The Marcus Corporation,https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=MARCUS+W+LLC
+entity-marcus-w-llc,MARCUS W LLC,contact.Investor Relations.email,investorrelations@marcuscorp.com,https://www.marcuscorp.com/investors/resources/investor-contacts/default.aspx
+entity-marcus-w-llc,MARCUS W LLC,contact.Investor Relations.phone,414-905-1100,https://www.marcuscorp.com/investors/resources/investor-contacts/default.aspx
+entity-marcus-w-llc,MARCUS W LLC,contact.Investor Relations.title,Investor Relations,https://www.marcuscorp.com/investors/resources/investor-contacts/default.aspx
+entity-hg-sears-llc,HG SEARS LLC,website,https://www.haywood-group.com,https://biztimes.com/developer-purchases-former-sears-store-in-central-city-neighborhood/
+entity-hg-sears-llc,HG SEARS LLC,company_phone,414-461-1568,http://aaccwisconsin.chambermaster.com/list/member/haywood-group-llc-292
+entity-hg-sears-llc,HG SEARS LLC,company_email,info@haywood-group.com,http://aaccwisconsin.chambermaster.com/list/member/haywood-group-llc-292
+entity-hg-sears-llc,HG SEARS LLC,property_manager,Haywood Group LLC,https://biztimes.com/developer-purchases-former-sears-store-in-central-city-neighborhood/
+entity-hg-sears-llc,HG SEARS LLC,contact.Kalan Haywood.email,khaywood@haywood-group.com,https://www.zoominfo.com/p/Kalan-Haywood/14438265824
+entity-hg-sears-llc,HG SEARS LLC,contact.Kalan Haywood.title,"Founder and President, Haywood Group LLC",https://www.zoominfo.com/p/Kalan-Haywood/14438265824
+entity-two-park-place-llc-c-o-interstate-partners,TWO PARK PLACE LLC C/O INTERSTATE PARTNERS,website,https://www.interstatepartners.com,https://www.interstatepartners.com/property/15
+entity-two-park-place-llc-c-o-interstate-partners,TWO PARK PLACE LLC C/O INTERSTATE PARTNERS,company_phone,414-359-9400,https://www.yelp.com/biz/interstate-partners-milwaukee
+entity-two-park-place-llc-c-o-interstate-partners,TWO PARK PLACE LLC C/O INTERSTATE PARTNERS,property_manager,Interstate Partners LLC,https://www.loopnet.com/Listing/10850-W-Park-Pl-Milwaukee-WI/35495883/
+entity-two-park-place-llc-c-o-interstate-partners,TWO PARK PLACE LLC C/O INTERSTATE PARTNERS,contact.Jeff Whipple.email,jwhipple@interstatepartners.com,https://www.interstatepartners.com/property/15
+entity-two-park-place-llc-c-o-interstate-partners,TWO PARK PLACE LLC C/O INTERSTATE PARTNERS,contact.Jeff Whipple.phone,262-506-1007,https://www.interstatepartners.com/property/15
+entity-two-park-place-llc-c-o-interstate-partners,TWO PARK PLACE LLC C/O INTERSTATE PARTNERS,contact.Jeff Whipple.title,Leasing/Broker,https://www.interstatepartners.com/property/15
+entity-two-park-place-llc-c-o-interstate-partners,TWO PARK PLACE LLC C/O INTERSTATE PARTNERS,contact.Bill Schwartz.email,bschwartz@interstatepartners.com,https://www.interstatepartners.com/property/15
+entity-two-park-place-llc-c-o-interstate-partners,TWO PARK PLACE LLC C/O INTERSTATE PARTNERS,contact.Bill Schwartz.phone,262-506-1003,https://www.interstatepartners.com/property/15
+entity-two-park-place-llc-c-o-interstate-partners,TWO PARK PLACE LLC C/O INTERSTATE PARTNERS,contact.Bill Schwartz.title,Leasing/Broker,https://www.interstatepartners.com/property/15
+entity-city-of-milwaukee-fire-police-academy,CITY OF MILWAUKEE FIRE/POLICE ACADEMY,website,https://city.milwaukee.gov/MFD,https://city.milwaukee.gov/MFD/Shares/BUREAUS
+entity-city-of-milwaukee-fire-police-academy,CITY OF MILWAUKEE FIRE/POLICE ACADEMY,company_phone,414-286-8970,https://city.milwaukee.gov/MFD/Shares/BUREAUS
+entity-city-of-milwaukee-fire-police-academy,CITY OF MILWAUKEE FIRE/POLICE ACADEMY,property_manager,City of Milwaukee (Fire & Police Departments),https://city.milwaukee.gov/police/Police-Units-Partners/Safety-Division
+entity-wal-mart-real-estate-business-tr-prop-tax-0555,"WAL-MART REAL ESTATE BUSINESS TR, PROP TAX #0555",website,https://www.walmart.com/store/2828-milwaukee-wi,https://www.walmart.com/store/2828-milwaukee-wi
+entity-wal-mart-real-estate-business-tr-prop-tax-0555,"WAL-MART REAL ESTATE BUSINESS TR, PROP TAX #0555",company_phone,414-383-1113,https://www.yelp.com/biz/walmart-supercenter-milwaukee-5
+entity-wal-mart-real-estate-business-tr-prop-tax-0555,"WAL-MART REAL ESTATE BUSINESS TR, PROP TAX #0555",property_manager,Walmart Real Estate Business Trust,https://www.walmart.com/store/2828-milwaukee-wi
+entity-becher-office-1-llc,"BECHER OFFICE 1, LLC",website,https://www.river1.us,https://www.river1.us/
+entity-becher-office-1-llc,"BECHER OFFICE 1, LLC",company_phone,414-290-1920,https://www.river1.us/aboutus.php
+entity-becher-office-1-llc,"BECHER OFFICE 1, LLC",property_manager,"RIVER1 Asset Management (building tenant/manager; building developed by Becher Development LLC, a Michels Corp. affiliate)",https://biztimes.com/downtown-financial-planning-firm-to-move-to-r1ver-development/
+entity-courteen-llc,COURTEEN LLC,website,http://riverplacelofts.com,https://rocketreach.co/river-place-lofts-profile_b42eecf1fec685cd
+entity-courteen-llc,COURTEEN LLC,company_phone,414-982-0690,https://rocketreach.co/river-place-lofts-profile_b42eecf1fec685cd
+entity-courteen-llc,COURTEEN LLC,property_manager,Peter Moede / River Place Lofts LLC (registered owner of Courteen LLC),https://urbanmilwaukee.com/building/222-w-freshwater-wa/
+entity-courteen-llc,COURTEEN LLC,contact.Peter Moede.phone,414-982-0690,https://rocketreach.co/river-place-lofts-profile_b42eecf1fec685cd
+entity-courteen-llc,COURTEEN LLC,contact.Peter Moede.title,"Managing Partner, River Place Lofts LLC / registrant of Courteen LLC",https://rocketreach.co/river-place-lofts-profile_b42eecf1fec685cd
+entity-pettit-national-ice-center,PETTIT NATIONAL ICE CENTER,website,https://www.thepettit.com,https://www.thepettit.com/contact/
+entity-pettit-national-ice-center,PETTIT NATIONAL ICE CENTER,company_phone,414-266-0100,https://www.thepettit.com/contact/
+entity-pettit-national-ice-center,PETTIT NATIONAL ICE CENTER,company_email,info@thepettit.com,https://www.thepettit.com/contact/
