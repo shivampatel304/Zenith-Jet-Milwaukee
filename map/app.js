@@ -33,11 +33,11 @@ const UNKNOWN = 'Unknown';
 const NO_ENTITY = 'No owner on file';
 
 const STATUS = {
-  'named contact': '#16A34A',
-  'company contact only': '#2563EB',
-  'not researched yet': '#F59E0B',
-  'no contact found': '#94A3B8',
-  'no owner found': '#EF4444',
+  'named contact': '#16A34A',        // green  — sure: a named person + email/phone
+  'company contact only': '#2563EB', // blue   — not sure: a company/mailing lead only
+  'not researched yet': '#F59E0B',   // yellow — backlog (rare after enrichment)
+  'no contact found': '#EF4444',     // red    — researched, nothing reachable
+  'no owner found': '#EF4444',       // red    — no owner on record
 };
 const KIND = {
   'building owner': '#4F46E5',
@@ -1766,7 +1766,7 @@ function exportBuildings() {
     'Milwaukee ID', 'Address', 'Building name', 'Taxkey', 'Form', 'Class / sector', 'Building type', 'Priority', 'Priority label',
     'Floor area (sq ft)', 'Floors', 'Year built',
     'Owner (City list)', 'Owner source', 'Owner ID', 'Owner kind', 'Research status', 'Portfolio size (buildings)',
-    'Contact status', 'Best contact name', 'Best contact title', 'Best contact email', 'Best contact phone',
+    'Contact status', 'Property manager', 'Best contact name', 'Best contact title', 'Best contact email', 'Best contact phone', 'Best contact source',
     'Company email', 'Company phone', 'Company website', 'Mailing address', 'Latitude', 'Longitude',
   ];
   const data = rows.map((b) => {
@@ -1776,7 +1776,7 @@ function exportBuildings() {
       b.id, b.address, b.building_name, b.taxkey, b.form, b.sector, b.building_type, b.priority, S.meta.priority_labels ? S.meta.priority_labels[b.priority] : '',
       b.floor_area_sqft, b.floors, b.year_built,
       b.owner, b.owner_source, e && e.id, e && e.kind, e && e.research_status, e && e._b.length,
-      b.contact_status, clean(c.name), c.title, c.email, c.phone,
+      b.contact_status, e && e.property_manager, clean(c.name), c.title, c.email, c.phone, c.email_source,
       e && e.company_email, e && e.company_phone, e && e.company_website, e && e.mailing_address,
       b._pos ? b._pos[1].toFixed(6) : '', b._pos ? b._pos[0].toFixed(6) : '',
     ];
@@ -1788,16 +1788,16 @@ function exportBuildings() {
 function exportOwners() {
   const ranked = rankEntities();
   const header = [
-    'Owner ID', 'Name', 'Kind', 'Research status', 'Buildings in view', 'Buildings total', 'Sq ft total',
-    'Best contact name', 'Best contact title', 'Best contact email', 'Best contact phone', 'All contacts',
+    'Owner ID', 'Name', 'Kind', 'Research status', 'Buildings in view', 'Buildings total', 'Sq ft total', 'Property manager',
+    'Best contact name', 'Best contact title', 'Best contact email', 'Best contact phone', 'Best contact source', 'All contacts',
     'Company email', 'Company phone', 'Company website', 'Mailing address', 'Notes',
   ];
   const data = ranked.map(({ e, n }) => {
     const c = bestContact(e) || {};
     const all = (e._contacts || []).map((x) => [clean(x.name), x.title, x.email, x.phone].filter(Boolean).join(' — ')).join(' | ');
     return [
-      e.id, e.name, e.kind, e.research_status, n, e._b.length, e._homes,
-      clean(c.name), c.title, c.email, c.phone, all,
+      e.id, e.name, e.kind, e.research_status, n, e._b.length, e._homes, e.property_manager,
+      clean(c.name), c.title, c.email, c.phone, c.email_source, all,
       e.company_email, e.company_phone, e.company_website, e.mailing_address, e.notes,
     ];
   });

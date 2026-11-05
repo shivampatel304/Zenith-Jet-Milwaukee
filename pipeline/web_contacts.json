@@ -1,0 +1,51 @@
+{
+  "entity-northwestern-mutual-life-insurance-company": {
+    "website": "https://www.northwesternmutual.com",
+    "company_phone": "414-271-1444",
+    "contacts": []
+  },
+  "entity-aurora-health-care-metro-inc": {
+    "website": "https://www.aurorahealthcare.org",
+    "company_phone": "414-219-7434",
+    "contacts": []
+  },
+  "entity-forest-county-potawatomi-community-of-wi": {
+    "website": "https://www.potawatomi.com",
+    "company_phone": "414-847-8600",
+    "contacts": []
+  },
+  "entity-forest-county-potawatomi-community-of-wisconsin": {
+    "website": "https://www.potawatomi.com",
+    "company_phone": "414-847-8600",
+    "contacts": []
+  },
+  "entity-alexian-village-of-milwaukee-inc-attn-executive-director": {
+    "website": "https://www.ascensionliving.org",
+    "company_phone": "414-355-9300",
+    "contacts": []
+  },
+  "entity-wisconsin-center-district": {
+    "website": "https://wcd.org",
+    "company_phone": "414-908-6000",
+    "contacts": []
+  },
+  "entity-us-bank-national-assn-c-o-ryan-pts-dept-908": {
+    "website": "https://www.usbcmilwaukee.com",
+    "company_phone": "414-928-1700",
+    "property_manager": "Hines — U.S. Bank Center building management",
+    "contacts": [
+      {
+        "name": "Jim Cavanaugh",
+        "title": "Principal, Cushman & Wakefield | Boerke (leasing)",
+        "phone": "414-347-1000",
+        "source": "https://www.usbcmilwaukee.com/contact"
+      },
+      {
+        "name": "Katie Melbye",
+        "title": "Real Estate Advisor, Cushman & Wakefield | Boerke",
+        "phone": "414-347-1000",
+        "source": "https://www.usbcmilwaukee.com/contact"
+      }
+    ]
+  }
+}
