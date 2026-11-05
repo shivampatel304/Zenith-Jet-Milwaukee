@@ -85,6 +85,87 @@ def classify_role(title: str | None) -> str:
     return 'other'
 
 
+# ---- email pattern inference (opt-in; produces clearly-labeled unverified emails) ----
+
+def _name_parts(name: str):
+    toks = re.sub(r'[^A-Za-z\s]', '', name or '').split()
+    return (toks[0].lower(), toks[-1].lower()) if len(toks) >= 2 else (
+        (toks[0].lower(), '') if toks else ('', ''))
+
+
+def _domain_of(url_or_email: str | None):
+    if not url_or_email:
+        return None
+    s = str(url_or_email)
+    if '@' in s:
+        return s.split('@')[-1].strip().lower().strip('/')
+    m = re.search(r'https?://(?:www\.)?([^/]+)', s)
+    return m.group(1).lower() if m else None
+
+
+def _derive_pattern(name: str, email: str):
+    """Infer the local-part pattern of a company from a known name→email."""
+    first, last = _name_parts(name)
+    local = email.split('@')[0].lower()
+    if not first:
+        return None
+    fi = first[0]
+    cand = {
+        'first': first, 'last': last, 'first.last': f'{first}.{last}',
+        'flast': f'{fi}{last}', 'firstlast': f'{first}{last}',
+        'f.last': f'{fi}.{last}', 'firstl': f'{first}{last[0] if last else ""}',
+        'first_last': f'{first}_{last}',
+    }
+    for pat, val in cand.items():
+        if val and val == local:
+            return pat
+    return None
+
+
+def _make_local(name: str, pattern: str):
+    first, last = _name_parts(name)
+    if not first:
+        return None
+    fi = first[0]
+    return {
+        'first': first, 'last': last or first, 'first.last': f'{first}.{last}' if last else first,
+        'flast': f'{fi}{last}' if last else first, 'firstlast': f'{first}{last}',
+        'f.last': f'{fi}.{last}' if last else first, 'firstl': f'{first}{last[0]}' if last else first,
+        'first_last': f'{first}_{last}' if last else first,
+    }.get(pattern)
+
+
+def infer_contact_emails(entity: dict):
+    """Fill missing owner/manager contact emails using the company's domain + pattern.
+    Every inferred email is flagged email_inferred=True ('pattern — unverified')."""
+    contacts = entity.get('contacts', [])
+    # Domain: prefer one proven by an existing email on this entity.
+    proven = (entity.get('company_email')
+              or next((c['email'] for c in contacts if c.get('email')), None))
+    domain = _domain_of(proven) or _domain_of(entity.get('company_website'))
+    if not domain:
+        return
+    # Pattern: derive from a confirmed person→email on the same domain, else default.
+    pattern = None
+    for c in contacts:
+        if c.get('email') and not c.get('email_inferred') and _domain_of(c['email']) == domain:
+            pattern = _derive_pattern(c.get('name') or '', c['email'])
+            if pattern:
+                break
+    pattern = pattern or 'first.last'
+    for c in contacts:
+        if c.get('role') == 'leasing':
+            continue
+        if c.get('email') or not (c.get('name') or '').strip():
+            continue
+        local = _make_local(c['name'], pattern)
+        if not local:
+            continue
+        c['email'] = f'{local}@{domain}'
+        c['email_inferred'] = True
+        c['email_source'] = f'pattern — unverified ({pattern}@{domain})'
+
+
 def slugify(name: str) -> str:
     s = (name or '').strip().upper()
     s = re.sub(r'[^A-Z0-9]+', '-', s).strip('-').lower()
@@ -159,7 +240,7 @@ def deduplicate_entities(buildings: list[dict], web: dict) -> list[dict]:
         # is never a broker when a real owner/manager contact exists.
         contacts.sort(key=lambda c: ROLE_RANK.get(c['role'], 2))
 
-        entities.append({
+        entity = {
             'id': eid,
             'name': name.strip(),
             'kind': 'building owner',
@@ -173,17 +254,22 @@ def deduplicate_entities(buildings: list[dict], web: dict) -> list[dict]:
             'contacts': contacts,
             'notes': None,
             'research_status': 'partial' if (contacts or w) else 'to do',
-        })
+        }
+        # Fill missing owner/manager emails by pattern (clearly flagged unverified).
+        infer_contact_emails(entity)
+        entities.append(entity)
     return entities
 
 
 def best_named_contact(e: dict) -> bool:
     """True when the entity has an OWNER or PROPERTY-MANAGER named person reachable
-    by email or phone. Leasing brokers do not count — the client wants owner/manager."""
+    by phone or a CONFIRMED email. Leasing brokers and pattern-inferred (unverified)
+    emails do not count toward 'green' — green must stay trustworthy."""
     for c in e.get('contacts', []):
         if c.get('role') == 'leasing':
             continue
-        if (c.get('name') or '').strip() and (c.get('email') or c.get('phone')):
+        confirmed_email = c.get('email') and not c.get('email_inferred')
+        if (c.get('name') or '').strip() and (c.get('phone') or confirmed_email):
             return True
     return False
 

@@ -95,6 +95,13 @@
     "title": "Real Estate Advisor, Cushman & Wakefield | Boerke",
     "phone": "414-347-1000",
     "source": "https://www.usbcmilwaukee.com/contact"
+   },
+   {
+    "name": "Dion Watton",
+    "title": "Property Management (Hines)",
+    "email": null,
+    "phone": "414-928-1700",
+    "source": "https://www.hines.com/properties/u.s.-bank-center-milwaukee"
    }
   ],
   "sources": {}
@@ -312,13 +319,21 @@
  "entity-middleton-milwaukee-investors-llc": {
   "website": "https://411ewc.com/",
   "company_phone": "(414) 347-0411",
-  "company_email": null,
+  "company_email": "middleton@middletonpartners.net",
   "property_manager": "Colliers International (Middleton Partners)",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Alyssa (Temple) Jelen",
+    "title": "General Manager (Colliers)",
+    "email": null,
+    "phone": "414-269-1290",
+    "source": "https://411ewc.com/building-management/"
+   }
+  ],
   "sources": {
    "website": "https://411ewc.com/building-management/",
    "company_phone": "https://411ewc.com/building-management/",
-   "company_email": null,
+   "company_email": "https://www.middletonpartners.net/contact",
    "property_manager": "https://411ewc.com/about/"
   }
  },
@@ -379,13 +394,13 @@
  "entity-museum-center-park-inc": {
   "website": "https://mam.org",
   "company_phone": "(414) 431-6555",
-  "company_email": null,
+  "company_email": "mam@mam.org",
   "property_manager": "Interstate Parking Company",
   "contacts": [],
   "sources": {
    "website": null,
    "company_phone": "https://www.chamberofcommerce.com/business-directory/wisconsin/milwaukee/parking-garage/2013904403-museum-center-park-1159",
-   "company_email": null,
+   "company_email": "https://mam.org/info/contact-us/",
    "property_manager": "https://www.groupon.com/deals/parkwhiz-interstate-parking-company-34"
   }
  },
@@ -442,6 +457,13 @@
     "email": null,
     "phone": "414-278-6868",
     "source": "https://images4.loopnet.com/d2/ILe7TMaYtZJfoUF2D0IMDeOdCh2wrzzipdHJuw3nMic/document.pdf"
+   },
+   {
+    "name": "Margaret Gehring",
+    "title": "Property Manager (CBRE)",
+    "email": null,
+    "phone": null,
+    "source": "https://urbanmilwaukee.com/2023/03/30/eyes-on-milwaukee-chase-tower-receiving-new-amenities/"
    }
   ],
   "sources": {
@@ -913,13 +935,21 @@
  "entity-633-holdings-llc-c-o-colliers": {
   "website": "https://www.colliers.com/en/united-states/cities/milwaukee",
   "company_phone": "(414) 501-5610",
-  "company_email": null,
+  "company_email": "information@jjeffers.com",
   "property_manager": "Colliers (Milwaukee)",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Joshua Jeffers",
+    "title": "Owner/Principal, J. Jeffers & Co.",
+    "email": "information@jjeffers.com",
+    "phone": "414-501-5610",
+    "source": "https://www.jjeffers.com/contact"
+   }
+  ],
   "sources": {
    "website": "https://www.colliers.com/en/united-states/cities/milwaukee",
    "company_phone": null,
-   "company_email": null,
+   "company_email": "https://www.jjeffers.com/contact",
    "property_manager": "https://www.loopnet.com/Listing/633-W-Wisconsin-Ave-Milwaukee-WI/24910792/"
   }
  },
@@ -1717,6 +1747,13 @@
     "email": null,
     "phone": "414-362-6381",
     "source": "https://city.milwaukee.gov/File-Library/Agendas/2024/August/BID-49-Annual-Meeting-8.28.24.pdf"
+   },
+   {
+    "name": "Michael Grebe",
+    "title": "Registered Agent, SixSibs LLC",
+    "email": null,
+    "phone": "414-362-6381",
+    "source": "https://www.bizapedia.com/wi/sixsibs-capital-corporation.html"
    }
   ],
   "sources": {
@@ -2249,7 +2286,15 @@
   "company_phone": "(414) 744-2018",
   "company_email": null,
   "property_manager": "Self-managed / owner-occupied (Lincoln Warehouse, Inc.)",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Tami Trandel",
+    "title": "Controller & Office Manager",
+    "email": null,
+    "phone": "(414) 744-2018",
+    "source": "https://www.zoominfo.com/c/lincoln-warehouse/44189845"
+   }
+  ],
   "sources": {
    "website": "https://local.yahoo.com/info-16721159-lincoln-warehouse-milwaukee",
    "company_phone": "https://local.yahoo.com/info-16721159-lincoln-warehouse-milwaukee",
@@ -2308,8 +2353,8 @@
  },
  "entity-milwaukee-tech-center-llc": {
   "website": "https://milwaukeetechcenter.com/",
-  "company_phone": null,
-  "company_email": null,
+  "company_phone": "(432) 287-2426",
+  "company_email": "info@techcenter.com",
   "property_manager": "Z Equity Group",
   "contacts": [
    {
@@ -2323,7 +2368,7 @@
   "sources": {
    "website": "https://milwaukeetechcenter.com/",
    "company_phone": null,
-   "company_email": null,
+   "company_email": "https://milwaukeetechcenter.com/7320-w-florist-ave/",
    "property_manager": "https://www.loopnet.com/Listing/7320-7400-W-Florist-Ave-Milwaukee-WI/29412759/"
   }
  },
@@ -2539,6 +2584,13 @@
     "email": null,
     "phone": null,
     "source": "https://biztimes.com/hsi-properties-to-merge-into-fiduciary-real-estate/"
+   },
+   {
+    "name": "Dzevahira Gargovic",
+    "title": "Property Manager",
+    "email": null,
+    "phone": null,
+    "source": "https://www.zoominfo.com/c/hsi-properties-llc/354547423"
    }
   ],
   "sources": {
@@ -2698,9 +2750,9 @@
   }
  },
  "entity-nakayla-llc-c-o-natasha-myrick": {
-  "website": null,
-  "company_phone": null,
-  "company_email": null,
+  "website": "https://selectautopartsmilwaukee.com/",
+  "company_phone": "(414) 763-3474",
+  "company_email": "info@selectautopartsmilwaukee.com",
   "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
@@ -2713,15 +2765,16 @@
    {
     "name": "Natasha Myrick-Broxton",
     "title": "Owner / Registered Agent (Nakayla LLC)",
-    "email": null,
+    "email": "natasha@selectautopartsmilwaukee.com",
     "phone": null,
-    "source": "https://www.city-data.com/milwaukee/W/W-Cornell-Street-3.html"
+    "source": "https://www.city-data.com/milwaukee/W/W-Cornell-Street-3.html",
+    "email_source": "https://selectautopartsmilwaukee.com/contact/"
    }
   ],
   "sources": {
    "website": null,
    "company_phone": null,
-   "company_email": null,
+   "company_email": "https://selectautopartsmilwaukee.com/contact/",
    "property_manager": "https://www.city-data.com/milwaukee/W/W-Cornell-Street-3.html"
   }
  },
@@ -2749,13 +2802,13 @@
  "entity-tramont-investment-llc": {
   "website": "https://www.tramont.com",
   "company_phone": "(414) 967-8800",
-  "company_email": null,
+  "company_email": "sales@tramont.com",
   "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://www.tramont.com/contact.php",
    "company_phone": "https://www.chamberofcommerce.com/united-states/wisconsin/milwaukee/manufacturer/6362047-tramont",
-   "company_email": null,
+   "company_email": "https://www.tramont.com/contact.php",
    "property_manager": "https://www.tramont.com/contact.php"
   }
  },
@@ -2815,16 +2868,16 @@
   }
  },
  "entity-prime-investment-grp-llc-quapaw-investments-llc": {
-  "website": null,
+  "website": "https://www.primeinvestmentgroup.org",
   "company_phone": "(918) 599-0036",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": null,
    "company_phone": "https://www.superpages.com/tulsa-ok/bpp/quapaw-investments-460155341",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://www.primeinvestmentgroup.org/our-company/"
   }
  },
  "entity-el-rey-enterprises": {
@@ -2941,7 +2994,15 @@
   "company_phone": "414-481-7100",
   "company_email": null,
   "property_manager": "Russel Metals Williams Bahcall Inc.",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Rod Smith",
+    "title": "General Manager (Russel Metals Williams Bahcall, occupant)",
+    "email": null,
+    "phone": "414-481-7100",
+    "source": "https://www.dnb.com/business-directory/company-profiles.russel_metals_williams_bahcall_inc.e29880c8e18f346f43832d4c8c86e15c.html"
+   }
+  ],
   "sources": {
    "website": "https://metal-companies.cmac.ws/russel-metals-williams-bahcall/78289/",
    "company_phone": "https://metal-companies.cmac.ws/russel-metals-williams-bahcall/78289/",
@@ -3014,7 +3075,15 @@
   "company_phone": "414-281-2400",
   "company_email": null,
   "property_manager": "Royce Hotel Milwaukee Airport (formerly Four Points by Sheraton)",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Eric Bercot",
+    "title": "General Manager",
+    "email": null,
+    "phone": null,
+    "source": "https://www.mapquest.com/us/wisconsin/sss-milwaukee-llc-536942756"
+   }
+  ],
   "sources": {
    "website": null,
    "company_phone": "https://www.waze.com/live-map/directions/us/wi/milwaukee/royce-hotel-(formerly-the-four-points-by-sheraton-milwaukee-airport)-is-open",
@@ -3227,7 +3296,15 @@
   "company_phone": "757-497-2113",
   "company_email": null,
   "property_manager": "Divaris Property Management Corp",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Kristina Townsend",
+    "title": "Director of Strategic Planning & Development, Divaris",
+    "email": "kristina.townsend@divaris.com",
+    "phone": "757-497-2113",
+    "source": "https://www.divaris.com/wp-content/uploads/2024/11/PM-Brochure.pdf"
+   }
+  ],
   "sources": {
    "website": "https://www.divaris.com/services/",
    "company_phone": "https://www.bloomberg.com/profile/company/0103884D:US",
@@ -3446,14 +3523,14 @@
  },
  "entity-brewery-house-llc": {
   "website": "https://www.gormanusa.com/",
-  "company_phone": null,
-  "company_email": null,
+  "company_phone": "608-835-3900",
+  "company_email": "info@gormanusa.com",
   "property_manager": "Aimbridge Hospitality (operates Brewhouse Inn & Suites; owner Gorman & Company)",
   "contacts": [],
   "sources": {
    "website": "https://www.gormanusa.com/celebrating-milwaukees-rich-heritage-and-plaque-unveiling-at-brewhouse-inn-suits/",
    "company_phone": null,
-   "company_email": null,
+   "company_email": "https://www.gormanusa.com/contact-gorman-company/",
    "property_manager": "https://www.hotel-online.com/news/aimbridge-hospitality-assumes-management-of-three-landmark-hotels-for-gorman-company"
   }
  },
@@ -3509,7 +3586,7 @@
  "entity-hop-city-lodging-llc": {
   "website": "https://www.hawkeyehotels.com/",
   "company_phone": "319-752-7400",
-  "company_email": null,
+  "company_email": "press@hawkeyehotels.com",
   "property_manager": "Hawkeye Hotels / JR Hospitality (affiliates; operate Home2 Suites & Tru by Hilton)",
   "contacts": [
    {
@@ -3523,7 +3600,7 @@
   "sources": {
    "website": "https://www.hawkeyehotels.com/portfolio",
    "company_phone": "https://rocketreach.co/hawkeye-hotels-profile_b5df02b7f42e4f83",
-   "company_email": null,
+   "company_email": "https://www.hawkeyehotels.com/contact",
    "property_manager": "https://www.hawkeyehotels.com/portfolio"
   }
  },
@@ -4073,7 +4150,7 @@
   "website": "https://www.lockheedmartin.com/en-us/products/derco-aerospace.html",
   "company_phone": "414-355-3066",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://www.lockheedmartin.com/en-us/products/derco-aerospace.html",
@@ -4099,7 +4176,7 @@
   "website": "https://www.kohls.com",
   "company_phone": "262-703-7000",
   "company_email": "re-realestate@kohls.com",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://corporate.kohls.com/contact-us",
@@ -4125,7 +4202,7 @@
   "website": null,
   "company_phone": "414-463-4500",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": null,
@@ -4220,20 +4297,35 @@
  "entity-second-harvest-of-wisconsin-inc": {
   "website": "https://feedingamericawi.org",
   "company_phone": "414-931-7400",
-  "company_email": null,
+  "company_email": "info@feedingamericawi.org",
   "property_manager": "Feeding America Eastern Wisconsin, Inc.",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Aaron L. Rice",
+    "title": "Chief Development Officer",
+    "email": null,
+    "phone": "414-831-6365",
+    "source": "https://feedingamericawi.org/get-involved/donate/"
+   },
+   {
+    "name": "Adam Koebel",
+    "title": "Volunteer Engagement Coordinator",
+    "email": "akoebel@feedingamericawi.org",
+    "phone": "414-831-6326",
+    "source": "https://feedingamericawi.org/get-involved/"
+   }
+  ],
   "sources": {
    "website": "https://feedingamericawi.org/get-involved/donate/",
    "company_phone": "https://www.yelp.com/biz/americas-second-harvest-of-wisconsin-milwaukee",
-   "company_email": null,
+   "company_email": "https://feedingamericawi.org/get-involved/donate/",
    "property_manager": "https://lobbying.wi.gov/Who/PrincipalInformation/2017REG/Information/3722"
   }
  },
  "entity-rider-hotel-llc": {
   "website": "https://www.theironhorsehotel.com",
   "company_phone": "888-543-4766",
-  "company_email": null,
+  "company_email": "info@theironhorsehotel.com",
   "property_manager": "Dixon Development (Tim Dixon)",
   "contacts": [
    {
@@ -4247,7 +4339,7 @@
   "sources": {
    "website": "https://urbanmilwaukee.com/building/the-iron-horse-hotel/",
    "company_phone": "https://urbanmilwaukee.com/building/the-iron-horse-hotel/",
-   "company_email": null,
+   "company_email": "https://www.theironhorsehotel.com/contact/",
    "property_manager": "https://biztimes.com/people/tim-dixon/"
   }
  },
@@ -4309,34 +4401,35 @@
  "entity-milwaukee-ambroz-llc": {
   "website": "https://kgdevgroup.com",
   "company_phone": null,
-  "company_email": null,
+  "company_email": "Anthony@kgdevgroup.com",
   "property_manager": "KG Development Group",
   "contacts": [
    {
     "name": "Anthony Kazee",
     "title": "Principal/President, KG Development Group (owner/developer)",
-    "email": null,
+    "email": "Anthony@kgdevgroup.com",
     "phone": null,
-    "source": "https://biztimes.com/kg-development-group-chosen-to-develop-king-drive-site/"
+    "source": "https://biztimes.com/kg-development-group-chosen-to-develop-king-drive-site/",
+    "email_source": "https://contactout.com/company/KG-Development-Group-83628"
    }
   ],
   "sources": {
    "website": "https://kgdevgroup.com/",
    "company_phone": null,
-   "company_email": null,
+   "company_email": "https://contactout.com/company/KG-Development-Group-83628",
    "property_manager": "https://biztimes.com/kg-development-group-chosen-to-develop-king-drive-site/"
   }
  },
  "entity-acpf-exr-jv-sub-good-hope-rd-mil-wi-llc": {
   "website": "https://www.extraspace.com/storage/facilities/us/wisconsin/milwaukee/2013/",
   "company_phone": "(414) 760-8765",
-  "company_email": null,
+  "company_email": "info@extraspace.com",
   "property_manager": "Extra Space Storage Inc.",
   "contacts": [],
   "sources": {
    "website": "https://www.extraspace.com/storage/facilities/us/wisconsin/milwaukee/2013/",
    "company_phone": "https://www.extraspace.com/storage/facilities/us/wisconsin/milwaukee/2013/",
-   "company_email": null,
+   "company_email": "https://www.extraspace.com/self-storage/faq/company-information/",
    "property_manager": "https://www.extraspace.com/storage/facilities/us/wisconsin/milwaukee/2013/"
   }
  },
@@ -4344,7 +4437,7 @@
   "website": null,
   "company_phone": "(414) 291-4400",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Robert Feind",
@@ -4358,13 +4451,13 @@
    "website": null,
    "company_phone": "https://www.yellowpages.com/milwaukee-wi/mip/national-warehouse-corp-18318719",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://www.storage24.us/company-national-warehouse-corp-in-milwaukee-wi-37468"
   }
  },
  "entity-midas-milwaukee-llc-milwaukee-river-hotel-llc-dba-aloft-hotels": {
-  "website": null,
-  "company_phone": null,
-  "company_email": null,
+  "website": "https://midashospitality.com",
+  "company_phone": "314-692-0100",
+  "company_email": "info@midashospitality.com",
   "property_manager": "Wave Development (Ed Carow)",
   "contacts": [
    {
@@ -4378,7 +4471,7 @@
   "sources": {
    "website": null,
    "company_phone": null,
-   "company_email": null,
+   "company_email": "https://leadiq.com/c/midas-hospitality/5a1d98b723000059008759f1",
    "property_manager": "https://urbanmilwaukee.com/building/aloft/"
   }
  },
@@ -4407,7 +4500,7 @@
   "website": null,
   "company_phone": "(414) 354-3800",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Arthur (Art) van Zanten",
@@ -4415,25 +4508,32 @@
     "email": null,
     "phone": "(414) 354-3800",
     "source": "https://www.buzzfile.com/business/Holland-Beauty-414-354-3800"
+   },
+   {
+    "name": "Art Veldhuyzen Van Zanten",
+    "title": "President",
+    "email": null,
+    "phone": "414-354-3800",
+    "source": "https://www.city-data.com/milwaukee/N/N-87th-Street-41.html"
    }
   ],
   "sources": {
    "website": null,
    "company_phone": "https://www.buzzfile.com/business/Holland-Beauty-414-354-3800",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://www.city-data.com/milwaukee/N/N-87th-Street-41.html"
   }
  },
  "entity-public-storage-inc-dept-pt-wi-26429": {
   "website": "https://www.publicstorage.com/self-storage-wi-milwaukee/1376.html",
   "company_phone": "(414) 395-0259",
-  "company_email": null,
+  "company_email": "customerservice@publicstorage.com",
   "property_manager": "Public Storage",
   "contacts": [],
   "sources": {
    "website": "https://www.publicstorage.com/self-storage-wi-milwaukee/1376.html",
    "company_phone": "https://www.publicstorage.com/self-storage-wi-milwaukee/1376.html",
-   "company_email": null,
+   "company_email": "https://www.elliott.org/company-contacts/public-storage/",
    "property_manager": "https://www.publicstorage.com/self-storage-wi-milwaukee/1376.html"
   }
  },
@@ -4452,16 +4552,17 @@
  },
  "entity-lcm-funds-state-street-llc-mbmw-state-street-llc": {
   "website": "https://www.lcmfunds.com/",
-  "company_phone": null,
-  "company_email": null,
+  "company_phone": "414-271-2520",
+  "company_email": "info@lcmfunds.com",
   "property_manager": "LCM Funds Real Estate LLC",
   "contacts": [
    {
     "name": "David Winograd",
     "title": "Principal (LCM Funds Real Estate)",
-    "email": null,
+    "email": "davidw@lcmfunds.com",
     "phone": null,
-    "source": "https://urbanmilwaukee.com/2025/02/10/here-comes-wauwatosa-self-storage/"
+    "source": "https://urbanmilwaukee.com/2025/02/10/here-comes-wauwatosa-self-storage/",
+    "email_source": "https://www.zoominfo.com/pic/lcm-funds/405013956"
    },
    {
     "name": "Scott J. Revolinski",
@@ -4474,7 +4575,7 @@
   "sources": {
    "website": "https://www.lcmfunds.com/",
    "company_phone": null,
-   "company_email": null,
+   "company_email": "https://www.lcmfunds.com/",
    "property_manager": "https://www.lcmfunds.com/"
   }
  },
@@ -4494,14 +4595,22 @@
  "entity-community-care-inc": {
   "website": "https://www.communitycareinc.org/",
   "company_phone": "(414) 231-4000",
-  "company_email": null,
-  "property_manager": null,
-  "contacts": [],
+  "company_email": "kenneth.munson@communitycareinc.org",
+  "property_manager": "Self-managed / owner-occupied",
+  "contacts": [
+   {
+    "name": "Kenneth Munson",
+    "title": "Chief Executive Officer",
+    "email": "kenneth.munson@communitycareinc.org",
+    "phone": null,
+    "source": "https://www.zoominfo.com/c/community-care-inc/21317812"
+   }
+  ],
   "sources": {
    "website": "https://www.communitycareinc.org/contact/locations/milwaukee-county",
    "company_phone": "https://www.communitycareinc.org/contact/locations/milwaukee-county",
-   "company_email": null,
-   "property_manager": null
+   "company_email": "https://www.zoominfo.com/c/community-care-inc/21317812",
+   "property_manager": "https://www.communitycareinc.org/"
   }
  },
  "entity-222-property-owner-llc": {
@@ -4570,8 +4679,8 @@
  "entity-bishop-s-creek-community-development-corporation": {
   "website": "http://www.bishopscreek.com",
   "company_phone": "(414) 466-1600",
-  "company_email": null,
-  "property_manager": null,
+  "company_email": "darendaniels@rocketmail.com",
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Themba Muzondo",
@@ -4584,15 +4693,15 @@
   "sources": {
    "website": "https://www.guidestar.org/profile/20-1150352",
    "company_phone": "https://www.guidestar.org/profile/20-1150352",
-   "company_email": null,
-   "property_manager": null
+   "company_email": "https://www.yumpu.com/en/document/view/22924263/bishops-creek-press-release-commonbond-communities",
+   "property_manager": "https://www.charitynavigator.org/ein/201150352"
   }
  },
  "entity-rubin-224-east-chicago-llc": {
   "website": null,
-  "company_phone": null,
+  "company_phone": "414-278-8100",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Robert Rubin",
@@ -4600,20 +4709,27 @@
     "email": null,
     "phone": null,
     "source": "https://urbanmilwaukee.com/2026/09/18/property-sold-for-planned-third-ward-hotel/"
+   },
+   {
+    "name": "Bob Rubin",
+    "title": "Owner",
+    "email": null,
+    "phone": "414-278-8100",
+    "source": "https://www.chamberofcommerce.com/united-states/wisconsin/milwaukee/furniture-store/2001113817-rubin-s-furniture"
    }
   ],
   "sources": {
    "website": null,
    "company_phone": null,
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://www.city-data.com/milwaukee/E/E-Chicago-Street-1.html"
   }
  },
  "entity-coakley-bros-co": {
   "website": "https://coakleybrothers.com/",
   "company_phone": "(414) 278-7060",
   "company_email": "info@coakleybrothers.com",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Peggy Coakley",
@@ -4627,14 +4743,14 @@
    "website": "https://coakleybrothers.com/",
    "company_phone": "https://www.bbb.org/us/wi/milwaukee/profile/moving-companies/coakley-brothers-company-0694-5000667",
    "company_email": "https://coakleybrothers.com/contact/",
-   "property_manager": null
+   "property_manager": "https://coakleybrothers.com/"
   }
  },
  "entity-savtri-hospitality-milwaukee-llc": {
   "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/milwaukee/mkepp/hoteldetail",
   "company_phone": "(414) 979-0250",
   "company_email": "mkepp@savtri.com",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied (Savtri Hospitality)",
   "contacts": [
    {
     "name": "Clare Albrecht",
@@ -4648,7 +4764,7 @@
    "website": "https://www.ihg.com/holidayinnexpress/hotels/us/en/milwaukee/mkepp/hoteldetail",
    "company_phone": "https://www.travelweekly.com/Hotels/Milwaukee/Holiday-Inn-Express-Suites-Park-Place-p57870491",
    "company_email": "https://www.travelweekly.com/Hotels/Milwaukee/Holiday-Inn-Express-Suites-Park-Place-p57870491",
-   "property_manager": null
+   "property_manager": "https://www.ihg.com/holidayinnexpress/hotels/us/en/milwaukee/mkepp/hoteldetail"
   }
  },
  "entity-jbc-7-llc": {
@@ -4675,8 +4791,8 @@
  "entity-ambassador-enterprises-llc": {
   "website": "https://ambassadorhotelmke.com/",
   "company_phone": "(414) 345-5000",
-  "company_email": null,
-  "property_manager": null,
+  "company_email": "guestservices@ambassadormilwaukee.com",
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Richard Wiegand",
@@ -4696,15 +4812,15 @@
   "sources": {
    "website": "https://ambassadorhotelmke.com/contact-us",
    "company_phone": "https://www.bbb.org/us/wi/milwaukee/profile/hotels/ambassador-hotel-0694-4020178",
-   "company_email": null,
-   "property_manager": null
+   "company_email": "https://www.ambassadorhotelmke.com/hotel-contacts",
+   "property_manager": "https://www.bbb.org/us/wi/milwaukee/profile/hotels/ambassador-hotel-0694-4020178"
   }
  },
  "entity-howell-avenue-fos-lodging-associates-llc": {
   "website": "https://www.hilton.com/en/hotels/mkegigi-hilton-garden-inn-milwaukee-airport/",
   "company_phone": "414-481-8280",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Raymond Management Company",
   "contacts": [
    {
     "name": "Cheryl Clarke",
@@ -4718,14 +4834,14 @@
    "website": "https://www.mapquest.com/us/wisconsin/hilton-garden-inn-milwaukee-airport-264769711",
    "company_phone": "https://cage.report/CAGE/81X32",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://urbanmilwaukee.com/2025/09/16/developer-buys-large-site-near-airport/"
   }
  },
  "entity-roadster-bay-llc-attn-christopher-m-coakley": {
   "website": "https://www.ccoakley.com",
   "company_phone": "414-272-4040",
   "company_email": "info@ccoakley.com",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Christopher Coakley",
@@ -4733,34 +4849,42 @@
     "email": "ccoakley@ccoakley.com",
     "phone": "414-323-8065",
     "source": "https://www.zoominfo.com/p/Christopher-Coakley/189121711"
+   },
+   {
+    "name": "Christopher M. Coakley",
+    "title": "Owner / Principal (C. Coakley Relocation Systems)",
+    "email": null,
+    "phone": "414-272-4040",
+    "source": "https://www.ccoakley.com/contact"
    }
   ],
   "sources": {
    "website": "https://www.ccoakley.com/contact",
    "company_phone": "https://www.ccoakley.com/six-three-four-E-Keefe-Ave",
    "company_email": "https://www.ccoakley.com/contact",
-   "property_manager": null
+   "property_manager": "https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=ROADSTER+BAY+LLC"
   }
  },
  "entity-scripps-media-inc": {
   "website": "https://www.tmj4.com",
   "company_phone": "414-332-9611",
   "company_email": "tmj4feedback@scripps.com",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Joe Poss",
     "title": "Regional Vice President/General Manager, WTMJ (Scripps Media)",
-    "email": null,
+    "email": "joe.poss@tmj4.com",
     "phone": "414-332-9611",
-    "source": "https://ewscrippsco.freshdesk.com/support/solutions/articles/5000716996-contact-the-station"
+    "source": "https://ewscrippsco.freshdesk.com/support/solutions/articles/5000716996-contact-the-station",
+    "email_source": "https://www.tmj4.com/about/contact-us"
    }
   ],
   "sources": {
    "website": "https://www.tmj4.com/about/contact-us",
    "company_phone": "https://www.tmj4.com/about/contact-us",
    "company_email": "https://www.tmj4.com/about/contact-us",
-   "property_manager": null
+   "property_manager": "https://www.tmj4.com/about/contact-us"
   }
  },
  "entity-giuffre-xix-llc": {
@@ -4788,7 +4912,7 @@
   "website": "https://stcharlesinc.org",
   "company_phone": "414-476-3710",
   "company_email": "info@stcharlesinc.org",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Cathy Connolly",
@@ -4802,7 +4926,7 @@
    "website": "https://stcharlesinc.org/contact-us/",
    "company_phone": "https://stcharlesinc.org/contact-us/",
    "company_email": "https://stcharlesinc.org/contact-us/",
-   "property_manager": null
+   "property_manager": "https://stcharlesinc.org/contact-us/"
   }
  },
  "entity-christopher-m-coakley-c-o-c-coakley-relocation": {
@@ -4829,7 +4953,7 @@
  "entity-740-plankinton-llc-attn-billing": {
   "website": "https://www.3lliving.com",
   "company_phone": "312-922-3600",
-  "company_email": null,
+  "company_email": "info.MKE@3lliving.com",
   "property_manager": "3L Real Estate (3L Living)",
   "contacts": [
    {
@@ -4843,7 +4967,7 @@
   "sources": {
    "website": "https://www.3lliving.com/740-north",
    "company_phone": "https://www.bbb.org/us/il/des-plaines/profile/real-estate/3l-real-estate-0654-1000012094",
-   "company_email": null,
+   "company_email": "https://www.3lliving.com/contact",
    "property_manager": "https://www.3lliving.com/740-north"
   }
  },
@@ -4871,7 +4995,7 @@
  "entity-hf-of-1-llc": {
   "website": "https://www.hammes.com/",
   "company_phone": "(414) 509-2500",
-  "company_email": null,
+  "company_email": "info@hammes.com",
   "property_manager": "Hammes Company / Hammes Realty Services, LLC",
   "contacts": [
    {
@@ -4885,15 +5009,15 @@
   "sources": {
    "website": "https://www.hammes.com/our-work/milwaukee-center",
    "company_phone": "https://www.mapquest.com/us/wisconsin/hammes-company-421672765",
-   "company_email": null,
+   "company_email": "https://www.hammes.com/contact-us",
    "property_manager": "https://opengovwa.com/corporation/603405192"
   }
  },
  "entity-st-ann-center-properties-inc-attn-sr-edna-lonegan": {
   "website": "https://stanncenter.org/",
   "company_phone": "(414) 210-2450",
-  "company_email": null,
-  "property_manager": null,
+  "company_email": "rfelden@stanncenter.org",
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Edna Lonergan",
@@ -4906,8 +5030,8 @@
   "sources": {
    "website": "https://stanncenter.org/about/stein-campus/",
    "company_phone": "https://www.yelp.com/biz/st-ann-center-for-intergenerational-care-milwaukee-3",
-   "company_email": null,
-   "property_manager": null
+   "company_email": "https://myadultdaycare.com/request-info/St-Ann-Center-for-Intergenerational-Care",
+   "property_manager": "https://stanncenter.org/"
   }
  },
  "entity-windmill-hill-llc-c-o-rudbeck-properties-inc": {
@@ -4932,9 +5056,9 @@
   }
  },
  "entity-braeger-real-estate-llc": {
-  "website": null,
+  "website": "http://www.braeger.com",
   "company_phone": "(414) 281-5000",
-  "company_email": null,
+  "company_email": "jenders@braeger.com",
   "property_manager": "Braeger Automotive Group (owner-occupant; now Lake Auto Group)",
   "contacts": [
    {
@@ -4955,7 +5079,7 @@
   "sources": {
    "website": null,
    "company_phone": "https://www.superpages.com/milwaukee-wi/bpp/braeger-chevrolet-457162076",
-   "company_email": null,
+   "company_email": "https://www.superpages.com/milwaukee-wi/bpp/braeger-chevrolet-457162076",
    "property_manager": "https://www.manta.com/c/mm66jjq/braeger-automotive-group"
   }
  },
@@ -4964,7 +5088,15 @@
   "company_phone": "(414) 461-9100",
   "company_email": null,
   "property_manager": "JFTCO Inc dba Fabick Cat (owner-occupant)",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Herman \"Bud\" Seufzer",
+    "title": "Sales Representative",
+    "email": "herman.seufzer@fabickcat.com",
+    "phone": "608-212-9373",
+    "source": "https://www.constructionequipmentguide.com/dealers/alllocations/fabick-cat/1842"
+   }
+  ],
   "sources": {
    "website": "https://www.spectralasers.com/dealer-locator/jftco-inc-dba-fabick-cat/",
    "company_phone": "https://vektortms.com/directory/trucking-companies/jftco-inc-usdot-2724153",
@@ -4996,13 +5128,13 @@
  "entity-public-storage-institutional-fund-ii": {
   "website": "https://www.publicstorage.com/",
   "company_phone": "(818) 244-8080",
-  "company_email": null,
+  "company_email": "investorrelations@publicstorage.com",
   "property_manager": "Public Storage (self-managed REIT)",
   "contacts": [],
   "sources": {
    "website": "https://www.publicstorage.com/real-estate/real-estate.html",
    "company_phone": "https://headquarterlocation.com/california/public-storage-headquarters-corporate-office/",
-   "company_email": null,
+   "company_email": "https://investors.publicstorage.com/investor-relations/",
    "property_manager": "https://en.wikipedia.org/wiki/Public_Storage"
   }
  },
@@ -5028,6 +5160,13 @@
    {
     "name": "John M. Silseth",
     "title": "President, Antietam LLC (controlling owner)",
+    "email": null,
+    "phone": null,
+    "source": "https://urbanmilwaukee.com/people/john-silseth/"
+   },
+   {
+    "name": "John Silseth",
+    "title": "President, Antietam LLC",
     "email": null,
     "phone": null,
     "source": "https://urbanmilwaukee.com/people/john-silseth/"
@@ -5057,13 +5196,13 @@
   "website": null,
   "company_phone": "(414) 482-4444",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": null,
    "company_phone": "https://www.mapquest.com/us/wisconsin/holiday-inn-suites-milwaukee-airport-an-ihg-hotel-265029459",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://www.federalpay.org/paycheck-protection-program/dev-management-llc-milwaukee-wi"
   }
  },
  "entity-fulcrum-250-east-llc-c-o-millbrook-properties": {
@@ -5098,7 +5237,7 @@
   "website": null,
   "company_phone": null,
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Eric Schlueter",
@@ -5112,7 +5251,7 @@
    "website": null,
    "company_phone": null,
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=C%2FO+ERIC+SCHLUETER"
   }
  },
  "entity-milwaukee-nursing-realty-llc": {
@@ -5138,7 +5277,7 @@
  },
  "entity-rj-1800-llc": {
   "website": "https://edgeonnorth.com",
-  "company_phone": null,
+  "company_phone": "414-988-7892",
   "company_email": null,
   "property_manager": "Joseph Property Development",
   "contacts": [
@@ -5148,6 +5287,13 @@
     "email": null,
     "phone": "(414) 277-7771",
     "source": "https://urbanmilwaukee.com/business/joseph-property-development/"
+   },
+   {
+    "name": "Nicole Butler",
+    "title": "Property Manager",
+    "email": null,
+    "phone": null,
+    "source": "https://www.zoominfo.com/p/Nicole-Butler/13133042235"
    }
   ],
   "sources": {
@@ -5158,10 +5304,10 @@
   }
  },
  "entity-the-villa-at-bradley-estates-realty-llc": {
-  "website": null,
+  "website": "https://www.villaatbradleyestates.com",
   "company_phone": "(414) 354-3300",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "EOM Healthcare Group (facility operator)",
   "contacts": [
    {
     "name": "Jacob Jeidel",
@@ -5182,7 +5328,7 @@
    "website": null,
    "company_phone": "https://nursa.com/facilities/villa-at-bradley-estates-the-milwaukee-wi",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://www.eomhealthcaregroup.com/"
   }
  },
  "entity-mke-warehouse-1-investors-llc-mke-warehouse-1-llc": {
@@ -5231,13 +5377,13 @@
   "website": "https://www.hrcogic.org",
   "company_phone": "(414) 466-1600",
   "company_email": "info@hrcogic.org",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://www.hrcogic.org/contact",
    "company_phone": "https://www.yelp.com/biz/holy-redeemer-christian-academy-milwaukee",
    "company_email": "https://www.hrcogic.org/contact",
-   "property_manager": null
+   "property_manager": "https://www.hrcogic.org/christian-academy"
   }
  },
  "entity-mil-pro-llc": {
@@ -5264,21 +5410,22 @@
  "entity-the-saddlery-llp-c-o-pieper-properties": {
   "website": "https://pieperproperties.com",
   "company_phone": "(414) 220-9870",
-  "company_email": null,
+  "company_email": "ann@pieperproperties.com",
   "property_manager": "Pieper Properties, Inc.",
   "contacts": [
    {
     "name": "Ann Pieper Eisenbrown",
     "title": "President / Owner, Pieper Properties",
-    "email": null,
+    "email": "ann@pieperproperties.com",
     "phone": "(414) 220-9870",
-    "source": "https://pieperproperties.com/commercial-properties/the-saddlery/"
+    "source": "https://pieperproperties.com/commercial-properties/the-saddlery/",
+    "email_source": "http://www.pieperproperties.com/contact.html"
    }
   ],
   "sources": {
    "website": "https://pieperproperties.com/commercial-properties/the-saddlery/",
    "company_phone": "https://www.bbb.org/us/wi/milwaukee/profile/property-management/pieper-properties-0694-1000036013",
-   "company_email": null,
+   "company_email": "http://www.pieperproperties.com/contact.html",
    "property_manager": "https://pieperproperties.com/commercial-properties/the-saddlery/"
   }
  },
@@ -5307,7 +5454,7 @@
   "website": "https://www.mkeacademy.org/",
   "company_phone": "(414) 369-2193",
   "company_email": "info@mkeacademy.com",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "John Swaffer",
@@ -5326,7 +5473,7 @@
  },
  "entity-park-place-hospitality-llc": {
   "website": "http://parkplacehg.com/",
-  "company_phone": null,
+  "company_phone": "414-359-1086",
   "company_email": null,
   "property_manager": "Park Place Hospitality LLC (self-managed Hilton Garden Inn, owner through late Jan 2026)",
   "contacts": [
@@ -5357,6 +5504,13 @@
     "email": null,
     "phone": "(414) 803-3866",
     "source": "https://www.buzzfile.com/business/The-Druml-Company-LLC-414-803-3866"
+   },
+   {
+    "name": "Daniel Druml",
+    "title": "Principal",
+    "email": null,
+    "phone": "414-406-0367",
+    "source": "https://www.buzzfile.com/business/Druml-Marine-LLC-414-406-0367"
    }
   ],
   "sources": {
@@ -5418,13 +5572,13 @@
  "entity-milwaukee-mlk-llc-c-o-prairie-management": {
   "website": "https://www.prairiemgmt.com/",
   "company_phone": "(414) 354-7519",
-  "company_email": null,
+  "company_email": "info@prairiemgmt.com",
   "property_manager": "Prairie Management & Development, Inc.",
   "contacts": [],
   "sources": {
    "website": "https://www.prairiemgmt.com/",
    "company_phone": "https://www.mapquest.com/us/wisconsin/prairie-management-developement-430057376",
-   "company_email": null,
+   "company_email": "https://www.prairiemgmt.com/contact/",
    "property_manager": "https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=C%2FO+PRAIRIE+MANAGEMENT"
   }
  },
@@ -5493,7 +5647,7 @@
  "entity-100-south-2nd-street-llc": {
   "website": "https://www.jjeffers.com/",
   "company_phone": "(414) 501-5610",
-  "company_email": null,
+  "company_email": "information@jjeffers.com",
   "property_manager": "J. Jeffers & Co.",
   "contacts": [
    {
@@ -5507,7 +5661,7 @@
   "sources": {
    "website": "https://www.jjeffers.com/",
    "company_phone": "https://www.procore.com/network/p/j-jeffers-and-co-milwaukee",
-   "company_email": null,
+   "company_email": "https://www.jjeffers.com/contact",
    "property_manager": "https://biztimes.com/who-really-owns-it-milwaukee-cold-storage-co-warehouse/"
   }
  },
@@ -5536,7 +5690,7 @@
   "website": "https://www.hansenstorage.com",
   "company_phone": "(414) 476-9221",
   "company_email": "info@hansenstorage.com",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "William C Hansen",
@@ -5557,7 +5711,7 @@
   "website": "https://www.salvationarmyusa.org/usa-central-territory/wisconsin-and-upper-michigan/",
   "company_phone": "(414) 302-4300",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Andrea Grittner",
@@ -5599,7 +5753,7 @@
   "website": null,
   "company_phone": null,
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Brian Emmert",
@@ -5632,13 +5786,13 @@
  "entity-milw-prospect-llc-c-o-prairie-mgmt-dev-inc": {
   "website": "http://www.prairiemgmt.com",
   "company_phone": "(414) 354-7519",
-  "company_email": null,
+  "company_email": "info@prairiemgmt.com",
   "property_manager": "Prairie Management & Development, Inc.",
   "contacts": [],
   "sources": {
    "website": "https://www.datanyze.com/companies/prairie-management/357840945",
    "company_phone": "https://www.datanyze.com/companies/prairie-management/357840945",
-   "company_email": null,
+   "company_email": "https://www.prairiemgmt.com/contact/",
    "property_manager": "https://www.dnb.com/business-directory/company-profiles.prairie_management__development_inc.323c9bf58e49d9bdca669b0fc1bb0f9f.html"
   }
  },
@@ -5673,7 +5827,15 @@
   "company_phone": "(516) 223-6200",
   "company_email": null,
   "property_manager": "United Properties Corp.",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Denis Rodger",
+    "title": "President & CEO, United Properties Corp.",
+    "email": null,
+    "phone": "516-223-6200",
+    "source": "https://biztimes.com/river-west-center-on-east-capitol-drive-sold-for-9-million/"
+   }
+  ],
   "sources": {
    "website": "https://nyrej.com/directory/united-properties-corp",
    "company_phone": "https://www.yelp.com/biz/united-properties-corp-east-meadow",
@@ -5685,7 +5847,7 @@
   "website": "https://familypeacecenter.org",
   "company_phone": "414-276-1911",
   "company_email": "peace@familypeacecenter.org",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://familypeacecenter.org/contact/",
@@ -5698,7 +5860,7 @@
   "website": null,
   "company_phone": "414-760-3771",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Pai Yang",
@@ -5789,6 +5951,13 @@
     "email": null,
     "phone": "262-842-0456",
     "source": "https://www.hotel-online.com/press_releases/release/developed-and-owned-by-button-block-holdings-llc-and-managed-by-kinseth-hos/"
+   },
+   {
+    "name": "John Reinhart",
+    "title": "VP of Accounting, Bear Real Estate Group",
+    "email": null,
+    "phone": null,
+    "source": "https://www.linkedin.com/in/johnreinhartcpa/"
    }
   ],
   "sources": {
@@ -5801,13 +5970,13 @@
  "entity-broadway-theatre-llc": {
   "website": "https://www.skylightmusictheatre.org",
   "company_phone": "414-291-7800",
-  "company_email": null,
+  "company_email": "info@skylightmusictheatre.org",
   "property_manager": "Skylight Music Theatre (owner/operator)",
   "contacts": [],
   "sources": {
    "website": "https://shepherdexpress.com/locations/broadway-theatre-center/",
    "company_phone": "https://www.yelp.com/biz/broadway-theatre-center-milwaukee",
-   "company_email": null,
+   "company_email": "https://www.visitmilwaukee.org/listing/skylight-music-theatre-at-the-broadway-theatre-center/339/",
    "property_manager": "https://www.travelwisconsin.com/things-to-do/culture-arts/performance-venues/broadway-theatre-center"
   }
  },
@@ -5862,7 +6031,7 @@
   "website": "https://www.nextdoormke.org",
   "company_phone": "414-562-2929",
   "company_email": "mseigle@nextdoormke.org",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "M. Seigle",
@@ -5876,13 +6045,13 @@
    "website": "https://www.nextdoormke.org/contact-us/",
    "company_phone": "https://associations-and-foundations.cmac.ws/next-door-foundation/9674/",
    "company_email": "https://www.nextdoormke.org/contact-us/",
-   "property_manager": null
+   "property_manager": "https://www.nextdoormke.org/contact-us/"
   }
  },
  "entity-saxony-van-buren-llc": {
   "website": "http://saxonycap.com",
-  "company_phone": null,
-  "company_email": null,
+  "company_phone": "(773) 687-8333",
+  "company_email": "info@saxonyproperties.com",
   "property_manager": "Saxony Capital, LLC (owner/sponsor)",
   "contacts": [
    {
@@ -5896,7 +6065,7 @@
   "sources": {
    "website": "https://www.linkedin.com/company/saxony-capital-llc",
    "company_phone": null,
-   "company_email": null,
+   "company_email": "https://www.dnb.com/business-directory/company-profiles.saxony_properties_llc.cc6ac4e4637f53b09da59a349068297b.html",
    "property_manager": "https://urbanmilwaukee.com/building/humphrey-scottish-rite-masonic-center/"
   }
  },
@@ -5964,7 +6133,7 @@
   "website": "https://afcichurch.com",
   "company_phone": "(414) 464-5001",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Robert Pyles",
@@ -5978,14 +6147,14 @@
    "website": "https://afcichurch.com",
    "company_phone": "https://www.yellowpages.com/milwaukee-wi/mip/abundant-faith-chr-integrity-497169715",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://shermanpark.org/venue/abundant-faith-church-of-integrity/"
   }
  },
  "entity-millercoors-usa-llc-attention": {
   "website": "https://molsoncoors.com",
   "company_phone": "(414) 931-2000",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied (Molson Coors)",
   "contacts": [],
   "sources": {
    "website": "https://molsoncoors.com",
@@ -6024,7 +6193,7 @@
   "website": "https://www.independencefirst.org",
   "company_phone": "(414) 291-7520",
   "company_email": "info@independencefirst.org",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Marci Boucher",
@@ -6038,7 +6207,7 @@
    "website": "https://www.independencefirst.org/IndependenceFirst/Contact-Us.htm",
    "company_phone": "https://www.independencefirst.org/IndependenceFirst/Contact-Us.htm",
    "company_email": "https://www.independencefirst.org/IndependenceFirst/Contact-Us.htm",
-   "property_manager": null
+   "property_manager": "https://www.independencefirst.org/IndependenceFirst/Contact-Us.htm"
   }
  },
  "entity-howell-avenue-es-lodging-associates-llc": {
@@ -6058,26 +6227,42 @@
   "website": "https://hmong-town.com/",
   "company_phone": "(414) 897-4082",
   "company_email": null,
-  "property_manager": null,
-  "contacts": [],
+  "property_manager": "Self-managed / owner-occupied",
+  "contacts": [
+   {
+    "name": "Moses Thao",
+    "title": "Registered Agent / Owner",
+    "email": null,
+    "phone": null,
+    "source": "https://urbanmilwaukee.com/business/hmong-town-market/"
+   }
+  ],
   "sources": {
    "website": "https://hmong-town.com/",
    "company_phone": "https://www.yelp.com/biz/hmong-town-milwaukee",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://urbanmilwaukee.com/business/hmong-town-market/"
   }
  },
  "entity-coa-youth-and-family-centers-inc-fka-children-s-outing-association": {
   "website": "https://www.coa-yfc.org/",
   "company_phone": "(414) 263-8383",
   "company_email": "info@coa-yfc.org",
-  "property_manager": null,
-  "contacts": [],
+  "property_manager": "Self-managed / owner-occupied",
+  "contacts": [
+   {
+    "name": "Dr. Amy J. Rowell",
+    "title": "CEO",
+    "email": "arowell@coa-yfc.org",
+    "phone": "414-202-9480",
+    "source": "https://www.coa-yfc.org/media-kit"
+   }
+  ],
   "sources": {
    "website": "https://www.coa-yfc.org/privacy-policy",
    "company_phone": "https://www.yelp.com/biz/coa-youth-and-family-centers-milwaukee",
    "company_email": "https://www.coa-yfc.org/privacy-policy",
-   "property_manager": null
+   "property_manager": "https://www.coa-yfc.org/"
   }
  },
  "entity-grand-central-farms-llc-c-o-ogden-company": {
@@ -6110,7 +6295,7 @@
   "website": "https://www.cintas.com",
   "company_phone": "513-459-1200",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied (Cintas Corp)",
   "contacts": [
    {
     "name": "Jared S. Mattingley",
@@ -6131,7 +6316,7 @@
   "website": "https://www.hfca.org",
   "company_phone": "414-873-4014",
   "company_email": "contact@hfca.org",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Rodney Lynk Jr.",
@@ -6145,7 +6330,7 @@
    "website": "https://www.findglocal.com/US/Milwaukee/524840354322360/Dr.-Howard-Fuller-Collegiate-Academy",
    "company_phone": "https://www.findglocal.com/US/Milwaukee/524840354322360/Dr.-Howard-Fuller-Collegiate-Academy",
    "company_email": "https://www.findglocal.com/US/Milwaukee/524840354322360/Dr.-Howard-Fuller-Collegiate-Academy",
-   "property_manager": null
+   "property_manager": "https://hfca.org/contact-us/"
   }
  },
  "entity-manchester-suites-hotel": {
@@ -6207,33 +6392,33 @@
   "website": "https://www.milwaukeerep.com",
   "company_phone": "414-224-1761",
   "company_email": "reception@milwaukeerep.com",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://www.milwaukeerep.com/about-us/contact-us",
    "company_phone": "https://www.milwaukeerep.com/about-us/contact-us",
    "company_email": "https://www.milwaukeerep.com/about-us/contact-us",
-   "property_manager": null
+   "property_manager": "https://www.milwaukeerep.com/about-us/contact-us"
   }
  },
  "entity-midland-paper-company": {
   "website": "https://www.midlandpaper.com",
   "company_phone": "414-434-7114",
   "company_email": "custservice@midlandpaper.com",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://www.midlandco.com/about-us/contact-us/",
    "company_phone": "https://www.yellowpages.com/milwaukee-wi/mip/midland-paper-m-20853500",
    "company_email": "https://www.yellowpages.com/milwaukee-wi/mip/midland-paper-m-20853500",
-   "property_manager": null
+   "property_manager": "https://www.midlandpaper.com"
   }
  },
  "entity-griffin-am-llc": {
   "website": "https://www.griffinchevy.com",
   "company_phone": "414-434-5000",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Jim Griffin",
@@ -6241,25 +6426,32 @@
     "email": null,
     "phone": "414-434-5000",
     "source": "https://www.zoominfo.com/c/griffin-chevrolet/370216942"
+   },
+   {
+    "name": "Dawn Stallman",
+    "title": "General Manager",
+    "email": "dstallman@griffinchevy.com",
+    "phone": null,
+    "source": "https://leadiq.com/c/griffin-chevrolet/6446e6167aa4183156e34457/email-format"
    }
   ],
   "sources": {
    "website": "https://www.milwaukeeautomalls.com/milwaukee-dealer-info/griffin-chevrolet-53224/",
    "company_phone": "https://www.superpages.com/milwaukee-wi/bpp/griffin-chevrolet-515011287",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://www.griffinchevy.com"
   }
  },
  "entity-public-storage-properties-ix-inc": {
   "website": "https://www.publicstorage.com",
   "company_phone": "818-244-8080",
-  "company_email": null,
+  "company_email": "investor@publicstorage.com",
   "property_manager": "Public Storage",
   "contacts": [],
   "sources": {
    "website": "https://corporateofficelocations.us/california/public-storage-corporate-office/",
    "company_phone": "https://corporateofficelocations.us/california/public-storage-corporate-office/",
-   "company_email": null,
+   "company_email": "https://investors.publicstorage.com/resources/faqs/default.aspx",
    "property_manager": "https://corporateofficelocations.us/california/public-storage-corporate-office/"
   }
  },
@@ -6289,7 +6481,15 @@
   "company_phone": "(414) 224-5010",
   "company_email": null,
   "property_manager": "Van Buren Management, Inc.",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Rod Rinzel",
+    "title": "Director of Development, Van Buren Management",
+    "email": "rrinzel@vanburenmanagement.com",
+    "phone": "(414) 224-5010",
+    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info"
+   }
+  ],
   "sources": {
    "website": "https://www.vbmre.com/",
    "company_phone": "https://chamberofcommerce.com/milwaukee-wi/6304634-van-buren-management-inc",
@@ -6301,25 +6501,25 @@
   "website": "https://cfihope.org/",
   "company_phone": "414-937-2020",
   "company_email": "info@mcfi.net",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://cfihope.org/contact-us/",
    "company_phone": "https://lifenavigators.org/community-resources/milwaukee-center-for-independence/",
    "company_email": "https://cfihope.org/contact-us/",
-   "property_manager": null
+   "property_manager": "https://cfihope.org/"
   }
  },
  "entity-public-storage-properties-vii-ltd": {
   "website": "https://www.publicstorage.com/",
   "company_phone": "1-800-688-8057",
-  "company_email": null,
+  "company_email": "investor@publicstorage.com",
   "property_manager": "Public Storage (self-managed)",
   "contacts": [],
   "sources": {
    "website": "https://www.publicstorage.com/",
    "company_phone": "https://public-storage.pissedconsumer.com/customer-service.html",
-   "company_email": null,
+   "company_email": "https://investors.publicstorage.com/resources/faqs/default.aspx",
    "property_manager": "https://en.wikipedia.org/wiki/Public_Storage"
   }
  },
@@ -6349,7 +6549,15 @@
   "company_phone": "(414) 224-5010",
   "company_email": null,
   "property_manager": "Van Buren Management, Inc.",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Rod Rinzel",
+    "title": "Director of Development, Van Buren Management",
+    "email": "rrinzel@vanburenmanagement.com",
+    "phone": "(414) 224-5010",
+    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info"
+   }
+  ],
   "sources": {
    "website": "https://www.vbmre.com/monroe-building",
    "company_phone": "https://chamberofcommerce.com/milwaukee-wi/6304634-van-buren-management-inc",
@@ -6394,8 +6602,8 @@
  "entity-eei-real-estate-holdings-hope-christian-high-school-llc": {
   "website": "https://www.hopeschools.org/",
   "company_phone": "(414) 377-0430",
-  "company_email": null,
-  "property_manager": null,
+  "company_email": "info@hopeschools.org",
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Andrew Neumann",
@@ -6408,16 +6616,24 @@
   "sources": {
    "website": "https://www.hopeschools.org/",
    "company_phone": "https://www.hopeschools.org/",
-   "company_email": null,
-   "property_manager": null
+   "company_email": "https://www.hopeschools.org/schools",
+   "property_manager": "https://www.hopeschools.org/"
   }
  },
  "entity-839-north-jefferson-street-bldg-llc": {
   "website": "https://founders3.com/property/cathedral-square-office-space/",
-  "company_phone": null,
+  "company_phone": "414-271-1111",
   "company_email": null,
   "property_manager": "Founders 3 Management Company",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Jeanine Sweeney",
+    "title": "Property contact, Founders 3",
+    "email": "jsweeney@founders3.com",
+    "phone": "414-271-1111",
+    "source": "https://founders3.com/property/cathedral-square-office-space/"
+   }
+  ],
   "sources": {
    "website": "https://founders3.com/property/cathedral-square-office-space/",
    "company_phone": null,
@@ -6437,6 +6653,13 @@
     "email": null,
     "phone": null,
     "source": "https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=AES+PROPERTIES+LLC"
+   },
+   {
+    "name": "Deborah J. Scheunemann",
+    "title": "Owner / Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "input record"
    }
   ],
   "sources": {
@@ -6471,20 +6694,20 @@
   "website": "https://www.yelp.com/biz/allied-mortgage-and-services-milwaukee",
   "company_phone": "(414) 442-0170",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://www.yelp.com/biz/allied-mortgage-and-services-milwaukee",
    "company_phone": "https://www.yelp.com/biz/allied-mortgage-and-services-milwaukee",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://www.yelp.com/biz/allied-mortgage-and-services-milwaukee"
   }
  },
  "entity-the-milwaukee-science-education-consortium-inc": {
   "website": "https://www.milwaukeeacademyofscience.org/",
   "company_phone": "(414) 933-1335",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Judy Merryfield",
@@ -6492,39 +6715,46 @@
     "email": null,
     "phone": "(414) 933-1335",
     "source": "https://www.buzzfile.com/business/MILWAUKEE-ACADEMY-OF-SCIENCE-414-933-1335"
+   },
+   {
+    "name": "M. Woods",
+    "title": "Instructional Support (24th Street Campus)",
+    "email": "mwoods@mascience.org",
+    "phone": "414-933-0522",
+    "source": "https://www.milwaukeeacademyofscience.org/24th-street-campus-2/"
    }
   ],
   "sources": {
    "website": "https://www.milwaukeeacademyofscience.org/",
    "company_phone": "https://www.buzzfile.com/business/MILWAUKEE-ACADEMY-OF-SCIENCE-414-933-1335",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://www.milwaukeeacademyofscience.org/24th-street-campus-2/"
   }
  },
  "entity-harley-davidson-motor-co-attn-tax-department": {
   "website": "https://www.harley-davidson.com/",
   "company_phone": "(414) 343-7027",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://www.harley-davidson.com/us/en/experiences/contactus.html",
    "company_phone": "https://www.harley-davidson.com/us/en/experiences/contactus.html",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "https://www.hunzinger.com/portfolio-items/harley-davidson-motor-company-corporate-headquarters/"
   }
  },
  "entity-estes-express-lines-c-o-real-estate-dept": {
   "website": "https://www.estes-express.com/",
   "company_phone": "804-353-1900",
-  "company_email": null,
-  "property_manager": null,
+  "company_email": "teamsocial@estes-express.com",
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://www.headquarters-corporate-office.com/estes-express-lines/",
    "company_phone": "https://www.headquarters-corporate-office.com/estes-express-lines/",
-   "company_email": null,
-   "property_manager": null
+   "company_email": "https://www.estes-express.com/contact",
+   "property_manager": "https://www.estes-express.com/contact"
   }
  },
  "entity-new-prague-partners-llc-c-o-ogden-company-inc": {
@@ -6564,14 +6794,14 @@
  "entity-zurn-water-llc": {
   "website": "https://www.zurn.com",
   "company_phone": "+1-414-808-0100",
-  "company_email": null,
-  "property_manager": null,
+  "company_email": "Corporate.Communications@zurn.com",
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [],
   "sources": {
    "website": "https://www.zurn.com/us/en/contact-us.html",
    "company_phone": "https://maps.apple.com/place?place-id=ID491DF41CC992BFA",
-   "company_email": null,
-   "property_manager": null
+   "company_email": "https://www.zurn.com/us/en/contact-us.html",
+   "property_manager": "https://www.zurn.com/us/en/news-media/press-releases/zurn-elkay-complete-merger.html"
   }
  },
  "entity-colby-abbot-bldg-llp-c-o-charles-f-kahn-jr": {
@@ -6605,13 +6835,13 @@
  "entity-336-n-milwaukee-street-llc-c-o-founders-3-management-co": {
   "website": "https://founders3.com",
   "company_phone": "414-271-1111",
-  "company_email": null,
+  "company_email": "info@founders3.com",
   "property_manager": "Founders 3 Management Company",
   "contacts": [],
   "sources": {
    "website": "https://founders3.com/contact/",
    "company_phone": "https://founders3.com/contact/",
-   "company_email": null,
+   "company_email": "https://founders3.com/contact/",
    "property_manager": "https://founders3.com/contact/"
   }
  },
@@ -6619,7 +6849,7 @@
   "website": "https://lacausa.org",
   "company_phone": "(414) 647-8750",
   "company_email": "AE@lacausa.org",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "La Causa Inc (administration)",
@@ -6633,14 +6863,14 @@
    "website": "https://lacausa.org/",
    "company_phone": "https://lacausa.org/contact-us/",
    "company_email": "https://lacausa.org/contact-us/",
-   "property_manager": null
+   "property_manager": "https://lacausa.org/contact-us/"
   }
  },
  "entity-italian-community-center-inc": {
   "website": "https://www.iccmilwaukee.com",
   "company_phone": "414-223-2180",
   "company_email": "office@iccmilwaukee.com",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Joe Vella",
@@ -6661,14 +6891,14 @@
    "website": "https://www.iccmilwaukee.com/contact-us",
    "company_phone": "https://www.iccmilwaukee.com/contact-us",
    "company_email": "https://www.iccmilwaukee.com/contact-us",
-   "property_manager": null
+   "property_manager": "https://www.iccmilwaukee.com/contact-us"
   }
  },
  "entity-milwaukee-ballet-company-inc": {
   "website": "https://milwaukeeballet.org",
   "company_phone": "414-902-2100",
   "company_email": "connect@milwaukeeballet.org",
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Tai Pauls",
@@ -6682,7 +6912,7 @@
    "website": "https://milwaukeeballet.org/contact",
    "company_phone": "https://milwaukeeballet.org/contact",
    "company_email": "https://milwaukeeballet.org/contact",
-   "property_manager": null
+   "property_manager": "https://milwaukeeballet.org/contact"
   }
  },
  "entity-sbp-i-llc-c-o-inland-companies-inc": {
@@ -6699,10 +6929,10 @@
   }
  },
  "entity-525-properties-ltd-c-o-lloyd-levin": {
-  "website": null,
+  "website": "https://525prop.com/",
   "company_phone": "(262) 241-1140",
   "company_email": null,
-  "property_manager": null,
+  "property_manager": "Self-managed / owner-occupied",
   "contacts": [
    {
     "name": "Lloyd Levin",
@@ -6716,7 +6946,7 @@
    "website": null,
    "company_phone": "https://www.manta.com/c/mhx2ypr/525-properties-limited-partnership",
    "company_email": null,
-   "property_manager": null
+   "property_manager": "http://www.levinprop.com/principal.html"
   }
  },
  "entity-jonas-family-limited-partnership": {
@@ -6766,6 +6996,13 @@
     "email": null,
     "phone": "414-226-3240",
     "source": "https://www.wealthmanagement.com/wealth-management-industry-trends/directory-of-hotel-management-firms"
+   },
+   {
+    "name": "Pat Kasthurirangaian",
+    "title": "Principal",
+    "email": null,
+    "phone": null,
+    "source": "https://biztimes.com/milwaukee-airport-inn-will-be-converted-to-assisted-living-center-2/"
    }
   ],
   "sources": {
@@ -6778,7 +7015,7 @@
  "entity-207-east-michigan-street-llc-c-o-colliers": {
   "website": "https://www.jjeffers.com",
   "company_phone": "(414) 501-5610",
-  "company_email": null,
+  "company_email": "information@jjeffers.com",
   "property_manager": "J. Jeffers & Co.",
   "contacts": [
    {
@@ -6792,7 +7029,7 @@
   "sources": {
    "website": "https://www.jjeffers.com",
    "company_phone": "https://www.bbb.org/us/wi/milwaukee/profile/real-estate-development/j-jeffers-co-llc-0694-1000052138",
-   "company_email": null,
+   "company_email": "https://www.jjeffers.com/contact",
    "property_manager": "https://urbanmilwaukee.com/2025/04/08/historic-mitchell-building-to-be-converted-to-apartments/"
   }
  },

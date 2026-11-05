@@ -1570,6 +1570,14 @@ function emailLine(email, src) {
   if (!email) return '';
   return `<div class="contact-line">${ICON.mail}<a href="mailto:${esc(email)}">${esc(email)}</a>${copyBtn(email, 'email')}${srcHtml(src)}</div>`;
 }
+// Email line for a contact object — flags pattern-inferred (unverified) emails distinctly.
+function contactEmailLine(c) {
+  if (!c.email) return '';
+  if (c.email_inferred) {
+    return `<div class="contact-line" title="Guessed from the company's email pattern — not confirmed">${ICON.mail}<a href="mailto:${esc(c.email)}" style="color:#B45309">${esc(c.email)}</a>${copyBtn(c.email, 'email')} <span class="muted small">unverified · pattern</span></div>`;
+  }
+  return `<div class="contact-line">${ICON.mail}<a href="mailto:${esc(c.email)}">${esc(c.email)}</a>${copyBtn(c.email, 'email')}${srcHtml(c.email_source)}</div>`;
+}
 function phoneLine(phone, src) {
   if (!phone) return '';
   const tel = String(phone).replace(/[^\d+]/g, '');
@@ -1648,7 +1656,7 @@ function buildingHtml(b) {
         <div class="ec-top"><span class="ec-name">${esc(e.name)}</span>${kindPill(e.kind)}</div>
         <div class="ec-stats"><span><b>${fmt(e._b.length)}</b> buildings</span><span><b>${fmt(e._homes)}</b> sq ft</span><span><b>${fmt(e._named)}</b> named</span></div>
         ${bc ? `<div class="contact-line" style="margin-top:8px">${ICON.pin}<span class="val"><b>${esc(clean(bc.name) || 'Contact')}</b>${bc.title ? ` <span class="muted">· ${esc(bc.title)}</span>` : ''}</span></div>
-        ${bc.email ? `<div class="contact-line">${ICON.mail}<span class="val">${esc(bc.email)}</span></div>` : ''}
+        ${bc.email ? `<div class="contact-line">${ICON.mail}<span class="val"${bc.email_inferred?' style="color:#B45309"':''}>${esc(bc.email)}${bc.email_inferred?' <span class="muted small">unverified</span>':''}</span></div>` : ''}
         ${bc.phone ? `<div class="contact-line">${ICON.phone}<span class="val">${esc(bc.phone)}</span></div>` : ''}` : ''}
         ${e.company_email ? `<div class="contact-line">${ICON.mail}<span class="val muted">${esc(e.company_email)}</span></div>` : ''}
         ${e.company_phone ? `<div class="contact-line">${ICON.phone}<span class="val muted">${esc(e.company_phone)}</span></div>` : ''}
@@ -1676,7 +1684,7 @@ function entityHtml(e) {
     html += contacts.map((c) => `<div class="card contact"${c.role === 'leasing' ? ' style="opacity:.62"' : ''}>
       <div class="contact-name">${esc(clean(c.name) || 'Unnamed contact')}${roleTag(c.role)}</div>
       ${c.title ? `<div class="contact-title">${esc(c.title)}</div>` : ''}
-      ${emailLine(c.email, c.email_source)}${phoneLine(c.phone, c.phone_source)}
+      ${contactEmailLine(c)}${phoneLine(c.phone, c.phone_source)}
       ${safeUrl(c.linkedin) ? `<div class="contact-line">${ICON.linkedin}${linkHtml(c.linkedin, 'LinkedIn profile')}</div>` : ''}
     </div>`).join('');
   } else {
@@ -1775,7 +1783,7 @@ function exportBuildings() {
     'Milwaukee ID', 'Address', 'Building name', 'Taxkey', 'Form', 'Class / sector', 'Building type', 'Priority', 'Priority label',
     'Floor area (sq ft)', 'Floors', 'Year built',
     'Owner (City list)', 'Owner source', 'Owner ID', 'Owner kind', 'Research status', 'Portfolio size (buildings)',
-    'Contact status', 'Property manager', 'Best contact name', 'Best contact role', 'Best contact title', 'Best contact email', 'Best contact phone', 'Best contact source',
+    'Contact status', 'Property manager', 'Best contact name', 'Best contact role', 'Best contact title', 'Best contact email', 'Best contact email status', 'Best contact phone', 'Best contact source',
     'Company email', 'Company phone', 'Company website', 'Mailing address', 'Latitude', 'Longitude',
   ];
   const data = rows.map((b) => {
@@ -1785,7 +1793,7 @@ function exportBuildings() {
       b.id, b.address, b.building_name, b.taxkey, b.form, b.sector, b.building_type, b.priority, S.meta.priority_labels ? S.meta.priority_labels[b.priority] : '',
       b.floor_area_sqft, b.floors, b.year_built,
       b.owner, b.owner_source, e && e.id, e && e.kind, e && e.research_status, e && e._b.length,
-      b.contact_status, e && e.property_manager, clean(c.name), c.role, c.title, c.email, c.phone, c.email_source,
+      b.contact_status, e && e.property_manager, clean(c.name), c.role, c.title, c.email, (c.email ? (c.email_inferred ? 'unverified (pattern)' : 'confirmed') : ''), c.phone, c.email_source,
       e && e.company_email, e && e.company_phone, e && e.company_website, e && e.mailing_address,
       b._pos ? b._pos[1].toFixed(6) : '', b._pos ? b._pos[0].toFixed(6) : '',
     ];
@@ -1798,7 +1806,7 @@ function exportOwners() {
   const ranked = rankEntities();
   const header = [
     'Owner ID', 'Name', 'Kind', 'Research status', 'Buildings in view', 'Buildings total', 'Sq ft total', 'Property manager',
-    'Best contact name', 'Best contact role', 'Best contact title', 'Best contact email', 'Best contact phone', 'Best contact source', 'All contacts',
+    'Best contact name', 'Best contact role', 'Best contact title', 'Best contact email', 'Best contact email status', 'Best contact phone', 'Best contact source', 'All contacts',
     'Company email', 'Company phone', 'Company website', 'Mailing address', 'Notes',
   ];
   const data = ranked.map(({ e, n }) => {
@@ -1806,7 +1814,7 @@ function exportOwners() {
     const all = (e._contacts || []).map((x) => [clean(x.name), x.title, x.email, x.phone].filter(Boolean).join(' — ')).join(' | ');
     return [
       e.id, e.name, e.kind, e.research_status, n, e._b.length, e._homes, e.property_manager,
-      clean(c.name), c.role, c.title, c.email, c.phone, c.email_source, all,
+      clean(c.name), c.role, c.title, c.email, (c.email ? (c.email_inferred ? 'unverified (pattern)' : 'confirmed') : ''), c.phone, c.email_source, all,
       e.company_email, e.company_phone, e.company_website, e.mailing_address, e.notes,
     ];
   });
