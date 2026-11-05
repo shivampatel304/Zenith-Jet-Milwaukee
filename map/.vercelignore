@@ -1,0 +1,6 @@
+# Vercel uploads everything here EXCEPT these. data/ is intentionally NOT listed,
+# so the (gitignored) data files are included in the deploy and served behind the PIN.
+.env
+.env.local
+node_modules
+.vercel

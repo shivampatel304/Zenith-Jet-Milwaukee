@@ -182,8 +182,8 @@ function loginPage({ next = '/', error = '', status = 401 } = {}) {
     <div class="mark" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M9 10h14L10 22h13"/></svg></div>
     <h1>Milwaukee Covered Buildings</h1>
     <p>Azzera · internal dashboard</p>
-    <label for="code">Access code</label>
-    <input id="code" name="code" type="password" inputmode="numeric" autocomplete="off" autofocus required>
+    <label for="code">6-digit PIN</label>
+    <input id="code" name="code" type="password" inputmode="numeric" pattern="[0-9]{6}" maxlength="6" minlength="6" placeholder="••••••" autocomplete="off" autofocus required>
     <input type="hidden" name="next" value="${escapeHtml(next)}">
     <button type="submit">Open dashboard</button>
     ${error ? `<div class="error" role="alert">${escapeHtml(error)}</div>` : ''}
