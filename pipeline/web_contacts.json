@@ -1522,14 +1522,22 @@
   }
  },
  "entity-cathedral-place-llc": {
-  "website": null,
-  "company_phone": null,
+  "website": "https://www.vbmre.com",
+  "company_phone": "(414) 224-5010",
   "company_email": null,
   "property_manager": "Van Buren Management",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Joel Lee",
+    "title": "President, Van Buren Management, Inc.",
+    "email": null,
+    "phone": "(414) 224-5010",
+    "source": "https://chamberofcommerce.com/milwaukee-wi/6304634-van-buren-management-inc"
+   }
+  ],
   "sources": {
    "website": null,
-   "company_phone": null,
+   "company_phone": "https://chamberofcommerce.com/milwaukee-wi/6304634-van-buren-management-inc",
    "company_email": null,
    "property_manager": "https://www.commercialcafe.com/commercial-property/us/wi/milwaukee/cathedral-place-1/"
   }
@@ -2377,7 +2385,15 @@
   "company_phone": null,
   "company_email": null,
   "property_manager": "Healthcare Trust of America (Healthcare Realty); building operated on Ascension Columbia St. Mary's campus",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "C T Corporation System",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://ecorp.sos.ga.gov/BusinessSearch (search snippet via WebSearch: HTA affiliate registered agent C T Corporation System, Atlanta GA)"
+   }
+  ],
   "sources": {
    "website": null,
    "company_phone": null,
@@ -2677,11 +2693,19 @@
   }
  },
  "entity-gimbels-partners-llc": {
-  "website": null,
+  "website": "https://hempelcompanies.com",
   "company_phone": null,
   "company_email": null,
   "property_manager": "Interstate Parking (Gimbels Structure)",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Josh Krsnak",
+    "title": "CEO, Hempel Companies (owner affiliate)",
+    "email": null,
+    "phone": null,
+    "source": "https://hempelcompanies.com/stories/parking/gimbels-parking-pavilion-milwaukee-parking"
+   }
+  ],
   "sources": {
    "website": null,
    "company_phone": null,
@@ -2741,7 +2765,29 @@
   "company_phone": null,
   "company_email": null,
   "property_manager": "Milwaukee Marriott Downtown (operating hotel at property)",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Mark Flaherty",
+    "title": "Managing Partner, Jackson Street Holdings / Jackson Street Management LLC",
+    "email": null,
+    "phone": null,
+    "source": "https://urbanmilwaukee.com/2016/02/22/eyes-on-milwaukee-construction-starts-on-westin-hotel/"
+   },
+   {
+    "name": "Ed Carow",
+    "title": "Principal, Jackson Street Holdings / Jackson Street Management LLC",
+    "email": null,
+    "phone": null,
+    "source": "https://www.hotel-online.com/news/proposal-calls-for-conversion-of-office-building-into-a-hotel"
+   },
+   {
+    "name": "Randy Erkert",
+    "title": "Principal, Jackson Street Holdings",
+    "email": null,
+    "phone": null,
+    "source": "https://urbanmilwaukee.com/2016/02/22/eyes-on-milwaukee-construction-starts-on-westin-hotel/"
+   }
+  ],
   "sources": {
    "website": null,
    "company_phone": null,
@@ -2858,6 +2904,13 @@
     "email": null,
     "phone": null,
     "source": "https://icare.fairfaxcounty.gov/ffxcare/Datalets/Datalet.aspx?UseSearch=no&pin=0552+01++0006B"
+   },
+   {
+    "name": "Registered Agents Inc.",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://start.cortera.com/company/research/m1n9orn6s/1701-rc-sarasota-investments-llc/"
    }
   ],
   "sources": {
@@ -3640,13 +3693,21 @@
  },
  "entity-dayton-hudson-corp-t-223-nka-target-corp-t-0223": {
   "website": "https://www.target.com/",
-  "company_phone": null,
+  "company_phone": "(414) 483-2000",
   "company_email": null,
   "property_manager": "Target Corporation (corporate-owned)",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Target Corporation (store T-0223, 2950 S Chase Ave)",
+    "title": "Owner/Operator",
+    "email": null,
+    "phone": "(414) 483-2000",
+    "source": "https://www.target.com/sl/milwaukee-chase/223"
+   }
+  ],
   "sources": {
    "website": "https://www.target.com/",
-   "company_phone": null,
+   "company_phone": "https://www.target.com/sl/milwaukee-chase/223",
    "company_email": null,
    "property_manager": null
   }
@@ -4046,6 +4107,13 @@
    {
     "name": "Parmeet Arora",
     "title": "Owner",
+    "email": null,
+    "phone": null,
+    "source": "https://biztimes.com/former-milwaukee-clarion-inn-hotel-operators-file-for-bankruptcy-amid-financial-legal-troubles/"
+   },
+   {
+    "name": "Timothy J. Helbing, Helbing Law Office LLC",
+    "title": "Bankruptcy Counsel",
     "email": null,
     "phone": null,
     "source": "https://biztimes.com/former-milwaukee-clarion-inn-hotel-operators-file-for-bankruptcy-amid-financial-legal-troubles/"
@@ -4476,9 +4544,9 @@
   }
  },
  "entity-first-mkd-llc-c-o-michelle-santiago": {
-  "website": null,
-  "company_phone": null,
-  "company_email": null,
+  "website": "https://www.firsthospitality.com",
+  "company_phone": "(312) 638-2300",
+  "company_email": "info@firsthospitality.com",
   "property_manager": "First Hospitality Group, Inc.",
   "contacts": [
    {
@@ -4487,12 +4555,19 @@
     "email": null,
     "phone": null,
     "source": "https://clustrmaps.com/a/306agg/"
+   },
+   {
+    "name": "First Hospitality Group, Inc.",
+    "title": "Developer / Hospitality Manager",
+    "email": "info@firsthospitality.com",
+    "phone": "(312) 638-2300",
+    "source": "https://www.firsthospitality.com/general-inquiry"
    }
   ],
   "sources": {
    "website": null,
-   "company_phone": null,
-   "company_email": null,
+   "company_phone": "https://www.hotfrog.com/company/1528032034000896/first-hospitality/chicago/management-consulting",
+   "company_email": "https://www.firsthospitality.com/general-inquiry",
    "property_manager": "https://www.prnewswire.com/news-releases/new-momentum-to-first-hospitality-groups-restoration-of-historic-loyalty-building-135855738.html"
   }
  },
@@ -4538,14 +4613,22 @@
   }
  },
  "entity-times-square-mke-llc": {
-  "website": null,
-  "company_phone": null,
+  "website": "https://www.unitedpropertiescorp.com",
+  "company_phone": "(516) 223-6200",
   "company_email": null,
   "property_manager": "United Properties Corp.",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Denis Rodger",
+    "title": "President & CEO, United Properties Corp (mailing-address affiliate)",
+    "email": null,
+    "phone": "(516) 987-2991",
+    "source": "https://www.zoominfo.com/c/united-properties-corp/348229199"
+   }
+  ],
   "sources": {
    "website": null,
-   "company_phone": null,
+   "company_phone": "https://www.yelp.com/biz/united-properties-corp-east-meadow",
    "company_email": null,
    "property_manager": "https://www.loopnet.com/Listing/7600-7610-W-Capitol-Dr-Milwaukee-WI/15073114/"
   }
@@ -5139,15 +5222,30 @@
   }
  },
  "entity-barclay-lofts-llc": {
-  "website": null,
-  "company_phone": null,
-  "company_email": null,
+  "website": "https://www.sherman-associates.com",
+  "company_phone": "(612) 332-3000",
+  "company_email": "info@sherman-associates.com",
   "property_manager": "Sherman Associates (Minneapolis)",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Dan Collison",
+    "title": "Sherman Associates (parent developer contact)",
+    "email": null,
+    "phone": "(612) 436-9148",
+    "source": "https://www.sherman-associates.com/contact-us/"
+   },
+   {
+    "name": "Mary Jo Kelly",
+    "title": "Manager of Commercial Leasing & Business Development, Sherman Associates",
+    "email": "mkelly@sherman-associates.com",
+    "phone": "612-843-4628",
+    "source": "https://www.sherman-associates.com/properties/233-park-avenue-building/"
+   }
+  ],
   "sources": {
    "website": null,
-   "company_phone": null,
-   "company_email": null,
+   "company_phone": "https://www.sherman-associates.com/contact-us/",
+   "company_email": "https://www.sherman-associates.com/contact-us/",
    "property_manager": "https://urbanmilwaukee.com/2020/11/15/plats-and-parcels-lawsuit-could-advance-walkers-point-project/"
   }
  },
@@ -5361,6 +5459,13 @@
    {
     "name": "Christine McDonough",
     "title": "Manager, Geneva Exchange Fund LLC",
+    "email": null,
+    "phone": null,
+    "source": "https://www.city-data.com/business-entities/MN/Geneva-Exchange-Fund-XVIII-LLC-923811-2-MN.html"
+   },
+   {
+    "name": "Hope Law PLLP",
+    "title": "Registered Agent",
     "email": null,
     "phone": null,
     "source": "https://www.city-data.com/business-entities/MN/Geneva-Exchange-Fund-XVIII-LLC-923811-2-MN.html"
@@ -5632,14 +5737,22 @@
   }
  },
  "entity-hearst-argyle-stations-inc-c-o-fandl-llc": {
-  "website": null,
-  "company_phone": null,
+  "website": "https://www.wisn.com",
+  "company_phone": "414-342-8812",
   "company_email": null,
   "property_manager": "Hearst Television (WISN-TV, owner-occupant)",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "Jan Wade",
+    "title": "President and General Manager, WISN-TV",
+    "email": null,
+    "phone": "414-937-3370",
+    "source": "https://www.zoominfo.com/pic/wisn/203374614"
+   }
+  ],
   "sources": {
    "website": null,
-   "company_phone": null,
+   "company_phone": "https://www.yelp.com/biz/wisn-tv-milwaukee-2",
    "company_email": null,
    "property_manager": "https://en.wikipedia.org/wiki/WISN-TV"
   }
@@ -6359,7 +6472,15 @@
   "company_phone": null,
   "company_email": null,
   "property_manager": "SAC Holding Corporation",
-  "contacts": [],
+  "contacts": [
+   {
+    "name": "C T Corporation System",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://www.bizprofile.net/az/phoenix/twenty-four-sac-self-3"
+   }
+  ],
   "sources": {
    "website": null,
    "company_phone": null,
@@ -7053,5 +7174,2313 @@
    "company_email": "https://www.standardelectricsupply.com/about-us",
    "property_manager": "https://www.standardelectricsupply.com/about-us"
   }
+ },
+ "entity-rcs-mpower-bla-llc-rcs-mpower-siem-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-cac-80-llc": {
+  "website": "https://www.watercrestinvestments.com",
+  "company_phone": "(414) 276-9000",
+  "company_email": null,
+  "property_manager": "Watercrest Real Estate / Watercrest Investments (manages The Astor Hotel at 924 E Juneau Ave, same address as CAC 80 LLC)",
+  "contacts": [
+   {
+    "name": "Watercrest Real Estate",
+    "title": "Property Manager",
+    "email": null,
+    "phone": "(414) 276-9000",
+    "source": "https://www.mapquest.com/us/wisconsin/watercrest-real-estate-353239835"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://www.watercrestinvestments.com/properties/the-astor",
+   "property_manager": "https://www.watercrestinvestments.com/properties/the-astor"
+  }
+ },
+ "entity-quickcovers-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-c-m-k-inc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-galaxy-il-wi-lp": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-tesemi-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-mke-blk23-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-mps-gaenslen-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-4201-property-llc": {
+  "website": "https://www.joncoind.com",
+  "company_phone": "(414) 449-2000",
+  "company_email": "info@joncoind.com",
+  "property_manager": "Jonco Industries, Inc. (operates at 2800 W Custer Ave, same mailing address as 4201 Property LLC)",
+  "contacts": [
+   {
+    "name": "Jonco Industries, Inc.",
+    "title": "Operating company at mailing address",
+    "email": "info@joncoind.com",
+    "phone": "(414) 449-2000",
+    "source": "https://www.yellowpages.com/milwaukee-wi/mip/jonco-industries-inc-506345459"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.yellowpages.com/milwaukee-wi/mip/jonco-industries-inc-506345459",
+   "company_phone": "https://www.yellowpages.com/milwaukee-wi/mip/jonco-industries-inc-506345459",
+   "property_manager": "https://city.milwaukee.gov/pace/bbc/challenge-participants/2800-Custer-Avenue"
+  }
+ },
+ "entity-vienna-avenue-industrial-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-francis-parkman": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-mw-distribution-property-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-marcia-road-partners-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-jonas-family-ltd-partnership": {
+  "website": "https://www.jonasbuilders.com",
+  "company_phone": "(414) 342-9201",
+  "company_email": null,
+  "property_manager": "Jonas Builders, Inc. (family business at 3939 W McKinley Ave, matches JONAS FAMILY LTD PARTNERSHIP mailing address)",
+  "contacts": [
+   {
+    "name": "Mark Jonas",
+    "title": "Vice President, Jonas Builders, Inc.",
+    "email": "mjonas@jonasbuilders.com",
+    "phone": "(414) 342-9201",
+    "source": "https://seamless.ai/b/jonas-builders-inc-35165190"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://www.yellowpages.com/milwaukee-wi/mip/jonas-builders-inc-460393281",
+   "property_manager": "https://www.jonasbuilders.com/about-us-2/"
+  }
+ },
+ "entity-city-of-milwaukee-milwaukee-french-immersion": {
+  "website": "https://mps.milwaukee.k12.wi.us",
+  "company_phone": "(414) 874-8400",
+  "company_email": null,
+  "property_manager": "Milwaukee Public Schools (MPS)",
+  "contacts": [
+   {
+    "name": "Jenna Harer",
+    "title": "Principal, Milwaukee French Immersion School",
+    "email": "harerjm@milwaukee.k12.wi.us",
+    "phone": "(414) 874-8400",
+    "source": "https://www.greatschools.org/wisconsin/milwaukee/1221-Milwaukee-French-Immersion-School/"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://www.greatschools.org/wisconsin/milwaukee/1221-Milwaukee-French-Immersion-School/",
+   "property_manager": "https://mps.milwaukee.k12.wi.us/en/District/Initiatives/Research-Development/About-Us.htm"
+  }
+ },
+ "entity-city-of-milwaukee-school-board": {
+  "website": "https://www.milwaukeepublicschools.org",
+  "company_phone": "(414) 475-8393",
+  "company_email": null,
+  "property_manager": "Milwaukee Public Schools Central Services",
+  "contacts": [
+   {
+    "name": "Milwaukee Public Schools Central Services",
+    "title": "District Administration (5225 W Vliet St)",
+    "email": null,
+    "phone": "(414) 475-8393",
+    "source": "https://www.yelp.com/biz/milwaukee-public-schools-central-services-milwaukee"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://www.yelp.com/biz/milwaukee-public-schools-central-services-milwaukee",
+   "property_manager": "https://www.milwaukeepublicschools.org/contact"
+  }
+ },
+ "entity-gott-real-estate-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-sh-7203-7207-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-lc-limited-partnership": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-greenzone-industrial-park-phase-1-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-secure-mini-storage-limited-partnership": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-admin-bldg": {
+  "website": "https://www.milwaukeepublicschools.org",
+  "company_phone": "(414) 475-8393",
+  "company_email": null,
+  "property_manager": "Milwaukee Public Schools Central Services",
+  "contacts": [
+   {
+    "name": "Milwaukee Public Schools Central Services",
+    "title": "District Administration (5225 W Vliet St)",
+    "email": null,
+    "phone": "(414) 475-8393",
+    "source": "https://www.yelp.com/biz/milwaukee-public-schools-central-services-milwaukee"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://www.yelp.com/biz/milwaukee-public-schools-central-services-milwaukee",
+   "property_manager": "https://www.milwaukeepublicschools.org/contact"
+  }
+ },
+ "entity-7501-n-81st-owner-lp": {
+  "website": "https://westmountrc.com",
+  "company_phone": "(214) 944-5454",
+  "company_email": "info@westmountrc.com",
+  "property_manager": "Westmount Realty Capital, LLC",
+  "contacts": [
+   {
+    "name": "Westmount Realty Capital, LLC",
+    "title": "Owner/Operator (mailing address 700 N Pearl St Ste N1650 Dallas, TX)",
+    "email": "info@westmountrc.com",
+    "phone": "(214) 944-5454",
+    "source": "https://westmountrc.com/contact/"
+   }
+  ],
+  "sources": {
+   "company_email": "https://leadiq.com/c/westmount-realty-capital-llc/5a1d875c240000240061622b/email-format",
+   "company_phone": "https://www.yelp.com/biz/westmount-realty-capital-dallas",
+   "property_manager": "https://www.loopnet.com/Listing/7501-7515-N-81st-St-Milwaukee-WI/4189502/"
+  }
+ },
+ "entity-4001-west-green-tree-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "MDS Fulfillment, Inc. (operates 4001 W Green Tree Rd and corporate office 6555 W Mill Rd)",
+  "contacts": [],
+  "sources": {
+   "property_manager": "https://mdsfulfillment.com/locations/"
+  }
+ },
+ "entity-anchor-enterprises-ii": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-orion-milwaukee-wi-llc": {
+  "website": "https://www.onlreit.com",
+  "company_phone": "602-675-0338",
+  "company_email": "investors@onlreit.com",
+  "property_manager": "Orion Properties Inc. (formerly Orion Office REIT Inc.)",
+  "contacts": [
+   {
+    "name": "Orion Properties Inc. Investor Relations",
+    "title": "Parent REIT (2325 E Camelback Rd, Phoenix AZ - matches mailing address)",
+    "email": "investors@onlreit.com",
+    "phone": "602-675-0338",
+    "source": "https://www.onlreit.com/contact"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.onlreit.com/contact",
+   "company_phone": "https://www.onlreit.com/contact",
+   "property_manager": "https://www.onlreit.com/news/press-releases/detail/30/orion-office-reit-inc-changes-name-to-orion-properties-and"
+  }
+ },
+ "entity-landon-street-llc-vine-brown-deer-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-north-industrial-property-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-81st-st-investment-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-milwaukee-lexington-properties-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-hopkins-development-group": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-2172-s-1st-street-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-eg-milwaukee-canal-street-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "David Winograd",
+    "title": "Principal (leader of investment group that purchased Canal Street Commerce Center)",
+    "email": null,
+    "phone": null,
+    "source": "https://biztimes.com/canal-street-commerce-center-sold-to-local-investment-group/"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-kj-greentree-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-jonathan-k-tourzan-revocable-living-trust": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Jonathan K Tourzan",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://www.bizprofile.net/registered-agent/jonathan-k-tourzan"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-bender-court-property-group-llc": {
+  "website": "https://www.bender-companies.com",
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Bender Companies (multifamily owner-operator, Madison WI)",
+  "contacts": [
+   {
+    "name": "Kurt Bender",
+    "title": "Founder & Principal, Bender Companies",
+    "email": null,
+    "phone": null,
+    "source": "https://www.bender-companies.com/our-team/"
+   }
+  ],
+  "sources": {
+   "property_manager": "https://elementix.ai/companies/bender-companies"
+  }
+ },
+ "entity-astor-apts-ltd-ptn": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-3716-douglas-llc": {
+  "website": "https://mdsfulfillment.com",
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "MDS Fulfillment, Inc. (operates at 3716 W Douglas Ave; corporate office 6555 W Mill Rd matches mailing address)",
+  "contacts": [
+   {
+    "name": "Bradley Felker",
+    "title": "President & CEO, MDS Fulfillment, Inc.",
+    "email": null,
+    "phone": null,
+    "source": "https://www.dnb.com/business-directory/company-profiles.mds_fulfillment_inc.995275fcda24fc0bd481033154457575.html"
+   }
+  ],
+  "sources": {
+   "property_manager": "https://mdsfulfillment.com/locations/"
+  }
+ },
+ "entity-brown-deer-mall-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-600-acres-llc-autumn-lands-inc": {
+  "website": "https://www.optimacommercial.com/",
+  "company_phone": "918-574-2269",
+  "company_email": "general@optimacommercial.com",
+  "property_manager": "Optima Commercial Real Estate Services (manages IDO / Industrial Developers of Oklahoma portfolio at 111 S Elgin Ave, Tulsa)",
+  "contacts": [
+   {
+    "name": "Kim Henderson",
+    "title": "Key Principal, Optima Real Estate Services",
+    "email": "general@optimacommercial.com",
+    "phone": "918-574-2269",
+    "source": "https://www.zoominfo.com/c/industrial-developers-of-oklahoma/395849579"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "company_phone": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "property_manager": "https://www.optimacommercial.com/"
+  }
+ },
+ "entity-rainbow-real-estate-llc-real-world-invts-phoenix-llc": {
+  "website": "https://www.optimacommercial.com/",
+  "company_phone": "918-574-2269",
+  "company_email": "general@optimacommercial.com",
+  "property_manager": "Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa) - shares mailing address with cluster",
+  "contacts": [
+   {
+    "name": "Kim Henderson",
+    "title": "Key Principal, Optima Real Estate Services",
+    "email": "general@optimacommercial.com",
+    "phone": "918-574-2269",
+    "source": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "company_phone": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "property_manager": "https://www.optimacommercial.com/"
+  }
+ },
+ "entity-select-capital-llc-select-ventures-props-2020-llc": {
+  "website": "https://www.optimacommercial.com/",
+  "company_phone": "918-574-2269",
+  "company_email": "general@optimacommercial.com",
+  "property_manager": "Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa) - shares mailing address with cluster",
+  "contacts": [
+   {
+    "name": "Kim Henderson",
+    "title": "Key Principal, Optima Real Estate Services",
+    "email": "general@optimacommercial.com",
+    "phone": "918-574-2269",
+    "source": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "company_phone": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "property_manager": "https://www.optimacommercial.com/"
+  }
+ },
+ "entity-faubert-properties-llc-fft-llc": {
+  "website": "https://www.optimacommercial.com/",
+  "company_phone": "918-574-2269",
+  "company_email": "general@optimacommercial.com",
+  "property_manager": "Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa) - shares mailing address with cluster",
+  "contacts": [
+   {
+    "name": "Kim Henderson",
+    "title": "Key Principal, Optima Real Estate Services",
+    "email": "general@optimacommercial.com",
+    "phone": "918-574-2269",
+    "source": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "company_phone": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "property_manager": "https://www.optimacommercial.com/"
+  }
+ },
+ "entity-wc1n-1es-phoenix-llc-wkc-radone-llc": {
+  "website": "https://www.optimacommercial.com/",
+  "company_phone": "918-574-2269",
+  "company_email": "general@optimacommercial.com",
+  "property_manager": "Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa) - shares mailing address with cluster",
+  "contacts": [
+   {
+    "name": "Kim Henderson",
+    "title": "Key Principal, Optima Real Estate Services",
+    "email": "general@optimacommercial.com",
+    "phone": "918-574-2269",
+    "source": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "company_phone": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "property_manager": "https://www.optimacommercial.com/"
+  }
+ },
+ "entity-fleeman-family-lp-ii-kourtis-webb-city-llc": {
+  "website": "https://ddibuild.com/",
+  "company_phone": "918-574-2269",
+  "company_email": "general@optimacommercial.com",
+  "property_manager": "Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa)",
+  "contacts": [
+   {
+    "name": "Todd Fleeman",
+    "title": "CEO, Dynamic Development Inc (DDI) - Fleeman family firm",
+    "email": null,
+    "phone": null,
+    "source": "https://ddibuild.com/about-us/"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "company_phone": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "property_manager": "https://www.optimacommercial.com/"
+  }
+ },
+ "entity-mmo-llc-olive-kse-llc": {
+  "website": "https://www.optimacommercial.com/",
+  "company_phone": "918-574-2269",
+  "company_email": "general@optimacommercial.com",
+  "property_manager": "Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa) - MMO LLC explicitly listed at this address",
+  "contacts": [
+   {
+    "name": "Kim Henderson",
+    "title": "Key Principal, Optima Real Estate Services",
+    "email": "general@optimacommercial.com",
+    "phone": "918-574-2269",
+    "source": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "company_phone": "https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203",
+   "property_manager": "https://www.mapquest.com/us/oklahoma/office-developers-oklahoma-llc-426734162"
+  }
+ },
+ "entity-phoenix-midtown-industrial-investors-llc": {
+  "website": "https://phoenixinvestors.com/",
+  "company_phone": "414-283-2600",
+  "company_email": "info@phoenixinvestors.com",
+  "property_manager": "Phoenix Investors, LLC (401 E Kilbourn Ave Ste 201, Milwaukee - matches mailing address)",
+  "contacts": [
+   {
+    "name": "The Corporation Trust Company (registered agent pattern for Phoenix *** Industrial Investors LLC entities); Wisconsin office Phoenix Investors, A Limited Liability Company, 401 E Kilbourn Ave Ste 201, Milwaukee WI 53202",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://lei.bloomberg.com/leis/view/2549007EES0PO2CB5R88"
+   },
+   {
+    "name": "The Corporation Trust Company",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://lei.bloomberg.com/leis/view/2549007EES0PO2CB5R88"
+   },
+   {
+    "name": "Phoenix Investors",
+    "title": "Manager / Milwaukee office",
+    "email": "info@phoenixinvestors.com",
+    "phone": "414-283-2600",
+    "source": "https://phoenixinvestors.com/contact-us/"
+   }
+  ],
+  "sources": {
+   "company_email": "https://rocketreach.co/phoenix-investors-profile_b564f19ff99898e2",
+   "company_phone": "https://www.yelp.com/biz/phoenix-investors-milwaukee",
+   "property_manager": "https://phoenixinvestors.com/contact-us/"
+  }
+ },
+ "entity-9th-street-holdings-llc-west-michigan-investments-llc": {
+  "website": "https://bearreg.com/",
+  "company_phone": "262-842-0456",
+  "company_email": "rentals@bearproperty.com",
+  "property_manager": "Bear Property Management / Bear Real Estate Group (4015 80th St, Kenosha - matches mailing address)",
+  "contacts": [
+   {
+    "name": "S.R. Mills (CEO/principal, Bear Real Estate Group) - per public records listed as key contact at this address",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://milwaukee.legistar.com/View.ashx?M=F&ID=13694302&GUID=AC6395A9-B258-43B9-9CE6-5A8DD8FC1D9D&G=08FEFB22-B33A-4882-9C5A-6D37E84EF01D"
+   },
+   {
+    "name": "S.R. Mills",
+    "title": "CEO / Principal, Bear Real Estate Group (Registered Agent)",
+    "email": null,
+    "phone": "262-705-2652",
+    "source": "https://milwaukee.legistar.com/View.ashx?M=F&ID=13694302&GUID=AC6395A9-B258-43B9-9CE6-5A8DD8FC1D9D&G=08FEFB22-B33A-4882-9C5A-6D37E84EF01D"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.bearpropertymanagement.com/contact-us",
+   "company_phone": "https://members.waukesha.org/member-directory/Details/bear-real-estate-group-4470035",
+   "property_manager": "https://www.bearpropertymanagement.com/contact-us"
+  }
+ },
+ "entity-cmk-inc": {
+  "website": "https://www.chcoakley.com/",
+  "company_phone": "414-372-7000",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Michael T. Coakley (principal associated with 1400 N 113th St, Wauwatosa - matches mailing address; CH Coakley / Coakley family entities)",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://lei.bloomberg.com/leis/view/2549006AVL3A5MG9PI64"
+   },
+   {
+    "name": "Michael T. Coakley",
+    "title": "Principal / c/o contact at 1400 N 113th St (Registered Agent likely)",
+    "email": null,
+    "phone": "414-372-7000",
+    "source": "https://lei.bloomberg.com/leis/view/2549006AVL3A5MG9PI64"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://www.chcoakley.com/contact-us/"
+  }
+ },
+ "entity-indus-hotels-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-sh-7203-7207-lllc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-badger-investments-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-vwss-lloyd-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Spierer, Woodward, Corbalis & Goldberg, P.C. (Colorado registration of VWSS Lloyd, LLC, 1830 S Bannock St Unit 200, Denver CO)",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://www.coloradocompanysearch.com/VWSS/"
+   },
+   {
+    "name": "Spierer, Woodward, Corbalis & Goldberg, P.C.",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://www.coloradocompanysearch.com/VWSS/"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-ssl-milwaukee-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-hc-pk-llc": {
+  "website": "https://www.hammespartners.com/",
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Hammes (1400 N Water St Ste 500, Milwaukee - matches mailing address)",
+  "contacts": [
+   {
+    "name": "J. Patrick Hammes (registered agent for Hammes Holdings LLC and related entities at 1400 N Water St Ste 500; association inferred from shared registered-office address, not confirmed for HC PK LLC specifically)",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://opencorporates.com/companies/us_wi/H051015"
+   },
+   {
+    "name": "J. Patrick Hammes",
+    "title": "Registered Agent (Hammes entities at 1400 N Water St Ste 500)",
+    "email": null,
+    "phone": null,
+    "source": "https://opencorporates.com/companies/us_wi/H051015"
+   }
+  ],
+  "sources": {
+   "property_manager": "https://www.mapquest.com/us/wisconsin/hammes-company-421672765"
+  }
+ },
+ "entity-brian-kvalheim-dean-fitzgerald": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Brian Kvalheim",
+    "title": "Named Owner (possible; real estate agent at Neviaser Investments, Madison WI)",
+    "email": null,
+    "phone": "(608) 257-3777",
+    "source": "https://local.yahoo.com/info-188976742-kvalheim-brian-neviaser-investments-inc-madison/"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-slinger-cheese-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-sidhivinayak-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Arpit K Patel",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=SIDHIVINAYAK+LLC"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-chicago-street-propco-investors-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "The Corporation Trust Company",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://americanlei.com/detailed-information/42897786/2549001DCOX0461SQM10/chicago-street-propco-investors-llc/"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-jswd-commerce-llc": {
+  "website": "http://www.jacksonstreetholdings.com/",
+  "company_phone": "414-226-1950",
+  "company_email": "info@jacksonstreetholdings.com",
+  "property_manager": "White Lodging Services (manages affiliated SpringHill Suites hotel)",
+  "contacts": [
+   {
+    "name": "David R Fritz",
+    "title": "Principal (Jackson Street Holdings, affiliate; office at JSWD mailing address 731 N Jackson St)",
+    "email": "info@jacksonstreetholdings.com",
+    "phone": "414-226-1950",
+    "source": "https://web.mmac.org/Real-Estate-Developers/Jackson-Street-Holdings-LLC-2311"
+   }
+  ],
+  "sources": {
+   "company_email": "http://www.jacksonstreetholdings.com/contact.html",
+   "company_phone": "http://www.jacksonstreetholdings.com/contact.html",
+   "property_manager": "https://www.hotelmanagement.net/openings/new-springhill-suites-opens-milwaukee"
+  }
+ },
+ "entity-green-tree-wi-llc": {
+  "website": null,
+  "company_phone": "(303) 864-9774",
+  "company_email": null,
+  "property_manager": "Ogilvie Properties, Inc. (at Green Tree WI mailing address 2601 Blake St, Denver)",
+  "contacts": [
+   {
+    "name": "Stuart Ogilvie",
+    "title": "President, Ogilvie Properties (entity at mailing address 2601 Blake St)",
+    "email": null,
+    "phone": "(303) 864-9774",
+    "source": "https://local.yahoo.com/info-213292524-ogilvie-stuart-ogilivie-properties-inc-denver/"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://www.buzzfile.com/business/Ogilvie-Properties,-Inc.-303-864-9774",
+   "property_manager": "https://www.dandb.com/businessdirectory/ogilviepropertiesinc.-denver-co-15249790.html"
+  }
+ },
+ "entity-oyster-two-wisconsin-owner-llc": {
+  "website": "https://www.brennanllc.com/",
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Brennan Investment Group (at Oyster Two mailing address 10275 W Higgins Rd Ste 810, Rosemont IL)",
+  "contacts": [
+   {
+    "name": "Michael Brennan",
+    "title": "Founder, Brennan Investment Group (entity at mailing address 10275 W Higgins Rd Ste 810)",
+    "email": null,
+    "phone": null,
+    "source": "https://www.loopnet.com/company/brennan-investment-group/rosemont-il/1td7mm4l/"
+   }
+  ],
+  "sources": {
+   "property_manager": "https://www.loopnet.com/company/brennan-investment-group/rosemont-il/1td7mm4l/"
+  }
+ },
+ "entity-alliance-development-corporation": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Kristan M Nelson",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://opencorporates.com/companies/us_wi/G023819"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-b-b-realty-1-j-philip-walthers": {
+  "website": "https://www.walthers.com/",
+  "company_phone": "1-414-527-0770",
+  "company_email": "custserv@walthers.com",
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "J. Philip Walthers",
+    "title": "Named principal / President & CEO of Wm. K. Walthers Inc. (at B&B Realty mailing address 5601 W Florist Ave)",
+    "email": "custserv@walthers.com",
+    "phone": "1-414-527-0770",
+    "source": "https://web.mmac.org/HobbyModel-Construction-SuppliesWhlseMftrs/Wm-K-Walthers-Inc-5030"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.walthers.com/contact-us",
+   "company_phone": "https://www.walthers.com/contact-us"
+  }
+ },
+ "entity-gnp-investments-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-r-l-r-investments-llc": {
+  "website": "https://rlrllc.com/",
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "C T Corporation System",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://www.dnb.com/business-directory/company-profiles/rlr-investments-llc.712c6a6cb53df4abbd3aca20163bab5c"
+   },
+   {
+    "name": "Roby L Roberts",
+    "title": "CEO",
+    "email": null,
+    "phone": null,
+    "source": "https://www.dnb.com/business-directory/company-profiles/rlr-investments-llc.712c6a6cb53df4abbd3aca20163bab5c"
+   },
+   {
+    "name": "Mary D Roberts",
+    "title": "Chairman",
+    "email": null,
+    "phone": null,
+    "source": "https://www.dnb.com/business-directory/company-profiles/rlr-investments-llc.712c6a6cb53df4abbd3aca20163bab5c"
+   },
+   {
+    "name": "Donald Deluca",
+    "title": "VP/Secretary",
+    "email": null,
+    "phone": null,
+    "source": "https://www.dnb.com/business-directory/company-profiles/rlr-investments-llc.712c6a6cb53df4abbd3aca20163bab5c"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-laureate-capital-llc": {
+  "website": null,
+  "company_phone": "678-244-9510",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Laureate Capital LLC",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://www.lei-identifier.com/leicert/2549003Y8XE4XNP86704/"
+   },
+   {
+    "name": "Dennis Panter",
+    "title": "Principal (c/o legal address)",
+    "email": null,
+    "phone": "678-244-9510",
+    "source": "https://www.merchantcircle.com/laureate-capital-atlanta-ga"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://www.merchantcircle.com/laureate-capital-atlanta-ga"
+  }
+ },
+ "entity-light-ray-development-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-fourth-property-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-1400-national-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-60th-st-industrial-llc-60th-st-industrial-tr-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-316-north-milwaukee-st-llc": {
+  "website": null,
+  "company_phone": "414-276-5210",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Von Briesen & Roper, S.C.",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://city.milwaukee.gov/File-Library/Agendas/2025/October/CityofMilwaukee---BOR---Agenda_10.15.25.pdf"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://urbanmilwaukee.com/building/landmark-building/"
+  }
+ },
+ "entity-hardisty-opportunity-fund-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-kak-enterprises-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-agape-real-property-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-u-s-grant-elem-school-plygrd": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-333-north-plankinton-buildin-partnership-llp": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-grl-llc-scl-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-mke-hotel-llc": {
+  "website": "https://www.jankogroup.us",
+  "company_phone": "(847) 940-8880",
+  "company_email": "info@jankogroup.us",
+  "property_manager": "Janko Group LLC",
+  "contacts": [
+   {
+    "name": "Gary Janko",
+    "title": "Owner / Principal, Janko Group (developer, mailing-address affiliate)",
+    "email": null,
+    "phone": "(847) 940-8880",
+    "source": "https://www.zoominfo.com/p/Gary-Janko/104268203"
+   }
+  ],
+  "sources": {
+   "company_email": "https://www.jankogroup.us/contact",
+   "company_phone": "https://www.jankogroup.us/contact",
+   "property_manager": "https://newsroom.hyatt.com/062618-Janko-Hospitality-Opens-New-Hyatt-Place-Hotel-in-Milwaukees-Brewery-District"
+  }
+ },
+ "entity-city-of-milw-n-ninth-st": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-9350-w-fond-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-dos-locos-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-7500-n-81st-st-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-mps-hopkins-st-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-washington-square-assoc-iv-l": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-4000-west-burnham-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-kcots-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-clarke-street-school-playground": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-yellow-rose-property-holdings-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-9160-n-107th-street-owner-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-hampton-elem": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Milwaukee Public Schools (City of Milwaukee)",
+  "contacts": [],
+  "sources": {
+   "property_manager": null
+  }
+ },
+ "entity-dhillon-701-prop-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-doerfler-elem-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Milwaukee Public Schools (City of Milwaukee)",
+  "contacts": [],
+  "sources": {
+   "property_manager": null
+  }
+ },
+ "entity-city-of-milw-kilmer-elem-school-playground": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Milwaukee Public Schools (City of Milwaukee)",
+  "contacts": [],
+  "sources": {
+   "property_manager": null
+  }
+ },
+ "entity-apf-milwaukee-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-head-of-the-herd-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Milwaukee Bucks / Deer District (development affiliate)",
+  "contacts": [],
+  "sources": {
+   "property_manager": "https://urbanmilwaukee.com/business/head-of-the-herd/"
+  }
+ },
+ "entity-city-of-milwaukee-lee-elementary-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Milwaukee Public Schools (City of Milwaukee)",
+  "contacts": [],
+  "sources": {
+   "property_manager": null
+  }
+ },
+ "entity-city-of-milw-playgrounds": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Milwaukee Public Schools (City of Milwaukee)",
+  "contacts": [],
+  "sources": {
+   "property_manager": null
+  }
+ },
+ "entity-milwaukee-storage-solutions-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-granville-woods-joint-venture-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-washington-carver-academy": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Milwaukee Public Schools (City of Milwaukee)",
+  "contacts": [],
+  "sources": {
+   "property_manager": null
+  }
+ },
+ "entity-cpwi-4565-n-green-bay-avenue-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-nrf-viii-south-towne-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Andrew S. Hochberg",
+    "title": "Manager",
+    "email": null,
+    "phone": null,
+    "source": "https://www.city-data.com/business-entities/IL/NRF-VIII-MANAGER-LLC-05214157-IL.html"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-bonanza-investment-collc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-ba-properties-1-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-eei-real-estate-holdings-prima-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-ghs-llp": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-caledonia-props-1635-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-n-53rd-sch": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-737-w-cleveland-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-lemaster-investments-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-fairview-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-brennan-family-ltd-ptnrship": {
+  "website": "https://www.jmbrennan.com",
+  "company_phone": "414-342-3829",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Matt Brennan",
+    "title": "JM Brennan Inc (tenant/affiliate at 2101 W St Paul Ave)",
+    "email": "mattb@jmbrennan.com",
+    "phone": null,
+    "source": "https://www.jmbrennan.com/contact/"
+   },
+   {
+    "name": "John Brennan",
+    "title": "JM Brennan Inc",
+    "email": "johnb@jmbrennan.com",
+    "phone": null,
+    "source": "https://www.jmbrennan.com/contact/"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://www.jmbrennan.com/contact/"
+  }
+ },
+ "entity-city-of-milw-82nd-st-sch": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-35th-st-sch": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-heather-holdings-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-greater-new-birth-church-inc": {
+  "website": "https://www.greaternewbirthchurch.org",
+  "company_phone": "414-264-5683",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {
+   "company_phone": "https://www.yelp.com/biz/greater-new-birth-church-milwaukee-2"
+  }
+ },
+ "entity-tjw-plant3-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-e-villarreal-prop-llc-h-villarreal-prop-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-dtb2-llc": {
+  "website": "www.dtbtwo.com",
+  "company_phone": "(312) 206-4819",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Derek Benedyk",
+    "title": "Principal",
+    "email": null,
+    "phone": "(312) 206-4819",
+    "source": "https://www.buzzfile.com/business/Dtb2-LLC-312-206-4819"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://www.buzzfile.com/business/Dtb2-LLC-312-206-4819"
+  }
+ },
+ "entity-pjr-properties-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-c-o-real-estate-agent": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-fifty-fifth-street-elem-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-hp-mineral-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Christopher Hilbert",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://www.bizprofile.net/ca/costa-mesa/hp-mineral-llc"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-hampton-shopping-cntr": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-city-real-estate": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-3150-burleigh-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-berger-elementary-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-9th-pl-partners-llp": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-24th-street": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-amor-investments-llc-cjl-ap-llc-rlt-ap-llc-gregg-r": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Gregg Lindner",
+    "title": "Owner, GRL Management LLC",
+    "email": null,
+    "phone": null,
+    "source": "https://www.linkedin.com/in/gregg-lindner-862b79a/"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-haven-funds-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-lark-creek-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Sailakshmi Gollapudi, 42 Incline Green Ln, Alamo, CA 94507",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://www.bizprofile.net/ca/alamo/lark-creek-llc"
+   },
+   {
+    "name": "Sailakshmi Gollapudi",
+    "title": "Manager",
+    "email": null,
+    "phone": null,
+    "source": "https://www.bizprofile.net/ca/alamo/lark-creek-llc"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-city-of-mil-congress-sch": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-r-r-l-investment-corporation": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-howell-avenue-partners-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-maple-ridge-property-holdings-llc": {
+  "website": "https://cascadellc.com",
+  "company_phone": "(847) 745-7000",
+  "company_email": null,
+  "property_manager": "Cascade Capital Group, 3450 Oakton St, Skokie, IL 60076",
+  "contacts": [],
+  "sources": {
+   "company_phone": "https://www.zoominfo.com/c/cascade-capital-group-llc/373560552",
+   "property_manager": "https://cascadellc.com/contact-us/"
+  }
+ },
+ "entity-city-of-milw-pierce-sch": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-b6d6-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-mozart-properties-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-north-aurora-realty-holdings-inc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-54th-street-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-wisconsin-die-castng-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-pdof-psof-milwaukee-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "Ryan, LLC (tax/property agent of record, per City of Milwaukee Board of Review)",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://city.milwaukee.gov/File-Library/Agendas/2025/October/BOR---Agenda_4.9.26.pdf"
+   }
+  ],
+  "sources": {}
+ },
+ "entity-sunrise-property-holdings-llc": {
+  "website": "https://cascadellc.com",
+  "company_phone": "(847) 745-7000",
+  "company_email": null,
+  "property_manager": "Cascade Capital Group, 3450 Oakton St, Skokie, IL 60076",
+  "contacts": [],
+  "sources": {
+   "company_phone": "https://www.zoominfo.com/c/cascade-capital-group-llc/373560552",
+   "property_manager": "https://cascadellc.com/contact-us/"
+  }
+ },
+ "entity-city-of-milwaukee-story": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-milwaukee-45-hospitality-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-m-r-land-company-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-12100-west-lake-park-drive-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-mps-river-trail-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-pittsburgh-avenue-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-wells-street-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-granite-haven-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-ep-7825-w-tower-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-fire-sta": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-cermak-realty-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-road-c-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-becher-1st-street-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-victory-elem-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-mop-lofts-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-65th-st-sch": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-wisconsin-avenue-property-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-tarpon-square-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-mill-road-properties-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-gelin-enterprises-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-r-r-silver-spring-prop-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-sbs-partnership-llp": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-kenneth-e-mater-rev-trt": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-philipp-elem-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-good-opportunity-fund-1-llc-good-opportunity-1-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-maple-tree": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-mbi-properties-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-amor-investments-llc-cjl-ap-llc-rlt-ap-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-carmen-real-estate-holding-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-mckinley-avenue-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-8500-industrial-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-arec-1-llc": {
+  "website": null,
+  "company_phone": "602-263-6983",
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [
+   {
+    "name": "C T Corporation System",
+    "title": "Registered Agent",
+    "email": null,
+    "phone": null,
+    "source": "https://opengovwa.com/corporation/602518122"
+   },
+   {
+    "name": "Edward Shoen",
+    "title": "Governor",
+    "email": null,
+    "phone": null,
+    "source": "https://www.corporationwiki.com/Arizona/Phoenix/arec-1-llc/46831921.aspx"
+   },
+   {
+    "name": "Matthew Braccia",
+    "title": "Governor",
+    "email": null,
+    "phone": null,
+    "source": "https://www.corporationwiki.com/Arizona/Phoenix/arec-1-llc/46831921.aspx"
+   }
+  ],
+  "sources": {
+   "company_phone": "https://opengovwa.com/corporation/602518122"
+  }
+ },
+ "entity-triony-milwaukee-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-packaged-deal-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-treasures-of-the-world-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-4837-w-woolworth-ave-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-vitali-liberman-tod": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": "Liberman Realty (6815 W Capitol Dr Ste 106, Milwaukee, WI 53216)",
+  "contacts": [],
+  "sources": {
+   "property_manager": "https://www.mapquest.com/us/wisconsin/liberman-realty-6908837"
+  }
+ },
+ "entity-city-of-milwaukee-maryland-ave-montessori": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-95th-st-sch": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-elm-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-school-site-adm-bldg": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-pilgrim-rest-oasis-inc": {
+  "website": "pilgrimrestmilwaukee.org",
+  "company_phone": "(414) 873-1045",
+  "company_email": "pilgchurch@sbcglobal.net",
+  "property_manager": null,
+  "contacts": [],
+  "sources": {
+   "company_email": "https://www.zoominfo.com/c/pilgrim-rest-missionary-baptist-church/371164005",
+   "company_phone": "https://www.zoominfo.com/c/pilgrim-rest-missionary-baptist-church/371164005"
+  }
+ },
+ "entity-city-of-milw-8th-st-sch": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-fire-sta-city-hall": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-gilbert-stuart": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-lcm-funds-23-bridgeview-llc": {
+  "website": "https://www.lcmfunds.com/",
+  "company_phone": "(414) 588-0479",
+  "company_email": "info@lcmfunds.com",
+  "property_manager": "LCM Funds Real Estate, LLC",
+  "contacts": [],
+  "sources": {
+   "company_email": "https://www.lcmfunds.com/",
+   "company_phone": "https://www.apartments.com/pmc/lcm-funds-real-estate-llc/0hbrjl1/",
+   "property_manager": "https://www.apartments.com/pmc/lcm-funds-real-estate-llc/0hbrjl1/"
+  }
+ },
+ "entity-city-of-milwaukee-garland-elementary-school": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-fire-station-city-hall": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-milw-school-board-muni-recreation-div": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-68th-st-sch": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-fire-house-city-real-estate": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-c-o-fire-administration-office": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-sch-warehse": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-school-site-custer-playfield": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-mill-road-library-redevelopment-llc": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-milwaukee-fire-department": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-milwaukee-fire-department-engine-24-special-ops-div": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-fire-sta-c-o-city-real-estate": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-engine-hse-city-hall": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-c-o-real-estate": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-fire-hse": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-tax-enf-c-o-city-real-estate": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-fire-house": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-fire-house-c-o-city-real-estate": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-milwaukee-county-register-of-deeds": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-milwaukee-fire-department-engine-8": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-milwaukee-police-department": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-fire-dept": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-fire-depart": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milw-playground": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
+ },
+ "entity-city-of-milwaukee-c-o-sanitation-dept": {
+  "website": null,
+  "company_phone": null,
+  "company_email": null,
+  "property_manager": null,
+  "contacts": [],
+  "sources": {}
  }
 }

@@ -57,6 +57,7 @@ entity-midland-paper-company,MIDLAND PAPER COMPANY,company_email,,confirmed,cust
 entity-midland-paper-company,MIDLAND PAPER COMPANY,property_manager,,confirmed,Self-managed / owner-occupied,https://www.midlandpaper.com
 entity-midland-paper-company,MIDLAND PAPER COMPANY,mailing_address,,confirmed,"8601 N 91ST ST MILWAUKEE, WI 53224",
 entity-alliance-development-corporation,ALLIANCE DEVELOPMENT CORPORATION,mailing_address,,confirmed,"1510 N COUNTRY CLUB PKWY ELKHORN, WI 53121",
+entity-alliance-development-corporation,ALLIANCE DEVELOPMENT CORPORATION,contact.Kristan M Nelson.title,other,confirmed,Registered Agent,https://opencorporates.com/companies/us_wi/G023819
 entity-van-zanten-llc,VAN ZANTEN LLC,company_phone,,confirmed,(414) 354-3800,https://www.buzzfile.com/business/Holland-Beauty-414-354-3800
 entity-van-zanten-llc,VAN ZANTEN LLC,property_manager,,confirmed,Self-managed / owner-occupied,https://www.city-data.com/milwaukee/N/N-87th-Street-41.html
 entity-van-zanten-llc,VAN ZANTEN LLC,mailing_address,,confirmed,"8480 N 87TH ST MILWAUKEE, WI 53224",
@@ -113,7 +114,11 @@ entity-metavante-corp-nka-fis-payments-llc,METAVANTE CORP  NKA FIS PAYMENTS LLC,
 entity-metavante-corp-nka-fis-payments-llc,METAVANTE CORP  NKA FIS PAYMENTS LLC,property_manager,,confirmed,Self-managed / owner-occupied,https://biztimes.com/fis-leases-office-space-on-milwaukees-far-northwest-side/
 entity-metavante-corp-nka-fis-payments-llc,METAVANTE CORP  NKA FIS PAYMENTS LLC,mailing_address,,confirmed,"1308 ASHBURY DR LEMONT, IL 60439",
 entity-gelin-enterprises-llc,GELIN ENTERPRISES LLC,mailing_address,,confirmed,"8355 W BRADLEY RD MILWAUKEE, WI 53223",
+entity-oyster-two-wisconsin-owner-llc,"OYSTER TWO WISCONSIN OWNER, LLC",company_website,,confirmed,https://www.brennanllc.com/,
+entity-oyster-two-wisconsin-owner-llc,"OYSTER TWO WISCONSIN OWNER, LLC",property_manager,,confirmed,"Brennan Investment Group (at Oyster Two mailing address 10275 W Higgins Rd Ste 810, Rosemont IL)",https://www.loopnet.com/company/brennan-investment-group/rosemont-il/1td7mm4l/
 entity-oyster-two-wisconsin-owner-llc,"OYSTER TWO WISCONSIN OWNER, LLC",mailing_address,,confirmed,"10275 W HIGGINS RD SUITE 810 ROSEMONT, IL 60018",
+entity-oyster-two-wisconsin-owner-llc,"OYSTER TWO WISCONSIN OWNER, LLC",contact.Michael Brennan.email,owner,unverified (pattern),michael.brennan@brennanllc.com,pattern — unverified (first.last@brennanllc.com)
+entity-oyster-two-wisconsin-owner-llc,"OYSTER TWO WISCONSIN OWNER, LLC",contact.Michael Brennan.title,owner,confirmed,"Founder, Brennan Investment Group (entity at mailing address 10275 W Higgins Rd Ste 810)",pattern — unverified (first.last@brennanllc.com)
 entity-tarpon-square-llc,TARPON SQUARE LLC,mailing_address,,confirmed,"7940 N 81ST ST MILWAUKEE, WI 53223",
 entity-81st-st-investment-llc,81ST ST INVESTMENT LLC,mailing_address,,confirmed,"111 E KILBOURN AVE STE 2600 MILWAUKEE, WI 53202",
 entity-7025-w-parkland-owner-lp,7025 W PARKLAND OWNER LP,mailing_address,,confirmed,"700 N PEARL ST STE N1650 DALLAS, TX 75201",
@@ -136,7 +141,14 @@ entity-aes-properties-llc-c-o-deborah-j-scheunemann,AES PROPERTIES LLC C\O DEBOR
 entity-aes-properties-llc-c-o-deborah-j-scheunemann,AES PROPERTIES LLC C\O DEBORAH J SCHEUNEMANN,contact.Deborah J. Scheunemann.title,owner,confirmed,Owner / Registered Agent,input record
 entity-tjw-plant3-llc,TJW PLANT3 LLC,mailing_address,,confirmed,"6103 N 76TH ST MILWAUKEE, WI 53218",
 entity-sh-7203-7207-llc,SH 7203-7207 LLC,mailing_address,,confirmed,"PO BOX 71870 6890 S 2300 E SALT LAKE CITY, UT 84171",
+entity-7501-n-81st-owner-lp,7501 N 81ST OWNER LP,company_website,,confirmed,https://westmountrc.com,
+entity-7501-n-81st-owner-lp,7501 N 81ST OWNER LP,company_phone,,confirmed,(214) 944-5454,https://www.yelp.com/biz/westmount-realty-capital-dallas
+entity-7501-n-81st-owner-lp,7501 N 81ST OWNER LP,company_email,,confirmed,info@westmountrc.com,https://leadiq.com/c/westmount-realty-capital-llc/5a1d875c240000240061622b/email-format
+entity-7501-n-81st-owner-lp,7501 N 81ST OWNER LP,property_manager,,confirmed,"Westmount Realty Capital, LLC",https://www.loopnet.com/Listing/7501-7515-N-81st-St-Milwaukee-WI/4189502/
 entity-7501-n-81st-owner-lp,7501 N 81ST OWNER LP,mailing_address,,confirmed,"700 N PEARL ST STE N1650 DALLAS, TX 75201",
+entity-7501-n-81st-owner-lp,7501 N 81ST OWNER LP,"contact.Westmount Realty Capital, LLC.email",owner,confirmed,info@westmountrc.com,https://westmountrc.com/contact/
+entity-7501-n-81st-owner-lp,7501 N 81ST OWNER LP,"contact.Westmount Realty Capital, LLC.phone",owner,confirmed,(214) 944-5454,https://westmountrc.com/contact/
+entity-7501-n-81st-owner-lp,7501 N 81ST OWNER LP,"contact.Westmount Realty Capital, LLC.title",owner,confirmed,"Owner/Operator (mailing address 700 N Pearl St Ste N1650 Dallas, TX)",https://westmountrc.com/contact/
 entity-7500-n-81st-st-llc,7500 N 81ST ST LLC,mailing_address,,confirmed,"12012 W FAIRVIEW AVE WAUWATOSA, WI 53226",
 entity-abundant-faith-church-of-integrity-inc,ABUNDANT FAITH CHURCH OF INTEGRITY INC,company_website,,confirmed,https://afcichurch.com,https://afcichurch.com
 entity-abundant-faith-church-of-integrity-inc,ABUNDANT FAITH CHURCH OF INTEGRITY INC,company_phone,,confirmed,(414) 464-5001,https://www.yellowpages.com/milwaukee-wi/mip/abundant-faith-chr-integrity-497169715
@@ -147,17 +159,66 @@ entity-abundant-faith-church-of-integrity-inc,ABUNDANT FAITH CHURCH OF INTEGRITY
 entity-abundant-faith-church-of-integrity-inc,ABUNDANT FAITH CHURCH OF INTEGRITY INC,contact.Robert Pyles.title,other,confirmed,Pastor,pattern — unverified (first.last@afcichurch.com)
 entity-1701-rc-sarasota-invts-llc-4018-milwaukee-llc,1701 RC SARASOTA INVTS LLC 4018 MILWAUKEE LLC,mailing_address,,confirmed,"111 S ELGIN AVE TULSA, OK 74120",
 entity-1701-rc-sarasota-invts-llc-4018-milwaukee-llc,1701 RC SARASOTA INVTS LLC 4018 MILWAUKEE LLC,contact.Thomas J. O'Brien.title,other,confirmed,Registered agent / investment group contact,https://icare.fairfaxcounty.gov/ffxcare/Datalets/Datalet.aspx?UseSearch=no&pin=0552+01++0006B
+entity-1701-rc-sarasota-invts-llc-4018-milwaukee-llc,1701 RC SARASOTA INVTS LLC 4018 MILWAUKEE LLC,contact.Registered Agents Inc..title,other,confirmed,Registered Agent,https://start.cortera.com/company/research/m1n9orn6s/1701-rc-sarasota-investments-llc/
+entity-600-acres-llc-autumn-lands-inc,600 ACRES LLC AUTUMN LANDS INC,company_website,,confirmed,https://www.optimacommercial.com/,
+entity-600-acres-llc-autumn-lands-inc,600 ACRES LLC AUTUMN LANDS INC,company_phone,,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-600-acres-llc-autumn-lands-inc,600 ACRES LLC AUTUMN LANDS INC,company_email,,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-600-acres-llc-autumn-lands-inc,600 ACRES LLC AUTUMN LANDS INC,property_manager,,confirmed,"Optima Commercial Real Estate Services (manages IDO / Industrial Developers of Oklahoma portfolio at 111 S Elgin Ave, Tulsa)",https://www.optimacommercial.com/
 entity-600-acres-llc-autumn-lands-inc,600 ACRES LLC AUTUMN LANDS INC,mailing_address,,confirmed,"111 S ELGIN AVE TULSA, OK 74120",
+entity-600-acres-llc-autumn-lands-inc,600 ACRES LLC AUTUMN LANDS INC,contact.Kim Henderson.email,owner,confirmed,general@optimacommercial.com,https://www.zoominfo.com/c/industrial-developers-of-oklahoma/395849579
+entity-600-acres-llc-autumn-lands-inc,600 ACRES LLC AUTUMN LANDS INC,contact.Kim Henderson.phone,owner,confirmed,918-574-2269,https://www.zoominfo.com/c/industrial-developers-of-oklahoma/395849579
+entity-600-acres-llc-autumn-lands-inc,600 ACRES LLC AUTUMN LANDS INC,contact.Kim Henderson.title,owner,confirmed,"Key Principal, Optima Real Estate Services",https://www.zoominfo.com/c/industrial-developers-of-oklahoma/395849579
 entity-prime-investment-grp-llc-quapaw-investments-llc,PRIME INVESTMENT GRP LLC QUAPAW INVESTMENTS LLC,company_website,,confirmed,https://www.primeinvestmentgroup.org,
 entity-prime-investment-grp-llc-quapaw-investments-llc,PRIME INVESTMENT GRP LLC QUAPAW INVESTMENTS LLC,company_phone,,confirmed,(918) 599-0036,https://www.superpages.com/tulsa-ok/bpp/quapaw-investments-460155341
 entity-prime-investment-grp-llc-quapaw-investments-llc,PRIME INVESTMENT GRP LLC QUAPAW INVESTMENTS LLC,property_manager,,confirmed,Self-managed / owner-occupied,https://www.primeinvestmentgroup.org/our-company/
 entity-prime-investment-grp-llc-quapaw-investments-llc,PRIME INVESTMENT GRP LLC QUAPAW INVESTMENTS LLC,mailing_address,,confirmed,"111 S ELGIN AVE TULSA, OK 74120",
+entity-rainbow-real-estate-llc-real-world-invts-phoenix-llc,RAINBOW REAL ESTATE LLC REAL WORLD INVTS PHOENIX LLC,company_website,,confirmed,https://www.optimacommercial.com/,
+entity-rainbow-real-estate-llc-real-world-invts-phoenix-llc,RAINBOW REAL ESTATE LLC REAL WORLD INVTS PHOENIX LLC,company_phone,,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-rainbow-real-estate-llc-real-world-invts-phoenix-llc,RAINBOW REAL ESTATE LLC REAL WORLD INVTS PHOENIX LLC,company_email,,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-rainbow-real-estate-llc-real-world-invts-phoenix-llc,RAINBOW REAL ESTATE LLC REAL WORLD INVTS PHOENIX LLC,property_manager,,confirmed,"Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa) - shares mailing address with cluster",https://www.optimacommercial.com/
 entity-rainbow-real-estate-llc-real-world-invts-phoenix-llc,RAINBOW REAL ESTATE LLC REAL WORLD INVTS PHOENIX LLC,mailing_address,,confirmed,"111 S ELGIN AVE TULSA, OK 74120",
+entity-rainbow-real-estate-llc-real-world-invts-phoenix-llc,RAINBOW REAL ESTATE LLC REAL WORLD INVTS PHOENIX LLC,contact.Kim Henderson.email,owner,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-rainbow-real-estate-llc-real-world-invts-phoenix-llc,RAINBOW REAL ESTATE LLC REAL WORLD INVTS PHOENIX LLC,contact.Kim Henderson.phone,owner,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-rainbow-real-estate-llc-real-world-invts-phoenix-llc,RAINBOW REAL ESTATE LLC REAL WORLD INVTS PHOENIX LLC,contact.Kim Henderson.title,owner,confirmed,"Key Principal, Optima Real Estate Services",https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-select-capital-llc-select-ventures-props-2020-llc,SELECT CAPITAL LLC SELECT VENTURES PROPS 2020 LLC,company_website,,confirmed,https://www.optimacommercial.com/,
+entity-select-capital-llc-select-ventures-props-2020-llc,SELECT CAPITAL LLC SELECT VENTURES PROPS 2020 LLC,company_phone,,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-select-capital-llc-select-ventures-props-2020-llc,SELECT CAPITAL LLC SELECT VENTURES PROPS 2020 LLC,company_email,,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-select-capital-llc-select-ventures-props-2020-llc,SELECT CAPITAL LLC SELECT VENTURES PROPS 2020 LLC,property_manager,,confirmed,"Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa) - shares mailing address with cluster",https://www.optimacommercial.com/
 entity-select-capital-llc-select-ventures-props-2020-llc,SELECT CAPITAL LLC SELECT VENTURES PROPS 2020 LLC,mailing_address,,confirmed,"111 S ELGIN AVE TULSA, OK 74120",
+entity-select-capital-llc-select-ventures-props-2020-llc,SELECT CAPITAL LLC SELECT VENTURES PROPS 2020 LLC,contact.Kim Henderson.email,owner,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-select-capital-llc-select-ventures-props-2020-llc,SELECT CAPITAL LLC SELECT VENTURES PROPS 2020 LLC,contact.Kim Henderson.phone,owner,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-select-capital-llc-select-ventures-props-2020-llc,SELECT CAPITAL LLC SELECT VENTURES PROPS 2020 LLC,contact.Kim Henderson.title,owner,confirmed,"Key Principal, Optima Real Estate Services",https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-faubert-properties-llc-fft-llc,FAUBERT PROPERTIES LLC FFT LLC,company_website,,confirmed,https://www.optimacommercial.com/,
+entity-faubert-properties-llc-fft-llc,FAUBERT PROPERTIES LLC FFT LLC,company_phone,,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-faubert-properties-llc-fft-llc,FAUBERT PROPERTIES LLC FFT LLC,company_email,,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-faubert-properties-llc-fft-llc,FAUBERT PROPERTIES LLC FFT LLC,property_manager,,confirmed,"Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa) - shares mailing address with cluster",https://www.optimacommercial.com/
 entity-faubert-properties-llc-fft-llc,FAUBERT PROPERTIES LLC FFT LLC,mailing_address,,confirmed,"111 S ELGIN AVE TULSA, OK 74120",
+entity-faubert-properties-llc-fft-llc,FAUBERT PROPERTIES LLC FFT LLC,contact.Kim Henderson.email,owner,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-faubert-properties-llc-fft-llc,FAUBERT PROPERTIES LLC FFT LLC,contact.Kim Henderson.phone,owner,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-faubert-properties-llc-fft-llc,FAUBERT PROPERTIES LLC FFT LLC,contact.Kim Henderson.title,owner,confirmed,"Key Principal, Optima Real Estate Services",https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-wc1n-1es-phoenix-llc-wkc-radone-llc,WC1N 1ES PHOENIX LLC WKC RADONE LLC,company_website,,confirmed,https://www.optimacommercial.com/,
+entity-wc1n-1es-phoenix-llc-wkc-radone-llc,WC1N 1ES PHOENIX LLC WKC RADONE LLC,company_phone,,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-wc1n-1es-phoenix-llc-wkc-radone-llc,WC1N 1ES PHOENIX LLC WKC RADONE LLC,company_email,,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-wc1n-1es-phoenix-llc-wkc-radone-llc,WC1N 1ES PHOENIX LLC WKC RADONE LLC,property_manager,,confirmed,"Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa) - shares mailing address with cluster",https://www.optimacommercial.com/
 entity-wc1n-1es-phoenix-llc-wkc-radone-llc,WC1N 1ES PHOENIX LLC WKC RADONE LLC,mailing_address,,confirmed,"111 S ELGIN AVE TULSA, OK 74120",
+entity-wc1n-1es-phoenix-llc-wkc-radone-llc,WC1N 1ES PHOENIX LLC WKC RADONE LLC,contact.Kim Henderson.email,owner,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-wc1n-1es-phoenix-llc-wkc-radone-llc,WC1N 1ES PHOENIX LLC WKC RADONE LLC,contact.Kim Henderson.phone,owner,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-wc1n-1es-phoenix-llc-wkc-radone-llc,WC1N 1ES PHOENIX LLC WKC RADONE LLC,contact.Kim Henderson.title,owner,confirmed,"Key Principal, Optima Real Estate Services",https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-fleeman-family-lp-ii-kourtis-webb-city-llc,FLEEMAN FAMILY LP II KOURTIS WEBB CITY LLC,company_website,,confirmed,https://ddibuild.com/,
+entity-fleeman-family-lp-ii-kourtis-webb-city-llc,FLEEMAN FAMILY LP II KOURTIS WEBB CITY LLC,company_phone,,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-fleeman-family-lp-ii-kourtis-webb-city-llc,FLEEMAN FAMILY LP II KOURTIS WEBB CITY LLC,company_email,,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-fleeman-family-lp-ii-kourtis-webb-city-llc,FLEEMAN FAMILY LP II KOURTIS WEBB CITY LLC,property_manager,,confirmed,"Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa)",https://www.optimacommercial.com/
 entity-fleeman-family-lp-ii-kourtis-webb-city-llc,FLEEMAN FAMILY LP II KOURTIS WEBB CITY LLC,mailing_address,,confirmed,"111 S ELGIN AVE TULSA, OK 74120",
+entity-fleeman-family-lp-ii-kourtis-webb-city-llc,FLEEMAN FAMILY LP II KOURTIS WEBB CITY LLC,contact.Todd Fleeman.email,owner,unverified (pattern),todd.fleeman@optimacommercial.com,pattern — unverified (first.last@optimacommercial.com)
+entity-fleeman-family-lp-ii-kourtis-webb-city-llc,FLEEMAN FAMILY LP II KOURTIS WEBB CITY LLC,contact.Todd Fleeman.title,owner,confirmed,"CEO, Dynamic Development Inc (DDI) - Fleeman family firm",pattern — unverified (first.last@optimacommercial.com)
+entity-mmo-llc-olive-kse-llc,MMO LLC OLIVE KSE LLC,company_website,,confirmed,https://www.optimacommercial.com/,
+entity-mmo-llc-olive-kse-llc,MMO LLC OLIVE KSE LLC,company_phone,,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-mmo-llc-olive-kse-llc,MMO LLC OLIVE KSE LLC,company_email,,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-mmo-llc-olive-kse-llc,MMO LLC OLIVE KSE LLC,property_manager,,confirmed,"Optima Commercial Real Estate Services (IDO portfolio, 111 S Elgin Ave, Tulsa) - MMO LLC explicitly listed at this address",https://www.mapquest.com/us/oklahoma/office-developers-oklahoma-llc-426734162
 entity-mmo-llc-olive-kse-llc,MMO LLC OLIVE KSE LLC,mailing_address,,confirmed,"111 S ELGIN AVE TULSA, OK 74120",
+entity-mmo-llc-olive-kse-llc,MMO LLC OLIVE KSE LLC,contact.Kim Henderson.email,owner,confirmed,general@optimacommercial.com,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-mmo-llc-olive-kse-llc,MMO LLC OLIVE KSE LLC,contact.Kim Henderson.phone,owner,confirmed,918-574-2269,https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
+entity-mmo-llc-olive-kse-llc,MMO LLC OLIVE KSE LLC,contact.Kim Henderson.title,owner,confirmed,"Key Principal, Optima Real Estate Services",https://www.zoominfo.com/pic/optima-commercial-real-estate-services/457098203
 entity-city-of-milwaukee-harold-vincent-high-school,CITY OF MILWAUKEE HAROLD VINCENT HIGH SCHOOL,company_website,,confirmed,https://mps.school/vincent/,https://mps.school/vincent/contact/
 entity-city-of-milwaukee-harold-vincent-high-school,CITY OF MILWAUKEE HAROLD VINCENT HIGH SCHOOL,company_phone,,confirmed,262-236-1200,https://mps.school/vincent/contact/
 entity-city-of-milwaukee-harold-vincent-high-school,CITY OF MILWAUKEE HAROLD VINCENT HIGH SCHOOL,company_email,,confirmed,033@milwaukee.k12.wi.us,https://mps.school/vincent/contact/
@@ -210,7 +271,11 @@ entity-7401-w-good-hope-road-llc,7401 W GOOD HOPE ROAD LLC,mailing_address,,conf
 entity-7401-w-good-hope-road-llc,7401 W GOOD HOPE ROAD LLC,contact.Jeffrey Mussay.email,owner,unverified (pattern),jeffrey.mussay@l2partners.com,pattern — unverified (first.last@l2partners.com)
 entity-7401-w-good-hope-road-llc,7401 W GOOD HOPE ROAD LLC,contact.Jeffrey Mussay.title,owner,confirmed,"President, L2 Partners (owner)",pattern — unverified (first.last@l2partners.com)
 entity-yellow-rose-property-holdings-llc,YELLOW ROSE PROPERTY HOLDINGS LLC,mailing_address,,confirmed,"W220 N7277 COVENTRY MEADOWS SUSSEX, WI 53089",
+entity-arec-1-llc,AREC 1 LLC,company_phone,,confirmed,602-263-6983,https://opengovwa.com/corporation/602518122
 entity-arec-1-llc,AREC 1 LLC,mailing_address,,confirmed,"2727 N CENTRAL AVE PHOENIX, AZ 85004",
+entity-arec-1-llc,AREC 1 LLC,contact.C T Corporation System.title,other,confirmed,Registered Agent,https://opengovwa.com/corporation/602518122
+entity-arec-1-llc,AREC 1 LLC,contact.Edward Shoen.title,other,confirmed,Governor,https://www.corporationwiki.com/Arizona/Phoenix/arec-1-llc/46831921.aspx
+entity-arec-1-llc,AREC 1 LLC,contact.Matthew Braccia.title,other,confirmed,Governor,https://www.corporationwiki.com/Arizona/Phoenix/arec-1-llc/46831921.aspx
 entity-city-of-milw-school-site,CITY OF MILW SCHOOL SITE,company_website,,confirmed,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
 entity-city-of-milw-school-site,CITY OF MILW SCHOOL SITE,company_phone,,confirmed,414-283-4600,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
 entity-city-of-milw-school-site,CITY OF MILW SCHOOL SITE,company_email,,confirmed,fms@milwaukeepublicschools.org,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
@@ -246,10 +311,22 @@ entity-new-prague-partners-llc-c-o-ogden-company-inc,NEW PRAGUE PARTNERS LLC C/O
 entity-new-prague-partners-llc-c-o-ogden-company-inc,NEW PRAGUE PARTNERS LLC C/O OGDEN & COMPANY INC,"contact.Ogden & Company, Inc..phone",manager,confirmed,414-276-5285,https://ogdenre.com/contact-us/
 entity-new-prague-partners-llc-c-o-ogden-company-inc,NEW PRAGUE PARTNERS LLC C/O OGDEN & COMPANY INC,"contact.Ogden & Company, Inc..title",manager,confirmed,"Property Manager (manages New Prague Partners LLC property, per c/o ownership record)",https://ogdenre.com/contact-us/
 entity-gnp-investments-llc,GNP INVESTMENTS LLC,mailing_address,,confirmed,"3645 W ELM ST MILWAUKEE, WI 53209",
+entity-green-tree-wi-llc,GREEN TREE WI LLC,company_phone,,confirmed,(303) 864-9774,"https://www.buzzfile.com/business/Ogilvie-Properties,-Inc.-303-864-9774"
+entity-green-tree-wi-llc,GREEN TREE WI LLC,property_manager,,confirmed,"Ogilvie Properties, Inc. (at Green Tree WI mailing address 2601 Blake St, Denver)",https://www.dandb.com/businessdirectory/ogilviepropertiesinc.-denver-co-15249790.html
 entity-green-tree-wi-llc,GREEN TREE WI LLC,mailing_address,,confirmed,"2601 BLAKE ST STE 100 DENVER, CO 80205",
+entity-green-tree-wi-llc,GREEN TREE WI LLC,contact.Stuart Ogilvie.phone,owner,confirmed,(303) 864-9774,https://local.yahoo.com/info-213292524-ogilvie-stuart-ogilivie-properties-inc-denver/
+entity-green-tree-wi-llc,GREEN TREE WI LLC,contact.Stuart Ogilvie.title,owner,confirmed,"President, Ogilvie Properties (entity at mailing address 2601 Blake St)",https://local.yahoo.com/info-213292524-ogilvie-stuart-ogilivie-properties-inc-denver/
+entity-4001-west-green-tree-llc,4001 WEST GREEN TREE LLC,property_manager,,confirmed,"MDS Fulfillment, Inc. (operates 4001 W Green Tree Rd and corporate office 6555 W Mill Rd)",https://mdsfulfillment.com/locations/
 entity-4001-west-green-tree-llc,4001 WEST GREEN TREE LLC,mailing_address,,confirmed,"6555 WEST MILL RD MILWAUKEE, WI 53218",
 entity-c-m-k-inc,C M K INC,mailing_address,,confirmed,"1400 N 113TH ST WAUWATOSA, WI 53226",
+entity-cmk-inc,CMK INC,company_website,,confirmed,https://www.chcoakley.com/,
+entity-cmk-inc,CMK INC,company_phone,,confirmed,414-372-7000,https://www.chcoakley.com/contact-us/
 entity-cmk-inc,CMK INC,mailing_address,,confirmed,"1400 N 113TH ST WAUWATOSA, WI 53226",
+entity-cmk-inc,CMK INC,contact.Michael T. Coakley.email,owner,unverified (pattern),michael.coakley@chcoakley.com,pattern — unverified (first.last@chcoakley.com)
+entity-cmk-inc,CMK INC,contact.Michael T. Coakley.phone,owner,confirmed,414-372-7000,pattern — unverified (first.last@chcoakley.com)
+entity-cmk-inc,CMK INC,contact.Michael T. Coakley.title,owner,confirmed,Principal / c/o contact at 1400 N 113th St (Registered Agent likely),pattern — unverified (first.last@chcoakley.com)
+entity-cmk-inc,CMK INC,"contact.Michael T. Coakley (principal associated with 1400 N 113th St, Wauwatosa - matches mailing address; CH Coakley / Coakley family entities).email",other,unverified (pattern),michael.entities@chcoakley.com,pattern — unverified (first.last@chcoakley.com)
+entity-cmk-inc,CMK INC,"contact.Michael T. Coakley (principal associated with 1400 N 113th St, Wauwatosa - matches mailing address; CH Coakley / Coakley family entities).title",other,confirmed,Registered Agent,pattern — unverified (first.last@chcoakley.com)
 entity-city-of-milwaukee-c-o-sanitation-dept,CITY OF MILWAUKEE C/O SANITATION DEPT,mailing_address,,confirmed,"841 N BROADWAY ST # 504 MILWAUKEE, WI 53202",
 entity-cintas-corp-attn-acctg-asst-90c-nc,CINTAS CORP ATTN ACCTG ASST 90C NC,company_website,,confirmed,https://www.cintas.com,https://en.wikipedia.org/wiki/Cintas
 entity-cintas-corp-attn-acctg-asst-90c-nc,CINTAS CORP ATTN ACCTG ASST 90C NC,company_phone,,confirmed,513-459-1200,https://corporateofficehq.com/cintas-corporate-office/
@@ -301,7 +378,11 @@ entity-milwaukee-works-industrial-llc,MILWAUKEE WORKS INDUSTRIAL LLC,company_ema
 entity-milwaukee-works-industrial-llc,MILWAUKEE WORKS INDUSTRIAL LLC,property_manager,,confirmed,"The Dickman Company, Inc.",https://www.dickmanrealestate.com/industrial-properties/
 entity-milwaukee-works-industrial-llc,MILWAUKEE WORKS INDUSTRIAL LLC,mailing_address,,confirmed,"2800 W CUSTER AVE MILWAUKEE, WI 53209",
 entity-cmk-64th-street-llc-cmk-w2-64th-street-llc,CMK 64TH STREET LLC CMK W2 64TH STREET LLC,mailing_address,,confirmed,"1400 N 113TH ST WAUWATOSA, WI 53226",
+entity-bender-court-property-group-llc,BENDER COURT PROPERTY GROUP LLC,company_website,,confirmed,https://www.bender-companies.com,
+entity-bender-court-property-group-llc,BENDER COURT PROPERTY GROUP LLC,property_manager,,confirmed,"Bender Companies (multifamily owner-operator, Madison WI)",https://elementix.ai/companies/bender-companies
 entity-bender-court-property-group-llc,BENDER COURT PROPERTY GROUP LLC,mailing_address,,confirmed,"1955 ATWOOD AV MADISON, WI 53704",
+entity-bender-court-property-group-llc,BENDER COURT PROPERTY GROUP LLC,contact.Kurt Bender.email,owner,unverified (pattern),kurt.bender@bender-companies.com,pattern — unverified (first.last@bender-companies.com)
+entity-bender-court-property-group-llc,BENDER COURT PROPERTY GROUP LLC,contact.Kurt Bender.title,owner,confirmed,"Founder & Principal, Bender Companies",pattern — unverified (first.last@bender-companies.com)
 entity-nbp-west-woolworth-llc,NBP WEST WOOLWORTH LLC,company_website,,confirmed,https://newblueprintpartners.com,https://newblueprintpartners.com/
 entity-nbp-west-woolworth-llc,NBP WEST WOOLWORTH LLC,company_phone,,confirmed,914-455-0800,https://rocketreach.co/marc-esrig-email_6282809
 entity-nbp-west-woolworth-llc,NBP WEST WOOLWORTH LLC,property_manager,,confirmed,"New Blueprint Partners, LLC",https://newblueprintpartners.com/post/new-blueprint-partners-acquires-203-000-sf-industrial-property-in-milwaukee-county-for-8-million
@@ -323,7 +404,11 @@ entity-phoenix-woolworth-llc,PHOENIX WOOLWORTH LLC,company_email,,confirmed,info
 entity-phoenix-woolworth-llc,PHOENIX WOOLWORTH LLC,property_manager,,confirmed,Phoenix Investors LLC,https://phoenixinvestors.com/contact-us/
 entity-phoenix-woolworth-llc,PHOENIX WOOLWORTH LLC,mailing_address,,confirmed,"401 E KILBOURN AVE # 201 MILWAUKEE, WI 53202",
 entity-4837-w-woolworth-ave-llc,4837 W WOOLWORTH AVE LLC,mailing_address,,confirmed,"W142N9041 FOUTAIN BLVD MENOMONEE FALLS, WI 53051",
+entity-3716-douglas-llc,3716 DOUGLAS LLC,company_website,,confirmed,https://mdsfulfillment.com,
+entity-3716-douglas-llc,3716 DOUGLAS LLC,property_manager,,confirmed,"MDS Fulfillment, Inc. (operates at 3716 W Douglas Ave; corporate office 6555 W Mill Rd matches mailing address)",https://mdsfulfillment.com/locations/
 entity-3716-douglas-llc,3716 DOUGLAS LLC,mailing_address,,confirmed,"6555 W MILL RD MILWAUKEE, WI 53218",
+entity-3716-douglas-llc,3716 DOUGLAS LLC,contact.Bradley Felker.email,owner,unverified (pattern),bradley.felker@mdsfulfillment.com,pattern — unverified (first.last@mdsfulfillment.com)
+entity-3716-douglas-llc,3716 DOUGLAS LLC,contact.Bradley Felker.title,owner,confirmed,"President & CEO, MDS Fulfillment, Inc.",pattern — unverified (first.last@mdsfulfillment.com)
 entity-city-of-milw-fire-depart,CITY OF MILW FIRE DEPART,mailing_address,,confirmed,"2040 W WISCONSIN AVE '205 MILWAUKEE, WI 53233",
 entity-silver-mill-mall-llc,SILVER MILL MALL LLC,company_phone,,confirmed,(949) 632-2606,https://images1.showcase.com/d2/Ueso7oxfDFJ2jzC3LwzfjU4qkB2lopuxtLv_avQIu4Y/document.pdf
 entity-silver-mill-mall-llc,SILVER MILL MALL LLC,company_email,,confirmed,silvermillshoppingcenter@gmail.com,https://images1.showcase.com/d2/Ueso7oxfDFJ2jzC3LwzfjU4qkB2lopuxtLv_avQIu4Y/document.pdf
@@ -334,7 +419,13 @@ entity-silver-mill-mall-llc,SILVER MILL MALL LLC,contact.Deepak Pandey.phone,own
 entity-silver-mill-mall-llc,SILVER MILL MALL LLC,contact.Deepak Pandey.title,owner,confirmed,"Owner/Manager, Silver Mill Mall LLC",https://images1.showcase.com/d2/Ueso7oxfDFJ2jzC3LwzfjU4qkB2lopuxtLv_avQIu4Y/document.pdf
 entity-silver-mill-mall-llc,SILVER MILL MALL LLC,contact.Amanda Bence.phone,leasing,confirmed,414-436-4753,https://www.showcase.com/6063-6245-n-teutonia-ave-milwaukee-wi-53209/36928429/
 entity-silver-mill-mall-llc,SILVER MILL MALL LLC,contact.Amanda Bence.title,leasing,confirmed,Leasing,https://www.showcase.com/6063-6245-n-teutonia-ave-milwaukee-wi-53209/36928429/
+entity-b-b-realty-1-j-philip-walthers,B & B REALTY 1 J PHILIP WALTHERS,company_website,,confirmed,https://www.walthers.com/,
+entity-b-b-realty-1-j-philip-walthers,B & B REALTY 1 J PHILIP WALTHERS,company_phone,,confirmed,1-414-527-0770,https://www.walthers.com/contact-us
+entity-b-b-realty-1-j-philip-walthers,B & B REALTY 1 J PHILIP WALTHERS,company_email,,confirmed,custserv@walthers.com,https://www.walthers.com/contact-us
 entity-b-b-realty-1-j-philip-walthers,B & B REALTY 1 J PHILIP WALTHERS,mailing_address,,confirmed,"5601 W FLORIST AVE MILWAUKEE, WI 53218",
+entity-b-b-realty-1-j-philip-walthers,B & B REALTY 1 J PHILIP WALTHERS,contact.J. Philip Walthers.email,owner,confirmed,custserv@walthers.com,https://web.mmac.org/HobbyModel-Construction-SuppliesWhlseMftrs/Wm-K-Walthers-Inc-5030
+entity-b-b-realty-1-j-philip-walthers,B & B REALTY 1 J PHILIP WALTHERS,contact.J. Philip Walthers.phone,owner,confirmed,1-414-527-0770,https://web.mmac.org/HobbyModel-Construction-SuppliesWhlseMftrs/Wm-K-Walthers-Inc-5030
+entity-b-b-realty-1-j-philip-walthers,B & B REALTY 1 J PHILIP WALTHERS,contact.J. Philip Walthers.title,owner,confirmed,Named principal / President & CEO of Wm. K. Walthers Inc. (at B&B Realty mailing address 5601 W Florist Ave),https://web.mmac.org/HobbyModel-Construction-SuppliesWhlseMftrs/Wm-K-Walthers-Inc-5030
 entity-the-salvation-army,THE SALVATION ARMY,company_website,,confirmed,https://www.salvationarmyusa.org/usa-central-territory/wisconsin-and-upper-michigan/,https://www.salvationarmyusa.org/usa-central-territory/wisconsin-and-upper-michigan/contact-us/
 entity-the-salvation-army,THE SALVATION ARMY,company_phone,,confirmed,(414) 302-4300,https://www.salvationarmyusa.org/usa-central-territory/wisconsin-and-upper-michigan/milwaukee-area-command/contact-us/
 entity-the-salvation-army,THE SALVATION ARMY,property_manager,,confirmed,Self-managed / owner-occupied,
@@ -381,6 +472,8 @@ entity-pepsi-cola-general-bottlers-c-o-pepsico-inc-tax-dept,PEPSI COLA GENERAL B
 entity-pepsi-cola-general-bottlers-c-o-pepsico-inc-tax-dept,PEPSI COLA GENERAL BOTTLERS C/O PEPSICO INC TAX DEPT,property_manager,,confirmed,Self-managed / owner-occupied,
 entity-pepsi-cola-general-bottlers-c-o-pepsico-inc-tax-dept,PEPSI COLA GENERAL BOTTLERS C/O PEPSICO INC TAX DEPT,mailing_address,,confirmed,"2140 HUTSON RD GREEN BAY, WI 54303",
 entity-milwaukee-county-register-of-deeds,MILWAUKEE COUNTY REGISTER OF DEEDS,mailing_address,,confirmed,"901 N 9TH ST MILWAUKEE, WI 53233",
+entity-greater-new-birth-church-inc,GREATER NEW BIRTH CHURCH INC,company_website,,confirmed,https://www.greaternewbirthchurch.org,
+entity-greater-new-birth-church-inc,GREATER NEW BIRTH CHURCH INC,company_phone,,confirmed,414-264-5683,https://www.yelp.com/biz/greater-new-birth-church-milwaukee-2
 entity-greater-new-birth-church-inc,GREATER NEW BIRTH CHURCH INC,mailing_address,,confirmed,"8237 W SILVER SPRING DR MILWAUKE, WI 53218",
 entity-milwaukee-fire-department-engine-8,MILWAUKEE FIRE DEPARTMENT ENGINE 8,mailing_address,,confirmed,"809 N BROADWAY MILWAUKEE, WI 53202",
 entity-edison-school-apartments-llc,EDISON SCHOOL APARTMENTS LLC,company_website,,confirmed,https://www.edisonschoolapts.com,https://www.edisonschoolapts.com/Contact.aspx
@@ -409,7 +502,13 @@ entity-auer-steel-heating-supply-company,AUER STEEL & HEATING SUPPLY COMPANY,con
 entity-auer-steel-heating-supply-company,AUER STEEL & HEATING SUPPLY COMPANY,contact.Frank Romano.email,other,confirmed,frank.romano@auersteel.com,https://www.yumpu.com/en/document/view/36477100/commercial-department-directory-auer-steel-heating-supply-co
 entity-auer-steel-heating-supply-company,AUER STEEL & HEATING SUPPLY COMPANY,contact.Frank Romano.phone,other,confirmed,414.438.3256,https://www.yumpu.com/en/document/view/36477100/commercial-department-directory-auer-steel-heating-supply-co
 entity-auer-steel-heating-supply-company,AUER STEEL & HEATING SUPPLY COMPANY,contact.Frank Romano.title,other,confirmed,Commercial Sales Manager,https://www.yumpu.com/en/document/view/36477100/commercial-department-directory-auer-steel-heating-supply-co
+entity-city-of-milwaukee-school-board,CITY OF MILWAUKEE SCHOOL BOARD,company_website,,confirmed,https://www.milwaukeepublicschools.org,
+entity-city-of-milwaukee-school-board,CITY OF MILWAUKEE SCHOOL BOARD,company_phone,,confirmed,(414) 475-8393,https://www.yelp.com/biz/milwaukee-public-schools-central-services-milwaukee
+entity-city-of-milwaukee-school-board,CITY OF MILWAUKEE SCHOOL BOARD,property_manager,,confirmed,Milwaukee Public Schools Central Services,https://www.milwaukeepublicschools.org/contact
 entity-city-of-milwaukee-school-board,CITY OF MILWAUKEE SCHOOL BOARD,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
+entity-city-of-milwaukee-school-board,CITY OF MILWAUKEE SCHOOL BOARD,contact.Milwaukee Public Schools Central Services.email,other,unverified (pattern),milwaukee.services@milwaukeepublicschools.org,pattern — unverified (first.last@milwaukeepublicschools.org)
+entity-city-of-milwaukee-school-board,CITY OF MILWAUKEE SCHOOL BOARD,contact.Milwaukee Public Schools Central Services.phone,other,confirmed,(414) 475-8393,pattern — unverified (first.last@milwaukeepublicschools.org)
+entity-city-of-milwaukee-school-board,CITY OF MILWAUKEE SCHOOL BOARD,contact.Milwaukee Public Schools Central Services.title,other,confirmed,District Administration (5225 W Vliet St),pattern — unverified (first.last@milwaukeepublicschools.org)
 entity-city-of-milw-24th-street,CITY OF MILW-24TH STREET,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-mozart-properties-llc,MOZART PROPERTIES LLC,mailing_address,,confirmed,"PO BOX 28 NASHOTAH, WI 53028",
 entity-hr-academy-inc,HR ACADEMY INC,company_website,,confirmed,https://www.hrcogic.org,https://www.hrcogic.org/contact
@@ -418,6 +517,7 @@ entity-hr-academy-inc,HR ACADEMY INC,company_email,,confirmed,info@hrcogic.org,h
 entity-hr-academy-inc,HR ACADEMY INC,property_manager,,confirmed,Self-managed / owner-occupied,https://www.hrcogic.org/christian-academy
 entity-hr-academy-inc,HR ACADEMY INC,mailing_address,,confirmed,"3500 W MOTHER DANIELS WAY MILWAUKEE, WI 53209",
 entity-city-of-milw-school-site-custer-playfield,CITY OF MILW SCHOOL SITE CUSTER PLAYFIELD,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
+entity-city-of-milw-hampton-elem,CITY OF MILW HAMPTON ELEM,property_manager,,confirmed,Milwaukee Public Schools (City of Milwaukee),
 entity-city-of-milw-hampton-elem,CITY OF MILW HAMPTON ELEM,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-hampton-shopping-cntr,HAMPTON SHOPPING CNTR,mailing_address,,confirmed,"10936 N PORT WASHINGTON RD S MEQUON, WI 53092",
 entity-hmong-town-market-llc,HMONG TOWN MARKET LLC,company_website,,confirmed,https://hmong-town.com/,https://hmong-town.com/
@@ -522,7 +622,14 @@ entity-century-city-industrial-llc,CENTURY CITY INDUSTRIAL LLC,mailing_address,,
 entity-century-city-industrial-llc,CENTURY CITY INDUSTRIAL LLC,contact.Michael Weiss.email,owner,unverified (pattern),michael.weiss@generalcapitalgroup.com,pattern — unverified (first.last@generalcapitalgroup.com)
 entity-century-city-industrial-llc,CENTURY CITY INDUSTRIAL LLC,contact.Michael Weiss.phone,owner,confirmed,(414) 228-3500,pattern — unverified (first.last@generalcapitalgroup.com)
 entity-century-city-industrial-llc,CENTURY CITY INDUSTRIAL LLC,contact.Michael Weiss.title,owner,confirmed,"President, General Capital Group",pattern — unverified (first.last@generalcapitalgroup.com)
+entity-4201-property-llc,4201 PROPERTY LLC,company_website,,confirmed,https://www.joncoind.com,
+entity-4201-property-llc,4201 PROPERTY LLC,company_phone,,confirmed,(414) 449-2000,https://www.yellowpages.com/milwaukee-wi/mip/jonco-industries-inc-506345459
+entity-4201-property-llc,4201 PROPERTY LLC,company_email,,confirmed,info@joncoind.com,https://www.yellowpages.com/milwaukee-wi/mip/jonco-industries-inc-506345459
+entity-4201-property-llc,4201 PROPERTY LLC,property_manager,,confirmed,"Jonco Industries, Inc. (operates at 2800 W Custer Ave, same mailing address as 4201 Property LLC)",https://city.milwaukee.gov/pace/bbc/challenge-participants/2800-Custer-Avenue
 entity-4201-property-llc,4201 PROPERTY LLC,mailing_address,,confirmed,"2800 W CUSTER AVE MILWAUKEE, WI 53209",
+entity-4201-property-llc,4201 PROPERTY LLC,"contact.Jonco Industries, Inc..email",other,confirmed,info@joncoind.com,https://www.yellowpages.com/milwaukee-wi/mip/jonco-industries-inc-506345459
+entity-4201-property-llc,4201 PROPERTY LLC,"contact.Jonco Industries, Inc..phone",other,confirmed,(414) 449-2000,https://www.yellowpages.com/milwaukee-wi/mip/jonco-industries-inc-506345459
+entity-4201-property-llc,4201 PROPERTY LLC,"contact.Jonco Industries, Inc..title",other,confirmed,Operating company at mailing address,https://www.yellowpages.com/milwaukee-wi/mip/jonco-industries-inc-506345459
 entity-milwaukee-fire-department-engine-24-special-ops-div,MILWAUKEE FIRE DEPARTMENT ENGINE 24 SPECIAL OPS DIV,mailing_address,,confirmed,"711 W WELLS ST MILWAUKEE, WI 53233",
 entity-jack-l-marcus-inc,JACK L MARCUS INC,company_website,,confirmed,https://www.jacklmarcus.com,https://www.visualvisitor.com/companies/1945545/Jack-L.-Marcus-Inc.
 entity-jack-l-marcus-inc,JACK L MARCUS INC,company_phone,,confirmed,(414) 438-4968,https://local.yahoo.com/info-185244495-jack-l-marcus-milwaukee/
@@ -535,7 +642,11 @@ entity-54th-street-llc,54TH STREET LLC,mailing_address,,confirmed,"11026 N BRIGH
 entity-afs-milwaukee-llc,AFS MILWAUKEE LLC,property_manager,,confirmed,Self-managed / owner-occupied,https://biztimes.com/milwaukee-plan-commission-approves-new-plans-for-redevelopment-of-former-walmart-store-at-midtown-center/
 entity-afs-milwaukee-llc,AFS MILWAUKEE LLC,mailing_address,,confirmed,"200 N MAIN ST OREGON, WI 53575",
 entity-afs-milwaukee-llc,AFS MILWAUKEE LLC,contact.Trent Overhue.title,owner,confirmed,"Owner / Developer, AFS Milwaukee LLC",https://biztimes.com/plan-commission-holds-redevelopment-proposal-for-former-midtown-center-walmart-store-following-tense-public-hearing/
+entity-laureate-capital-llc,LAUREATE CAPITAL LLC,company_phone,,confirmed,678-244-9510,https://www.merchantcircle.com/laureate-capital-atlanta-ga
 entity-laureate-capital-llc,LAUREATE CAPITAL LLC,mailing_address,,confirmed,"361 17TH ST NW UNIT 2601 ATLANTA, GA 30363",
+entity-laureate-capital-llc,LAUREATE CAPITAL LLC,contact.Dennis Panter.phone,owner,confirmed,678-244-9510,https://www.merchantcircle.com/laureate-capital-atlanta-ga
+entity-laureate-capital-llc,LAUREATE CAPITAL LLC,contact.Dennis Panter.title,owner,confirmed,Principal (c/o legal address),https://www.merchantcircle.com/laureate-capital-atlanta-ga
+entity-laureate-capital-llc,LAUREATE CAPITAL LLC,contact.Laureate Capital LLC.title,other,confirmed,Registered Agent,https://www.lei-identifier.com/leicert/2549003Y8XE4XNP86704/
 entity-next-door-foundation-inc,NEXT DOOR FOUNDATION INC,company_website,,confirmed,https://www.nextdoormke.org,https://www.nextdoormke.org/contact-us/
 entity-next-door-foundation-inc,NEXT DOOR FOUNDATION INC,company_phone,,confirmed,414-562-2929,https://associations-and-foundations.cmac.ws/next-door-foundation/9674/
 entity-next-door-foundation-inc,NEXT DOOR FOUNDATION INC,company_email,,confirmed,mseigle@nextdoormke.org,https://www.nextdoormke.org/contact-us/
@@ -543,15 +654,31 @@ entity-next-door-foundation-inc,NEXT DOOR FOUNDATION INC,property_manager,,confi
 entity-next-door-foundation-inc,NEXT DOOR FOUNDATION INC,mailing_address,,confirmed,"2545 N 29TH ST MILWAUKEE, WI 53210",
 entity-next-door-foundation-inc,NEXT DOOR FOUNDATION INC,contact.M. Seigle.email,owner,confirmed,mseigle@nextdoormke.org,https://www.nextdoormke.org/contact-us/
 entity-next-door-foundation-inc,NEXT DOOR FOUNDATION INC,contact.M. Seigle.title,owner,confirmed,"Contact, Next Door Foundation (nonprofit owner)",https://www.nextdoormke.org/contact-us/
+entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,company_website,,confirmed,https://phoenixinvestors.com/,
+entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,company_phone,,confirmed,414-283-2600,https://www.yelp.com/biz/phoenix-investors-milwaukee
+entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,company_email,,confirmed,info@phoenixinvestors.com,https://rocketreach.co/phoenix-investors-profile_b564f19ff99898e2
+entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,property_manager,,confirmed,"Phoenix Investors, LLC (401 E Kilbourn Ave Ste 201, Milwaukee - matches mailing address)",https://phoenixinvestors.com/contact-us/
 entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,mailing_address,,confirmed,"401 E KILBOURN AVE STE 201 MILWAUKEE, WI 53202",
+entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,"contact.The Corporation Trust Company (registered agent pattern for Phoenix *** Industrial Investors LLC entities); Wisconsin office Phoenix Investors, A Limited Liability Company, 401 E Kilbourn Ave Ste 201, Milwaukee WI 53202.email",other,unverified (pattern),the.wi@phoenixinvestors.com,pattern — unverified (first.last@phoenixinvestors.com)
+entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,"contact.The Corporation Trust Company (registered agent pattern for Phoenix *** Industrial Investors LLC entities); Wisconsin office Phoenix Investors, A Limited Liability Company, 401 E Kilbourn Ave Ste 201, Milwaukee WI 53202.title",other,confirmed,Registered Agent,pattern — unverified (first.last@phoenixinvestors.com)
+entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,contact.The Corporation Trust Company.email,other,unverified (pattern),the.company@phoenixinvestors.com,pattern — unverified (first.last@phoenixinvestors.com)
+entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,contact.The Corporation Trust Company.title,other,confirmed,Registered Agent,pattern — unverified (first.last@phoenixinvestors.com)
+entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,contact.Phoenix Investors.email,other,confirmed,info@phoenixinvestors.com,https://phoenixinvestors.com/contact-us/
+entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,contact.Phoenix Investors.phone,other,confirmed,414-283-2600,https://phoenixinvestors.com/contact-us/
+entity-phoenix-midtown-industrial-investors-llc,PHOENIX MIDTOWN INDUSTRIAL INVESTORS LLC,contact.Phoenix Investors.title,other,confirmed,Manager / Milwaukee office,https://phoenixinvestors.com/contact-us/
 entity-city-of-milw-school-site-adm-bldg,CITY OF MILW SCHOOL SITE ADM BLDG,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-city-of-milw-school,CITY OF MILW SCHOOL,company_website,,confirmed,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
 entity-city-of-milw-school,CITY OF MILW SCHOOL,company_phone,,confirmed,(414) 283-4600,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
 entity-city-of-milw-school,CITY OF MILW SCHOOL,company_email,,confirmed,fms@milwaukeepublicschools.org,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
 entity-city-of-milw-school,CITY OF MILW SCHOOL,property_manager,,confirmed,Milwaukee Public Schools - Facilities and Maintenance Services,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
 entity-city-of-milw-school,CITY OF MILW SCHOOL,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
+entity-times-square-mke-llc,TIMES SQUARE MKE LLC,company_website,,confirmed,https://www.unitedpropertiescorp.com,
+entity-times-square-mke-llc,TIMES SQUARE MKE LLC,company_phone,,confirmed,(516) 223-6200,https://www.yelp.com/biz/united-properties-corp-east-meadow
 entity-times-square-mke-llc,TIMES SQUARE MKE LLC,property_manager,,confirmed,United Properties Corp.,https://www.loopnet.com/Listing/7600-7610-W-Capitol-Dr-Milwaukee-WI/15073114/
 entity-times-square-mke-llc,TIMES SQUARE MKE LLC,mailing_address,,confirmed,"1975 HEMPSTEAD TURNPIKE STE EAST MEADOW, NY 11554",
+entity-times-square-mke-llc,TIMES SQUARE MKE LLC,contact.Denis Rodger.email,owner,unverified (pattern),denis.rodger@unitedpropertiescorp.com,pattern — unverified (first.last@unitedpropertiescorp.com)
+entity-times-square-mke-llc,TIMES SQUARE MKE LLC,contact.Denis Rodger.phone,owner,confirmed,(516) 987-2991,pattern — unverified (first.last@unitedpropertiescorp.com)
+entity-times-square-mke-llc,TIMES SQUARE MKE LLC,contact.Denis Rodger.title,owner,confirmed,"President & CEO, United Properties Corp (mailing-address affiliate)",pattern — unverified (first.last@unitedpropertiescorp.com)
 entity-city-of-milw-95th-st-sch,CITY OF MILW 95TH ST SCH,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-wellpoint-care-network-fka-sainta-inc,WELLPOINT CARE NETWORK FKA SAINTA INC,company_website,,confirmed,https://wellpointcare.org,https://wellpointcare.org/
 entity-wellpoint-care-network-fka-sainta-inc,WELLPOINT CARE NETWORK FKA SAINTA INC,company_phone,,confirmed,414-463-1880,https://wellpointcare.org/how-can-we-help
@@ -559,6 +686,7 @@ entity-wellpoint-care-network-fka-sainta-inc,WELLPOINT CARE NETWORK FKA SAINTA I
 entity-wellpoint-care-network-fka-sainta-inc,WELLPOINT CARE NETWORK FKA SAINTA INC,property_manager,,confirmed,Self-managed / owner-occupied,https://wellpointcare.org/
 entity-wellpoint-care-network-fka-sainta-inc,WELLPOINT CARE NETWORK FKA SAINTA INC,mailing_address,,confirmed,"8901 W CAPITOL DR MILWAUKEE, WI 53222",
 entity-city-of-milw-82nd-st-sch,CITY OF MILW 82ND ST SCH,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
+entity-vitali-liberman-tod,VITALI LIBERMAN TOD,property_manager,,confirmed,"Liberman Realty (6815 W Capitol Dr Ste 106, Milwaukee, WI 53216)",https://www.mapquest.com/us/wisconsin/liberman-realty-6908837
 entity-vitali-liberman-tod,VITALI LIBERMAN TOD,mailing_address,,confirmed,"225 E HIGHVIEW DR MEQUON, WI 53092",
 entity-city-of-milw-65th-st-sch,CITY OF MILW 65TH ST SCH,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-city-of-milw-n-53rd-sch,CITY OF MILW N 53RD SCH,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
@@ -598,6 +726,7 @@ entity-roadster-llc-attn-christopher-coakley,ROADSTER LLC ATTN: CHRISTOPHER COAK
 entity-roadster-llc-attn-christopher-coakley,ROADSTER LLC ATTN: CHRISTOPHER COAKLEY,contact.Christopher Coakley.title,owner,confirmed,"Principal, Roadster LLC / C. Coakley Relocation Systems",https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=ATTN%3A+CHRISTOPHER+COAKLEY
 entity-twenty-four-sac-self-storage-ltd-partnership,TWENTY FOUR SAC SELF STORAGE LTD PARTNERSHIP,property_manager,,confirmed,SAC Holding Corporation,https://www.sec.gov/Archives/edgar/data/1585389/000119312513357080/d590066ds11.htm
 entity-twenty-four-sac-self-storage-ltd-partnership,TWENTY FOUR SAC SELF STORAGE LTD PARTNERSHIP,mailing_address,,confirmed,"207 E CLARENDON AV PHOENIX, AZ 85012",
+entity-twenty-four-sac-self-storage-ltd-partnership,TWENTY FOUR SAC SELF STORAGE LTD PARTNERSHIP,contact.C T Corporation System.title,other,confirmed,Registered Agent,https://www.bizprofile.net/az/phoenix/twenty-four-sac-self-3
 entity-525-properties-ltd-c-o-lloyd-levin,525 PROPERTIES LTD C/O LLOYD LEVIN,company_website,,confirmed,https://525prop.com/,
 entity-525-properties-ltd-c-o-lloyd-levin,525 PROPERTIES LTD C/O LLOYD LEVIN,company_phone,,confirmed,(262) 241-1140,https://www.manta.com/c/mhx2ypr/525-properties-limited-partnership
 entity-525-properties-ltd-c-o-lloyd-levin,525 PROPERTIES LTD C/O LLOYD LEVIN,property_manager,,confirmed,Self-managed / owner-occupied,http://www.levinprop.com/principal.html
@@ -609,6 +738,7 @@ entity-city-of-milwaukee-c-o-fire-administration-office,CITY OF MILWAUKEE C/O FI
 entity-city-of-milwaukee-c-o-fire-administration-office,CITY OF MILWAUKEE C/O FIRE ADMINISTRATION OFFICE,mailing_address,,confirmed,"711 W WELLS ST 3RD FL MILWAUKEE, WI 53233",
 entity-vienna-avenue-industrial-llc,"VIENNA AVENUE INDUSTRIAL, LLC",mailing_address,,confirmed,"2601 BLAKE STREET SUITE 100 DENVER, CO 80205",
 entity-jonathan-k-tourzan-revocable-living-trust,JONATHAN K TOURZAN REVOCABLE LIVING TRUST,mailing_address,,confirmed,"560 LAUREL ST MENLO PARK, CA 94025",
+entity-jonathan-k-tourzan-revocable-living-trust,JONATHAN K TOURZAN REVOCABLE LIVING TRUST,contact.Jonathan K Tourzan.title,other,confirmed,Registered Agent,https://www.bizprofile.net/registered-agent/jonathan-k-tourzan
 entity-light-ray-development-llc,LIGHT RAY DEVELOPMENT LLC,mailing_address,,confirmed,"3811 N HOLTON ST MILWAUKEE, WI 53212",
 entity-capitol-commons-partners-llc,"CAPITOL COMMONS PARTNERS, LLC",company_website,,confirmed,https://midlandmanagement.net/property/capitol-commons/,https://midlandmanagement.net/property/capitol-commons/
 entity-capitol-commons-partners-llc,"CAPITOL COMMONS PARTNERS, LLC",company_phone,,confirmed,(262) 643-4430,https://www.mapquest.com/us/wisconsin/midland-management-778692398
@@ -638,6 +768,9 @@ entity-m-r-land-company-llc,M & R LAND COMPANY LLC,mailing_address,,confirmed,"W
 entity-quickcovers-llc,QUICKCOVERS LLC,mailing_address,,confirmed,"10647 N WOOD CREST DR MEQUON, WI 53092",
 entity-3150-burleigh-llc,3150 BURLEIGH LLC,mailing_address,,confirmed,"3150 W BURLEIGH ST MILWAUKEE, WI 53210",
 entity-city-of-milwaukee-city-real-estate,CITY OF MILWAUKEE %CITY REAL ESTATE,mailing_address,,confirmed,"809 N BROADWAY MILWAUKEE, WI 53202",
+entity-pilgrim-rest-oasis-inc,"PILGRIM REST OASIS, INC.",company_website,,confirmed,pilgrimrestmilwaukee.org,
+entity-pilgrim-rest-oasis-inc,"PILGRIM REST OASIS, INC.",company_phone,,confirmed,(414) 873-1045,https://www.zoominfo.com/c/pilgrim-rest-missionary-baptist-church/371164005
+entity-pilgrim-rest-oasis-inc,"PILGRIM REST OASIS, INC.",company_email,,confirmed,pilgchurch@sbcglobal.net,https://www.zoominfo.com/c/pilgrim-rest-missionary-baptist-church/371164005
 entity-pilgrim-rest-oasis-inc,"PILGRIM REST OASIS, INC.",mailing_address,,confirmed,"3456 N 38TH ST MILWAUKEE, WI 53216",
 entity-public-storage-institutional-fund-ii,PUBLIC STORAGE INSTITUTIONAL FUND II,company_website,,confirmed,https://www.publicstorage.com/,https://www.publicstorage.com/real-estate/real-estate.html
 entity-public-storage-institutional-fund-ii,PUBLIC STORAGE INSTITUTIONAL FUND II,company_phone,,confirmed,(818) 244-8080,https://headquarterlocation.com/california/public-storage-headquarters-corporate-office/
@@ -676,6 +809,7 @@ entity-dapl-llc,DAPL LLC,contact.Rod Rinzel.phone,manager,confirmed,(414) 224-50
 entity-dapl-llc,DAPL LLC,contact.Rod Rinzel.title,manager,confirmed,"Director of Development, Van Buren Management",https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
 entity-hta-water-tower-mob-llc-c-o-healthcare-trust-of,HTA-WATER TOWER MOB LLC C/O HEALTHCARE TRUST OF,property_manager,,confirmed,Healthcare Trust of America (Healthcare Realty); building operated on Ascension Columbia St. Mary's campus,https://biztimes.com/east-side-medical-office-building-sold-for-nearly-41-million/
 entity-hta-water-tower-mob-llc-c-o-healthcare-trust-of,HTA-WATER TOWER MOB LLC C/O HEALTHCARE TRUST OF,mailing_address,,confirmed,"3050 PEACHTREE RD NW SUITE 5 ATLANTA, GA 30305",
+entity-hta-water-tower-mob-llc-c-o-healthcare-trust-of,HTA-WATER TOWER MOB LLC C/O HEALTHCARE TRUST OF,contact.C T Corporation System.title,other,confirmed,Registered Agent,"https://ecorp.sos.ga.gov/BusinessSearch (search snippet via WebSearch: HTA affiliate registered agent C T Corporation System, Atlanta GA)"
 entity-exchangeright-net-leased-wf-grocery-43-dst,EXCHANGERIGHT NET-LEASED WF GROCERY 43 DST,company_website,,confirmed,https://www.exchangeright.com,https://www.exchangeright.com/news/exchangeright-acquires-multi-tenant-retail-center-near-milwaukee-1930-million/
 entity-exchangeright-net-leased-wf-grocery-43-dst,EXCHANGERIGHT NET-LEASED WF GROCERY 43 DST,company_phone,,confirmed,(855) 317-4448,https://www.exchangeright.com/news/exchangeright-acquires-multi-tenant-retail-center-near-milwaukee-1930-million/
 entity-exchangeright-net-leased-wf-grocery-43-dst,EXCHANGERIGHT NET-LEASED WF GROCERY 43 DST,company_email,,confirmed,info@exchangeright.com,https://www.exchangeright.com/news/exchangeright-acquires-multi-tenant-retail-center-near-milwaukee-1930-million/
@@ -710,12 +844,15 @@ entity-milwaukee-catholic-home-inc,MILWAUKEE CATHOLIC HOME INC,contact.Caitlin E
 entity-milwaukee-catholic-home-inc,MILWAUKEE CATHOLIC HOME INC,contact.Caitlin Elftman.phone,other,confirmed,414-220-3213,https://rocketreach.co/milwaukee-catholic-home-email-format_b5e57865f42e6020
 entity-milwaukee-catholic-home-inc,MILWAUKEE CATHOLIC HOME INC,contact.Caitlin Elftman.title,other,confirmed,Staff (Milwaukee Catholic Home),https://rocketreach.co/milwaukee-catholic-home-email-format_b5e57865f42e6020
 entity-city-of-milwaukee-maryland-ave-montessori,CITY OF MILWAUKEE MARYLAND AVE MONTESSORI,mailing_address,,confirmed,"2418 N MARYLAND AVE MILWAUKEE, WI 53211",
+entity-city-of-milwaukee-lee-elementary-school,CITY OF MILWAUKEE LEE ELEMENTARY SCHOOL,property_manager,,confirmed,Milwaukee Public Schools (City of Milwaukee),
 entity-city-of-milwaukee-lee-elementary-school,CITY OF MILWAUKEE LEE ELEMENTARY SCHOOL,mailing_address,,confirmed,"921 W MEINECKE AVE MILWAUKEE, WI 53206",
 entity-city-of-milw-north-division-senior-high-school,CITY OF MILW NORTH DIVISION SENIOR HIGH SCHOOL,company_website,,confirmed,https://mps.school/north/contact/,https://mps.school/north/contact/
 entity-city-of-milw-north-division-senior-high-school,CITY OF MILW NORTH DIVISION SENIOR HIGH SCHOOL,company_phone,,confirmed,(414) 267-4900,https://web.mmac.org/atlas/directory/category/talent-solutions-directory/north-division-high-school-14322
 entity-city-of-milw-north-division-senior-high-school,CITY OF MILW NORTH DIVISION SENIOR HIGH SCHOOL,property_manager,,confirmed,Milwaukee Public Schools (North Division High School),https://mps.school/north/contact/
 entity-city-of-milw-north-division-senior-high-school,CITY OF MILW NORTH DIVISION SENIOR HIGH SCHOOL,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-vwss-lloyd-llc,VWSS LLOYD LLC,mailing_address,,confirmed,"303 S BROADWAY STE 200-606, DENVER, CO 80209",
+entity-vwss-lloyd-llc,VWSS LLOYD LLC,"contact.Spierer, Woodward, Corbalis & Goldberg, P.C. (Colorado registration of VWSS Lloyd, LLC, 1830 S Bannock St Unit 200, Denver CO).title",other,confirmed,Registered Agent,https://www.coloradocompanysearch.com/VWSS/
+entity-vwss-lloyd-llc,VWSS LLOYD LLC,"contact.Spierer, Woodward, Corbalis & Goldberg, P.C..title",other,confirmed,Registered Agent,https://www.coloradocompanysearch.com/VWSS/
 entity-hg-sears-llc,HG SEARS LLC,company_website,,confirmed,https://www.haywood-group.com,https://biztimes.com/developer-purchases-former-sears-store-in-central-city-neighborhood/
 entity-hg-sears-llc,HG SEARS LLC,company_phone,,confirmed,414-461-1568,http://aaccwisconsin.chambermaster.com/list/member/haywood-group-llc-292
 entity-hg-sears-llc,HG SEARS LLC,company_email,,confirmed,info@haywood-group.com,http://aaccwisconsin.chambermaster.com/list/member/haywood-group-llc-292
@@ -743,12 +880,20 @@ entity-allied-mortgage-services-a-wi-llc,ALLIED MORTGAGE & SERVICES A WI LLC,com
 entity-allied-mortgage-services-a-wi-llc,ALLIED MORTGAGE & SERVICES A WI LLC,property_manager,,confirmed,Self-managed / owner-occupied,https://www.yelp.com/biz/allied-mortgage-and-services-milwaukee
 entity-allied-mortgage-services-a-wi-llc,ALLIED MORTGAGE & SERVICES A WI LLC,mailing_address,,confirmed,"PO BOX 6097 BEVERLY HILLS, CA 90212",
 entity-lark-creek-llc,LARK CREEK LLC,mailing_address,,confirmed,"42 INCLINE GREEN LN ALAMO, CA 94507",
+entity-lark-creek-llc,LARK CREEK LLC,"contact.Sailakshmi Gollapudi, 42 Incline Green Ln, Alamo, CA 94507.title",other,confirmed,Registered Agent,https://www.bizprofile.net/ca/alamo/lark-creek-llc
+entity-lark-creek-llc,LARK CREEK LLC,contact.Sailakshmi Gollapudi.title,other,confirmed,Manager,https://www.bizprofile.net/ca/alamo/lark-creek-llc
 entity-city-of-milwaukee-school-site-washington-high,CITY OF MILWAUKEE SCHOOL SITE WASHINGTON HIGH,company_website,,confirmed,https://mps.school/washington/,https://mps.school/washington/contact/
 entity-city-of-milwaukee-school-site-washington-high,CITY OF MILWAUKEE SCHOOL SITE WASHINGTON HIGH,company_phone,,confirmed,414-875-5900,https://mps.school/washington/contact/
 entity-city-of-milwaukee-school-site-washington-high,CITY OF MILWAUKEE SCHOOL SITE WASHINGTON HIGH,company_email,,confirmed,039@milwaukee.k12.wi.us,https://mps.school/washington/contact/
 entity-city-of-milwaukee-school-site-washington-high,CITY OF MILWAUKEE SCHOOL SITE WASHINGTON HIGH,property_manager,,confirmed,Milwaukee Public Schools,https://mps.school/washington/contact/
 entity-city-of-milwaukee-school-site-washington-high,CITY OF MILWAUKEE SCHOOL SITE WASHINGTON HIGH,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
+entity-city-of-milwaukee-milwaukee-french-immersion,CITY OF MILWAUKEE MILWAUKEE FRENCH IMMERSION,company_website,,confirmed,https://mps.milwaukee.k12.wi.us,
+entity-city-of-milwaukee-milwaukee-french-immersion,CITY OF MILWAUKEE MILWAUKEE FRENCH IMMERSION,company_phone,,confirmed,(414) 874-8400,https://www.greatschools.org/wisconsin/milwaukee/1221-Milwaukee-French-Immersion-School/
+entity-city-of-milwaukee-milwaukee-french-immersion,CITY OF MILWAUKEE MILWAUKEE FRENCH IMMERSION,property_manager,,confirmed,Milwaukee Public Schools (MPS),https://mps.milwaukee.k12.wi.us/en/District/Initiatives/Research-Development/About-Us.htm
 entity-city-of-milwaukee-milwaukee-french-immersion,CITY OF MILWAUKEE MILWAUKEE FRENCH IMMERSION,mailing_address,,confirmed,"2360 N 52ND ST MILWAUKEE, WI 53210",
+entity-city-of-milwaukee-milwaukee-french-immersion,CITY OF MILWAUKEE MILWAUKEE FRENCH IMMERSION,contact.Jenna Harer.email,owner,confirmed,harerjm@milwaukee.k12.wi.us,https://www.greatschools.org/wisconsin/milwaukee/1221-Milwaukee-French-Immersion-School/
+entity-city-of-milwaukee-milwaukee-french-immersion,CITY OF MILWAUKEE MILWAUKEE FRENCH IMMERSION,contact.Jenna Harer.phone,owner,confirmed,(414) 874-8400,https://www.greatschools.org/wisconsin/milwaukee/1221-Milwaukee-French-Immersion-School/
+entity-city-of-milwaukee-milwaukee-french-immersion,CITY OF MILWAUKEE MILWAUKEE FRENCH IMMERSION,contact.Jenna Harer.title,owner,confirmed,"Principal, Milwaukee French Immersion School",https://www.greatschools.org/wisconsin/milwaukee/1221-Milwaukee-French-Immersion-School/
 entity-city-of-milwaukee-westside-academy-i,CITY OF MILWAUKEE WESTSIDE ACADEMY I,company_website,,confirmed,https://mps.school/westsideacademy/,https://mps.school/westsideacademy/contact/
 entity-city-of-milwaukee-westside-academy-i,CITY OF MILWAUKEE WESTSIDE ACADEMY I,company_phone,,confirmed,(414) 934-5000,https://mps.school/westsideacademy/contact/
 entity-city-of-milwaukee-westside-academy-i,CITY OF MILWAUKEE WESTSIDE ACADEMY I,company_email,,confirmed,370@milwaukee.k12.wi.us,https://mps.school/westsideacademy/contact/
@@ -782,6 +927,7 @@ entity-milwaukee-mlk-llc-c-o-prairie-management,MILWAUKEE  MLK LLC C/O PRAIRIE M
 entity-milwaukee-mlk-llc-c-o-prairie-management,MILWAUKEE  MLK LLC C/O PRAIRIE MANAGEMENT,company_email,,confirmed,info@prairiemgmt.com,https://www.prairiemgmt.com/contact/
 entity-milwaukee-mlk-llc-c-o-prairie-management,MILWAUKEE  MLK LLC C/O PRAIRIE MANAGEMENT,property_manager,,confirmed,"Prairie Management & Development, Inc.",https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=C%2FO+PRAIRIE+MANAGEMENT
 entity-milwaukee-mlk-llc-c-o-prairie-management,MILWAUKEE  MLK LLC C/O PRAIRIE MANAGEMENT,mailing_address,,confirmed,"333 N MICHIGAN AVE STE 1700 CHICAGO, IL 60601",
+entity-city-of-milwaukee-washington-carver-academy,CITY OF MILWAUKEE WASHINGTON CARVER ACADEMY,property_manager,,confirmed,Milwaukee Public Schools (City of Milwaukee),
 entity-city-of-milwaukee-washington-carver-academy,CITY OF MILWAUKEE WASHINGTON CARVER ACADEMY,mailing_address,,confirmed,"1900 N 1ST ST MILWAUKEE, WI 53212",
 entity-thrive-on-investors-p1-llc,"THRIVE ON INVESTORS P1, LLC",company_website,,confirmed,https://thriveoncollaboration.org/,https://thriveoncollaboration.org/
 entity-thrive-on-investors-p1-llc,"THRIVE ON INVESTORS P1, LLC",company_phone,,confirmed,414-272-5805,https://thriveoncollaboration.org/contact-us
@@ -834,7 +980,13 @@ entity-city-of-milwaukee-school,CITY OF MILWAUKEE (SCHOOL),company_phone,,confir
 entity-city-of-milwaukee-school,CITY OF MILWAUKEE (SCHOOL),company_email,,confirmed,fms@milwaukeepublicschools.org,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
 entity-city-of-milwaukee-school,CITY OF MILWAUKEE (SCHOOL),property_manager,,confirmed,Milwaukee Public Schools - Facilities and Maintenance Services,https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance
 entity-city-of-milwaukee-school,CITY OF MILWAUKEE (SCHOOL),mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
+entity-cac-80-llc,CAC 80 LLC,company_website,,confirmed,https://www.watercrestinvestments.com,
+entity-cac-80-llc,CAC 80 LLC,company_phone,,confirmed,(414) 276-9000,https://www.watercrestinvestments.com/properties/the-astor
+entity-cac-80-llc,CAC 80 LLC,property_manager,,confirmed,"Watercrest Real Estate / Watercrest Investments (manages The Astor Hotel at 924 E Juneau Ave, same address as CAC 80 LLC)",https://www.watercrestinvestments.com/properties/the-astor
 entity-cac-80-llc,CAC 80 LLC,mailing_address,,confirmed,"924 E JUNEAU AVE MILWAUKEE, WI 53202",
+entity-cac-80-llc,CAC 80 LLC,contact.Watercrest Real Estate.email,manager,unverified (pattern),watercrest.estate@watercrestinvestments.com,pattern — unverified (first.last@watercrestinvestments.com)
+entity-cac-80-llc,CAC 80 LLC,contact.Watercrest Real Estate.phone,manager,confirmed,(414) 276-9000,pattern — unverified (first.last@watercrestinvestments.com)
+entity-cac-80-llc,CAC 80 LLC,contact.Watercrest Real Estate.title,manager,confirmed,Property Manager,pattern — unverified (first.last@watercrestinvestments.com)
 entity-north-end-phase-iii-retail-llc,NORTH END PHASE III RETAIL LLC,company_website,,confirmed,https://mandelgroup.com,https://mandelgroup.com/apartments/one-at-the-north-end/
 entity-north-end-phase-iii-retail-llc,NORTH END PHASE III RETAIL LLC,company_phone,,confirmed,(414) 269-8281,https://www.zillow.com/apartments/milwaukee-wi/the-north-end/5Xt3Z7/
 entity-north-end-phase-iii-retail-llc,NORTH END PHASE III RETAIL LLC,company_email,,confirmed,northend@mandelgroup.com,https://mandelgroup.com/apartments/one-at-the-north-end/
@@ -871,6 +1023,7 @@ entity-ema-mke-hotel-re-owner-llc,EMA MKE HOTEL RE OWNER LLC,mailing_address,,co
 entity-ema-mke-hotel-re-owner-llc,EMA MKE HOTEL RE OWNER LLC,contact.Jigar Patel.email,owner,unverified (pattern),jigar.patel@emahotels.com,pattern — unverified (first.last@emahotels.com)
 entity-ema-mke-hotel-re-owner-llc,EMA MKE HOTEL RE OWNER LLC,contact.Jigar Patel.title,owner,confirmed,"CEO / President, E.M.A. Hospitality (owner/operator)",pattern — unverified (first.last@emahotels.com)
 entity-pdof-psof-milwaukee-llc,PDOF-PSOF MILWAUKEE LLC,mailing_address,,confirmed,"3500 LENOX RD STE 625 ATLANTA, GA 30326",
+entity-pdof-psof-milwaukee-llc,PDOF-PSOF MILWAUKEE LLC,"contact.Ryan, LLC (tax/property agent of record, per City of Milwaukee Board of Review).title",other,confirmed,Registered Agent,https://city.milwaukee.gov/File-Library/Agendas/2025/October/BOR---Agenda_4.9.26.pdf
 entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,company_website,,confirmed,https://the310w.com/,https://the310w.com/
 entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,company_phone,,confirmed,(414) 223-0028,
 entity-310-wi-equities-llc-310-w-farber-llc,310 WI EQUITIES LLC 310 W FARBER LLC,company_email,,confirmed,info@the310w.com,https://the310w.com/contact/
@@ -900,6 +1053,8 @@ entity-633-holdings-llc-c-o-colliers,633 HOLDINGS  LLC C/O COLLIERS,contact.Josh
 entity-633-holdings-llc-c-o-colliers,633 HOLDINGS  LLC C/O COLLIERS,contact.Joshua Jeffers.phone,owner,confirmed,414-501-5610,https://www.jjeffers.com/contact
 entity-633-holdings-llc-c-o-colliers,633 HOLDINGS  LLC C/O COLLIERS,contact.Joshua Jeffers.title,owner,confirmed,"Owner/Principal, J. Jeffers & Co.",https://www.jjeffers.com/contact
 entity-brian-kvalheim-dean-fitzgerald,BRIAN KVALHEIM DEAN FITZGERALD,mailing_address,,confirmed,"525 W JOHNSON ST MADISON, WI 53703",
+entity-brian-kvalheim-dean-fitzgerald,BRIAN KVALHEIM DEAN FITZGERALD,contact.Brian Kvalheim.phone,owner,confirmed,(608) 257-3777,https://local.yahoo.com/info-188976742-kvalheim-brian-neviaser-investments-inc-madison/
+entity-brian-kvalheim-dean-fitzgerald,BRIAN KVALHEIM DEAN FITZGERALD,contact.Brian Kvalheim.title,owner,confirmed,"Named Owner (possible; real estate agent at Neviaser Investments, Madison WI)",https://local.yahoo.com/info-188976742-kvalheim-brian-neviaser-investments-inc-madison/
 entity-milw-city-center-llc,MILW CITY CENTER LLC,company_website,,confirmed,https://www.hilton.com/en/hotels/mkemhhf-hilton-milwaukee-city-center/,https://www.hilton.com/en/hotels/mkemhhf-hilton-milwaukee-city-center/hotel-location/
 entity-milw-city-center-llc,MILW CITY CENTER LLC,company_phone,,confirmed,(414) 271-7250,https://www.evisitorguide.com/milwaukee/guide/map-location.php
 entity-milw-city-center-llc,MILW CITY CENTER LLC,company_email,,confirmed,frontdesk@hiltonmilwaukee.com,https://members.waukesha.org/member-directory/Details/hilton-milwaukee-city-center-affiliate-of-marcus-4712024
@@ -919,8 +1074,11 @@ entity-211-w-wisconsin-ave-property-llc-c-o-divaris-property-mg,"211 W WISCONSIN
 entity-211-w-wisconsin-ave-property-llc-c-o-divaris-property-mg,"211 W WISCONSIN AVE PROPERTY LLC, C/O DIVARIS PROPERTY MG",contact.Kristina Townsend.phone,other,confirmed,757-497-2113,https://www.divaris.com/wp-content/uploads/2024/11/PM-Brochure.pdf
 entity-211-w-wisconsin-ave-property-llc-c-o-divaris-property-mg,"211 W WISCONSIN AVE PROPERTY LLC, C/O DIVARIS PROPERTY MG",contact.Kristina Townsend.title,other,confirmed,"Director of Strategic Planning & Development, Divaris",https://www.divaris.com/wp-content/uploads/2024/11/PM-Brochure.pdf
 entity-rx-milwaukee-wi-landlord-llc,RX MILWAUKEE WI LANDLORD LLC,mailing_address,,confirmed,"740 BATTERY AV ATLANTA, GA 30339",
+entity-gimbels-partners-llc,GIMBELS PARTNERS LLC,company_website,,confirmed,https://hempelcompanies.com,
 entity-gimbels-partners-llc,GIMBELS PARTNERS LLC,property_manager,,confirmed,Interstate Parking (Gimbels Structure),https://www.yelp.com/biz/interstate-parking-gimbels-structure-milwaukee
 entity-gimbels-partners-llc,GIMBELS PARTNERS LLC,mailing_address,,confirmed,"10050 CROSSTOWN CIR STE 600 EDEN PRARIE, MN 55344",
+entity-gimbels-partners-llc,GIMBELS PARTNERS LLC,contact.Josh Krsnak.email,owner,unverified (pattern),josh.krsnak@hempelcompanies.com,pattern — unverified (first.last@hempelcompanies.com)
+entity-gimbels-partners-llc,GIMBELS PARTNERS LLC,contact.Josh Krsnak.title,owner,confirmed,"CEO, Hempel Companies (owner affiliate)",pattern — unverified (first.last@hempelcompanies.com)
 entity-apf-milwaukee-llc,APF MILWAUKEE LLC,mailing_address,,confirmed,"222 W ADAMS ST  STE 400 CHICAGO, IL 60606",
 entity-schwer-pflicht-werkzeug-properties-llc,"SCHWER, PFLICHT & WERKZEUG PROPERTIES LLC",property_manager,,confirmed,"Milwaukee Tool (affiliate; HQ 13135 W. Lisbon Road, Brookfield WI)",https://biztimes.com/breaking-ground-milwaukee-tools-downtown-milwaukee-office/
 entity-schwer-pflicht-werkzeug-properties-llc,"SCHWER, PFLICHT & WERKZEUG PROPERTIES LLC",mailing_address,,confirmed,"13135 W LISBON RD BROOKFIELD, WI 53005",
@@ -943,7 +1101,14 @@ entity-milwaukee-youth-arts-center-inc,MILWAUKEE YOUTH ARTS CENTER INC,company_e
 entity-milwaukee-youth-arts-center-inc,MILWAUKEE YOUTH ARTS CENTER INC,property_manager,,confirmed,Self-managed / owner-occupied,
 entity-milwaukee-youth-arts-center-inc,MILWAUKEE YOUTH ARTS CENTER INC,mailing_address,,confirmed,"325 W WALNUT ST MILWAUKEE, WI 53212",
 entity-rcs-mpower-bla-llc-rcs-mpower-siem-llc,RCS-MPOWER (BLA) LLC RCS-MPOWER (SIEM) LLC,mailing_address,,confirmed,"PO BOX 51049 FORT MYERS, FL 33994",
+entity-orion-milwaukee-wi-llc,ORION MILWAUKEE WI LLC,company_website,,confirmed,https://www.onlreit.com,
+entity-orion-milwaukee-wi-llc,ORION MILWAUKEE WI LLC,company_phone,,confirmed,602-675-0338,https://www.onlreit.com/contact
+entity-orion-milwaukee-wi-llc,ORION MILWAUKEE WI LLC,company_email,,confirmed,investors@onlreit.com,https://www.onlreit.com/contact
+entity-orion-milwaukee-wi-llc,ORION MILWAUKEE WI LLC,property_manager,,confirmed,Orion Properties Inc. (formerly Orion Office REIT Inc.),https://www.onlreit.com/news/press-releases/detail/30/orion-office-reit-inc-changes-name-to-orion-properties-and
 entity-orion-milwaukee-wi-llc,ORION MILWAUKEE WI LLC,mailing_address,,confirmed,"2325 E CAMELBACK RD STE 850 PHOENIX, AZ 85016",
+entity-orion-milwaukee-wi-llc,ORION MILWAUKEE WI LLC,contact.Orion Properties Inc. Investor Relations.email,other,confirmed,investors@onlreit.com,https://www.onlreit.com/contact
+entity-orion-milwaukee-wi-llc,ORION MILWAUKEE WI LLC,contact.Orion Properties Inc. Investor Relations.phone,other,confirmed,602-675-0338,https://www.onlreit.com/contact
+entity-orion-milwaukee-wi-llc,ORION MILWAUKEE WI LLC,contact.Orion Properties Inc. Investor Relations.title,other,confirmed,"Parent REIT (2325 E Camelback Rd, Phoenix AZ - matches mailing address)",https://www.onlreit.com/contact
 entity-milwaukee-school-of-engineering,MILWAUKEE SCHOOL OF ENGINEERING,company_website,,confirmed,https://www.msoe.edu/,https://www.msoe.edu/
 entity-milwaukee-school-of-engineering,MILWAUKEE SCHOOL OF ENGINEERING,company_phone,,confirmed,(414) 277-7222,https://online.msoe.edu/business/contact-us
 entity-milwaukee-school-of-engineering,MILWAUKEE SCHOOL OF ENGINEERING,company_email,,confirmed,explore@msoe.edu,https://online.msoe.edu/business/contact-us
@@ -959,6 +1124,7 @@ entity-milwaukee-ambroz-llc,MILWAUKEE AMBROZ LLC,property_manager,,confirmed,KG 
 entity-milwaukee-ambroz-llc,MILWAUKEE AMBROZ LLC,mailing_address,,confirmed,"6000 AMERICAN PARKWAY MADISON, WI 53783",
 entity-milwaukee-ambroz-llc,MILWAUKEE AMBROZ LLC,contact.Anthony Kazee.email,owner,confirmed,Anthony@kgdevgroup.com,https://biztimes.com/kg-development-group-chosen-to-develop-king-drive-site/
 entity-milwaukee-ambroz-llc,MILWAUKEE AMBROZ LLC,contact.Anthony Kazee.title,owner,confirmed,"Principal/President, KG Development Group (owner/developer)",https://biztimes.com/kg-development-group-chosen-to-develop-king-drive-site/
+entity-head-of-the-herd-llc,HEAD OF THE HERD LLC,property_manager,,confirmed,Milwaukee Bucks / Deer District (development affiliate),https://urbanmilwaukee.com/business/head-of-the-herd/
 entity-head-of-the-herd-llc,HEAD OF THE HERD LLC,mailing_address,,confirmed,"1543 N 2ND ST STE 600 MILWAUKEE, WI 53212",
 entity-hf-of-1-llc,"HF OF 1, LLC",company_website,,confirmed,https://www.hammes.com/,https://www.hammes.com/our-work/milwaukee-center
 entity-hf-of-1-llc,"HF OF 1, LLC",company_phone,,confirmed,(414) 509-2500,https://www.mapquest.com/us/wisconsin/hammes-company-421672765
@@ -967,7 +1133,13 @@ entity-hf-of-1-llc,"HF OF 1, LLC",property_manager,,confirmed,"Hammes Company / 
 entity-hf-of-1-llc,"HF OF 1, LLC",mailing_address,,confirmed,"1400 N WATER ST # 500 MILWAUKEE, WI 53202",
 entity-hf-of-1-llc,"HF OF 1, LLC",contact.Jon D. Hammes.email,owner,unverified (pattern),jon.hammes@hammes.com,pattern — unverified (first.last@hammes.com)
 entity-hf-of-1-llc,"HF OF 1, LLC",contact.Jon D. Hammes.title,owner,confirmed,Founder / Managing Partner (Owner - Hammes / HF entities),pattern — unverified (first.last@hammes.com)
+entity-hc-pk-llc,"HC PK, LLC",company_website,,confirmed,https://www.hammespartners.com/,
+entity-hc-pk-llc,"HC PK, LLC",property_manager,,confirmed,"Hammes (1400 N Water St Ste 500, Milwaukee - matches mailing address)",https://www.mapquest.com/us/wisconsin/hammes-company-421672765
 entity-hc-pk-llc,"HC PK, LLC",mailing_address,,confirmed,"1400 N WATER ST STE 500 MILWAUKEE, WI 53202",
+entity-hc-pk-llc,"HC PK, LLC","contact.J. Patrick Hammes (registered agent for Hammes Holdings LLC and related entities at 1400 N Water St Ste 500; association inferred from shared registered-office address, not confirmed for HC PK LLC specifically).email",other,unverified (pattern),j.specifically@hammespartners.com,pattern — unverified (first.last@hammespartners.com)
+entity-hc-pk-llc,"HC PK, LLC","contact.J. Patrick Hammes (registered agent for Hammes Holdings LLC and related entities at 1400 N Water St Ste 500; association inferred from shared registered-office address, not confirmed for HC PK LLC specifically).title",other,confirmed,Registered Agent,pattern — unverified (first.last@hammespartners.com)
+entity-hc-pk-llc,"HC PK, LLC",contact.J. Patrick Hammes.email,other,unverified (pattern),j.hammes@hammespartners.com,pattern — unverified (first.last@hammespartners.com)
+entity-hc-pk-llc,"HC PK, LLC",contact.J. Patrick Hammes.title,other,confirmed,Registered Agent (Hammes entities at 1400 N Water St Ste 500),pattern — unverified (first.last@hammespartners.com)
 entity-js-south-llc-c-o-matthew-c-carlson,"JS SOUTH, LLC C/O MATTHEW C CARLSON",company_phone,,confirmed,608-888-1682,
 entity-js-south-llc-c-o-matthew-c-carlson,"JS SOUTH, LLC C/O MATTHEW C CARLSON",company_email,,confirmed,matt.carlson@carlsonblack.com,https://www.carlsonblack.com/matt-carlson
 entity-js-south-llc-c-o-matthew-c-carlson,"JS SOUTH, LLC C/O MATTHEW C CARLSON",property_manager,,confirmed,Carlson Black O'Callaghan & Battenberg LLP,https://www.carlsonblack.com/matt-carlson
@@ -1004,7 +1176,14 @@ entity-brewery-house-llc,BREWERY HOUSE LLC,company_phone,,confirmed,608-835-3900
 entity-brewery-house-llc,BREWERY HOUSE LLC,company_email,,confirmed,info@gormanusa.com,https://www.gormanusa.com/contact-gorman-company/
 entity-brewery-house-llc,BREWERY HOUSE LLC,property_manager,,confirmed,Aimbridge Hospitality (operates Brewhouse Inn & Suites; owner Gorman & Company),https://www.hotel-online.com/news/aimbridge-hospitality-assumes-management-of-three-landmark-hotels-for-gorman-company
 entity-brewery-house-llc,BREWERY HOUSE LLC,mailing_address,,confirmed,"200 N MAIN ST OREGON, WI 53575",
+entity-mke-hotel-llc,MKE HOTEL LLC,company_website,,confirmed,https://www.jankogroup.us,
+entity-mke-hotel-llc,MKE HOTEL LLC,company_phone,,confirmed,(847) 940-8880,https://www.jankogroup.us/contact
+entity-mke-hotel-llc,MKE HOTEL LLC,company_email,,confirmed,info@jankogroup.us,https://www.jankogroup.us/contact
+entity-mke-hotel-llc,MKE HOTEL LLC,property_manager,,confirmed,Janko Group LLC,https://newsroom.hyatt.com/062618-Janko-Hospitality-Opens-New-Hyatt-Place-Hotel-in-Milwaukees-Brewery-District
 entity-mke-hotel-llc,MKE HOTEL LLC,mailing_address,,confirmed,"2610 LAKE COOK RD SUITE 100 RIVERWOODS, IL 60015",
+entity-mke-hotel-llc,MKE HOTEL LLC,contact.Gary Janko.email,owner,unverified (pattern),gary.janko@jankogroup.us,pattern — unverified (first.last@jankogroup.us)
+entity-mke-hotel-llc,MKE HOTEL LLC,contact.Gary Janko.phone,owner,confirmed,(847) 940-8880,pattern — unverified (first.last@jankogroup.us)
+entity-mke-hotel-llc,MKE HOTEL LLC,contact.Gary Janko.title,owner,confirmed,"Owner / Principal, Janko Group (developer, mailing-address affiliate)",pattern — unverified (first.last@jankogroup.us)
 entity-brewery-parking-structure-llc,BREWERY PARKING STRUCTURE LLC,company_website,,confirmed,https://thebrewery.org/parking-and-transportation/,https://thebrewery.org/parking-and-transportation/
 entity-brewery-parking-structure-llc,BREWERY PARKING STRUCTURE LLC,company_phone,,confirmed,(414) 431-6555,https://thebrewery.org/parking-and-transportation/
 entity-brewery-parking-structure-llc,BREWERY PARKING STRUCTURE LLC,company_email,,confirmed,contact@blueribbonmgt.com,http://www.blueribbonmgt.com/brewery-parking-structure
@@ -1013,9 +1192,15 @@ entity-brewery-parking-structure-llc,BREWERY PARKING STRUCTURE LLC,mailing_addre
 entity-brewery-parking-structure-llc,BREWERY PARKING STRUCTURE LLC,contact.Zach Flitcroft.email,manager,confirmed,zachary.flitcroft@blueribbonmgt.com,http://www.blueribbonmgt.com/brewery-parking-structure
 entity-brewery-parking-structure-llc,BREWERY PARKING STRUCTURE LLC,contact.Zach Flitcroft.phone,manager,confirmed,(262) 581-6953,http://www.blueribbonmgt.com/brewery-parking-structure
 entity-brewery-parking-structure-llc,BREWERY PARKING STRUCTURE LLC,contact.Zach Flitcroft.title,manager,confirmed,Blue Ribbon Management (property manager),http://www.blueribbonmgt.com/brewery-parking-structure
+entity-city-of-milw-playgrounds,CITY OF MILW PLAYGROUNDS,property_manager,,confirmed,Milwaukee Public Schools (City of Milwaukee),
 entity-city-of-milw-playgrounds,CITY OF MILW PLAYGROUNDS,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
+entity-hearst-argyle-stations-inc-c-o-fandl-llc,HEARST-ARGYLE STATIONS INC C/O FANDL LLC,company_website,,confirmed,https://www.wisn.com,
+entity-hearst-argyle-stations-inc-c-o-fandl-llc,HEARST-ARGYLE STATIONS INC C/O FANDL LLC,company_phone,,confirmed,414-342-8812,https://www.yelp.com/biz/wisn-tv-milwaukee-2
 entity-hearst-argyle-stations-inc-c-o-fandl-llc,HEARST-ARGYLE STATIONS INC C/O FANDL LLC,property_manager,,confirmed,"Hearst Television (WISN-TV, owner-occupant)",https://en.wikipedia.org/wiki/WISN-TV
 entity-hearst-argyle-stations-inc-c-o-fandl-llc,HEARST-ARGYLE STATIONS INC C/O FANDL LLC,mailing_address,,confirmed,"170 E RIDGEWOOD AVE RIDGEWOOD, NJ 07450",
+entity-hearst-argyle-stations-inc-c-o-fandl-llc,HEARST-ARGYLE STATIONS INC C/O FANDL LLC,contact.Jan Wade.email,manager,unverified (pattern),jan.wade@wisn.com,pattern — unverified (first.last@wisn.com)
+entity-hearst-argyle-stations-inc-c-o-fandl-llc,HEARST-ARGYLE STATIONS INC C/O FANDL LLC,contact.Jan Wade.phone,manager,confirmed,414-937-3370,pattern — unverified (first.last@wisn.com)
+entity-hearst-argyle-stations-inc-c-o-fandl-llc,HEARST-ARGYLE STATIONS INC C/O FANDL LLC,contact.Jan Wade.title,manager,confirmed,"President and General Manager, WISN-TV",pattern — unverified (first.last@wisn.com)
 entity-mke-blk23-llc,"MKE BLK23, LLC",mailing_address,,confirmed,"1543 N 2ND ST  6TH FL MILWAUKEE, WI 53203",
 entity-the-milwaukee-science-education-consortium-inc,THE MILWAUKEE SCIENCE EDUCATION CONSORTIUM INC,company_website,,confirmed,https://www.milwaukeeacademyofscience.org/,https://www.milwaukeeacademyofscience.org/
 entity-the-milwaukee-science-education-consortium-inc,THE MILWAUKEE SCIENCE EDUCATION CONSORTIUM INC,company_phone,,confirmed,(414) 933-1335,https://www.buzzfile.com/business/MILWAUKEE-ACADEMY-OF-SCIENCE-414-933-1335
@@ -1038,9 +1223,21 @@ entity-harley-davidson-motor-co-attn-tax-department,HARLEY-DAVIDSON MOTOR CO ATT
 entity-harley-davidson-motor-co-attn-tax-department,HARLEY-DAVIDSON MOTOR CO ATTN  TAX DEPARTMENT,company_phone,,confirmed,(414) 343-7027,https://www.harley-davidson.com/us/en/experiences/contactus.html
 entity-harley-davidson-motor-co-attn-tax-department,HARLEY-DAVIDSON MOTOR CO ATTN  TAX DEPARTMENT,property_manager,,confirmed,Self-managed / owner-occupied,https://www.hunzinger.com/portfolio-items/harley-davidson-motor-company-corporate-headquarters/
 entity-harley-davidson-motor-co-attn-tax-department,HARLEY-DAVIDSON MOTOR CO ATTN  TAX DEPARTMENT,mailing_address,,confirmed,"3700 W JUNEAU AVE MILWAUKEE, WI 53208",
+entity-jonas-family-ltd-partnership,JONAS FAMILY LTD PARTNERSHIP,company_website,,confirmed,https://www.jonasbuilders.com,
+entity-jonas-family-ltd-partnership,JONAS FAMILY LTD PARTNERSHIP,company_phone,,confirmed,(414) 342-9201,https://www.yellowpages.com/milwaukee-wi/mip/jonas-builders-inc-460393281
+entity-jonas-family-ltd-partnership,JONAS FAMILY LTD PARTNERSHIP,property_manager,,confirmed,"Jonas Builders, Inc. (family business at 3939 W McKinley Ave, matches JONAS FAMILY LTD PARTNERSHIP mailing address)",https://www.jonasbuilders.com/about-us-2/
 entity-jonas-family-ltd-partnership,JONAS FAMILY LTD PARTNERSHIP,mailing_address,,confirmed,"3939 W MC KINLEY BL MILWAUKEE, WI 53208",
+entity-jonas-family-ltd-partnership,JONAS FAMILY LTD PARTNERSHIP,contact.Mark Jonas.email,owner,confirmed,mjonas@jonasbuilders.com,https://seamless.ai/b/jonas-builders-inc-35165190
+entity-jonas-family-ltd-partnership,JONAS FAMILY LTD PARTNERSHIP,contact.Mark Jonas.phone,owner,confirmed,(414) 342-9201,https://seamless.ai/b/jonas-builders-inc-35165190
+entity-jonas-family-ltd-partnership,JONAS FAMILY LTD PARTNERSHIP,contact.Mark Jonas.title,owner,confirmed,"Vice President, Jonas Builders, Inc.",https://seamless.ai/b/jonas-builders-inc-35165190
 entity-city-of-milwaukee-milwaukee-police-department,CITY OF MILWAUKEE MILWAUKEE POLICE DEPARTMENT,mailing_address,,confirmed,"4715 W VLIET ST MILWAUKEE, WI 53208",
+entity-city-of-milw-admin-bldg,CITY OF MILW ADMIN BLDG,company_website,,confirmed,https://www.milwaukeepublicschools.org,
+entity-city-of-milw-admin-bldg,CITY OF MILW ADMIN BLDG,company_phone,,confirmed,(414) 475-8393,https://www.yelp.com/biz/milwaukee-public-schools-central-services-milwaukee
+entity-city-of-milw-admin-bldg,CITY OF MILW ADMIN BLDG,property_manager,,confirmed,Milwaukee Public Schools Central Services,https://www.milwaukeepublicschools.org/contact
 entity-city-of-milw-admin-bldg,CITY OF MILW ADMIN BLDG,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
+entity-city-of-milw-admin-bldg,CITY OF MILW ADMIN BLDG,contact.Milwaukee Public Schools Central Services.email,other,unverified (pattern),milwaukee.services@milwaukeepublicschools.org,pattern — unverified (first.last@milwaukeepublicschools.org)
+entity-city-of-milw-admin-bldg,CITY OF MILW ADMIN BLDG,contact.Milwaukee Public Schools Central Services.phone,other,confirmed,(414) 475-8393,pattern — unverified (first.last@milwaukeepublicschools.org)
+entity-city-of-milw-admin-bldg,CITY OF MILW ADMIN BLDG,contact.Milwaukee Public Schools Central Services.title,other,confirmed,District Administration (5225 W Vliet St),pattern — unverified (first.last@milwaukeepublicschools.org)
 entity-ba-properties-1-llc,BA PROPERTIES 1 LLC,mailing_address,,confirmed,"9617 N JUNIPER CIR MEQUON, WI 53092",
 entity-city-of-milw-playground,CITY OF MILW PLAYGROUND,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-lcm-funds-state-street-llc-mbmw-state-street-llc,LCM FUNDS STATE STREET LLC MBMW STATE STREET LLC,company_website,,confirmed,https://www.lcmfunds.com/,https://www.lcmfunds.com/
@@ -1161,9 +1358,16 @@ entity-207-east-michigan-street-llc-c-o-colliers,207 EAST MICHIGAN STREET LLC C/
 entity-207-east-michigan-street-llc-c-o-colliers,207 EAST MICHIGAN STREET LLC C/O COLLIERS,contact.Joshua Jeffers.email,owner,unverified (pattern),joshua.jeffers@jjeffers.com,pattern — unverified (first.last@jjeffers.com)
 entity-207-east-michigan-street-llc-c-o-colliers,207 EAST MICHIGAN STREET LLC C/O COLLIERS,contact.Joshua Jeffers.phone,owner,confirmed,(414) 501-5610,pattern — unverified (first.last@jjeffers.com)
 entity-207-east-michigan-street-llc-c-o-colliers,207 EAST MICHIGAN STREET LLC C/O COLLIERS,contact.Joshua Jeffers.title,owner,confirmed,"Founder / CEO, J. Jeffers & Co. (building owner/developer)",pattern — unverified (first.last@jjeffers.com)
+entity-first-mkd-llc-c-o-michelle-santiago,FIRST MKD LLC C/O MICHELLE SANTIAGO,company_website,,confirmed,https://www.firsthospitality.com,
+entity-first-mkd-llc-c-o-michelle-santiago,FIRST MKD LLC C/O MICHELLE SANTIAGO,company_phone,,confirmed,(312) 638-2300,https://www.hotfrog.com/company/1528032034000896/first-hospitality/chicago/management-consulting
+entity-first-mkd-llc-c-o-michelle-santiago,FIRST MKD LLC C/O MICHELLE SANTIAGO,company_email,,confirmed,info@firsthospitality.com,https://www.firsthospitality.com/general-inquiry
 entity-first-mkd-llc-c-o-michelle-santiago,FIRST MKD LLC C/O MICHELLE SANTIAGO,property_manager,,confirmed,"First Hospitality Group, Inc.",https://www.prnewswire.com/news-releases/new-momentum-to-first-hospitality-groups-restoration-of-historic-loyalty-building-135855738.html
 entity-first-mkd-llc-c-o-michelle-santiago,FIRST MKD LLC C/O MICHELLE SANTIAGO,mailing_address,,confirmed,"222 W ADAMS ST STE #400 CHICAGO, IL 60606",
-entity-first-mkd-llc-c-o-michelle-santiago,FIRST MKD LLC C/O MICHELLE SANTIAGO,contact.Michelle Santiago.title,owner,confirmed,Owner (First MKD LLC),https://clustrmaps.com/a/306agg/
+entity-first-mkd-llc-c-o-michelle-santiago,FIRST MKD LLC C/O MICHELLE SANTIAGO,contact.Michelle Santiago.email,owner,unverified (pattern),michelle.santiago@firsthospitality.com,pattern — unverified (first.last@firsthospitality.com)
+entity-first-mkd-llc-c-o-michelle-santiago,FIRST MKD LLC C/O MICHELLE SANTIAGO,contact.Michelle Santiago.title,owner,confirmed,Owner (First MKD LLC),pattern — unverified (first.last@firsthospitality.com)
+entity-first-mkd-llc-c-o-michelle-santiago,FIRST MKD LLC C/O MICHELLE SANTIAGO,"contact.First Hospitality Group, Inc..email",other,confirmed,info@firsthospitality.com,https://www.firsthospitality.com/general-inquiry
+entity-first-mkd-llc-c-o-michelle-santiago,FIRST MKD LLC C/O MICHELLE SANTIAGO,"contact.First Hospitality Group, Inc..phone",other,confirmed,(312) 638-2300,https://www.firsthospitality.com/general-inquiry
+entity-first-mkd-llc-c-o-michelle-santiago,FIRST MKD LLC C/O MICHELLE SANTIAGO,"contact.First Hospitality Group, Inc..title",other,confirmed,Developer / Hospitality Manager,https://www.firsthospitality.com/general-inquiry
 entity-drury-milwaukee-llc,DRURY MILWAUKEE LLC,company_website,,confirmed,https://www.druryhotels.com/locations/milwaukee-wi/drury-plaza-hotel-milwaukee-downtown,https://www.druryhotels.com/locations/milwaukee-wi/drury-plaza-hotel-milwaukee-downtown
 entity-drury-milwaukee-llc,DRURY MILWAUKEE LLC,company_phone,,confirmed,414-224-7864,https://www.yelp.com/biz/drury-plaza-milwaukee
 entity-drury-milwaukee-llc,DRURY MILWAUKEE LLC,property_manager,,confirmed,Drury Hotels,https://www.druryhotels.com/locations/milwaukee-wi/drury-plaza-hotel-milwaukee-downtown
@@ -1343,6 +1547,7 @@ entity-marshall-building-llc,MARSHALL BUILDING LLC,contact.Bob.phone,leasing,con
 entity-marshall-building-llc,MARSHALL BUILDING LLC,contact.Bob.title,leasing,confirmed,Leasing/Management contact,https://marshallbuildingmke.com/contact/
 entity-badger-investments-llc,BADGER INVESTMENTS LLC,mailing_address,,confirmed,"5333 W BEAVER CREEK PKWY BROWN DEER, WI 53223",
 entity-chicago-street-propco-investors-llc,CHICAGO STREET PROPCO INVESTORS LLC,mailing_address,,confirmed,"311 E CHICAGO ST UN 510 MILWAUKEE, WI 53202",
+entity-chicago-street-propco-investors-llc,CHICAGO STREET PROPCO INVESTORS LLC,contact.The Corporation Trust Company.title,other,confirmed,Registered Agent,https://americanlei.com/detailed-information/42897786/2549001DCOX0461SQM10/chicago-street-propco-investors-llc/
 entity-broadway-theatre-llc,BROADWAY THEATRE LLC,company_website,,confirmed,https://www.skylightmusictheatre.org,https://shepherdexpress.com/locations/broadway-theatre-center/
 entity-broadway-theatre-llc,BROADWAY THEATRE LLC,company_phone,,confirmed,414-291-7800,https://www.yelp.com/biz/broadway-theatre-center-milwaukee
 entity-broadway-theatre-llc,BROADWAY THEATRE LLC,company_email,,confirmed,info@skylightmusictheatre.org,https://www.visitmilwaukee.org/listing/skylight-music-theatre-at-the-broadway-theatre-center/339/
@@ -1350,7 +1555,9 @@ entity-broadway-theatre-llc,BROADWAY THEATRE LLC,property_manager,,confirmed,Sky
 entity-broadway-theatre-llc,BROADWAY THEATRE LLC,mailing_address,,confirmed,"117 N JEFFERSON ST #200 MILWAUKEE, WI 53202",
 entity-breg-212-llc,"BREG 212, LLC",property_manager,,confirmed,Bear Development (reported owner/affiliate),https://urbanmilwaukee.com/building/212-n-milwaukee-st-parking-garage/
 entity-breg-212-llc,"BREG 212, LLC",mailing_address,,confirmed,"4011 80TH ST KENOSHA, WI 53142",
+entity-316-north-milwaukee-st-llc,316 NORTH MILWAUKEE ST LLC,company_phone,,confirmed,414-276-5210,https://urbanmilwaukee.com/building/landmark-building/
 entity-316-north-milwaukee-st-llc,316 NORTH MILWAUKEE ST LLC,mailing_address,,confirmed,"316 N MILWAUKEE ST STE 575 MILWAUKEE, WI 53202",
+entity-316-north-milwaukee-st-llc,316 NORTH MILWAUKEE ST LLC,"contact.Von Briesen & Roper, S.C..title",other,confirmed,Registered Agent,https://city.milwaukee.gov/File-Library/Agendas/2025/October/CityofMilwaukee---BOR---Agenda_10.15.25.pdf
 entity-336-n-milwaukee-street-llc-c-o-founders-3-management-co,336 N MILWAUKEE STREET LLC C/O FOUNDERS 3 MANAGEMENT CO,company_website,,confirmed,https://founders3.com,https://founders3.com/contact/
 entity-336-n-milwaukee-street-llc-c-o-founders-3-management-co,336 N MILWAUKEE STREET LLC C/O FOUNDERS 3 MANAGEMENT CO,company_phone,,confirmed,414-271-1111,https://founders3.com/contact/
 entity-336-n-milwaukee-street-llc-c-o-founders-3-management-co,336 N MILWAUKEE STREET LLC C/O FOUNDERS 3 MANAGEMENT CO,company_email,,confirmed,info@founders3.com,https://founders3.com/contact/
@@ -1508,7 +1715,14 @@ entity-fulcrum-250-east-llc-c-o-millbrook-properties,FULCRUM 250 EAST LLC C/O MI
 entity-fulcrum-250-east-llc-c-o-millbrook-properties,FULCRUM 250 EAST LLC C/O MILLBROOK PROPERTIES,contact.Nathan Weishuhn.email,other,confirmed,nweishuhn@millbrookrec.com,https://www.two-fiftymke.com/contact/property-management
 entity-fulcrum-250-east-llc-c-o-millbrook-properties,FULCRUM 250 EAST LLC C/O MILLBROOK PROPERTIES,contact.Nathan Weishuhn.phone,other,confirmed,(414) 283-9665,https://www.two-fiftymke.com/contact/property-management
 entity-fulcrum-250-east-llc-c-o-millbrook-properties,FULCRUM 250 EAST LLC C/O MILLBROOK PROPERTIES,contact.Nathan Weishuhn.title,other,confirmed,Operations Manager,https://www.two-fiftymke.com/contact/property-management
+entity-jswd-commerce-llc,JSWD COMMERCE LLC,company_website,,confirmed,http://www.jacksonstreetholdings.com/,
+entity-jswd-commerce-llc,JSWD COMMERCE LLC,company_phone,,confirmed,414-226-1950,http://www.jacksonstreetholdings.com/contact.html
+entity-jswd-commerce-llc,JSWD COMMERCE LLC,company_email,,confirmed,info@jacksonstreetholdings.com,http://www.jacksonstreetholdings.com/contact.html
+entity-jswd-commerce-llc,JSWD COMMERCE LLC,property_manager,,confirmed,White Lodging Services (manages affiliated SpringHill Suites hotel),https://www.hotelmanagement.net/openings/new-springhill-suites-opens-milwaukee
 entity-jswd-commerce-llc,JSWD COMMERCE LLC,mailing_address,,confirmed,"731 N JACKSON ST UNIT 420 MILWAUKEE, WI 53202",
+entity-jswd-commerce-llc,JSWD COMMERCE LLC,contact.David R Fritz.email,owner,confirmed,info@jacksonstreetholdings.com,https://web.mmac.org/Real-Estate-Developers/Jackson-Street-Holdings-LLC-2311
+entity-jswd-commerce-llc,JSWD COMMERCE LLC,contact.David R Fritz.phone,owner,confirmed,414-226-1950,https://web.mmac.org/Real-Estate-Developers/Jackson-Street-Holdings-LLC-2311
+entity-jswd-commerce-llc,JSWD COMMERCE LLC,contact.David R Fritz.title,owner,confirmed,"Principal (Jackson Street Holdings, affiliate; office at JSWD mailing address 731 N Jackson St)",https://web.mmac.org/Real-Estate-Developers/Jackson-Street-Holdings-LLC-2311
 entity-wwb-development-ii-llc,"WWB DEVELOPMENT II, LLC",company_website,,confirmed,https://irgens.com,https://irgens.com/wp-content/uploads/2024/05/Data-Sheets_Innovation-One.pdf
 entity-wwb-development-ii-llc,"WWB DEVELOPMENT II, LLC",company_phone,,confirmed,(414) 443-0700,https://irgens.com/wp-content/uploads/2024/05/Data-Sheets_Innovation-One.pdf
 entity-wwb-development-ii-llc,"WWB DEVELOPMENT II, LLC",property_manager,,confirmed,"Irgens Partners LLC (WWB Development II, LLC is c/o Irgens Partners, 833 E Michigan St Ste 400)",https://milwaukee.legistar.com/View.ashx?GUID=25F23F22-6392-4063-9C29-CAE5241A821D&ID=6284491&M=F
@@ -1539,8 +1753,13 @@ entity-saxony-van-buren-llc,SAXONY VAN BUREN LLC,property_manager,,confirmed,"Sa
 entity-saxony-van-buren-llc,SAXONY VAN BUREN LLC,mailing_address,,confirmed,"211 N CLINTON ST CHICAGO, IL 60661",
 entity-saxony-van-buren-llc,SAXONY VAN BUREN LLC,contact.Joshua Mintzer.email,owner,unverified (pattern),joshua.mintzer@saxonyproperties.com,pattern — unverified (first.last@saxonyproperties.com)
 entity-saxony-van-buren-llc,SAXONY VAN BUREN LLC,contact.Joshua Mintzer.title,owner,confirmed,"Principal/Founder, Saxony Capital LLC (owner)",pattern — unverified (first.last@saxonyproperties.com)
+entity-cathedral-place-llc,CATHEDRAL PLACE LLC,company_website,,confirmed,https://www.vbmre.com,
+entity-cathedral-place-llc,CATHEDRAL PLACE LLC,company_phone,,confirmed,(414) 224-5010,https://chamberofcommerce.com/milwaukee-wi/6304634-van-buren-management-inc
 entity-cathedral-place-llc,CATHEDRAL PLACE LLC,property_manager,,confirmed,Van Buren Management,https://www.commercialcafe.com/commercial-property/us/wi/milwaukee/cathedral-place-1/
 entity-cathedral-place-llc,CATHEDRAL PLACE LLC,mailing_address,,confirmed,"788 N JEFFERSON ST STE 800 MILWAUKEE, WI 53202",
+entity-cathedral-place-llc,CATHEDRAL PLACE LLC,contact.Joel Lee.email,manager,unverified (pattern),joel.lee@vbmre.com,pattern — unverified (first.last@vbmre.com)
+entity-cathedral-place-llc,CATHEDRAL PLACE LLC,contact.Joel Lee.phone,manager,confirmed,(414) 224-5010,pattern — unverified (first.last@vbmre.com)
+entity-cathedral-place-llc,CATHEDRAL PLACE LLC,contact.Joel Lee.title,manager,confirmed,"President, Van Buren Management, Inc.",pattern — unverified (first.last@vbmre.com)
 entity-cp-parking-llc,CP PARKING LLC,mailing_address,,confirmed,"788 N JEFFERSON ST # 800 MILWAUKEE, WI 53202",
 entity-wells-street-llc,WELLS STREET LLC,mailing_address,,confirmed,"720 E WISCONSIN AVE MILWAUKEE, WI 53202",
 entity-monroe-subsidiary-llc,MONROE SUBSIDIARY LLC,company_website,,confirmed,https://www.vbmre.com/,https://www.vbmre.com/monroe-building
@@ -1717,6 +1936,9 @@ entity-875-east-35-llc-875-east-36-llc,875 EAST 35 LLC 875 EAST 36 LLC,contact.J
 entity-875-east-35-llc-875-east-36-llc,875 EAST 35 LLC 875 EAST 36 LLC,contact.Jamie Wolski.title,manager,confirmed,Property Management,pattern — unverified (first.last@wangard.com)
 entity-wisconsin-milwaukee-hotel-llc,WISCONSIN & MILWAUKEE HOTEL LLC,property_manager,,confirmed,Milwaukee Marriott Downtown (operating hotel at property),https://www.marriott.com/en-us/hotels/mkedn-milwaukee-marriott-downtown/overview/
 entity-wisconsin-milwaukee-hotel-llc,WISCONSIN & MILWAUKEE HOTEL LLC,mailing_address,,confirmed,"731 N JACKSON ST UNIT 420 MILWAUKEE, WI 53202",
+entity-wisconsin-milwaukee-hotel-llc,WISCONSIN & MILWAUKEE HOTEL LLC,contact.Randy Erkert.title,owner,confirmed,"Principal, Jackson Street Holdings",https://urbanmilwaukee.com/2016/02/22/eyes-on-milwaukee-construction-starts-on-westin-hotel/
+entity-wisconsin-milwaukee-hotel-llc,WISCONSIN & MILWAUKEE HOTEL LLC,contact.Mark Flaherty.title,manager,confirmed,"Managing Partner, Jackson Street Holdings / Jackson Street Management LLC",https://urbanmilwaukee.com/2016/02/22/eyes-on-milwaukee-construction-starts-on-westin-hotel/
+entity-wisconsin-milwaukee-hotel-llc,WISCONSIN & MILWAUKEE HOTEL LLC,contact.Ed Carow.title,manager,confirmed,"Principal, Jackson Street Holdings / Jackson Street Management LLC",https://www.hotel-online.com/news/proposal-calls-for-conversion-of-office-building-into-a-hotel
 entity-milo-investments-llc-c-o-joe-judd,MILO INVESTMENTS LLC C/O JOE JUDD,property_manager,,confirmed,JOE JUDD,
 entity-milo-investments-llc-c-o-joe-judd,MILO INVESTMENTS LLC C/O JOE JUDD,mailing_address,,confirmed,"W339N5183 TOWNSHIP RD O NASHOTAH, WI 53058",
 entity-milo-investments-llc-c-o-joe-judd,MILO INVESTMENTS LLC C/O JOE JUDD,contact.Joe Judd.title,owner,confirmed,"Owner / Principal, Milo Investments LLC",https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=C%2FO+JOE+JUDD
@@ -1852,14 +2074,29 @@ entity-standard-electric-supply-co,STANDARD ELECTRIC SUPPLY CO,mailing_address,,
 entity-standard-electric-supply-co,STANDARD ELECTRIC SUPPLY CO,contact.Lawrence A. Stern.email,owner,confirmed,lstern@sescowi.com,https://urbanmilwaukee.com/people/larry-stern/
 entity-standard-electric-supply-co,STANDARD ELECTRIC SUPPLY CO,contact.Lawrence A. Stern.phone,owner,confirmed,(414) 272-8100,https://urbanmilwaukee.com/people/larry-stern/
 entity-standard-electric-supply-co,STANDARD ELECTRIC SUPPLY CO,contact.Lawrence A. Stern.title,owner,confirmed,"President / Principal, Standard Electric Supply Co",https://urbanmilwaukee.com/people/larry-stern/
+entity-9th-street-holdings-llc-west-michigan-investments-llc,"9TH STREET HOLDINGS LLC WEST MICHIGAN INVESTMENTS, LLC",company_website,,confirmed,https://bearreg.com/,
+entity-9th-street-holdings-llc-west-michigan-investments-llc,"9TH STREET HOLDINGS LLC WEST MICHIGAN INVESTMENTS, LLC",company_phone,,confirmed,262-842-0456,https://members.waukesha.org/member-directory/Details/bear-real-estate-group-4470035
+entity-9th-street-holdings-llc-west-michigan-investments-llc,"9TH STREET HOLDINGS LLC WEST MICHIGAN INVESTMENTS, LLC",company_email,,confirmed,rentals@bearproperty.com,https://www.bearpropertymanagement.com/contact-us
+entity-9th-street-holdings-llc-west-michigan-investments-llc,"9TH STREET HOLDINGS LLC WEST MICHIGAN INVESTMENTS, LLC",property_manager,,confirmed,"Bear Property Management / Bear Real Estate Group (4015 80th St, Kenosha - matches mailing address)",https://www.bearpropertymanagement.com/contact-us
 entity-9th-street-holdings-llc-west-michigan-investments-llc,"9TH STREET HOLDINGS LLC WEST MICHIGAN INVESTMENTS, LLC",mailing_address,,confirmed,"4015 80TH ST KENOSHA, WI 53142",
+entity-9th-street-holdings-llc-west-michigan-investments-llc,"9TH STREET HOLDINGS LLC WEST MICHIGAN INVESTMENTS, LLC",contact.S.R. Mills.email,owner,unverified (pattern),sr.mills@bearproperty.com,pattern — unverified (first.last@bearproperty.com)
+entity-9th-street-holdings-llc-west-michigan-investments-llc,"9TH STREET HOLDINGS LLC WEST MICHIGAN INVESTMENTS, LLC",contact.S.R. Mills.phone,owner,confirmed,262-705-2652,pattern — unverified (first.last@bearproperty.com)
+entity-9th-street-holdings-llc-west-michigan-investments-llc,"9TH STREET HOLDINGS LLC WEST MICHIGAN INVESTMENTS, LLC",contact.S.R. Mills.title,owner,confirmed,"CEO / Principal, Bear Real Estate Group (Registered Agent)",pattern — unverified (first.last@bearproperty.com)
+entity-9th-street-holdings-llc-west-michigan-investments-llc,"9TH STREET HOLDINGS LLC WEST MICHIGAN INVESTMENTS, LLC","contact.S.R. Mills (CEO/principal, Bear Real Estate Group) - per public records listed as key contact at this address.email",other,unverified (pattern),sr.address@bearproperty.com,pattern — unverified (first.last@bearproperty.com)
+entity-9th-street-holdings-llc-west-michigan-investments-llc,"9TH STREET HOLDINGS LLC WEST MICHIGAN INVESTMENTS, LLC","contact.S.R. Mills (CEO/principal, Bear Real Estate Group) - per public records listed as key contact at this address.title",other,confirmed,Registered Agent,pattern — unverified (first.last@bearproperty.com)
 entity-jbb-holdings-llc,JBB HOLDINGS LLC,company_phone,,confirmed,612-374-3145,"https://www.buzzfile.com/business/Jbb-Properties,-LLC-612-374-3145"
 entity-jbb-holdings-llc,JBB HOLDINGS LLC,mailing_address,,confirmed,"1741 W ST PAUL AVE MILWAUKEE, WI 53233",
 entity-jbb-holdings-llc,JBB HOLDINGS LLC,contact.Joseph B. Baier.phone,owner,confirmed,612-374-3145,"https://www.buzzfile.com/business/Jbb-Properties,-LLC-612-374-3145"
 entity-jbb-holdings-llc,JBB HOLDINGS LLC,contact.Joseph B. Baier.title,owner,confirmed,"Principal / Manager, JBB Properties","https://www.buzzfile.com/business/Jbb-Properties,-LLC-612-374-3145"
 entity-readco,READCO,property_manager,,confirmed,READCO Property Management LLC,https://www.zoominfo.com/c/readco-property-management-llc/346163968
 entity-readco,READCO,mailing_address,,confirmed,"10700 W VENTURE DR STE G1 FRANKLIN, WI 53132",
+entity-brennan-family-ltd-ptnrship,BRENNAN FAMILY LTD PTNRSHIP,company_website,,confirmed,https://www.jmbrennan.com,
+entity-brennan-family-ltd-ptnrship,BRENNAN FAMILY LTD PTNRSHIP,company_phone,,confirmed,414-342-3829,https://www.jmbrennan.com/contact/
 entity-brennan-family-ltd-ptnrship,BRENNAN FAMILY LTD PTNRSHIP,mailing_address,,confirmed,"2101 W ST PAUL AVE MILWAUKEE, WI 53233",
+entity-brennan-family-ltd-ptnrship,BRENNAN FAMILY LTD PTNRSHIP,contact.Matt Brennan.email,other,confirmed,mattb@jmbrennan.com,https://www.jmbrennan.com/contact/
+entity-brennan-family-ltd-ptnrship,BRENNAN FAMILY LTD PTNRSHIP,contact.Matt Brennan.title,other,confirmed,JM Brennan Inc (tenant/affiliate at 2101 W St Paul Ave),https://www.jmbrennan.com/contact/
+entity-brennan-family-ltd-ptnrship,BRENNAN FAMILY LTD PTNRSHIP,contact.John Brennan.email,other,confirmed,johnb@jmbrennan.com,https://www.jmbrennan.com/contact/
+entity-brennan-family-ltd-ptnrship,BRENNAN FAMILY LTD PTNRSHIP,contact.John Brennan.title,other,confirmed,JM Brennan Inc,https://www.jmbrennan.com/contact/
 entity-eagles-auditorium-inc-c-o-a-balestrieri,EAGLES AUDITORIUM INC C\O A BALESTRIERI,company_website,,confirmed,therave.com,https://www.therave.com/ourvenues.asp
 entity-eagles-auditorium-inc-c-o-a-balestrieri,EAGLES AUDITORIUM INC C\O A BALESTRIERI,company_phone,,confirmed,414-342-7283,https://www.therave.com/ourvenues.asp
 entity-eagles-auditorium-inc-c-o-a-balestrieri,EAGLES AUDITORIUM INC C\O A BALESTRIERI,company_email,,confirmed,help@therave.com,https://www.therave.com/ourvenues.asp
@@ -1914,6 +2151,7 @@ entity-honey-creek-corp-center-iii-llc,HONEY CREEK CORP CENTER III LLC,contact.J
 entity-honey-creek-corp-center-iii-llc,HONEY CREEK CORP CENTER III LLC,contact.John Davis.title,leasing,confirmed,"Leasing Agent, Founders 3",https://founders3.com/wp-content/uploads/2025/04/Honey-Creek-Corporate-Center-I-II-IV-Flyer.pdf
 entity-geneva-exchange-fund-l-llc,GENEVA EXCHANGE FUND L LLC,mailing_address,,confirmed,"115 S 84TH ST STE 275 MILWAUKEE, WI 53214",
 entity-geneva-exchange-fund-l-llc,GENEVA EXCHANGE FUND L LLC,contact.Christine McDonough.title,other,confirmed,"Manager, Geneva Exchange Fund LLC",https://www.city-data.com/business-entities/MN/Geneva-Exchange-Fund-XVIII-LLC-923811-2-MN.html
+entity-geneva-exchange-fund-l-llc,GENEVA EXCHANGE FUND L LLC,contact.Hope Law PLLP.title,other,confirmed,Registered Agent,https://www.city-data.com/business-entities/MN/Geneva-Exchange-Fund-XVIII-LLC-923811-2-MN.html
 entity-public-storage-inc-dept-pt-wi-26429,PUBLIC STORAGE INC DEPT PT - WI 26429,company_website,,confirmed,https://www.publicstorage.com/self-storage-wi-milwaukee/1376.html,https://www.publicstorage.com/self-storage-wi-milwaukee/1376.html
 entity-public-storage-inc-dept-pt-wi-26429,PUBLIC STORAGE INC DEPT PT - WI 26429,company_phone,,confirmed,(414) 395-0259,https://www.publicstorage.com/self-storage-wi-milwaukee/1376.html
 entity-public-storage-inc-dept-pt-wi-26429,PUBLIC STORAGE INC DEPT PT - WI 26429,company_email,,confirmed,customerservice@publicstorage.com,https://www.elliott.org/company-contacts/public-storage/
@@ -1944,7 +2182,11 @@ entity-hsi-industrial-i-llc,HSI INDUSTRIAL I LLC,contact.Ryan Schultz.title,owne
 entity-hsi-industrial-i-llc,HSI INDUSTRIAL I LLC,contact.Dzevahira Gargovic.email,manager,unverified (pattern),dzevahira.gargovic@hsi-properties.com,pattern — unverified (first.last@hsi-properties.com)
 entity-hsi-industrial-i-llc,HSI INDUSTRIAL I LLC,contact.Dzevahira Gargovic.title,manager,confirmed,Property Manager,pattern — unverified (first.last@hsi-properties.com)
 entity-triony-milwaukee-llc,TRIONY MILWAUKEE LLC,mailing_address,,confirmed,"3201 W CANAL ST MILWAUKEE, WI 53208",
+entity-dtb2-llc,DTB2 LLC,company_website,,confirmed,www.dtbtwo.com,
+entity-dtb2-llc,DTB2 LLC,company_phone,,confirmed,(312) 206-4819,https://www.buzzfile.com/business/Dtb2-LLC-312-206-4819
 entity-dtb2-llc,DTB2 LLC,mailing_address,,confirmed,"210 S WATER ST UNIT 620 MILWAUKEE, WI 53204",
+entity-dtb2-llc,DTB2 LLC,contact.Derek Benedyk.phone,owner,confirmed,(312) 206-4819,https://www.buzzfile.com/business/Dtb2-LLC-312-206-4819
+entity-dtb2-llc,DTB2 LLC,contact.Derek Benedyk.title,owner,confirmed,Principal,https://www.buzzfile.com/business/Dtb2-LLC-312-206-4819
 entity-christopher-m-coakley-c-o-c-coakley-relocation,CHRISTOPHER M COAKLEY C\O C COAKLEY RELOCATION,company_website,,confirmed,https://www.ccoakley.com,https://www.ccoakley.com/contact
 entity-christopher-m-coakley-c-o-c-coakley-relocation,CHRISTOPHER M COAKLEY C\O C COAKLEY RELOCATION,company_phone,,confirmed,414-272-4040,https://www.ccoakley.com/six-three-four-E-Keefe-Ave
 entity-christopher-m-coakley-c-o-c-coakley-relocation,CHRISTOPHER M COAKLEY C\O C COAKLEY RELOCATION,company_email,,confirmed,info@ccoakley.com,https://www.ccoakley.com/contact
@@ -1961,6 +2203,7 @@ entity-forest-county-potawatomi-community-of-wisconsin,FOREST COUNTY POTAWATOMI 
 entity-forest-county-potawatomi-community-of-wisconsin,FOREST COUNTY POTAWATOMI COMMUNITY OF WISCONSIN,contact.Jeff Crawford.phone,other,confirmed,(414) 847-7741,https://leadiq.com/c/forest-county-potawatomi-community/5a1dde532300005b00ee5924
 entity-forest-county-potawatomi-community-of-wisconsin,FOREST COUNTY POTAWATOMI COMMUNITY OF WISCONSIN,contact.Jeff Crawford.title,other,confirmed,Attorney General / Milwaukee office contact - Forest County Potawatomi,https://leadiq.com/c/forest-county-potawatomi-community/5a1dde532300005b00ee5924
 entity-eg-milwaukee-canal-street-llc,EG MILWAUKEE CANAL STREET LLC,mailing_address,,confirmed,"1207-1325 W CANAL ST MILWAUKEE, WI 53233",
+entity-eg-milwaukee-canal-street-llc,EG MILWAUKEE CANAL STREET LLC,contact.David Winograd.title,owner,confirmed,Principal (leader of investment group that purchased Canal Street Commerce Center),https://biztimes.com/canal-street-commerce-center-sold-to-local-investment-group/
 entity-forest-county-potawatomi-community-of-wi,FOREST COUNTY POTAWATOMI COMMUNITY OF WI,company_website,,confirmed,https://www.potawatomi.com,
 entity-forest-county-potawatomi-community-of-wi,FOREST COUNTY POTAWATOMI COMMUNITY OF WI,company_phone,,confirmed,414-847-8600,
 entity-forest-county-potawatomi-community-of-wi,FOREST COUNTY POTAWATOMI COMMUNITY OF WI,property_manager,,confirmed,Self-managed / owner-occupied (Forest County Potawatomi Community),https://en.wikipedia.org/wiki/Forest_County_Potawatomi_Community
@@ -2077,8 +2320,17 @@ entity-507-south-2nd-street-development-llc,507 SOUTH 2ND STREET DEVELOPMENT LLC
 entity-507-south-2nd-street-development-llc,507 SOUTH 2ND STREET DEVELOPMENT LLC,contact.Burton Metz.email,owner,confirmed,bmetz@wangard.com,https://wangard.com/507-south-2nd-street-milwaukee/
 entity-507-south-2nd-street-development-llc,507 SOUTH 2ND STREET DEVELOPMENT LLC,contact.Burton Metz.phone,owner,confirmed,414-935-4028,https://wangard.com/507-south-2nd-street-milwaukee/
 entity-507-south-2nd-street-development-llc,507 SOUTH 2ND STREET DEVELOPMENT LLC,contact.Burton Metz.title,owner,confirmed,Wangard Partners (owner/developer rep),https://wangard.com/507-south-2nd-street-milwaukee/
+entity-barclay-lofts-llc,BARCLAY LOFTS LLC,company_website,,confirmed,https://www.sherman-associates.com,
+entity-barclay-lofts-llc,BARCLAY LOFTS LLC,company_phone,,confirmed,(612) 332-3000,https://www.sherman-associates.com/contact-us/
+entity-barclay-lofts-llc,BARCLAY LOFTS LLC,company_email,,confirmed,info@sherman-associates.com,https://www.sherman-associates.com/contact-us/
 entity-barclay-lofts-llc,BARCLAY LOFTS LLC,property_manager,,confirmed,Sherman Associates (Minneapolis),https://urbanmilwaukee.com/2020/11/15/plats-and-parcels-lawsuit-could-advance-walkers-point-project/
 entity-barclay-lofts-llc,BARCLAY LOFTS LLC,mailing_address,,confirmed,"233 PARK AVE SOUTH #201 MINNEAPOLIS, MN 55415",
+entity-barclay-lofts-llc,BARCLAY LOFTS LLC,contact.Dan Collison.email,other,unverified (pattern),dcollison@sherman-associates.com,pattern — unverified (flast@sherman-associates.com)
+entity-barclay-lofts-llc,BARCLAY LOFTS LLC,contact.Dan Collison.phone,other,confirmed,(612) 436-9148,pattern — unverified (flast@sherman-associates.com)
+entity-barclay-lofts-llc,BARCLAY LOFTS LLC,contact.Dan Collison.title,other,confirmed,Sherman Associates (parent developer contact),pattern — unverified (flast@sherman-associates.com)
+entity-barclay-lofts-llc,BARCLAY LOFTS LLC,contact.Mary Jo Kelly.email,leasing,confirmed,mkelly@sherman-associates.com,https://www.sherman-associates.com/properties/233-park-avenue-building/
+entity-barclay-lofts-llc,BARCLAY LOFTS LLC,contact.Mary Jo Kelly.phone,leasing,confirmed,612-843-4628,https://www.sherman-associates.com/properties/233-park-avenue-building/
+entity-barclay-lofts-llc,BARCLAY LOFTS LLC,contact.Mary Jo Kelly.title,leasing,confirmed,"Manager of Commercial Leasing & Business Development, Sherman Associates",https://www.sherman-associates.com/properties/233-park-avenue-building/
 entity-independence-first-inc,INDEPENDENCE FIRST INC,company_website,,confirmed,https://www.independencefirst.org,https://www.independencefirst.org/IndependenceFirst/Contact-Us.htm
 entity-independence-first-inc,INDEPENDENCE FIRST INC,company_phone,,confirmed,(414) 291-7520,https://www.independencefirst.org/IndependenceFirst/Contact-Us.htm
 entity-independence-first-inc,INDEPENDENCE FIRST INC,company_email,,confirmed,info@independencefirst.org,https://www.independencefirst.org/IndependenceFirst/Contact-Us.htm
@@ -2092,6 +2344,10 @@ entity-zurn-water-llc,ZURN WATER LLC,company_phone,,confirmed,+1-414-808-0100,ht
 entity-zurn-water-llc,ZURN WATER LLC,company_email,,confirmed,Corporate.Communications@zurn.com,https://www.zurn.com/us/en/contact-us.html
 entity-zurn-water-llc,ZURN WATER LLC,property_manager,,confirmed,Self-managed / owner-occupied,https://www.zurn.com/us/en/news-media/press-releases/zurn-elkay-complete-merger.html
 entity-zurn-water-llc,ZURN WATER LLC,mailing_address,,confirmed,"511 W FRESHWATER WAY MILWAUKEE, WI 53204",
+entity-lcm-funds-23-bridgeview-llc,LCM FUNDS 23 BRIDGEVIEW LLC,company_website,,confirmed,https://www.lcmfunds.com/,
+entity-lcm-funds-23-bridgeview-llc,LCM FUNDS 23 BRIDGEVIEW LLC,company_phone,,confirmed,(414) 588-0479,https://www.apartments.com/pmc/lcm-funds-real-estate-llc/0hbrjl1/
+entity-lcm-funds-23-bridgeview-llc,LCM FUNDS 23 BRIDGEVIEW LLC,company_email,,confirmed,info@lcmfunds.com,https://www.lcmfunds.com/
+entity-lcm-funds-23-bridgeview-llc,LCM FUNDS 23 BRIDGEVIEW LLC,property_manager,,confirmed,"LCM Funds Real Estate, LLC",https://www.apartments.com/pmc/lcm-funds-real-estate-llc/0hbrjl1/
 entity-lcm-funds-23-bridgeview-llc,LCM FUNDS 23 BRIDGEVIEW LLC,mailing_address,,confirmed,"PO BOX 1602 MILWAUKEE, WI 53201",
 entity-sixsibs-llc,SIXSIBS LLC,company_phone,,confirmed,414-362-6381,https://city.milwaukee.gov/File-Library/Agendas/2024/August/BID-49-Annual-Meeting-8.28.24.pdf
 entity-sixsibs-llc,SIXSIBS LLC,property_manager,,confirmed,SixSibs Capital Corporation,https://city.milwaukee.gov/File-Library/Agendas/2024/August/BID-49-Annual-Meeting-8.28.24.pdf
@@ -2139,6 +2395,7 @@ entity-ivp-mmd-llc-attn-tax-dept,IVP MMD LLC ATTN: TAX DEPT,company_phone,,confi
 entity-ivp-mmd-llc-attn-tax-dept,IVP MMD LLC ATTN: TAX DEPT,property_manager,,confirmed,Greystar (Evoni Historic Third Ward Apartments); developed by Kaeding Development Group,https://www.greystar.com/properties/milwaukee-wi/evoni
 entity-ivp-mmd-llc-attn-tax-dept,IVP MMD LLC ATTN: TAX DEPT,mailing_address,,confirmed,"PO BOX 3666 OAK BROOK, IL 60523",
 entity-hp-mineral-llc,HP MINERAL LLC,mailing_address,,confirmed,"1300 BRISTOL ST NORTH STE 19 NEWPORT BEACH, CA 92660",
+entity-hp-mineral-llc,HP MINERAL LLC,contact.Christopher Hilbert.title,other,confirmed,Registered Agent,https://www.bizprofile.net/ca/costa-mesa/hp-mineral-llc
 entity-cermak-realty-llc,CERMAK REALTY LLC,mailing_address,,confirmed,"135 E SCOTT ST MILWAUKEE, WI 53204",
 entity-mop-lofts-llc,MOP LOFTS LLC,mailing_address,,confirmed,"320 GREENWOOD ST EVANSTON, IL 60201",
 entity-cristo-rey-milwaukee-nmtc-spe-inc,CRISTO REY MILWAUKEE NMTC SPE INC,company_website,,confirmed,https://cristoreymilwaukee.org,https://cristoreymilwaukee.org/
@@ -2153,6 +2410,7 @@ entity-city-of-milw-longfellow-elem-school-playground,CITY OF MILW LONGFELLOW EL
 entity-city-of-milw-longfellow-elem-school-playground,CITY OF MILW LONGFELLOW ELEM SCHOOL & PLAYGROUND,company_phone,,confirmed,414-286-5730,https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
 entity-city-of-milw-longfellow-elem-school-playground,CITY OF MILW LONGFELLOW ELEM SCHOOL & PLAYGROUND,property_manager,,confirmed,City of Milwaukee Dept. of City Development - Real Estate,https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info
 entity-city-of-milw-longfellow-elem-school-playground,CITY OF MILW LONGFELLOW ELEM SCHOOL & PLAYGROUND,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
+entity-city-of-milw-doerfler-elem-school,CITY OF MILW DOERFLER ELEM SCHOOL,property_manager,,confirmed,Milwaukee Public Schools (City of Milwaukee),
 entity-city-of-milw-doerfler-elem-school,CITY OF MILW DOERFLER ELEM SCHOOL,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-e-villarreal-prop-llc-h-villarreal-prop-llc,E VILLARREAL PROP LLC H VILLARREAL PROP LLC,mailing_address,,confirmed,"916 S 16TH ST MILWAUKEE, WI 53204",
 entity-4000-west-burnham-llc,4000 WEST BURNHAM LLC,mailing_address,,confirmed,"171 CHURCH STREET STE 300 CHARLESTON, SC 29401",
@@ -2251,8 +2509,12 @@ entity-milwaukee-public-schools-central-services-office,MILWAUKEE PUBLIC SCHOOLS
 entity-milwaukee-public-schools-central-services-office,MILWAUKEE PUBLIC SCHOOLS CENTRAL SERVICES OFFICE,property_manager,,confirmed,Self-managed / owner-occupied (Milwaukee Public Schools),https://www.milwaukeepublicschools.org/
 entity-milwaukee-public-schools-central-services-office,MILWAUKEE PUBLIC SCHOOLS CENTRAL SERVICES OFFICE,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-dayton-hudson-corp-t-223-nka-target-corp-t-0223,DAYTON-HUDSON CORP #T-223 NKA TARGET CORP T 0223,company_website,,confirmed,https://www.target.com/,https://www.target.com/
+entity-dayton-hudson-corp-t-223-nka-target-corp-t-0223,DAYTON-HUDSON CORP #T-223 NKA TARGET CORP T 0223,company_phone,,confirmed,(414) 483-2000,https://www.target.com/sl/milwaukee-chase/223
 entity-dayton-hudson-corp-t-223-nka-target-corp-t-0223,DAYTON-HUDSON CORP #T-223 NKA TARGET CORP T 0223,property_manager,,confirmed,Target Corporation (corporate-owned),
 entity-dayton-hudson-corp-t-223-nka-target-corp-t-0223,DAYTON-HUDSON CORP #T-223 NKA TARGET CORP T 0223,mailing_address,,confirmed,"P O BOX 9456 MINNEAPOLIS, MN 55440",
+entity-dayton-hudson-corp-t-223-nka-target-corp-t-0223,DAYTON-HUDSON CORP #T-223 NKA TARGET CORP T 0223,"contact.Target Corporation (store T-0223, 2950 S Chase Ave).email",owner,unverified (pattern),target.ave@target.com,pattern — unverified (first.last@target.com)
+entity-dayton-hudson-corp-t-223-nka-target-corp-t-0223,DAYTON-HUDSON CORP #T-223 NKA TARGET CORP T 0223,"contact.Target Corporation (store T-0223, 2950 S Chase Ave).phone",owner,confirmed,(414) 483-2000,pattern — unverified (first.last@target.com)
+entity-dayton-hudson-corp-t-223-nka-target-corp-t-0223,DAYTON-HUDSON CORP #T-223 NKA TARGET CORP T 0223,"contact.Target Corporation (store T-0223, 2950 S Chase Ave).title",owner,confirmed,Owner/Operator,pattern — unverified (first.last@target.com)
 entity-kcb-new-blueprint-partners-jv-llc,KCB NEW BLUEPRINT PARTNERS JV LLC,company_website,,confirmed,https://newblueprintpartners.com/,https://newblueprintpartners.com/
 entity-kcb-new-blueprint-partners-jv-llc,KCB NEW BLUEPRINT PARTNERS JV LLC,company_phone,,confirmed,914-455-0800,https://newblueprintpartners.com/contact
 entity-kcb-new-blueprint-partners-jv-llc,KCB NEW BLUEPRINT PARTNERS JV LLC,company_email,,confirmed,info@newblueprintpartners.com,https://www.zoominfo.com/c/new-blueprint-partners-llc/540127260
@@ -2336,6 +2598,7 @@ entity-premier-real-estate-holdings-llc,PREMIER REAL ESTATE HOLDINGS LLC,mailing
 entity-city-of-milw-fire-hse,CITY OF MILW FIRE HSE,mailing_address,,confirmed,"809 N BROADWAY MILWAUKEE, WI 53202",
 entity-new-carco-acquisition-llc-cims-485-12-30,NEW CARCO ACQUISITION LLC CIMS 485-12-30,mailing_address,,confirmed,"401 KILBORN AVE STE 201 MILWAUKEE, WI 53182",
 entity-nrf-viii-south-towne-llc,NRF VIII - SOUTH TOWNE LLC,mailing_address,,confirmed,"5215 OLD ORCHARD RD # 880 SKOKIE, IL 60077",
+entity-nrf-viii-south-towne-llc,NRF VIII - SOUTH TOWNE LLC,contact.Andrew S. Hochberg.title,other,confirmed,Manager,https://www.city-data.com/business-entities/IL/NRF-VIII-MANAGER-LLC-05214157-IL.html
 entity-loomis-centre-llc,"LOOMIS CENTRE, LLC",property_manager,,confirmed,CBRE,https://images3.loopnet.com/d2/Zay1kRnyDLcK3DQ0Dxd42V3Pjm0WCe0Y7_rNKS32S4A/document.pdf
 entity-loomis-centre-llc,"LOOMIS CENTRE, LLC",mailing_address,,confirmed,"3100 DUNDEE ROAD #308 NORTHBROOK, IL 60062",
 entity-loomis-centre-llc,"LOOMIS CENTRE, LLC",contact.Sandy T. Golden.email,leasing,confirmed,sandy.golden@cbre.com,https://images3.loopnet.com/d2/Zay1kRnyDLcK3DQ0Dxd42V3Pjm0WCe0Y7_rNKS32S4A/document.pdf
@@ -2349,6 +2612,9 @@ entity-point-loomis-station-llc,POINT LOOMIS STATION LLC,mailing_address,,confir
 entity-point-loomis-station-llc,POINT LOOMIS STATION LLC,contact.Andrew Schrage.email,manager,confirmed,aschrage@phillipsedison.com,https://www.phillipsedison.com/sites/default/files/property/documents/Point_Loomis_Milwaukee_WI_Flyer.pdf
 entity-point-loomis-station-llc,POINT LOOMIS STATION LLC,contact.Andrew Schrage.phone,manager,confirmed,317-508-8119,https://www.phillipsedison.com/sites/default/files/property/documents/Point_Loomis_Milwaukee_WI_Flyer.pdf
 entity-point-loomis-station-llc,POINT LOOMIS STATION LLC,contact.Andrew Schrage.title,manager,confirmed,"Property Manager, Phillips Edison & Company",https://www.phillipsedison.com/sites/default/files/property/documents/Point_Loomis_Milwaukee_WI_Flyer.pdf
+entity-sunrise-property-holdings-llc,"SUNRISE PROPERTY HOLDINGS, LLC",company_website,,confirmed,https://cascadellc.com,
+entity-sunrise-property-holdings-llc,"SUNRISE PROPERTY HOLDINGS, LLC",company_phone,,confirmed,(847) 745-7000,https://www.zoominfo.com/c/cascade-capital-group-llc/373560552
+entity-sunrise-property-holdings-llc,"SUNRISE PROPERTY HOLDINGS, LLC",property_manager,,confirmed,"Cascade Capital Group, 3450 Oakton St, Skokie, IL 60076",https://cascadellc.com/contact-us/
 entity-sunrise-property-holdings-llc,"SUNRISE PROPERTY HOLDINGS, LLC",mailing_address,,confirmed,"3450 OAKTON ST SKOKIE, IL 60076",
 entity-city-of-milwaukee-playground,CITY OF MILWAUKEE PLAYGROUND,company_website,,confirmed,https://city.milwaukee.gov/mpw/infrastructure/Playgrounds,https://city.milwaukee.gov/mpw/infrastructure/Playgrounds
 entity-city-of-milwaukee-playground,CITY OF MILWAUKEE PLAYGROUND,company_phone,,confirmed,(414) 286-2489,https://city.milwaukee.gov/dpw/Contact
@@ -2389,6 +2655,7 @@ entity-value-hospitality-inc,VALUE HOSPITALITY INC,contact.Pat Kasthurirangaian.
 entity-value-hospitality-inc,VALUE HOSPITALITY INC,contact.Bill Otto.phone,other,confirmed,414-226-3240,https://www.wealthmanagement.com/wealth-management-industry-trends/directory-of-hotel-management-firms
 entity-value-hospitality-inc,VALUE HOSPITALITY INC,contact.Bill Otto.title,other,confirmed,"SVP / Operations, Value Hospitality Inc",https://www.wealthmanagement.com/wealth-management-industry-trends/directory-of-hotel-management-firms
 entity-sidhivinayak-llc,SIDHIVINAYAK LLC,mailing_address,,confirmed,"36881 N KIMBERWICK LN WADSWORTH, IL 60083",
+entity-sidhivinayak-llc,SIDHIVINAYAK LLC,contact.Arpit K Patel.title,other,confirmed,Registered Agent,https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=SIDHIVINAYAK+LLC
 entity-city-of-milwaukee-i-d-e-a-l-charter-school,CITY OF MILWAUKEE I.D.E.A.L. CHARTER SCHOOL,company_website,,confirmed,https://schools.milwaukee.k12.wi.us/ideal/,https://schools.milwaukee.k12.wi.us/ideal/
 entity-city-of-milwaukee-i-d-e-a-l-charter-school,CITY OF MILWAUKEE I.D.E.A.L. CHARTER SCHOOL,company_phone,,confirmed,(414) 304-6200,https://www.mapquest.com/us/wisconsin/ideal-charter-school-442900561
 entity-city-of-milwaukee-i-d-e-a-l-charter-school,CITY OF MILWAUKEE I.D.E.A.L. CHARTER SCHOOL,company_email,,confirmed,224@milwaukee.k12.wi.us,https://www.mapquest.com/us/wisconsin/ideal-school-442900561
@@ -2399,7 +2666,16 @@ entity-islamic-foundation-of-greater-milwaukee-inc,ISLAMIC FOUNDATION OF GREATER
 entity-islamic-foundation-of-greater-milwaukee-inc,ISLAMIC FOUNDATION OF GREATER MILWAUKEE INC,company_email,,confirmed,ismoffice@ismonline.org,https://www.ismonline.org/contact
 entity-islamic-foundation-of-greater-milwaukee-inc,ISLAMIC FOUNDATION OF GREATER MILWAUKEE INC,property_manager,,confirmed,Islamic Society of Milwaukee / Islamic Foundation of Greater Milwaukee,https://www.ismonline.org/contact
 entity-islamic-foundation-of-greater-milwaukee-inc,ISLAMIC FOUNDATION OF GREATER MILWAUKEE INC,mailing_address,,confirmed,"4707 S 13TH ST MILWAUKEE, WI 53221",
+entity-r-l-r-investments-llc,R L R INVESTMENTS LLC,company_website,,confirmed,https://rlrllc.com/,
 entity-r-l-r-investments-llc,R L R INVESTMENTS LLC,mailing_address,,confirmed,"PO BOX 271 WILMINGTON, OH 45177",
+entity-r-l-r-investments-llc,R L R INVESTMENTS LLC,contact.Roby L Roberts.email,owner,unverified (pattern),roby.roberts@rlrllc.com,pattern — unverified (first.last@rlrllc.com)
+entity-r-l-r-investments-llc,R L R INVESTMENTS LLC,contact.Roby L Roberts.title,owner,confirmed,CEO,pattern — unverified (first.last@rlrllc.com)
+entity-r-l-r-investments-llc,R L R INVESTMENTS LLC,contact.Mary D Roberts.email,owner,unverified (pattern),mary.roberts@rlrllc.com,pattern — unverified (first.last@rlrllc.com)
+entity-r-l-r-investments-llc,R L R INVESTMENTS LLC,contact.Mary D Roberts.title,owner,confirmed,Chairman,pattern — unverified (first.last@rlrllc.com)
+entity-r-l-r-investments-llc,R L R INVESTMENTS LLC,contact.C T Corporation System.email,other,unverified (pattern),c.system@rlrllc.com,pattern — unverified (first.last@rlrllc.com)
+entity-r-l-r-investments-llc,R L R INVESTMENTS LLC,contact.C T Corporation System.title,other,confirmed,Registered Agent,pattern — unverified (first.last@rlrllc.com)
+entity-r-l-r-investments-llc,R L R INVESTMENTS LLC,contact.Donald Deluca.email,other,unverified (pattern),donald.deluca@rlrllc.com,pattern — unverified (first.last@rlrllc.com)
+entity-r-l-r-investments-llc,R L R INVESTMENTS LLC,contact.Donald Deluca.title,other,confirmed,VP/Secretary,pattern — unverified (first.last@rlrllc.com)
 entity-gott-real-estate-llc,GOTT REAL ESTATE LLC,mailing_address,,confirmed,"1390 E BOLIVAR AV, ST. FRANCIS, WI 53235",
 entity-north-aurora-realty-holdings-inc,NORTH AURORA REALTY HOLDINGS INC,mailing_address,,confirmed,"710 N PLANKINTON AV STE 1400 MILWAUKEE, WI 53203",
 entity-amor-investments-llc-cjl-ap-llc-rlt-ap-llc,"AMOR INVESTMENTS LLC CJL AP LLC, RLT AP LLC",mailing_address,,confirmed,"3201 S 20TH ST MILWAUKEE, WI 53215",
@@ -2426,6 +2702,7 @@ entity-sasas-hospitality-llc,SASAS HOSPITALITY LLC,contact.Bimal Doshi.email,own
 entity-sasas-hospitality-llc,SASAS HOSPITALITY LLC,contact.Bimal Doshi.title,owner,confirmed,"Registered owner / principal, Sasas Hospitality LLC",pattern — unverified (first.last@hotel.bestwestern.com)
 entity-mw-distribution-property-llc,MW DISTRIBUTION PROPERTY LLC,mailing_address,,confirmed,"19000 W BLUEMOUND RD BROOKFIELD, WI 53045",
 entity-amor-investments-llc-cjl-ap-llc-rlt-ap-llc-gregg-r,"AMOR INVESTMENTS LLC, CJL AP LLC, RLT AP LLC, GREGG R",mailing_address,,confirmed,"3201 S 20TH ST MILWAUKEE, WI 53215",
+entity-amor-investments-llc-cjl-ap-llc-rlt-ap-llc-gregg-r,"AMOR INVESTMENTS LLC, CJL AP LLC, RLT AP LLC, GREGG R",contact.Gregg Lindner.title,manager,confirmed,"Owner, GRL Management LLC",https://www.linkedin.com/in/gregg-lindner-862b79a/
 entity-sss-milwaukee-llc,SSS MILWAUKEE LLC,company_phone,,confirmed,414-281-2400,https://www.waze.com/live-map/directions/us/wi/milwaukee/royce-hotel-(formerly-the-four-points-by-sheraton-milwaukee-airport)-is-open
 entity-sss-milwaukee-llc,SSS MILWAUKEE LLC,property_manager,,confirmed,Royce Hotel Milwaukee Airport (formerly Four Points by Sheraton),https://www.waze.com/live-map/directions/us/wi/milwaukee/royce-hotel-(formerly-the-four-points-by-sheraton-milwaukee-airport)-is-open
 entity-sss-milwaukee-llc,SSS MILWAUKEE LLC,mailing_address,,confirmed,"19315 COMPTON LN BROOKFIELD, WI 53045",
@@ -2459,7 +2736,11 @@ entity-elm-holdings-3-llc-elm-holdings-4-llc,"ELM HOLDINGS 3, LLC ELM HOLDINGS 4
 entity-elm-holdings-3-llc-elm-holdings-4-llc,"ELM HOLDINGS 3, LLC ELM HOLDINGS 4, LLC",contact.Michael Weiss.email,owner,unverified (pattern),michael.weiss@generalcapitalgroup.com,pattern — unverified (first.last@generalcapitalgroup.com)
 entity-elm-holdings-3-llc-elm-holdings-4-llc,"ELM HOLDINGS 3, LLC ELM HOLDINGS 4, LLC",contact.Michael Weiss.phone,owner,confirmed,414-228-3500,pattern — unverified (first.last@generalcapitalgroup.com)
 entity-elm-holdings-3-llc-elm-holdings-4-llc,"ELM HOLDINGS 3, LLC ELM HOLDINGS 4, LLC",contact.Michael Weiss.title,owner,confirmed,"President, General Capital Group (owner/manager affiliate)",pattern — unverified (first.last@generalcapitalgroup.com)
+entity-city-of-milw-kilmer-elem-school-playground,CITY OF MILW KILMER ELEM SCHOOL & PLAYGROUND,property_manager,,confirmed,Milwaukee Public Schools (City of Milwaukee),
 entity-city-of-milw-kilmer-elem-school-playground,CITY OF MILW KILMER ELEM SCHOOL & PLAYGROUND,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
+entity-maple-ridge-property-holdings-llc,"MAPLE RIDGE PROPERTY HOLDINGS, LLC",company_website,,confirmed,https://cascadellc.com,
+entity-maple-ridge-property-holdings-llc,"MAPLE RIDGE PROPERTY HOLDINGS, LLC",company_phone,,confirmed,(847) 745-7000,https://www.zoominfo.com/c/cascade-capital-group-llc/373560552
+entity-maple-ridge-property-holdings-llc,"MAPLE RIDGE PROPERTY HOLDINGS, LLC",property_manager,,confirmed,"Cascade Capital Group, 3450 Oakton St, Skokie, IL 60076",https://cascadellc.com/contact-us/
 entity-maple-ridge-property-holdings-llc,"MAPLE RIDGE PROPERTY HOLDINGS, LLC",mailing_address,,confirmed,"3450 OAKTON ST SKOKIE, IL 60076",
 entity-city-of-milwaukee-victory-elem-school,CITY OF MILWAUKEE VICTORY ELEM SCHOOL,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-city-of-milwaukee-garland-elementary-school,CITY OF MILWAUKEE GARLAND ELEMENTARY SCHOOL,mailing_address,,confirmed,"5225 W VLIET ST MILWAUKEE, WI 53208",
@@ -2512,3 +2793,4 @@ entity-baba-nanak-hospitality-group-corp,BABA NANAK HOSPITALITY GROUP CORP.,prop
 entity-baba-nanak-hospitality-group-corp,BABA NANAK HOSPITALITY GROUP CORP.,mailing_address,,confirmed,"6331 S 13TH ST MILWAUKEE, WI 53221",
 entity-baba-nanak-hospitality-group-corp,BABA NANAK HOSPITALITY GROUP CORP.,contact.Hardeep Arora.title,owner,confirmed,Owner,https://biztimes.com/former-milwaukee-clarion-inn-hotel-operators-file-for-bankruptcy-amid-financial-legal-troubles/
 entity-baba-nanak-hospitality-group-corp,BABA NANAK HOSPITALITY GROUP CORP.,contact.Parmeet Arora.title,owner,confirmed,Owner,https://biztimes.com/former-milwaukee-clarion-inn-hotel-operators-file-for-bankruptcy-amid-financial-legal-troubles/
+entity-baba-nanak-hospitality-group-corp,BABA NANAK HOSPITALITY GROUP CORP.,"contact.Timothy J. Helbing, Helbing Law Office LLC.title",other,confirmed,Bankruptcy Counsel,https://biztimes.com/former-milwaukee-clarion-inn-hotel-operators-file-for-bankruptcy-amid-financial-legal-troubles/
