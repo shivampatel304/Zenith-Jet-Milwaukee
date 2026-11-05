@@ -1641,8 +1641,11 @@ function buildingHtml(b) {
       <button class="card entity-card" data-entity="${esc(e.id)}">
         <div class="ec-top"><span class="ec-name">${esc(e.name)}</span>${kindPill(e.kind)}</div>
         <div class="ec-stats"><span><b>${fmt(e._b.length)}</b> buildings</span><span><b>${fmt(e._homes)}</b> sq ft</span><span><b>${fmt(e._named)}</b> named</span></div>
-        ${bc ? `<div class="contact-line" style="margin-top:8px">${ICON.mail}<span class="val">${esc(clean(bc.name) || bc.email || bc.phone)}${bc.title ? ` <span class="muted">· ${esc(bc.title)}</span>` : ''}</span></div>` : ''}
+        ${bc ? `<div class="contact-line" style="margin-top:8px">${ICON.pin}<span class="val"><b>${esc(clean(bc.name) || 'Contact')}</b>${bc.title ? ` <span class="muted">· ${esc(bc.title)}</span>` : ''}</span></div>
+        ${bc.email ? `<div class="contact-line">${ICON.mail}<span class="val">${esc(bc.email)}</span></div>` : ''}
+        ${bc.phone ? `<div class="contact-line">${ICON.phone}<span class="val">${esc(bc.phone)}</span></div>` : ''}` : ''}
         ${e.company_email ? `<div class="contact-line">${ICON.mail}<span class="val muted">${esc(e.company_email)}</span></div>` : ''}
+        ${e.company_phone ? `<div class="contact-line">${ICON.phone}<span class="val muted">${esc(e.company_phone)}</span></div>` : ''}
         <div class="ec-cta"><span class="link-btn">Contacts &amp; portfolio →</span></div>
       </button></section>`;
   }
