@@ -54,11 +54,15 @@ def clean_manager(co: str | None) -> str | None:
 
 # Contact role classification. The client wants OWNER and PROPERTY-MANAGER contacts,
 # not leasing brokers — so we tag each contact and keep brokers out of "green".
-LEASING_RE = re.compile(
+# Explicit leasing words in a title win even when it also says "Principal"/"Partner"
+# (e.g. "Principal, Cushman & Wakefield (leasing)" is a broker, not an owner).
+LEASING_WORD_RE = re.compile(
     r'\b(leasing|broker|brokerage|listing\s+agent|real\s+estate\s+advisor|advisor|'
-    r'sales\s+associate|cushman|wakefield|colliers|cbre|jll|newmark|boerke|'
-    r'founders\s*3|marcus\s*&?\s*millichap|transwestern|first\s+weber|nai\b)\b',
-    re.IGNORECASE)
+    r'sales\s+associate)\b', re.IGNORECASE)
+# Pure leasing-brokerage firms (names with no owner/developer arm in this dataset).
+LEASING_FIRM_RE = re.compile(
+    r'\b(cushman|wakefield|colliers|\bjll\b|newmark|boerke|founders\s*3|'
+    r'marcus\s*&?\s*millichap|mlg\s+commercial|first\s+weber)\b', re.IGNORECASE)
 OWNER_RE = re.compile(
     r'\b(owner|principal|president|ceo|cfo|coo|founder|managing\s+member|member|'
     r'partner|proprietor|chairman|managing\s+director)\b', re.IGNORECASE)
@@ -71,13 +75,13 @@ ROLE_RANK = {'owner': 0, 'manager': 1, 'other': 2, 'leasing': 3}
 
 def classify_role(title: str | None) -> str:
     t = title or ''
-    # Manager/owner words win over a leasing-company name in the same title.
+    # Explicit leasing signals win over generic owner/partner words.
+    if LEASING_WORD_RE.search(t) or LEASING_FIRM_RE.search(t):
+        return 'leasing'
     if MANAGER_RE.search(t):
         return 'manager'
     if OWNER_RE.search(t):
         return 'owner'
-    if LEASING_RE.search(t):
-        return 'leasing'
     return 'other'
 
 

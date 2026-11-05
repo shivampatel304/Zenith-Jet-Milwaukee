@@ -533,9 +533,9 @@ entity-welford-sanders-lofts-llc,WELFORD SANDERS LOFTS LLC,company_website,,http
 entity-welford-sanders-lofts-llc,WELFORD SANDERS LOFTS LLC,company_phone,,(414) 731-0842,https://welford-sanders-lofts.rentcafewebsite.com/contactus.aspx
 entity-welford-sanders-lofts-llc,WELFORD SANDERS LOFTS LLC,property_manager,,"TEAM Management, LLC",https://teammanagement.net/welford-sanders-historic-lofts.html
 entity-welford-sanders-lofts-llc,WELFORD SANDERS LOFTS LLC,mailing_address,,"2812 N DR WILLIAM FINLAYSON MILWAUKEE, WI 53212",
-entity-welford-sanders-lofts-llc,WELFORD SANDERS LOFTS LLC,contact.Margaret Grady.email,manager,margaretgrady@teammanagement.net,https://welford-sanders-lofts.rentcafewebsite.com/contactus.aspx
-entity-welford-sanders-lofts-llc,WELFORD SANDERS LOFTS LLC,contact.Margaret Grady.phone,manager,(414) 731-0842,https://welford-sanders-lofts.rentcafewebsite.com/contactus.aspx
-entity-welford-sanders-lofts-llc,WELFORD SANDERS LOFTS LLC,contact.Margaret Grady.title,manager,Leasing (TEAM Management),https://welford-sanders-lofts.rentcafewebsite.com/contactus.aspx
+entity-welford-sanders-lofts-llc,WELFORD SANDERS LOFTS LLC,contact.Margaret Grady.email,leasing,margaretgrady@teammanagement.net,https://welford-sanders-lofts.rentcafewebsite.com/contactus.aspx
+entity-welford-sanders-lofts-llc,WELFORD SANDERS LOFTS LLC,contact.Margaret Grady.phone,leasing,(414) 731-0842,https://welford-sanders-lofts.rentcafewebsite.com/contactus.aspx
+entity-welford-sanders-lofts-llc,WELFORD SANDERS LOFTS LLC,contact.Margaret Grady.title,leasing,Leasing (TEAM Management),https://welford-sanders-lofts.rentcafewebsite.com/contactus.aspx
 entity-city-of-milw-pierce-sch,CITY OF MILW PIERCE SCH,mailing_address,,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-city-of-milwaukee-riverside-university-hs,CITY OF MILWAUKEE RIVERSIDE UNIVERSITY HS,mailing_address,,"1615 E LOCUST ST MILWAUKEE, WI 53211",
 entity-dapl-llc,DAPL LLC,company_website,,https://www.vbmre.com/,https://www.vbmre.com/
@@ -904,9 +904,9 @@ entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,company_p
 entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,company_email,,adam.schmidt@colliers.com,https://www.chasetowermilwaukee.com/tenant-services
 entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,property_manager,,Colliers International / Farbman Group,https://www.chasetowermilwaukee.com/tenant-services
 entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,mailing_address,,"111 E WISCONSIN AVE STE 250 MILWAUKEE, WI 53202",
-entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Adam Schmidt.email,manager,adam.schmidt@colliers.com,https://www.chasetowermilwaukee.com/tenant-services
-entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Adam Schmidt.phone,manager,(414) 755-8400,https://www.chasetowermilwaukee.com/tenant-services
-entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Adam Schmidt.title,manager,"Property Manager, Colliers",https://www.chasetowermilwaukee.com/tenant-services
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Adam Schmidt.email,leasing,adam.schmidt@colliers.com,https://www.chasetowermilwaukee.com/tenant-services
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Adam Schmidt.phone,leasing,(414) 755-8400,https://www.chasetowermilwaukee.com/tenant-services
+entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Adam Schmidt.title,leasing,"Property Manager, Colliers",https://www.chasetowermilwaukee.com/tenant-services
 entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Matt Fahey.phone,leasing,(414) 278-6860,https://www.colliers.com/en/properties/chase-tower-office-for-lease/usa-111-e-wisconsin-ave-milwaukee-wisconsin-53202/usa1024311
 entity-chase-tower-wisconsin-realty-lp,CHASE TOWER WISCONSIN REALTY LP,contact.Matt Fahey.title,leasing,"Leasing, Colliers",https://www.colliers.com/en/properties/chase-tower-office-for-lease/usa-111-e-wisconsin-ave-milwaukee-wisconsin-53202/usa1024311
 entity-button-block-holdings-llc-attn-john-reinhart,BUTTON BLOCK HOLDINGS LLC ATTN JOHN REINHART,company_website,,https://www.beardevelopment.com,https://www.beardevelopment.com/contact/
@@ -972,8 +972,8 @@ entity-312-e-wisconsin-bldg-llc-c-o-caprock-re,312 E WISCONSIN BLDG LLC C/O CAPR
 entity-312-e-wisconsin-bldg-llc-c-o-caprock-re,312 E WISCONSIN BLDG LLC C/O CAPROCK RE,company_email,,info@caprockre.com,https://caprock.com/contact/
 entity-312-e-wisconsin-bldg-llc-c-o-caprock-re,312 E WISCONSIN BLDG LLC C/O CAPROCK RE,property_manager,,CapRock Real Estate,https://www.loopnet.com/Listing/312-E-Wisconsin-Ave-Milwaukee-WI/35322097/
 entity-312-e-wisconsin-bldg-llc-c-o-caprock-re,312 E WISCONSIN BLDG LLC C/O CAPROCK RE,mailing_address,,"17 N STATE ST STE 1225 CHICAGO, IL 60602",
-entity-312-e-wisconsin-bldg-llc-c-o-caprock-re,312 E WISCONSIN BLDG LLC C/O CAPROCK RE,contact.Saar Schnitman.phone,manager,312-257-3250,https://caprock.com/contact/
-entity-312-e-wisconsin-bldg-llc-c-o-caprock-re,312 E WISCONSIN BLDG LLC C/O CAPROCK RE,contact.Saar Schnitman.title,manager,"Principal (property management & leasing), CapRock Real Estate",https://caprock.com/contact/
+entity-312-e-wisconsin-bldg-llc-c-o-caprock-re,312 E WISCONSIN BLDG LLC C/O CAPROCK RE,contact.Saar Schnitman.phone,leasing,312-257-3250,https://caprock.com/contact/
+entity-312-e-wisconsin-bldg-llc-c-o-caprock-re,312 E WISCONSIN BLDG LLC C/O CAPROCK RE,contact.Saar Schnitman.title,leasing,"Principal (property management & leasing), CapRock Real Estate",https://caprock.com/contact/
 entity-reign-co1-propco-llc,REIGN CO1 PROPCO LLC,company_website,,https://www.reigncapital.com,https://www.reigncapital.com/contact
 entity-reign-co1-propco-llc,REIGN CO1 PROPCO LLC,company_phone,,646.504.2689,https://www.reigncapital.com/contact
 entity-reign-co1-propco-llc,REIGN CO1 PROPCO LLC,company_email,,info@reigncapital.com,https://www.reigncapital.com/contact
@@ -1070,9 +1070,9 @@ entity-marshall-building-llc,MARSHALL BUILDING LLC,company_website,,https://mars
 entity-marshall-building-llc,MARSHALL BUILDING LLC,company_phone,,414-276-5210,https://marshallbuildingmke.com/contact/
 entity-marshall-building-llc,MARSHALL BUILDING LLC,company_email,,bob@marshallbuildingmke.com,https://marshallbuildingmke.com/contact/
 entity-marshall-building-llc,MARSHALL BUILDING LLC,mailing_address,,"207 E BUFFALO ST MILWAUKEE, WI 53202",
-entity-marshall-building-llc,MARSHALL BUILDING LLC,contact.Bob.email,manager,bob@marshallbuildingmke.com,https://marshallbuildingmke.com/contact/
-entity-marshall-building-llc,MARSHALL BUILDING LLC,contact.Bob.phone,manager,414-617-7240,https://marshallbuildingmke.com/contact/
-entity-marshall-building-llc,MARSHALL BUILDING LLC,contact.Bob.title,manager,Leasing/Management contact,https://marshallbuildingmke.com/contact/
+entity-marshall-building-llc,MARSHALL BUILDING LLC,contact.Bob.email,leasing,bob@marshallbuildingmke.com,https://marshallbuildingmke.com/contact/
+entity-marshall-building-llc,MARSHALL BUILDING LLC,contact.Bob.phone,leasing,414-617-7240,https://marshallbuildingmke.com/contact/
+entity-marshall-building-llc,MARSHALL BUILDING LLC,contact.Bob.title,leasing,Leasing/Management contact,https://marshallbuildingmke.com/contact/
 entity-badger-investments-llc,BADGER INVESTMENTS LLC,mailing_address,,"5333 W BEAVER CREEK PKWY BROWN DEER, WI 53223",
 entity-chicago-street-propco-investors-llc,CHICAGO STREET PROPCO INVESTORS LLC,mailing_address,,"311 E CHICAGO ST UN 510 MILWAUKEE, WI 53202",
 entity-broadway-theatre-llc,BROADWAY THEATRE LLC,company_website,,https://www.skylightmusictheatre.org,https://shepherdexpress.com/locations/broadway-theatre-center/
@@ -1120,8 +1120,8 @@ entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYA
 entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,company_phone,,414-928-1700,
 entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,property_manager,,Hines — U.S. Bank Center building management,
 entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,mailing_address,,"PO BOX 460169 HOUSTON, TX 77056",
-entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,contact.Jim Cavanaugh.phone,owner,414-347-1000,https://www.usbcmilwaukee.com/contact
-entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,contact.Jim Cavanaugh.title,owner,"Principal, Cushman & Wakefield | Boerke (leasing)",https://www.usbcmilwaukee.com/contact
+entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,contact.Jim Cavanaugh.phone,leasing,414-347-1000,https://www.usbcmilwaukee.com/contact
+entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,contact.Jim Cavanaugh.title,leasing,"Principal, Cushman & Wakefield | Boerke (leasing)",https://www.usbcmilwaukee.com/contact
 entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,contact.Katie Melbye.phone,leasing,414-347-1000,https://www.usbcmilwaukee.com/contact
 entity-us-bank-national-assn-c-o-ryan-pts-dept-908,US BANK NATIONAL ASSN C\O RYAN PTS DEPT 908,contact.Katie Melbye.title,leasing,"Real Estate Advisor, Cushman & Wakefield | Boerke",https://www.usbcmilwaukee.com/contact
 entity-jbc-7-llc,JBC 7 LLC,company_website,,https://www.wiechmannenterprises.com/,https://www.wiechmannenterprises.com/
@@ -1394,9 +1394,9 @@ entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,company_p
 entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,company_email,,info@wangard.com,https://www.wangard.com/contact/
 entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,property_manager,,"Wangard Partners, Inc.",https://urbanmilwaukee.com/building/875-e-wisconsin-ave/
 entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,mailing_address,,"1200 N MAYFAIR RD STE 410 MILWAUKEE, WI 53226",
-entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,contact.Matt Hunter.title,owner,"Executive Vice President, JLL (leasing)",https://urbanmilwaukee.com/building/875-e-wisconsin-ave/
 entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,contact.Jamie Wolski.phone,manager,414-935-4116,https://www.wangard.com/contact/
 entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,contact.Jamie Wolski.title,manager,Property Management,https://www.wangard.com/contact/
+entity-875-east-26-llc-875-east-27-llc,875 EAST 26 LLC 875 EAST 27 LLC,contact.Matt Hunter.title,leasing,"Executive Vice President, JLL (leasing)",https://urbanmilwaukee.com/building/875-e-wisconsin-ave/
 entity-875-east-35-llc-875-east-36-llc,875 EAST 35 LLC 875 EAST 36 LLC,company_website,,https://www.wangard.com/,https://www.wangard.com/
 entity-875-east-35-llc-875-east-36-llc,875 EAST 35 LLC 875 EAST 36 LLC,company_phone,,414-777-1200,https://www.wangard.com/contact/
 entity-875-east-35-llc-875-east-36-llc,875 EAST 35 LLC 875 EAST 36 LLC,company_email,,info@wangard.com,https://www.wangard.com/contact/
@@ -2016,8 +2016,8 @@ entity-city-of-milwaukee-victory-elem-school,CITY OF MILWAUKEE VICTORY ELEM SCHO
 entity-city-of-milwaukee-garland-elementary-school,CITY OF MILWAUKEE GARLAND ELEMENTARY SCHOOL,mailing_address,,"5225 W VLIET ST MILWAUKEE, WI 53208",
 entity-aero-milwaukee-llc-airport-hanger-c-o-ryan,AERO MILWAUKEE LLC (AIRPORT HANGER) C/O RYAN,property_manager,,Realterm / Aeroterm (Milwaukee International Cargo Center),https://properties.realterm.com/property/milwaukee/air-cargo/328/
 entity-aero-milwaukee-llc-airport-hanger-c-o-ryan,AERO MILWAUKEE LLC (AIRPORT HANGER) C/O RYAN,mailing_address,,"201 WEST ST ANNAPOLIS, MD 21401",
-entity-aero-milwaukee-llc-airport-hanger-c-o-ryan,AERO MILWAUKEE LLC (AIRPORT HANGER) C/O RYAN,contact.Michelle Sloan.phone,owner,(469) 206-8294,https://properties.realterm.com/property/milwaukee/air-cargo/328/
-entity-aero-milwaukee-llc-airport-hanger-c-o-ryan,AERO MILWAUKEE LLC (AIRPORT HANGER) C/O RYAN,contact.Michelle Sloan.title,owner,"Associate Vice President (leasing contact, Realterm)",https://properties.realterm.com/property/milwaukee/air-cargo/328/
+entity-aero-milwaukee-llc-airport-hanger-c-o-ryan,AERO MILWAUKEE LLC (AIRPORT HANGER) C/O RYAN,contact.Michelle Sloan.phone,leasing,(469) 206-8294,https://properties.realterm.com/property/milwaukee/air-cargo/328/
+entity-aero-milwaukee-llc-airport-hanger-c-o-ryan,AERO MILWAUKEE LLC (AIRPORT HANGER) C/O RYAN,contact.Michelle Sloan.title,leasing,"Associate Vice President (leasing contact, Realterm)",https://properties.realterm.com/property/milwaukee/air-cargo/328/
 entity-howell-avenue-es-lodging-associates-llc,HOWELL AVENUE ES LODGING ASSOCIATES LLC,company_website,,https://www.raymondteam.com/,https://www.raymondteam.com/contact/
 entity-howell-avenue-es-lodging-associates-llc,HOWELL AVENUE ES LODGING ASSOCIATES LLC,company_phone,,(608) 833-4100,https://www.raymondteam.com/contact/
 entity-howell-avenue-es-lodging-associates-llc,HOWELL AVENUE ES LODGING ASSOCIATES LLC,company_email,,contact@raymondteam.com,https://www.raymondteam.com/contact/
