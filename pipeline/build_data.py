@@ -52,6 +52,35 @@ def clean_manager(co: str | None) -> str | None:
     return None if MANAGER_NOISE.search(co) else co
 
 
+# Contact role classification. The client wants OWNER and PROPERTY-MANAGER contacts,
+# not leasing brokers — so we tag each contact and keep brokers out of "green".
+LEASING_RE = re.compile(
+    r'\b(leasing|broker|brokerage|listing\s+agent|real\s+estate\s+advisor|advisor|'
+    r'sales\s+associate|cushman|wakefield|colliers|cbre|jll|newmark|boerke|'
+    r'founders\s*3|marcus\s*&?\s*millichap|transwestern|first\s+weber|nai\b)\b',
+    re.IGNORECASE)
+OWNER_RE = re.compile(
+    r'\b(owner|principal|president|ceo|cfo|coo|founder|managing\s+member|member|'
+    r'partner|proprietor|chairman|managing\s+director)\b', re.IGNORECASE)
+MANAGER_RE = re.compile(
+    r'\b(property\s+manager|general\s+manager|building\s+manager|asset\s+manager|'
+    r'community\s+manager|regional\s+manager|portfolio\s+manager|management|'
+    r'director\s+of\s+real\s+estate|facilities)\b', re.IGNORECASE)
+ROLE_RANK = {'owner': 0, 'manager': 1, 'other': 2, 'leasing': 3}
+
+
+def classify_role(title: str | None) -> str:
+    t = title or ''
+    # Manager/owner words win over a leasing-company name in the same title.
+    if MANAGER_RE.search(t):
+        return 'manager'
+    if OWNER_RE.search(t):
+        return 'owner'
+    if LEASING_RE.search(t):
+        return 'leasing'
+    return 'other'
+
+
 def slugify(name: str) -> str:
     s = (name or '').strip().upper()
     s = re.sub(r'[^A-Z0-9]+', '-', s).strip('-').lower()
@@ -119,8 +148,12 @@ def deduplicate_entities(buildings: list[dict], web: dict) -> list[dict]:
             contacts.append({
                 'name': c.get('name'), 'title': c.get('title'),
                 'email': c.get('email'), 'phone': c.get('phone'),
+                'role': classify_role(c.get('title')),
                 'email_source': c.get('source') or c.get('email_source'),
             })
+        # Owner/manager first, leasing brokers last — so the shown "best contact"
+        # is never a broker when a real owner/manager contact exists.
+        contacts.sort(key=lambda c: ROLE_RANK.get(c['role'], 2))
 
         entities.append({
             'id': eid,
@@ -141,8 +174,11 @@ def deduplicate_entities(buildings: list[dict], web: dict) -> list[dict]:
 
 
 def best_named_contact(e: dict) -> bool:
-    """True when the entity has a named person reachable by email or phone."""
+    """True when the entity has an OWNER or PROPERTY-MANAGER named person reachable
+    by email or phone. Leasing brokers do not count — the client wants owner/manager."""
     for c in e.get('contacts', []):
+        if c.get('role') == 'leasing':
+            continue
         if (c.get('name') or '').strip() and (c.get('email') or c.get('phone')):
             return True
     return False

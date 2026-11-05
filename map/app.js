@@ -1582,6 +1582,12 @@ function kv(label, html) { return html ? `<dt>${esc(label)}</dt><dd>${html}</dd>
 function statusPill(s) { return `<span class="pill pill-status" style="${pillStyle(statusColor(s))}"><span class="kind-dot" style="background:${statusColor(s)}"></span>${esc(cap(s || UNKNOWN))}</span>`; }
 function kindPill(k) { return `<span class="pill"><span class="kind-dot" style="background:${kindColor(k)}"></span>${esc(cap(k || 'Unknown kind'))}</span>`; }
 function researchPill(r) { const c = RESEARCH[r] || NEUTRAL; return r ? `<span class="pill pill-status" style="${pillStyle(c)}">Research: ${esc(r)}</span>` : ''; }
+const ROLE_COLOR = { owner: '#16A34A', manager: '#2563EB', leasing: '#94A3B8' };
+const ROLE_LABEL = { owner: 'Owner', manager: 'Manager', leasing: 'Leasing' };
+function roleTag(role) {
+  if (!role || !ROLE_LABEL[role]) return '';
+  return ` <span class="pill pill-status" style="${pillStyle(ROLE_COLOR[role])};font-size:10px;padding:1px 6px">${ROLE_LABEL[role]}</span>`;
+}
 
 function renderDetail() {
   const panel = $('#detail');
@@ -1667,8 +1673,8 @@ function entityHtml(e) {
 
   html += `<section class="section"><h3>Contacts <span class="count">${contacts.length || ''}</span></h3>`;
   if (contacts.length) {
-    html += contacts.map((c) => `<div class="card contact">
-      <div class="contact-name">${esc(clean(c.name) || 'Unnamed contact')}</div>
+    html += contacts.map((c) => `<div class="card contact"${c.role === 'leasing' ? ' style="opacity:.62"' : ''}>
+      <div class="contact-name">${esc(clean(c.name) || 'Unnamed contact')}${roleTag(c.role)}</div>
       ${c.title ? `<div class="contact-title">${esc(c.title)}</div>` : ''}
       ${emailLine(c.email, c.email_source)}${phoneLine(c.phone, c.phone_source)}
       ${safeUrl(c.linkedin) ? `<div class="contact-line">${ICON.linkedin}${linkHtml(c.linkedin, 'LinkedIn profile')}</div>` : ''}
@@ -1769,7 +1775,7 @@ function exportBuildings() {
     'Milwaukee ID', 'Address', 'Building name', 'Taxkey', 'Form', 'Class / sector', 'Building type', 'Priority', 'Priority label',
     'Floor area (sq ft)', 'Floors', 'Year built',
     'Owner (City list)', 'Owner source', 'Owner ID', 'Owner kind', 'Research status', 'Portfolio size (buildings)',
-    'Contact status', 'Property manager', 'Best contact name', 'Best contact title', 'Best contact email', 'Best contact phone', 'Best contact source',
+    'Contact status', 'Property manager', 'Best contact name', 'Best contact role', 'Best contact title', 'Best contact email', 'Best contact phone', 'Best contact source',
     'Company email', 'Company phone', 'Company website', 'Mailing address', 'Latitude', 'Longitude',
   ];
   const data = rows.map((b) => {
@@ -1779,7 +1785,7 @@ function exportBuildings() {
       b.id, b.address, b.building_name, b.taxkey, b.form, b.sector, b.building_type, b.priority, S.meta.priority_labels ? S.meta.priority_labels[b.priority] : '',
       b.floor_area_sqft, b.floors, b.year_built,
       b.owner, b.owner_source, e && e.id, e && e.kind, e && e.research_status, e && e._b.length,
-      b.contact_status, e && e.property_manager, clean(c.name), c.title, c.email, c.phone, c.email_source,
+      b.contact_status, e && e.property_manager, clean(c.name), c.role, c.title, c.email, c.phone, c.email_source,
       e && e.company_email, e && e.company_phone, e && e.company_website, e && e.mailing_address,
       b._pos ? b._pos[1].toFixed(6) : '', b._pos ? b._pos[0].toFixed(6) : '',
     ];
@@ -1792,7 +1798,7 @@ function exportOwners() {
   const ranked = rankEntities();
   const header = [
     'Owner ID', 'Name', 'Kind', 'Research status', 'Buildings in view', 'Buildings total', 'Sq ft total', 'Property manager',
-    'Best contact name', 'Best contact title', 'Best contact email', 'Best contact phone', 'Best contact source', 'All contacts',
+    'Best contact name', 'Best contact role', 'Best contact title', 'Best contact email', 'Best contact phone', 'Best contact source', 'All contacts',
     'Company email', 'Company phone', 'Company website', 'Mailing address', 'Notes',
   ];
   const data = ranked.map(({ e, n }) => {
@@ -1800,7 +1806,7 @@ function exportOwners() {
     const all = (e._contacts || []).map((x) => [clean(x.name), x.title, x.email, x.phone].filter(Boolean).join(' — ')).join(' | ');
     return [
       e.id, e.name, e.kind, e.research_status, n, e._b.length, e._homes, e.property_manager,
-      clean(c.name), c.title, c.email, c.phone, c.email_source, all,
+      clean(c.name), c.role, c.title, c.email, c.phone, c.email_source, all,
       e.company_email, e.company_phone, e.company_website, e.mailing_address, e.notes,
     ];
   });
