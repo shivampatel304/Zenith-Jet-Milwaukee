@@ -26,6 +26,10 @@ from datetime import date
 MATCHED_PATH = 'data/out/buildings_matched.json'
 MPROP_PATH = 'data/out/buildings_mprop.json'
 WEB_PATH = 'web_contacts.json'      # curated, version-controlled (hand-researched)
+# Per-BUILDING owner + property-manager contacts (one entry per building id).
+# The client's rule: property manager is building-specific (the same owner can use a
+# different manager at each building), and leasing brokers are excluded entirely.
+BUILDING_CONTACTS_PATH = 'building_contacts.json'
 MAP_DATA_DIR = '../map/data'
 
 SQFT_TO_M2 = 0.092903
@@ -198,6 +202,11 @@ def load_inputs():
         with open(WEB_PATH) as f:
             web = json.load(f)
         print(f'Loaded web_contacts for {len(web)} entities')
+    bld_contacts = {}
+    if os.path.exists(BUILDING_CONTACTS_PATH):
+        with open(BUILDING_CONTACTS_PATH) as f:
+            bld_contacts = json.load(f)
+        print(f'Loaded building_contacts for {len(bld_contacts)} buildings')
     # fold MPROP fields into the matched records
     for b in matched:
         m = mprop_by_id.get(b['milwaukee_id'])
@@ -206,7 +215,7 @@ def load_inputs():
                       'mprop_units', 'mprop_year_built', 'mprop_area_sqft',
                       'mprop_assessed', 'mprop_zoning'):
                 b[k] = m.get(k)
-    return matched, web
+    return matched, web, bld_contacts
 
 
 def deduplicate_entities(buildings: list[dict], web: dict) -> list[dict]:
@@ -280,18 +289,52 @@ def has_company_lead(e: dict) -> bool:
                or e.get('property_manager'))
 
 
+def _contact_strength(block: dict | None) -> str | None:
+    """How reachable a building-level owner/manager contact is:
+    'strong'  = a confirmed email, or a named person with a phone (→ green)
+    'company' = a phone or firm/self-managed lead, but no email and no named person (→ blue)
+    None      = nothing usable."""
+    if not block:
+        return None
+    if block.get('email'):
+        return 'strong'
+    if (block.get('name') or '').strip() and block.get('phone'):
+        return 'strong'
+    if block.get('phone') or block.get('firm') or block.get('self_managed'):
+        return 'company'
+    return None
+
+
 def contact_status_for(b: dict, e: dict) -> str:
-    """Confidence model: green named / blue company / red none / red no-owner."""
+    """Confidence model, driven by BUILDING-level owner + property-manager contacts
+    (falls back to the owner entity for a company/mailing lead):
+      green named  = a verified email, or a named owner/manager + phone
+      blue company = a company/phone/self-managed lead, no named person or email
+      red          = owner known but nothing reachable / no owner at all."""
     if not (b.get('owner') or (e and e.get('name') and e['name'] != '(unknown)')):
         return 'no owner found'           # red
-    if e and best_named_contact(e):
-        return 'named contact'            # green — a person + email or phone
-    if e and has_company_lead(e):
-        return 'company contact only'     # blue — a lead, no named person
+    strengths = {_contact_strength(b.get('owner_contact')),
+                 _contact_strength(b.get('property_manager'))}
+    if 'strong' in strengths:
+        return 'named contact'            # green — verified email or named person + phone
+    if 'company' in strengths or (e and has_company_lead(e)):
+        return 'company contact only'     # blue — a lead, no named/email
     return 'no contact found'             # red — owner but nothing reachable
 
 
-def build_buildings(matched: list[dict], entity_by_slug: dict) -> list[dict]:
+def _clean_contact(block: dict | None) -> dict | None:
+    """Keep only the fields the app shows; drop empty blocks."""
+    if not isinstance(block, dict):
+        return None
+    out = {k: block.get(k) for k in ('firm', 'name', 'title', 'email', 'phone',
+                                     'source', 'self_managed')}
+    if not any(out.get(k) for k in ('firm', 'name', 'email', 'phone')):
+        return None
+    return out
+
+
+def build_buildings(matched: list[dict], entity_by_slug: dict,
+                    bld_contacts: dict) -> list[dict]:
     out = []
     for b in matched:
         lat, lon = _coord(b)
@@ -302,6 +345,7 @@ def build_buildings(matched: list[dict], entity_by_slug: dict) -> list[dict]:
             btype = None
         owner = (b.get('owner_name') or '').strip() or None
         e = entity_by_slug[slugify(b.get('owner_name'))]
+        bc = bld_contacts.get(b['milwaukee_id'], {})
         bld = {
             'id': b['milwaukee_id'],
             'address': b.get('address'),
@@ -321,6 +365,9 @@ def build_buildings(matched: list[dict], entity_by_slug: dict) -> list[dict]:
             'owner': owner,
             'owner_source': 'City covered-buildings list',
             'entity': e['id'],
+            # Building-level contacts (client rule: PM is per building, no leasing brokers)
+            'owner_contact': _clean_contact(bc.get('owner')),
+            'property_manager': _clean_contact(bc.get('manager')),
             'contact_status': None,   # set below
         }
         bld['contact_status'] = contact_status_for(bld, e)
@@ -343,13 +390,13 @@ def build_lots_geojson(matched: list[dict]) -> dict:
 
 
 def main():
-    matched, web = load_inputs()
+    matched, web, bld_contacts = load_inputs()
     assert len(matched) == 826, f'expected 826 buildings, got {len(matched)}'
 
     entities = deduplicate_entities(matched, web)
     entity_by_slug = {e['id']: e for e in entities}
 
-    buildings = build_buildings(matched, entity_by_slug)
+    buildings = build_buildings(matched, entity_by_slug, bld_contacts)
     lots = build_lots_geojson(matched)
 
     generated = date.today().isoformat()
@@ -373,9 +420,13 @@ def main():
         json.dump(lots, f)
 
     status_counts = Counter(b['contact_status'] for b in buildings)
-    with_mgr = sum(1 for e in entities if e.get('property_manager'))
+    owner_email = sum(1 for b in buildings if (b.get('owner_contact') or {}).get('email'))
+    mgr_present = sum(1 for b in buildings if b.get('property_manager'))
+    mgr_email = sum(1 for b in buildings if (b.get('property_manager') or {}).get('email'))
     print(f'{len(buildings)} buildings · {len(entities)} entities')
-    print(f'footprints: {len(lots["features"])} · owners with a manager: {with_mgr}')
+    print(f'footprints: {len(lots["features"])}')
+    print(f'building-level: owner email {owner_email} · property manager {mgr_present} '
+          f'(mgr email {mgr_email})')
     print('contact_status breakdown:')
     for s in CONTACT_STATUS_VALUES:
         print(f'  {s:22} {status_counts.get(s, 0)}')

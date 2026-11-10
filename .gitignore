@@ -9,3 +9,4 @@ map/data/
 .vercel
 .superpowers/
 !map/.env.example
+pipeline/_research/

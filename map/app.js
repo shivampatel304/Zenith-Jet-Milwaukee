@@ -1628,6 +1628,21 @@ function closeDetail() {
   setTimeout(() => { if (panel.classList.contains('is-closing')) { panel.hidden = true; panel.classList.remove('is-closing'); } }, 240);
 }
 
+// Render a building-level owner / property-manager contact block.
+// These are per-building (the client's rule: a manager can differ per building),
+// sourced from the company's own site; leasing brokers are excluded upstream.
+function buildingContactCard(block, heading, note) {
+  if (!block) return '';
+  const name = clean(block.name);
+  const line = [name, block.title].filter(Boolean).join(' · ');
+  return `<section class="section"><h3>${esc(heading)}</h3><div class="card contact">
+    ${block.firm ? `<div class="contact-name">${esc(block.firm)}</div>` : ''}
+    ${line ? `<div class="contact-line">${ICON.pin}<span class="val"><b>${esc(name || 'Contact')}</b>${block.title ? ` <span class="muted">· ${esc(block.title)}</span>` : ''}</span></div>` : ''}
+    ${emailLine(block.email, block.source)}${phoneLine(block.phone, block.source)}
+    ${note ? `<div class="muted small" style="margin-top:6px">${esc(note)}</div>` : ''}
+  </div></section>`;
+}
+
 function buildingHtml(b) {
   const e = b._e;
   const plabel = b.priority ? (S.meta.priority_labels && S.meta.priority_labels[b.priority]) || `Priority ${b.priority}` : '';
@@ -1647,6 +1662,17 @@ function buildingHtml(b) {
     html += '</section>';
   } else if (b.contact_status === 'no owner found') {
     html += '<section class="section"><h3>Owner of record</h3><div class="note">No owner found yet for this building.</div></section>';
+  }
+
+  // Building-level owner + property-manager contacts (the two roles the client wants).
+  const pm = b.property_manager;
+  const oc = b.owner_contact;
+  html += buildingContactCard(oc, 'Owner contact');
+  const sameAsOwner = pm && oc && pm.email && pm.email === oc.email && pm.phone === oc.phone;
+  if (pm && pm.self_managed && (sameAsOwner || (!pm.name && !pm.email && !pm.phone))) {
+    html += buildingContactCard(pm, 'Property manager', 'Self-managed by the owner.');
+  } else {
+    html += buildingContactCard(pm, 'Property manager');
   }
 
   if (e) {
@@ -1783,17 +1809,25 @@ function exportBuildings() {
     'Milwaukee ID', 'Address', 'Building name', 'Taxkey', 'Form', 'Class / sector', 'Building type', 'Priority', 'Priority label',
     'Floor area (sq ft)', 'Floors', 'Year built',
     'Owner (City list)', 'Owner source', 'Owner ID', 'Owner kind', 'Research status', 'Portfolio size (buildings)',
-    'Contact status', 'Property manager', 'Best contact name', 'Best contact role', 'Best contact title', 'Best contact email', 'Best contact email status', 'Best contact phone', 'Best contact source',
+    'Contact status',
+    'Owner contact name', 'Owner contact email', 'Owner contact phone', 'Owner contact source',
+    'Property manager', 'PM contact name', 'PM email', 'PM phone', 'PM self-managed', 'PM source',
+    'Best contact name', 'Best contact role', 'Best contact title', 'Best contact email', 'Best contact email status', 'Best contact phone', 'Best contact source',
     'Company email', 'Company phone', 'Company website', 'Mailing address', 'Latitude', 'Longitude',
   ];
   const data = rows.map((b) => {
     const e = b._e;
     const c = bestContact(e) || {};
+    const oc = b.owner_contact || {};
+    const pm = b.property_manager || {};
     return [
       b.id, b.address, b.building_name, b.taxkey, b.form, b.sector, b.building_type, b.priority, S.meta.priority_labels ? S.meta.priority_labels[b.priority] : '',
       b.floor_area_sqft, b.floors, b.year_built,
       b.owner, b.owner_source, e && e.id, e && e.kind, e && e.research_status, e && e._b.length,
-      b.contact_status, e && e.property_manager, clean(c.name), c.role, c.title, c.email, (c.email ? (c.email_inferred ? 'unverified (pattern)' : 'confirmed') : ''), c.phone, c.email_source,
+      b.contact_status,
+      clean(oc.name), oc.email, oc.phone, oc.source,
+      pm.firm, clean(pm.name), pm.email, pm.phone, pm.self_managed ? 'yes' : '', pm.source,
+      clean(c.name), c.role, c.title, c.email, (c.email ? (c.email_inferred ? 'unverified (pattern)' : 'confirmed') : ''), c.phone, c.email_source,
       e && e.company_email, e && e.company_phone, e && e.company_website, e && e.mailing_address,
       b._pos ? b._pos[1].toFixed(6) : '', b._pos ? b._pos[0].toFixed(6) : '',
     ];
