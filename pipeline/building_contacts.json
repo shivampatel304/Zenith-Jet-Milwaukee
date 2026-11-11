@@ -1,7 +1,7 @@
 {
  "M00001": {
   "owner": {
-   "firm": null,
+   "firm": "City of Milwaukee Dept. of City Development - City Real Estate",
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
@@ -14,7 +14,7 @@
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
-   "phone": "414-286-5736",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -22,7 +22,7 @@
  },
  "M00002": {
   "owner": {
-   "firm": null,
+   "firm": "City of Milwaukee Dept. of City Development - City Real Estate",
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
@@ -35,7 +35,7 @@
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
-   "phone": "414-286-5736",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -48,7 +48,7 @@
  },
  "M00004": {
   "owner": {
-   "firm": null,
+   "firm": "Ascension Living Alexian Village Milwaukee",
    "name": null,
    "title": null,
    "email": null,
@@ -61,7 +61,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-355-9300",
+   "phone": null,
    "source": "https://www.ascensionliving.org",
    "self_managed": true
   },
@@ -82,7 +82,7 @@
  },
  "M00006": {
   "owner": {
-   "firm": null,
+   "firm": "Menard, Inc. - Properties",
    "name": "Nick Brenner",
    "title": "Real Estate Representative, Menard Inc - Properties",
    "email": "properties@menard-inc.com",
@@ -94,8 +94,8 @@
    "firm": "Menard, Inc. - Properties",
    "name": "Nick Brenner",
    "title": "Real Estate Representative",
-   "email": "properties@menard-inc.com",
-   "phone": "715-876-2177",
+   "email": null,
+   "phone": null,
    "source": "https://www.menardusa.com/contact-us/regional-contacts/",
    "self_managed": true
   },
@@ -103,7 +103,7 @@
  },
  "M00007": {
   "owner": {
-   "firm": null,
+   "firm": "Menard, Inc. - Properties",
    "name": "Nick Brenner",
    "title": "Real Estate Representative, Menard Inc - Properties",
    "email": "properties@menard-inc.com",
@@ -115,8 +115,8 @@
    "firm": "Menard, Inc. - Properties",
    "name": "Nick Brenner",
    "title": "Real Estate Representative",
-   "email": "properties@menard-inc.com",
-   "phone": "715-876-2177",
+   "email": null,
+   "phone": null,
    "source": "https://www.menardusa.com/contact-us/regional-contacts/",
    "self_managed": true
   },
@@ -124,7 +124,7 @@
  },
  "M00008": {
   "owner": {
-   "firm": null,
+   "firm": "City of Milwaukee Dept. of City Development - City Real Estate",
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
@@ -137,7 +137,7 @@
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
-   "phone": "414-286-5736",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -145,7 +145,7 @@
  },
  "M00009": {
   "owner": {
-   "firm": null,
+   "firm": "City of Milwaukee Dept. of City Development - City Real Estate",
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
@@ -158,7 +158,7 @@
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
-   "phone": "414-286-5736",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -166,7 +166,7 @@
  },
  "M00010": {
   "owner": {
-   "firm": null,
+   "firm": "City of Milwaukee Dept. of City Development - City Real Estate",
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
@@ -179,7 +179,7 @@
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
-   "phone": "414-286-5736",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -187,7 +187,7 @@
  },
  "M00011": {
   "owner": {
-   "firm": null,
+   "firm": "City of Milwaukee Dept. of City Development - City Real Estate",
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
@@ -200,7 +200,7 @@
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
-   "phone": "414-286-5736",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -208,7 +208,7 @@
  },
  "M00012": {
   "owner": {
-   "firm": null,
+   "firm": "City of Milwaukee Dept. of City Development - City Real Estate",
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
@@ -221,7 +221,7 @@
    "name": "Matt Haessly",
    "title": "Real Estate Specialist, Commercial Properties",
    "email": null,
-   "phone": "414-286-5736",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -239,7 +239,7 @@
  },
  "M00015": {
   "owner": {
-   "firm": null,
+   "firm": "Public Storage",
    "name": "Daniel Wollent",
    "title": "Real Estate - Central Region, Public Storage",
    "email": null,
@@ -252,7 +252,7 @@
    "name": "Daniel Wollent",
    "title": "Real Estate - Central Region",
    "email": null,
-   "phone": "385-715-2456",
+   "phone": null,
    "source": "https://www.publicstorage.com/real-estate/real-estate.html",
    "self_managed": true
   },
@@ -260,7 +260,7 @@
  },
  "M00016": {
   "owner": {
-   "firm": null,
+   "firm": "Brennan Investment Group",
    "name": null,
    "title": null,
    "email": "info@brennanllc.com",
@@ -272,8 +272,8 @@
    "firm": "Brennan Investment Group",
    "name": null,
    "title": null,
-   "email": "info@brennanllc.com",
-   "phone": "847-257-8800",
+   "email": null,
+   "phone": null,
    "source": "https://www.brennanllc.com/contact/",
    "self_managed": true
   },
@@ -281,7 +281,7 @@
  },
  "M00017": {
   "owner": {
-   "firm": null,
+   "firm": "Transwestern Development Company (TDC Midwest)",
    "name": "Darcie Fankhauser",
    "title": "Regional Partner - Midwest, Transwestern Development Co (TDC)",
    "email": "Darcie.Fankhauser@transwestern.com",
@@ -293,8 +293,8 @@
    "firm": "Transwestern Development Company (TDC Midwest)",
    "name": "Darcie Fankhauser",
    "title": "Regional Partner - Midwest",
-   "email": "Darcie.Fankhauser@transwestern.com",
-   "phone": "312-257-2891",
+   "email": null,
+   "phone": null,
    "source": "https://transwestern.com/tdc/tdc-Mid-West/",
    "self_managed": true
   },
@@ -315,7 +315,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414.225.9700",
+   "phone": null,
    "source": "https://transwestern.com/location/milwaukee/",
    "self_managed": true
   },
@@ -326,8 +326,8 @@
    "firm": "Heather Holdings LLC (11200 West Heather Holdings LLC)",
    "name": null,
    "title": null,
-   "email": null,
-   "phone": null,
+   "email": "sales@fpmht.com",
+   "phone": "414-355-7900",
    "source": "https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=HEATHER+HOLDINGS+LLC",
    "self_managed": false
   },
@@ -335,8 +335,8 @@
    "firm": "FPM LLC (FPM Heat Treating)",
    "name": null,
    "title": null,
-   "email": "sales@fpmht.com",
-   "phone": "414-355-7900",
+   "email": null,
+   "phone": null,
    "source": "https://www.fpmht.com/",
    "self_managed": true
   },
@@ -356,8 +356,8 @@
    "firm": "Kohl's Corporation (corporate real estate / facilities)",
    "name": null,
    "title": null,
-   "email": "re-realestate@kohls.com",
-   "phone": "866-907-0048",
+   "email": null,
+   "phone": null,
    "source": "https://corporate.kohls.com/contact-us",
    "self_managed": true
   },
@@ -377,8 +377,8 @@
    "firm": "Midland Paper Company",
    "name": null,
    "title": null,
-   "email": "custservice@midlandpaper.com",
-   "phone": "(414) 434-7114",
+   "email": null,
+   "phone": null,
    "source": "https://www.midlandpaper.com",
    "self_managed": true
   },
@@ -398,8 +398,8 @@
    "firm": "Alliance Development / Midwest Refrigerated Services (affiliate occupant)",
    "name": "Andy Dumke",
    "title": null,
-   "email": "Andy@AllianceDevelopment.biz",
-   "phone": "(414) 410-8200",
+   "email": null,
+   "phone": null,
    "source": "https://www.midwestrefrigerated.com/locations/milwaukee",
    "self_managed": true
   },
@@ -420,7 +420,7 @@
    "name": "Arthur van Zanten",
    "title": null,
    "email": null,
-   "phone": "(414) 354-3800",
+   "phone": null,
    "source": "https://www.tulipworld.com/contact.asp",
    "self_managed": true
   },
@@ -477,7 +477,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 716-5499",
+   "phone": null,
    "source": "https://www.locally.com/store/309941/sendiks-food-market-home-office",
    "self_managed": true
   },
@@ -519,7 +519,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "1-800-437-1171",
+   "phone": null,
    "source": "https://www.gehealthcare.com/about/contact-us",
    "self_managed": true
   },
@@ -540,7 +540,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "1-800-437-1171",
+   "phone": null,
    "source": "https://www.gehealthcare.com/about/contact-us",
    "self_managed": true
   },
@@ -587,7 +587,7 @@
    "name": "Frank Giuffre",
    "title": null,
    "email": null,
-   "phone": "(414) 747-7400",
+   "phone": null,
    "source": "https://www.thebluebook.com/iProView/402220/mallory-properties/vendor-services/locations-contacts/",
    "self_managed": true
   },
@@ -608,7 +608,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-355-3066",
+   "phone": null,
    "source": "https://www.lockheedmartin.com/en-us/products/derco-aerospace.html",
    "self_managed": true
   },
@@ -629,7 +629,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-354-0990",
+   "phone": null,
    "source": "https://www.storsafe.com/locations/milwaukee-wi-53223/",
    "self_managed": true
   },
@@ -655,7 +655,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-365-3700",
+   "phone": null,
    "source": "https://www.samsclub.com/club/6324-milwaukee-wi",
    "self_managed": true
   },
@@ -694,7 +694,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-979-1001",
+   "phone": null,
    "source": "https://luthergrp.com",
    "self_managed": true
   },
@@ -746,7 +746,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-351-1999",
+   "phone": null,
    "source": "https://airflowreps.com/contact-us-2/",
    "self_managed": true
   },
@@ -795,7 +795,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-354-3300",
+   "phone": null,
    "source": "https://www.villaatbradleyestates.com",
    "self_managed": true
   },
@@ -843,7 +843,7 @@
    "name": "SH 7203-7207 LLC (self-storage holding entity)",
    "title": null,
    "email": null,
-   "phone": null,
+   "phone": "(801) 365-4600",
    "source": "owner of record; facility operates as Extra Space Storage at 7440 N 76th St",
    "self_managed": false
   },
@@ -852,7 +852,7 @@
    "name": "Extra Space Storage Inc.",
    "title": null,
    "email": null,
-   "phone": "(801) 365-4600",
+   "phone": null,
    "source": "https://www.extraspace.com/self-storage/faq/what-is-the-corporate-phone-number-for-extra-space-storage/ ; extraspace.com facility page for 7440 N 76th St",
    "self_managed": true
   },
@@ -872,8 +872,8 @@
    "firm": null,
    "name": "Westmount Realty Capital",
    "title": null,
-   "email": "info@westmountrc.com",
-   "phone": "(214) 944-5454",
+   "email": null,
+   "phone": null,
    "source": "https://westmountrc.com/contact/ ; https://westmountrc.com/property/northwest-milwaukee-industrial-portfolio/",
    "self_managed": true
   },
@@ -894,7 +894,7 @@
    "name": "Hot Water Products, Inc. (owner-occupant)",
    "title": null,
    "email": null,
-   "phone": "(414) 434-1371",
+   "phone": null,
    "source": "hotwaterproducts.com ; company profile",
    "self_managed": true
   },
@@ -915,7 +915,7 @@
    "name": "Abundant Faith Church of Integrity Inc (owner-occupant)",
    "title": null,
    "email": null,
-   "phone": "(414) 464-5001",
+   "phone": null,
    "source": "church directory listings",
    "self_managed": true
   },
@@ -1124,8 +1124,8 @@
    "firm": null,
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "(414) 283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -1151,7 +1151,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(262) 506-1000",
+   "phone": null,
    "source": "https://www.interstatepartners.com/contact",
    "self_managed": true
   },
@@ -1189,8 +1189,8 @@
    "firm": "Savtri Hospitality - Milwaukee LLC",
    "name": null,
    "title": null,
-   "email": "mkepp@savtri.com",
-   "phone": "(414) 979-0250",
+   "email": null,
+   "phone": null,
    "source": "https://www.ihg.com/holidayinnexpress/hotels/us/en/milwaukee/mkepp/hoteldetail",
    "self_managed": true
   },
@@ -1216,7 +1216,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 357-2100",
+   "phone": null,
    "source": "https://www.heisertoyota.com/contact-us/",
    "self_managed": true
   },
@@ -1237,7 +1237,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 398-1940",
+   "phone": null,
    "source": "https://kuneshopechevy.com/",
    "self_managed": true
   },
@@ -1257,8 +1257,8 @@
    "firm": "City of Milwaukee \u2014 Dept. of City Development, City Real Estate",
    "name": null,
    "title": null,
-   "email": "dcd.cityrealestate@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -1279,7 +1279,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -1299,8 +1299,8 @@
    "firm": "Royal Capital Group LLC",
    "name": null,
    "title": null,
-   "email": "info@royalcapital.net",
-   "phone": "(414) 800-5289",
+   "email": null,
+   "phone": null,
    "source": "https://www.royalcapitalgroup.com/contact-us/",
    "self_managed": true
   },
@@ -1320,7 +1320,7 @@
    "firm": "L2 Partners",
    "name": null,
    "title": null,
-   "email": "info@L2Partners.com",
+   "email": null,
    "phone": null,
    "source": "https://www.l2partners.com",
    "self_managed": true
@@ -1342,7 +1342,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 353-5000",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -1368,7 +1368,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -1388,8 +1388,8 @@
    "firm": "City of Milwaukee \u2014 Dept. of City Development, City Real Estate",
    "name": null,
    "title": null,
-   "email": "dcd.cityrealestate@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -1422,8 +1422,8 @@
    "firm": "Megal Development Corp",
    "name": null,
    "title": null,
-   "email": "Sales@Megal.com",
-   "phone": "(262) 781-8970",
+   "email": null,
+   "phone": null,
    "source": "http://www.megal.com (lists 'Property Management' as a service; owner-developer self-manages)",
    "self_managed": true
   },
@@ -1444,7 +1444,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -1501,7 +1501,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-372-7000",
+   "phone": null,
    "source": "https://www.chcoakley.com/",
    "self_managed": true
   },
@@ -1522,7 +1522,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-372-7000",
+   "phone": null,
    "source": "https://www.chcoakley.com/",
    "self_managed": true
   },
@@ -1543,7 +1543,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-372-7000",
+   "phone": null,
    "source": "https://www.chcoakley.com/",
    "self_managed": true
   },
@@ -1564,7 +1564,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -1585,7 +1585,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(513) 459-1200",
+   "phone": null,
    "source": "https://www.cintas.com (owner-operated facility)",
    "self_managed": true
   },
@@ -1606,7 +1606,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -1627,7 +1627,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -1648,7 +1648,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 358-2805",
+   "phone": null,
    "source": "https://www.directsupply.com",
    "self_managed": true
   },
@@ -1690,7 +1690,7 @@
    "name": "Ryan Rodger",
    "title": null,
    "email": null,
-   "phone": "(516) 223-6200",
+   "phone": null,
    "source": "https://unitedpropertiescorp.com (owner-operator that manages its own shopping centers incl. Mill Road Shopping Center, incl. property management)",
    "self_managed": true
   },
@@ -1711,7 +1711,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 358-2805",
+   "phone": null,
    "source": "https://www.directsupply.com",
    "self_managed": true
   },
@@ -1731,8 +1731,8 @@
    "firm": "City of Milwaukee - City Real Estate (DCD)",
    "name": "Matt Haessly",
    "title": null,
-   "email": "cityrealestate@milwaukee.gov",
-   "phone": "414-286-5736",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -1752,8 +1752,8 @@
    "firm": "City of Milwaukee - City Real Estate (DCD)",
    "name": "Matt Haessly",
    "title": null,
-   "email": "cityrealestate@milwaukee.gov",
-   "phone": "414-286-5736",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -1774,7 +1774,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-475-8393",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -1795,7 +1795,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-475-8393",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -1816,7 +1816,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-475-8393",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -1837,7 +1837,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-475-8393",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -1857,8 +1857,8 @@
    "firm": "Wellspring of Milwaukee (owner-operated nursing/assisted-living facility)",
    "name": "Jonathan Heraty (Managing Member)",
    "title": null,
-   "email": "TONeil@wellspringofmilwaukee.com",
-   "phone": "414-797-0000",
+   "email": null,
+   "phone": null,
    "source": "http://www.wellspringofmilwaukee.org/contact",
    "self_managed": true
   },
@@ -1878,8 +1878,8 @@
    "firm": "City of Milwaukee - City Real Estate (DCD) / DPW field station (owner-occupied)",
    "name": null,
    "title": null,
-   "email": "cityrealestate@milwaukee.gov",
-   "phone": "414-286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -1909,7 +1909,7 @@
  "M00112": {
   "owner": {
    "firm": "Milwaukee Tech Center LLC",
-   "name": null,
+   "name": "Saul Zenkevicius",
    "title": null,
    "email": "info@techcenter.com",
    "phone": "(432) 287-2426",
@@ -1920,8 +1920,8 @@
    "firm": "Milwaukee Tech Center (owner-operated via milwaukeetechcenter.com leasing portal); affiliate Z Equity Group (Saul Zenkevicius, Managing Partner)",
    "name": "Saul Zenkevicius",
    "title": null,
-   "email": "info@techcenter.com",
-   "phone": "(432) 287-2426",
+   "email": null,
+   "phone": null,
    "source": "https://milwaukeetechcenter.com/7320-w-florist-ave/",
    "self_managed": true
   },
@@ -1930,7 +1930,7 @@
  "M00113": {
   "owner": {
    "firm": "Milwaukee Tech Center LLC",
-   "name": null,
+   "name": "Saul Zenkevicius",
    "title": null,
    "email": "info@techcenter.com",
    "phone": "(432) 287-2426",
@@ -1941,8 +1941,8 @@
    "firm": "Milwaukee Tech Center (owner-operated via milwaukeetechcenter.com leasing portal); affiliate Z Equity Group (Saul Zenkevicius)",
    "name": "Saul Zenkevicius",
    "title": null,
-   "email": "info@techcenter.com",
-   "phone": "(432) 287-2426",
+   "email": null,
+   "phone": null,
    "source": "https://milwaukeetechcenter.com/",
    "self_managed": true
   },
@@ -1963,7 +1963,7 @@
    "name": "Pai Yang",
    "title": null,
    "email": null,
-   "phone": "414-760-3771",
+   "phone": null,
    "source": "https://urbanmilwaukee.com/business/phongsavan-market-place/",
    "self_managed": true
   },
@@ -2022,8 +2022,8 @@
    "firm": "The Bender Companies (in-house property & asset management)",
    "name": "Kurt Bender",
    "title": null,
-   "email": "info@bendermgmt.com",
-   "phone": "(224) 386-1200",
+   "email": null,
+   "phone": null,
    "source": "https://www.bender-companies.com",
    "self_managed": true
   },
@@ -2044,7 +2044,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "914-455-0800",
+   "phone": null,
    "source": "https://newblueprintpartners.com/contact",
    "self_managed": true
   },
@@ -2077,8 +2077,8 @@
    "firm": "Phoenix Investors (in-house property management)",
    "name": null,
    "title": null,
-   "email": "info@phoenixinvestors.com",
-   "phone": "(414) 283-2600",
+   "email": null,
+   "phone": null,
    "source": "https://phoenixinvestors.com/contact-us/",
    "self_managed": true
   },
@@ -2098,8 +2098,8 @@
    "firm": "Phoenix Investors (in-house property management)",
    "name": null,
    "title": null,
-   "email": "info@phoenixinvestors.com",
-   "phone": "(414) 283-2600",
+   "email": null,
+   "phone": null,
    "source": "https://phoenixinvestors.com/contact-us/",
    "self_managed": true
   },
@@ -2119,8 +2119,8 @@
    "firm": "Phoenix Investors (in-house property management)",
    "name": null,
    "title": null,
-   "email": "info@phoenixinvestors.com",
-   "phone": "(414) 283-2600",
+   "email": null,
+   "phone": null,
    "source": "https://phoenixinvestors.com/contact-us/",
    "self_managed": true
   },
@@ -2154,7 +2154,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "1-833-322-1888",
+   "phone": null,
    "source": "https://mdsfulfillment.com/contact/",
    "self_managed": true
   },
@@ -2195,8 +2195,8 @@
    "firm": "Silvermill Management Co (owner-affiliated)",
    "name": null,
    "title": null,
-   "email": "silvermillshoppingcenter@gmail.com",
-   "phone": "(414) 438-0466",
+   "email": null,
+   "phone": null,
    "source": "https://www.yellowpages.com/milwaukee-wi/mip/slivermill-management-co-456241153",
    "self_managed": true
   },
@@ -2216,8 +2216,8 @@
    "firm": "Silvermill Management Co (owner-affiliated)",
    "name": null,
    "title": null,
-   "email": "silvermillshoppingcenter@gmail.com",
-   "phone": "(414) 438-0466",
+   "email": null,
+   "phone": null,
    "source": "https://www.yellowpages.com/milwaukee-wi/mip/slivermill-management-co-456241153",
    "self_managed": true
   },
@@ -2238,7 +2238,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2259,7 +2259,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2280,7 +2280,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2300,8 +2300,8 @@
    "firm": "Wm K Walthers Inc (owner-occupant / self-managed)",
    "name": null,
    "title": null,
-   "email": "custserv@walthers.com",
-   "phone": "(414) 461-1050",
+   "email": null,
+   "phone": null,
    "source": "https://www.walthers.com/our-showroom",
    "self_managed": true
   },
@@ -2322,7 +2322,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 302-4300",
+   "phone": null,
    "source": "https://www.salvationarmyusa.org/usa-central-territory/wisconsin-and-upper-michigan/milwaukee-area-command/contact-us/",
    "self_managed": true
   },
@@ -2343,7 +2343,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2364,7 +2364,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2385,7 +2385,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2411,7 +2411,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 463-9090",
+   "phone": null,
    "source": "https://www.obyrnedc.com",
    "self_managed": true
   },
@@ -2432,7 +2432,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(479) 273-4000",
+   "phone": null,
    "source": "https://corporate.walmart.com",
    "self_managed": true
   },
@@ -2458,7 +2458,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "385-715-2456",
+   "phone": null,
    "source": "https://www.publicstorage.com",
    "self_managed": true
   },
@@ -2479,7 +2479,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 461-9100",
+   "phone": null,
    "source": "https://www.fabickcat.com/",
    "self_managed": true
   },
@@ -2500,7 +2500,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 353-4800",
+   "phone": null,
    "source": "https://www.lakesidetrucks.com/locations/milwaukee/",
    "self_managed": true
   },
@@ -2521,7 +2521,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 353-1000",
+   "phone": null,
    "source": "https://www.capitol-husting.com/contact",
    "self_managed": true
   },
@@ -2555,7 +2555,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 392-6451",
+   "phone": null,
    "source": "https://www.choicehotels.com/wisconsin/milwaukee/comfort-suites-hotels/wi147",
    "self_managed": true
   },
@@ -2576,7 +2576,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 353-9800",
+   "phone": null,
    "source": "https://www.choicehotels.com",
    "self_managed": true
   },
@@ -2597,7 +2597,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 463-4500",
+   "phone": null,
    "source": "https://www.pepsico.com",
    "self_managed": true
   },
@@ -2631,7 +2631,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 264-5683",
+   "phone": null,
    "source": "https://www.greaternewbirthchurch.org",
    "self_managed": true
   },
@@ -2679,7 +2679,7 @@
  "M00154": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
    "phone": "(414) 286-5730",
@@ -2691,7 +2691,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -2700,7 +2700,7 @@
  "M00155": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
    "phone": "(414) 475-8393",
@@ -2712,7 +2712,7 @@
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2721,7 +2721,7 @@
  "M00156": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Gorman & Company (Edison School Apartments leasing/management office)",
    "title": null,
    "email": null,
    "phone": "(414) 240-4374",
@@ -2733,7 +2733,7 @@
    "name": "Gorman & Company (Edison School Apartments leasing/management office)",
    "title": null,
    "email": null,
-   "phone": "(414) 240-4374",
+   "phone": null,
    "source": "https://www.edisonschoolapts.com/Contact.aspx",
    "self_managed": true
   },
@@ -2755,7 +2755,7 @@
  "M00158": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Reworld (Covanta Environmental Solutions LLC)",
    "title": null,
    "email": null,
    "phone": "(800) 842-9792",
@@ -2767,7 +2767,7 @@
    "name": "Reworld (Covanta Environmental Solutions LLC)",
    "title": null,
    "email": null,
-   "phone": "(800) 842-9792",
+   "phone": null,
    "source": "https://www.reworldwaste.com/",
    "self_managed": true
   },
@@ -2776,7 +2776,7 @@
  "M00159": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Auer Steel & Heating Supply Company",
    "title": null,
    "email": null,
    "phone": "(414) 463-1234",
@@ -2788,7 +2788,7 @@
    "name": "Auer Steel & Heating Supply Company",
    "title": null,
    "email": null,
-   "phone": "(414) 463-1234",
+   "phone": null,
    "source": "https://www.auersteel.com/",
    "self_managed": true
   },
@@ -2797,7 +2797,7 @@
  "M00160": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
    "phone": "(414) 286-5730",
@@ -2809,7 +2809,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -2818,7 +2818,7 @@
  "M00161": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
    "phone": "(414) 475-8393",
@@ -2830,7 +2830,7 @@
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2839,7 +2839,7 @@
  "M00162": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
    "phone": "(414) 475-8393",
@@ -2851,7 +2851,7 @@
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2865,7 +2865,7 @@
  "M00164": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Holy Redeemer Institutional COGIC / HR Academy Inc",
    "title": null,
    "email": "info@hrcogic.org",
    "phone": "(414) 466-1800",
@@ -2876,8 +2876,8 @@
    "firm": null,
    "name": "Holy Redeemer Institutional COGIC / HR Academy Inc",
    "title": null,
-   "email": "info@hrcogic.org",
-   "phone": "(414) 466-1800",
+   "email": null,
+   "phone": null,
    "source": "https://www.hrcogic.org/contact",
    "self_managed": true
   },
@@ -2886,7 +2886,7 @@
  "M00165": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
    "phone": "(414) 286-5730",
@@ -2898,7 +2898,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -2928,7 +2928,7 @@
  "M00167": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
    "phone": "(414) 475-8393",
@@ -2940,7 +2940,7 @@
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2949,7 +2949,7 @@
  "M00168": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
    "phone": "(414) 475-8393",
@@ -2961,7 +2961,7 @@
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2970,7 +2970,7 @@
  "M00169": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
    "phone": "(414) 475-8393",
@@ -2982,7 +2982,7 @@
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -2991,7 +2991,7 @@
  "M00170": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
    "phone": "(414) 475-8393",
@@ -3003,7 +3003,7 @@
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -3029,7 +3029,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3050,7 +3050,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "+1 414-763-1124",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3071,7 +3071,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3092,7 +3092,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3118,7 +3118,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3139,7 +3139,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3160,7 +3160,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3186,7 +3186,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 466-1600",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3207,7 +3207,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5736",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3227,8 +3227,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "info@christiansenroofing.com",
-   "phone": "(414) 445-4141",
+   "email": null,
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3249,7 +3249,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3270,7 +3270,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-763-3474",
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3290,8 +3290,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "info@sharecorp.com",
-   "phone": "1-800-776-7192",
+   "email": null,
+   "phone": null,
    "source": null,
    "self_managed": true
   },
@@ -3337,8 +3337,8 @@
    "firm": "Phoenix Investors (in-house property management)",
    "name": null,
    "title": null,
-   "email": "info@phoenixinvestors.com",
-   "phone": "(414) 283-2600",
+   "email": null,
+   "phone": null,
    "source": "https://phoenixinvestors.com/contact-us/",
    "self_managed": true
   },
@@ -3358,8 +3358,8 @@
    "firm": "Scripps Media Inc / WTMJ-TV (owner-occupied TV station)",
    "name": null,
    "title": null,
-   "email": "news@tmj4.com",
-   "phone": "(414) 332-9611",
+   "email": null,
+   "phone": null,
    "source": "https://www.tmj4.com/about/contact-us",
    "self_managed": true
   },
@@ -3421,8 +3421,8 @@
    "firm": "Phoenix Investors (in-house property management)",
    "name": null,
    "title": null,
-   "email": "info@phoenixinvestors.com",
-   "phone": "(414) 283-2600",
+   "email": null,
+   "phone": null,
    "source": "https://phoenixinvestors.com/contact-us/",
    "self_managed": true
   },
@@ -3443,7 +3443,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 263-1291",
+   "phone": null,
    "source": "https://www.homedepot.com/l/North-Shore/WI/Milwaukee/53212/4912",
    "self_managed": true
   },
@@ -3463,8 +3463,8 @@
    "firm": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "name": null,
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "(414) 283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -3485,7 +3485,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5736",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -3505,8 +3505,8 @@
    "firm": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "name": null,
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "(414) 283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -3540,7 +3540,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5759",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -3560,8 +3560,8 @@
    "firm": "Dr Howard Fuller Collegiate Academy Inc (owner-occupied charter school)",
    "name": null,
    "title": null,
-   "email": "Sabrina.Hightower@hfca.org",
-   "phone": "(414) 873-4014",
+   "email": null,
+   "phone": null,
    "source": "https://howardfullerca.org/contact-us/",
    "self_managed": true
   },
@@ -3595,7 +3595,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 228-3500",
+   "phone": null,
    "source": "https://www.generalcapitalgroup.com",
    "self_managed": true
   },
@@ -3615,8 +3615,8 @@
    "firm": "Jonco Industries, Inc. (owner-occupied)",
    "name": null,
    "title": null,
-   "email": "info@joncoind.com",
-   "phone": "(414) 442-1672",
+   "email": null,
+   "phone": null,
    "source": "https://www.joncoind.com/contact/",
    "self_managed": true
   },
@@ -3636,8 +3636,8 @@
    "firm": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "name": null,
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "(414) 283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -3657,8 +3657,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "MFD-DIR-CR@milwaukee.gov",
-   "phone": "(414) 286-5213",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/mfd",
    "self_managed": true
   },
@@ -3679,7 +3679,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -3699,8 +3699,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "customerservice@marcusuniforms.com",
-   "phone": "800-453-3944",
+   "email": null,
+   "phone": null,
    "source": "https://www.marcusuniforms.com/contactus",
    "self_managed": true
   },
@@ -3720,8 +3720,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "customerservice@marcusuniforms.com",
-   "phone": "800-453-3944",
+   "email": null,
+   "phone": null,
    "source": "https://www.marcusuniforms.com/contactus",
    "self_managed": true
   },
@@ -3746,8 +3746,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "Info@AffordableFamilyStorage.com",
-   "phone": "515-800-8522",
+   "email": null,
+   "phone": null,
    "source": "https://www.affordablefamilystorage.com/contact",
    "self_managed": true
   },
@@ -3778,7 +3778,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-562-2929",
+   "phone": null,
    "source": "https://www.nextdoormke.org",
    "self_managed": true
   },
@@ -3787,7 +3787,7 @@
  "M00214": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Marsha McNeil, Director of Property Management",
    "title": null,
    "email": "info@phoenixinvestors.com",
    "phone": "(414) 283-2600",
@@ -3798,8 +3798,8 @@
    "firm": null,
    "name": "Marsha McNeil, Director of Property Management",
    "title": null,
-   "email": "info@phoenixinvestors.com",
-   "phone": "(414) 283-2600",
+   "email": null,
+   "phone": null,
    "source": "https://phoenixinvestors.com/ (Phoenix Investors provides in-house property management, leasing & asset management for its industrial portfolio)",
    "self_managed": true
   },
@@ -3820,7 +3820,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -3841,7 +3841,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -3862,7 +3862,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -3883,7 +3883,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(516) 223-6200",
+   "phone": null,
    "source": "https://unitedpropertiescorp.com/about.shtml",
    "self_managed": true
   },
@@ -3904,7 +3904,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -3924,8 +3924,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "MFD-DIR-CR@milwaukee.gov",
-   "phone": "(414) 286-5213",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/mfd",
    "self_managed": true
   },
@@ -3946,7 +3946,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 463-1880",
+   "phone": null,
    "source": "https://wellpointcare.org",
    "self_managed": true
   },
@@ -3966,8 +3966,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "fms@milwaukee.k12.wi.us",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -3987,8 +3987,8 @@
    "firm": null,
    "name": "Matt Haessly",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "414-286-5736",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -4013,8 +4013,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "fms@milwaukee.k12.wi.us",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -4034,8 +4034,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "fms@milwaukee.k12.wi.us",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -4060,8 +4060,8 @@
    "firm": null,
    "name": "David P. Misky",
    "title": null,
-   "email": "dmisky@milwaukee.gov",
-   "phone": "414-286-8682",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/BoardsCommissions/racm",
    "self_managed": true
   },
@@ -4081,8 +4081,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "fms@milwaukee.k12.wi.us",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -4102,8 +4102,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "fms@milwaukee.k12.wi.us",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -4123,8 +4123,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "fms@milwaukee.k12.wi.us",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -4144,8 +4144,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "fms@milwaukee.k12.wi.us",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -4181,7 +4181,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-963-9932",
+   "phone": null,
    "source": "https://www.johnsonbrothers.com/locations/wisconsin/",
    "self_managed": true
   },
@@ -4207,7 +4207,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-967-8800",
+   "phone": null,
    "source": "http://tramont.com/contact/",
    "self_managed": true
   },
@@ -4227,8 +4227,8 @@
    "firm": "C. Coakley Relocation Systems",
    "name": null,
    "title": null,
-   "email": "info@ccoakley.com",
-   "phone": "414-272-4040",
+   "email": null,
+   "phone": null,
    "source": "https://www.ccoakley.com/",
    "self_managed": true
   },
@@ -4249,7 +4249,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-963-8716",
+   "phone": null,
    "source": "https://www.uhaul.com/Locations/Self-Storage-near-Milwaukee-WI-53212/750083/",
    "self_managed": true
   },
@@ -4269,8 +4269,8 @@
    "firm": "Levin Properties (Lloyd Levin)",
    "name": null,
    "title": null,
-   "email": "roger@levinprop.com",
-   "phone": "847.480.9717",
+   "email": null,
+   "phone": null,
    "source": "http://www.levinprop.com/",
    "self_managed": true
   },
@@ -4347,7 +4347,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-377-0430",
+   "phone": null,
    "source": "https://www.hopeschools.org/",
    "self_managed": true
   },
@@ -4372,8 +4372,8 @@
    "firm": "COA Youth & Family Centers Inc (Goldin Center, 2320 W Burleigh St)",
    "name": null,
    "title": null,
-   "email": "info@coa-yfc.org",
-   "phone": "414-263-8383",
+   "email": null,
+   "phone": null,
    "source": "https://www.coa-yfc.org/",
    "self_managed": true
   },
@@ -4424,7 +4424,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -4445,7 +4445,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -4466,7 +4466,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -4487,7 +4487,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 873-1045",
+   "phone": null,
    "source": "https://pilgrimrestmilwaukee.org",
    "self_managed": true
   },
@@ -4508,7 +4508,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 395-0192",
+   "phone": null,
    "source": "https://www.publicstorage.com/self-storage-wi-milwaukee/1318.html",
    "self_managed": true
   },
@@ -4529,7 +4529,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -4550,7 +4550,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -4571,7 +4571,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -4592,7 +4592,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -4613,7 +4613,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -4634,7 +4634,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 447-2000",
+   "phone": null,
    "source": "https://healthcare.ascension.org/locations/wisconsin/wimil/milwaukee-ascension-se-wisconsin-hospital-st-joseph-campus",
    "self_managed": true
   },
@@ -4655,7 +4655,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 447-2000",
+   "phone": null,
    "source": "https://healthcare.ascension.org/locations/wisconsin/wimil/milwaukee-ascension-se-wisconsin-hospital-st-joseph-campus",
    "self_managed": true
   },
@@ -4676,7 +4676,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 441-4448",
+   "phone": null,
    "source": "https://junk.cash/",
    "self_managed": true
   },
@@ -4706,13 +4706,21 @@
   "notes": "Engine House #13, owned/occupied by City of Milwaukee Fire Dept (govt, exempt). Government-owned, self-managed by the City. Not a commercial marketing target."
  },
  "M00276": {
-  "owner": null,
-  "manager": {
+  "owner": {
    "firm": "Milwaukee Public Schools - Dept of Facilities and Maintenance Services",
    "name": null,
    "title": null,
    "email": null,
    "phone": "(414) 283-4600",
+   "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "self_managed": true
+  },
+  "manager": {
+   "firm": "Milwaukee Public Schools - Dept of Facilities and Maintenance Services",
+   "name": null,
+   "title": null,
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -4732,13 +4740,21 @@
   "notes": "Engine House #30, owned by City of Milwaukee c/o Fire Administration Office (govt, exempt). Self-managed by the City. Government-owned."
  },
  "M00278": {
-  "owner": null,
-  "manager": {
+  "owner": {
    "firm": "Milwaukee Public Schools - Dept of Facilities and Maintenance Services",
    "name": null,
    "title": null,
    "email": null,
    "phone": "(414) 283-4600",
+   "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "self_managed": true
+  },
+  "manager": {
+   "firm": "Milwaukee Public Schools - Dept of Facilities and Maintenance Services",
+   "name": null,
+   "title": null,
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -4758,21 +4774,28 @@
   "notes": "Police District 5, owned by City of Milwaukee %City Real Estate (govt, exempt). Self-managed by the City. Government-owned."
  },
  "M00281": {
-  "owner": null,
-  "manager": {
+  "owner": {
    "firm": "Milwaukee Public Schools - Dept of Facilities and Maintenance Services",
    "name": null,
    "title": null,
    "email": null,
    "phone": "(414) 283-4600",
+   "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "self_managed": true
+  },
+  "manager": {
+   "firm": "Milwaukee Public Schools - Dept of Facilities and Maintenance Services",
+   "name": null,
+   "title": null,
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
   "notes": "Rufus King Int'l Middle School at Malcolm X, owned by City of Milwaukee School (MPS, govt exempt). Self-managed by MPS Facilities & Maintenance. Government-owned."
  },
  "M00282": {
-  "owner": null,
-  "manager": {
+  "owner": {
    "firm": "Milwaukee Public Schools - Dept of Facilities and Maintenance Services",
    "name": null,
    "title": null,
@@ -4781,16 +4804,33 @@
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
-  "notes": "Riverwest Elementary School, owned by City of Milwaukee (MPS, govt exempt). Self-managed by MPS Facilities & Maintenance. Government-owned."
- },
- "M00283": {
-  "owner": null,
   "manager": {
    "firm": "Milwaukee Public Schools - Dept of Facilities and Maintenance Services",
    "name": null,
    "title": null,
    "email": null,
+   "phone": null,
+   "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "self_managed": true
+  },
+  "notes": "Riverwest Elementary School, owned by City of Milwaukee (MPS, govt exempt). Self-managed by MPS Facilities & Maintenance. Government-owned."
+ },
+ "M00283": {
+  "owner": {
+   "firm": "Milwaukee Public Schools - Dept of Facilities and Maintenance Services",
+   "name": null,
+   "title": null,
+   "email": null,
    "phone": "(414) 283-4600",
+   "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
+   "self_managed": true
+  },
+  "manager": {
+   "firm": "Milwaukee Public Schools - Dept of Facilities and Maintenance Services",
+   "name": null,
+   "title": null,
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -4798,8 +4838,8 @@
  },
  "M00275": {
   "owner": {
-   "firm": null,
-   "name": null,
+   "firm": "NAKAYLA LLC (Select Auto Parts & Sales / Natasha Myrick)",
+   "name": "Natasha Myrick",
    "title": null,
    "email": null,
    "phone": "414-763-3474",
@@ -4811,7 +4851,7 @@
    "name": "Natasha Myrick",
    "title": null,
    "email": null,
-   "phone": "414-763-3474",
+   "phone": null,
    "source": "https://selectautopartsmilwaukee.com/",
    "self_managed": true
   },
@@ -4845,7 +4885,7 @@
  },
  "M00285": {
   "owner": {
-   "firm": null,
+   "firm": "Healthcare Realty Trust Incorporated (fka Healthcare Trust of America)",
    "name": null,
    "title": null,
    "email": null,
@@ -4858,7 +4898,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "615.269.8175",
+   "phone": null,
    "source": "https://www.healthcarerealty.com/contact-us/",
    "self_managed": true
   },
@@ -4866,7 +4906,7 @@
  },
  "M00286": {
   "owner": {
-   "firm": null,
+   "firm": "ExchangeRight Net-Leased Property Management, LLC",
    "name": null,
    "title": null,
    "email": "offerings@exchangeright.com",
@@ -4878,8 +4918,8 @@
    "firm": "ExchangeRight Net-Leased Property Management, LLC",
    "name": null,
    "title": null,
-   "email": "offerings@exchangeright.com",
-   "phone": "(855) 317-4448",
+   "email": null,
+   "phone": null,
    "source": "https://www.exchangeright.com",
    "self_managed": true
   },
@@ -4887,7 +4927,7 @@
  },
  "M00287": {
   "owner": {
-   "firm": null,
+   "firm": "Ascension Columbia St. Mary's (self/owner-occupied)",
    "name": null,
    "title": null,
    "email": null,
@@ -4900,7 +4940,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 319-3000",
+   "phone": null,
    "source": "https://healthcare.ascension.org",
    "self_managed": true
   },
@@ -4908,8 +4948,8 @@
  },
  "M00288": {
   "owner": {
-   "firm": null,
-   "name": null,
+   "firm": "Ascension Columbia St. Mary's (self/owner-occupied)",
+   "name": "Joanne MacMillan",
    "title": null,
    "email": null,
    "phone": "(414) 319-3000",
@@ -4921,7 +4961,7 @@
    "name": "Joanne MacMillan",
    "title": null,
    "email": null,
-   "phone": "(414) 319-3000",
+   "phone": null,
    "source": "https://healthcare.ascension.org",
    "self_managed": true
   },
@@ -4955,7 +4995,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 224-9700",
+   "phone": null,
    "source": "https://trinityseniorservices.org/milwaukee-catholic-home/",
    "self_managed": true
   },
@@ -4976,7 +5016,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -4997,7 +5037,7 @@
    "name": "Matt Haessly",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -5018,7 +5058,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5039,7 +5079,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5060,7 +5100,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5098,8 +5138,8 @@
    "firm": "Wisconsin Community Services Inc",
    "name": null,
    "title": null,
-   "email": "wcs@wiscs.org",
-   "phone": "(414) 290-0400",
+   "email": null,
+   "phone": null,
    "source": "https://www.wiscs.org",
    "self_managed": true
   },
@@ -5133,7 +5173,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 977-5000",
+   "phone": null,
    "source": "https://stanncenter.org/",
    "self_managed": true
   },
@@ -5154,7 +5194,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5175,7 +5215,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5196,7 +5236,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5217,7 +5257,7 @@
    "name": "Matt Haessly",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -5238,7 +5278,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 442-0170",
+   "phone": null,
    "source": "https://www.yelp.com/biz/allied-mortgage-and-services-milwaukee",
    "self_managed": true
   },
@@ -5264,7 +5304,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5285,7 +5325,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5306,7 +5346,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5327,7 +5367,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5347,8 +5387,8 @@
    "firm": null,
    "name": "Matt Haessly",
    "title": null,
-   "email": "dcd.realestate@milwaukee.gov",
-   "phone": "(414) 286-5736",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -5369,7 +5409,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 931-7400",
+   "phone": null,
    "source": "https://feedingamericawi.org/contact/",
    "self_managed": true
   },
@@ -5390,7 +5430,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5411,7 +5451,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5432,7 +5472,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5453,7 +5493,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5478,8 +5518,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "khaywood@haywood-group.com",
-   "phone": "414.461.1568",
+   "email": null,
+   "phone": null,
    "source": "https://www.haywood-group.com/contact",
    "self_managed": true
   },
@@ -5499,8 +5539,8 @@
    "firm": null,
    "name": null,
    "title": null,
-   "email": "dcd.realestate@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -5542,7 +5582,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5605,7 +5645,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 231-5000",
+   "phone": null,
    "source": "owner-occupied grocery store; Milo Investments II LLC C/O Roundys",
    "self_managed": true
   },
@@ -5625,8 +5665,8 @@
    "firm": "Mandel Group Inc",
    "name": null,
    "title": null,
-   "email": "info@mandelgroup.com",
-   "phone": "(414) 347-3600",
+   "email": null,
+   "phone": null,
    "source": "https://mandelgroup.com/contact-us/",
    "self_managed": true
   },
@@ -5646,8 +5686,8 @@
    "firm": "Eden Senior Care / Edenbrook Lakeside",
    "name": null,
    "title": null,
-   "email": "info@edenseniorhc.com",
-   "phone": "(414) 271-1020",
+   "email": null,
+   "phone": null,
    "source": "https://www.edenseniorhc.com",
    "self_managed": true
   },
@@ -5702,7 +5742,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 271-5263",
+   "phone": null,
    "source": "https://newlandmke.com ; urbanmilwaukee (Oriental Theatre building owned by New Land)",
    "self_managed": true
   },
@@ -5735,8 +5775,8 @@
    "firm": "City of Milwaukee - DCD City Real Estate",
    "name": null,
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -5757,7 +5797,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5777,8 +5817,8 @@
    "firm": "Watercrest Investments",
    "name": null,
    "title": null,
-   "email": "leasing@watercrestinvestments.com",
-   "phone": "414-276-9000",
+   "email": null,
+   "phone": null,
    "source": "https://www.watercrestinvestments.com/properties/the-astor",
    "self_managed": true
   },
@@ -5799,7 +5839,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5819,8 +5859,8 @@
    "firm": "Mandel Group Inc",
    "name": null,
    "title": null,
-   "email": "info@mandelgroup.com",
-   "phone": "(414) 347-3600",
+   "email": null,
+   "phone": null,
    "source": "https://mandelgroup.com ; The North End managed by Mandel Group",
    "self_managed": true
   },
@@ -5840,8 +5880,8 @@
    "firm": "Mandel Group Inc",
    "name": null,
    "title": null,
-   "email": "info@mandelgroup.com",
-   "phone": "(414) 347-3600",
+   "email": null,
+   "phone": null,
    "source": "https://mandelgroup.com ; The North End managed by Mandel Group",
    "self_managed": true
   },
@@ -5883,7 +5923,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -5904,7 +5944,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414.443.0700",
+   "phone": null,
    "source": "https://irgens.com",
    "self_managed": true
   },
@@ -5934,7 +5974,7 @@
  "M00341": {
   "owner": {
    "firm": "Isaacs Parking (Isaacs Parking Partners LLC)",
-   "name": null,
+   "name": "Michael Grismer (Operations Manager)",
    "title": null,
    "email": "questions@isaacsparking.com",
    "phone": "(414) 271-3858",
@@ -5945,8 +5985,8 @@
    "firm": "Isaacs Parking",
    "name": "Michael Grismer (Operations Manager)",
    "title": null,
-   "email": "questions@isaacsparking.com",
-   "phone": "(414) 271-3858",
+   "email": null,
+   "phone": null,
    "source": "https://isaacsparking.com/ \u2014 family-owned operator manages its own garages",
    "self_managed": true
   },
@@ -5967,7 +6007,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 274-2920",
+   "phone": null,
    "source": "Owner occupies/operates 710 N Plankinton (its own HQ building); http://www.townerealty.com",
    "self_managed": true
   },
@@ -5987,7 +6027,7 @@
    "firm": "E.M.A. Hospitality",
    "name": null,
    "title": null,
-   "email": "info@emahotels.com",
+   "email": null,
    "phone": null,
    "source": "https://emahotels.com \u2014 EMA provides property management for its hospitality portfolio (Tribute/Hampton, Milwaukee). On-site operator EMA MKE Hotel Operator LLC, 176 W Wisconsin Ave.",
    "self_managed": true
@@ -5997,7 +6037,7 @@
  "M00344": {
   "owner": {
    "firm": "Peachtree Group (PDOF-PSOF Milwaukee LLC affiliate)",
-   "name": null,
+   "name": "Vickie Callahan, President of Hospitality Management",
    "title": null,
    "email": "info@peachtreegroup.com",
    "phone": "404-497-4111",
@@ -6008,8 +6048,8 @@
    "firm": "Peachtree Group Hospitality Management",
    "name": "Vickie Callahan, President of Hospitality Management",
    "title": null,
-   "email": "vcallahan@peachtreegroup.com",
-   "phone": "417-496-1913",
+   "email": null,
+   "phone": null,
    "source": "https://www.peachtreegroup.com/hotel-management \u2014 Peachtree's own third-party/affiliate hotel management division",
    "self_managed": true
   },
@@ -6060,7 +6100,7 @@
  "M00347": {
   "owner": {
    "firm": "Redevelopment Authority of the City of Milwaukee (RACM) / City Real Estate",
-   "name": null,
+   "name": "David Misky (Asst. Exec. Director, RACM)",
    "title": null,
    "email": "RES@milwaukee.gov",
    "phone": "(414) 286-5730",
@@ -6071,8 +6111,8 @@
    "firm": "City of Milwaukee Dept. of City Development (City Real Estate)",
    "name": "David Misky (Asst. Exec. Director, RACM)",
    "title": null,
-   "email": "dmisky@milwaukee.gov",
-   "phone": "(414) 286-8682",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/BoardsCommissions/racm \u2014 DCD provides property management/real estate services for RACM-owned land",
    "self_managed": true
   },
@@ -6081,7 +6121,7 @@
  "M00348": {
   "owner": {
    "firm": "Redevelopment Authority of the City of Milwaukee (RACM) / City Real Estate",
-   "name": null,
+   "name": "David Misky (Asst. Exec. Director, RACM)",
    "title": null,
    "email": "RES@milwaukee.gov",
    "phone": "(414) 286-5730",
@@ -6092,8 +6132,8 @@
    "firm": "City of Milwaukee Dept. of City Development (City Real Estate)",
    "name": "David Misky (Asst. Exec. Director, RACM)",
    "title": null,
-   "email": "dmisky@milwaukee.gov",
-   "phone": "(414) 286-8682",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/BoardsCommissions/racm \u2014 DCD manages RACM real estate",
    "self_managed": true
   },
@@ -6113,8 +6153,8 @@
    "firm": "City of Milwaukee Dept. of City Development (City Real Estate)",
    "name": null,
    "title": null,
-   "email": "RES@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate \u2014 city/public-school property, 809 N Broadway",
    "self_managed": true
   },
@@ -6186,7 +6226,7 @@
  "M00353": {
   "owner": {
    "firm": "The Marcus Corporation (Milw City Center LLC)",
-   "name": null,
+   "name": "Jeff Stewart, General Manager (Hilton Milwaukee City Center)",
    "title": null,
    "email": null,
    "phone": "414-905-1200",
@@ -6198,7 +6238,7 @@
    "name": "Jeff Stewart, General Manager (Hilton Milwaukee City Center)",
    "title": null,
    "email": null,
-   "phone": "414-905-1200",
+   "phone": null,
    "source": "https://www.marcushotels.com/ \u2014 Marcus Hotels & Resorts owns and operates the hotel (acquired 1972)",
    "self_managed": true
   },
@@ -6321,7 +6361,7 @@
  },
  "M00361": {
   "owner": {
-   "firm": null,
+   "firm": "Milwaukee Tool (owner-occupied)",
    "name": null,
    "title": null,
    "email": null,
@@ -6334,7 +6374,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(262) 781-3600",
+   "phone": null,
    "source": "https://biztimes.com/breaking-ground-milwaukee-tools-downtown-milwaukee-office/",
    "self_managed": true
   },
@@ -6355,7 +6395,7 @@
  },
  "M00363": {
   "owner": {
-   "firm": null,
+   "firm": "City of Milwaukee DCD City Real Estate",
    "name": "Matt Haessly (Commercial Real Estate)",
    "title": null,
    "email": "mhaess@milwaukee.gov",
@@ -6367,8 +6407,8 @@
    "firm": "City of Milwaukee DCD City Real Estate",
    "name": "Matt Haessly",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5736",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -6376,7 +6416,7 @@
  },
  "M00364": {
   "owner": {
-   "firm": null,
+   "firm": "City of Milwaukee DPW Parking Services",
    "name": null,
    "title": null,
    "email": null,
@@ -6389,7 +6429,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-8401",
+   "phone": null,
    "source": "https://city.milwaukee.gov/dpw/Contact",
    "self_managed": true
   },
@@ -6418,7 +6458,7 @@
  },
  "M00366": {
   "owner": {
-   "firm": null,
+   "firm": "City of Milwaukee DCD City Real Estate",
    "name": "Matt Haessly (Commercial Real Estate)",
    "title": null,
    "email": "mhaess@milwaukee.gov",
@@ -6430,8 +6470,8 @@
    "firm": "City of Milwaukee DCD City Real Estate",
    "name": "Matt Haessly",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5736",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -6439,7 +6479,7 @@
  },
  "M00367": {
   "owner": {
-   "firm": null,
+   "firm": "City of Milwaukee DCD City Real Estate",
    "name": "Matt Haessly (Commercial Real Estate)",
    "title": null,
    "email": "mhaess@milwaukee.gov",
@@ -6451,8 +6491,8 @@
    "firm": "City of Milwaukee DCD City Real Estate",
    "name": "Matt Haessly",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5736",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -6460,7 +6500,7 @@
  },
  "M00368": {
   "owner": {
-   "firm": null,
+   "firm": "Andover Portland Avenue Associates LLC",
    "name": "King Weinstein (Manager)",
    "title": null,
    "email": null,
@@ -6473,7 +6513,7 @@
    "name": "King Weinstein",
    "title": null,
    "email": null,
-   "phone": "(978) 683-4097",
+   "phone": null,
    "source": "https://www.bbb.org/us/ma/andover/profile/property-management/andover-portland-avenue-associates-llc-0021-187290",
    "self_managed": true
   },
@@ -6523,7 +6563,7 @@
  },
  "M00371": {
   "owner": {
-   "firm": null,
+   "firm": "Milwaukee Youth Arts Center Inc (owner-occupied)",
    "name": null,
    "title": null,
    "email": "info@youthartscenter.org",
@@ -6535,8 +6575,8 @@
    "firm": "Milwaukee Youth Arts Center Inc (owner-occupied)",
    "name": null,
    "title": null,
-   "email": "info@youthartscenter.org",
-   "phone": "(414) 267-2900",
+   "email": null,
+   "phone": null,
    "source": "https://www.myac.org/",
    "self_managed": true
   },
@@ -6544,7 +6584,7 @@
  },
  "M00372": {
   "owner": {
-   "firm": null,
+   "firm": "Real Capital Solutions",
    "name": null,
    "title": null,
    "email": "info@realcapitalsolutions.com",
@@ -6556,8 +6596,8 @@
    "firm": "Real Capital Solutions",
    "name": null,
    "title": null,
-   "email": "info@realcapitalsolutions.com",
-   "phone": "(303) 466-2500",
+   "email": null,
+   "phone": null,
    "source": "https://rcapitalsolutions.com/",
    "self_managed": true
   },
@@ -6578,7 +6618,7 @@
  },
  "M00374": {
   "owner": {
-   "firm": null,
+   "firm": "MSOE Facilities (owner-occupied)",
    "name": "Thomas Barsokine (Director of Facilities Administration)",
    "title": null,
    "email": "barsokine@msoe.edu",
@@ -6590,8 +6630,8 @@
    "firm": "MSOE Facilities (owner-occupied)",
    "name": "Thomas Barsokine",
    "title": null,
-   "email": "barsokine@msoe.edu",
-   "phone": "(414) 277-7165",
+   "email": null,
+   "phone": null,
    "source": "https://www.msoe.edu/directory/?page=1&department=facilities&type=staff",
    "self_managed": true
   },
@@ -6604,7 +6644,7 @@
  },
  "M00376": {
   "owner": {
-   "firm": null,
+   "firm": "KG Development Group",
    "name": null,
    "title": null,
    "email": "Anthony@kgdevgroup.com",
@@ -6616,8 +6656,8 @@
    "firm": "KG Development Group",
    "name": null,
    "title": null,
-   "email": "Anthony@kgdevgroup.com",
-   "phone": "414.323.3666",
+   "email": null,
+   "phone": null,
    "source": "https://kgdevgroup.com",
    "self_managed": true
   },
@@ -6664,7 +6704,7 @@
  },
  "M00380": {
   "owner": {
-   "firm": null,
+   "firm": "Hammes",
    "name": null,
    "title": null,
    "email": "info@hammes.com",
@@ -6676,8 +6716,8 @@
    "firm": "Hammes",
    "name": null,
    "title": null,
-   "email": "info@hammes.com",
-   "phone": "(414) 509-2500",
+   "email": null,
+   "phone": null,
    "source": "https://www.hammes.com/",
    "self_managed": true
   },
@@ -6685,7 +6725,7 @@
  },
  "M00381": {
   "owner": {
-   "firm": null,
+   "firm": "Hammes Partners",
    "name": null,
    "title": null,
    "email": "info@hammespartners.com",
@@ -6697,8 +6737,8 @@
    "firm": "Hammes Partners",
    "name": null,
    "title": null,
-   "email": "info@hammespartners.com",
-   "phone": "(414) 509-2500",
+   "email": null,
+   "phone": null,
    "source": "https://www.hammespartners.com/",
    "self_managed": true
   },
@@ -6727,7 +6767,7 @@
  },
  "M00383": {
   "owner": {
-   "firm": null,
+   "firm": "NCG Hospitality (North Central Group)",
    "name": null,
    "title": null,
    "email": "info@ncghospitality.com",
@@ -6739,8 +6779,8 @@
    "firm": "NCG Hospitality (North Central Group)",
    "name": null,
    "title": null,
-   "email": "info@ncghospitality.com",
-   "phone": "608-836-6060",
+   "email": null,
+   "phone": null,
    "source": "https://www.ncghospitality.com/contact/",
    "self_managed": true
   },
@@ -6748,7 +6788,7 @@
  },
  "M00384": {
   "owner": {
-   "firm": null,
+   "firm": "Sojourner Family Peace Center Inc",
    "name": null,
    "title": null,
    "email": null,
@@ -6761,7 +6801,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 276-1911",
+   "phone": null,
    "source": "https://familypeacecenter.org/contact/",
    "self_managed": true
   },
@@ -6769,7 +6809,7 @@
  },
  "M00385": {
   "owner": {
-   "firm": null,
+   "firm": "Midas Hospitality",
    "name": null,
    "title": null,
    "email": "info@midashospitality.com",
@@ -6781,8 +6821,8 @@
    "firm": "Midas Hospitality",
    "name": null,
    "title": null,
-   "email": "info@midashospitality.com",
-   "phone": "(314) 692-0100",
+   "email": null,
+   "phone": null,
    "source": "https://midashospitality.com",
    "self_managed": true
   },
@@ -6803,7 +6843,7 @@
  },
  "M00387": {
   "owner": {
-   "firm": null,
+   "firm": "Gorman & Company",
    "name": null,
    "title": null,
    "email": null,
@@ -6816,7 +6856,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(608) 835-3900",
+   "phone": null,
    "source": "https://www.gormanusa.com/contact/",
    "self_managed": true
   },
@@ -6824,7 +6864,7 @@
  },
  "M00388": {
   "owner": {
-   "firm": null,
+   "firm": "Janko Group",
    "name": null,
    "title": null,
    "email": "info@jankogroup.us",
@@ -6836,8 +6876,8 @@
    "firm": "Janko Group",
    "name": null,
    "title": null,
-   "email": "info@jankogroup.us",
-   "phone": "847-940-8880",
+   "email": null,
+   "phone": null,
    "source": "https://www.jankogroup.us",
    "self_managed": true
   },
@@ -6871,7 +6911,7 @@
  },
  "M00391": {
   "owner": {
-   "firm": null,
+   "firm": "WISN 12 / Hearst Television (owner-operator)",
    "name": "Jan Wade, President/General Manager",
    "title": null,
    "email": "jwade@hearst.com",
@@ -6883,8 +6923,8 @@
    "firm": "WISN 12 / Hearst Television (owner-operator)",
    "name": null,
    "title": null,
-   "email": "jwade@hearst.com",
-   "phone": "(414) 937-3370",
+   "email": null,
+   "phone": null,
    "source": "https://www.wisn.com",
    "self_managed": true
   },
@@ -6914,7 +6954,7 @@
  "M00393": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
    "phone": "414-283-4600",
@@ -6926,7 +6966,7 @@
    "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -6935,7 +6975,7 @@
  "M00394": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Milwaukee Academy of Science (self-managed / owner-occupied charter school)",
    "title": null,
    "email": null,
    "phone": "414-933-0302",
@@ -6947,7 +6987,7 @@
    "name": "Milwaukee Academy of Science (self-managed / owner-occupied charter school)",
    "title": null,
    "email": null,
-   "phone": "414-933-0302",
+   "phone": null,
    "source": "https://www.milwaukeeacademyofscience.org/",
    "self_managed": true
   },
@@ -6956,7 +6996,7 @@
  "M00395": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Community Care Inc (self-managed / owner-occupied)",
    "title": null,
    "email": null,
    "phone": "414-231-4000",
@@ -6968,7 +7008,7 @@
    "name": "Community Care Inc (self-managed / owner-occupied)",
    "title": null,
    "email": null,
-   "phone": "414-231-4000",
+   "phone": null,
    "source": "https://www.communitycareinc.org/",
    "self_managed": true
   },
@@ -6977,9 +7017,9 @@
  "M00396": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "City of Milwaukee DCD - City Real Estate (Matt Haessly, Commercial Buildings)",
    "title": null,
-   "email": null,
+   "email": "mhaess@milwaukee.gov",
    "phone": "414-286-5730",
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": false
@@ -6988,8 +7028,8 @@
    "firm": null,
    "name": "City of Milwaukee DCD - City Real Estate (Matt Haessly, Commercial Buildings)",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "414-286-5736",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -6998,7 +7038,7 @@
  "M00397": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Harley-Davidson Motor Company (self-managed / owner-occupied corporate campus)",
    "title": null,
    "email": null,
    "phone": "414-342-4680",
@@ -7010,7 +7050,7 @@
    "name": "Harley-Davidson Motor Company (self-managed / owner-occupied corporate campus)",
    "title": null,
    "email": null,
-   "phone": "414-342-4680",
+   "phone": null,
    "source": "https://www.harley-davidson.com/",
    "self_managed": true
   },
@@ -7019,7 +7059,7 @@
  "M00398": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Jonas Builders Inc (self-managed - owns & manages own portfolio)",
    "title": null,
    "email": "bschroeder@jonasbuilders.com",
    "phone": "414-342-9201",
@@ -7030,8 +7070,8 @@
    "firm": null,
    "name": "Jonas Builders Inc (self-managed - owns & manages own portfolio)",
    "title": null,
-   "email": "bschroeder@jonasbuilders.com",
-   "phone": "414-342-9201",
+   "email": null,
+   "phone": null,
    "source": "http://www.jonasbuilders.com/contact-us/",
    "self_managed": true
   },
@@ -7040,7 +7080,7 @@
  "M00399": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Jonas Builders Inc (self-managed - owns & manages own portfolio)",
    "title": null,
    "email": "bschroeder@jonasbuilders.com",
    "phone": "414-342-9201",
@@ -7051,8 +7091,8 @@
    "firm": null,
    "name": "Jonas Builders Inc (self-managed - owns & manages own portfolio)",
    "title": null,
-   "email": "bschroeder@jonasbuilders.com",
-   "phone": "414-342-9201",
+   "email": null,
+   "phone": null,
    "source": "http://www.jonasbuilders.com/contact-us/",
    "self_managed": true
   },
@@ -7061,7 +7101,7 @@
  "M00400": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Jonas Builders Inc (self-managed - owns & manages own portfolio)",
    "title": null,
    "email": "bschroeder@jonasbuilders.com",
    "phone": "414-342-9201",
@@ -7072,8 +7112,8 @@
    "firm": null,
    "name": "Jonas Builders Inc (self-managed - owns & manages own portfolio)",
    "title": null,
-   "email": "bschroeder@jonasbuilders.com",
-   "phone": "414-342-9201",
+   "email": null,
+   "phone": null,
    "source": "http://www.jonasbuilders.com/contact-us/",
    "self_managed": true
   },
@@ -7082,7 +7122,7 @@
  "M00401": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "City of Milwaukee DCD - City Real Estate (manages City-owned buildings)",
    "title": null,
    "email": null,
    "phone": "414-933-4444",
@@ -7094,7 +7134,7 @@
    "name": "City of Milwaukee DCD - City Real Estate (manages City-owned buildings)",
    "title": null,
    "email": null,
-   "phone": "414-286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -7103,7 +7143,7 @@
  "M00402": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
    "phone": "414-283-4600",
@@ -7115,7 +7155,7 @@
    "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -7124,7 +7164,7 @@
  "M00403": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
    "phone": "414-283-4600",
@@ -7136,7 +7176,7 @@
    "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -7150,9 +7190,9 @@
  "M00405": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "City of Milwaukee DCD - City Real Estate (Matt Haessly, Commercial Buildings)",
    "title": null,
-   "email": null,
+   "email": "mhaess@milwaukee.gov",
    "phone": "414-286-5730",
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": false
@@ -7161,8 +7201,8 @@
    "firm": null,
    "name": "City of Milwaukee DCD - City Real Estate (Matt Haessly, Commercial Buildings)",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "414-286-5736",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate/CRE/CommercialPropertiesContactInfo",
    "self_managed": true
   },
@@ -7171,7 +7211,7 @@
  "M00406": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "City of Milwaukee (self-managed municipal playground/park site)",
    "title": null,
    "email": null,
    "phone": "414-286-3350",
@@ -7183,7 +7223,7 @@
    "name": "City of Milwaukee (self-managed municipal playground/park site)",
    "title": null,
    "email": null,
-   "phone": "414-286-3350",
+   "phone": null,
    "source": "https://city.milwaukee.gov/mpw",
    "self_managed": true
   },
@@ -7192,7 +7232,7 @@
  "M00407": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "LCM Funds Real Estate LLC (self-managed via affiliated management company)",
    "title": null,
    "email": "info@lcmfunds.com",
    "phone": "414-271-2520",
@@ -7203,8 +7243,8 @@
    "firm": null,
    "name": "LCM Funds Real Estate LLC (self-managed via affiliated management company)",
    "title": null,
-   "email": "info@lcmfunds.com",
-   "phone": "414-271-2520",
+   "email": null,
+   "phone": null,
    "source": "https://www.lcmfunds.com/",
    "self_managed": true
   },
@@ -7213,7 +7253,7 @@
  "M00408": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
    "phone": "414-283-4600",
@@ -7225,7 +7265,7 @@
    "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -7267,7 +7307,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(678) 934-5000",
+   "phone": null,
    "source": "https://www.napaonline.com/en/wi/milwaukee/store/26828",
    "self_managed": true
   },
@@ -7287,7 +7327,7 @@
    "firm": "Founders 3 Real Estate Services",
    "name": "Brett Deter / Andy Hess (property contacts)",
    "title": null,
-   "email": "info@founders3.com",
+   "email": null,
    "phone": "414-271-1111",
    "source": "https://founders3.com/contact/ ; property identified at https://founders3.com/wp-content/uploads/2018/05/944-N-46th-Street_2022_rs.pdf",
    "self_managed": false
@@ -7308,7 +7348,7 @@
    "firm": "Founders 3 Real Estate Services",
    "name": "Brett Deter / Andy Hess (property contacts)",
    "title": null,
-   "email": "info@founders3.com",
+   "email": null,
    "phone": "414-271-1111",
    "source": "https://founders3.com/contact/ ; property identified at https://founders3.com/wp-content/uploads/2018/05/944-N-46th-Street_2022_rs.pdf",
    "self_managed": false
@@ -7350,8 +7390,8 @@
    "firm": "Wisconsin Community Services Inc",
    "name": null,
    "title": null,
-   "email": "wcs@wiscs.org",
-   "phone": "(414) 290-0400",
+   "email": null,
+   "phone": null,
    "source": "https://www.wiscs.org/contact-us/",
    "self_managed": true
   },
@@ -7392,8 +7432,8 @@
    "firm": "City of Milwaukee (Dept. of City Development - City Real Estate)",
    "name": null,
    "title": null,
-   "email": "DCDRealEstate@milwaukee.gov",
-   "phone": "414-286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -7413,8 +7453,8 @@
    "firm": "City of Milwaukee (Dept. of City Development - City Real Estate)",
    "name": null,
    "title": null,
-   "email": "DCDRealEstate@milwaukee.gov",
-   "phone": "414-286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -7435,7 +7475,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -7455,8 +7495,8 @@
    "firm": "Milwaukee Center for Independence Inc",
    "name": null,
    "title": null,
-   "email": "info@cfihope.org",
-   "phone": "414-937-2020",
+   "email": null,
+   "phone": null,
    "source": "https://cfihope.org/contact-us/",
    "self_managed": true
   },
@@ -7477,7 +7517,7 @@
    "name": "Jon Jossart (General Manager)",
    "title": null,
    "email": null,
-   "phone": "(414) 345-5000",
+   "phone": null,
    "source": "https://ambassadorhotelmke.com/",
    "self_managed": true
   },
@@ -7498,7 +7538,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "1-855-624-9366",
+   "phone": null,
    "source": "https://www.aurorahealthcare.org",
    "self_managed": true
   },
@@ -7519,7 +7559,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "1-855-624-9366",
+   "phone": null,
    "source": "https://www.aurorahealthcare.org",
    "self_managed": true
   },
@@ -7540,7 +7580,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -7561,7 +7601,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "1-855-624-9366",
+   "phone": null,
    "source": "https://www.aurorahealthcare.org",
    "self_managed": true
   },
@@ -7582,7 +7622,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "1-855-624-9366",
+   "phone": null,
    "source": "https://www.aurorahealthcare.org",
    "self_managed": true
   },
@@ -7603,7 +7643,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "833-528-7672",
+   "phone": null,
    "source": "https://www.aurorahealthcare.org/contact-us",
    "self_managed": true
   },
@@ -7657,8 +7697,8 @@
    "firm": "Marquette University Parking Services",
    "name": null,
    "title": null,
-   "email": "muparking@marquette.edu",
-   "phone": "414-288-6911",
+   "email": null,
+   "phone": null,
    "source": "https://www.marquette.edu/parking/contact-us.php",
    "self_managed": true
   },
@@ -7678,8 +7718,8 @@
    "firm": "Catholic Financial Life",
    "name": null,
    "title": null,
-   "email": "service@catholicfinanciallife.org",
-   "phone": "414-918-1012",
+   "email": null,
+   "phone": null,
    "source": "https://www.catholicfinanciallife.org/cfl/locations",
    "self_managed": true
   },
@@ -7699,8 +7739,8 @@
    "firm": "Catholic Financial Life",
    "name": null,
    "title": null,
-   "email": "service@catholicfinanciallife.org",
-   "phone": "414-918-1012",
+   "email": null,
+   "phone": null,
    "source": "https://www.catholicfinanciallife.org/cfl/locations",
    "self_managed": true
   },
@@ -7709,7 +7749,7 @@
  "M00432": {
   "owner": {
    "firm": "The Druml Company",
-   "name": null,
+   "name": "Dan Druml",
    "title": null,
    "email": null,
    "phone": "414-249-5151",
@@ -7721,7 +7761,7 @@
    "name": "Dan Druml",
    "title": null,
    "email": null,
-   "phone": "414-630-0252",
+   "phone": null,
    "source": "https://www.druml.us/contact-us/",
    "self_managed": true
   },
@@ -7741,7 +7781,7 @@
    "firm": "Klein Development",
    "name": null,
    "title": null,
-   "email": "info@kleindevelopmentinc.com",
+   "email": null,
    "phone": null,
    "source": "https://klein-development.com/contact/",
    "self_managed": true
@@ -7825,8 +7865,8 @@
    "firm": "J. Jeffers & Co.",
    "name": null,
    "title": null,
-   "email": "information@jjeffers.com",
-   "phone": "414-501-5610",
+   "email": null,
+   "phone": null,
    "source": "https://www.jjeffers.com/contact",
    "self_managed": true
   },
@@ -7835,7 +7875,7 @@
  "M00438": {
   "owner": {
    "firm": "First Hospitality (First MKD LLC)",
-   "name": null,
+   "name": "Michelle Santiago (per mprop hint)",
    "title": null,
    "email": "info@firsthospitality.com",
    "phone": "312-638-2300",
@@ -7846,8 +7886,8 @@
    "firm": "First Hospitality",
    "name": "Michelle Santiago (per mprop hint)",
    "title": null,
-   "email": "info@firsthospitality.com",
-   "phone": "414-271-6611",
+   "email": null,
+   "phone": null,
    "source": "https://www.firsthospitality.com/general-inquiry",
    "self_managed": true
   },
@@ -7868,7 +7908,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "314-429-2255",
+   "phone": null,
    "source": "https://www.druryhotels.com/contact",
    "self_managed": true
   },
@@ -7888,8 +7928,8 @@
    "firm": "CityCenter at 735 management office",
    "name": null,
    "title": null,
-   "email": "info@citycenter735.com",
-   "phone": "414-765-0305",
+   "email": null,
+   "phone": null,
    "source": "http://735citycenter.com/main.cfm?pid=welcome&sid=introduction",
    "self_managed": true
   },
@@ -7910,7 +7950,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-347-9400",
+   "phone": null,
    "source": "https://www.mlgcommercial.com/",
    "self_managed": true
   },
@@ -7951,8 +7991,8 @@
    "firm": "Colby Abbot Building (Colby Abbot Properties)",
    "name": "Charles F. Kahn Jr.",
    "title": null,
-   "email": "msbiz@att.net",
-   "phone": "414-331-0831",
+   "email": null,
+   "phone": null,
    "source": "https://www.colbyabbot.com/contact-us",
    "self_managed": true
   },
@@ -7972,7 +8012,7 @@
    "firm": "J. Jeffers & Co., LLC",
    "name": null,
    "title": null,
-   "email": "information@jjeffers.com",
+   "email": null,
    "phone": null,
    "source": "https://www.jjeffers.com/contact",
    "self_managed": true
@@ -7994,7 +8034,7 @@
    "name": "Matt Haessly",
    "title": null,
    "email": null,
-   "phone": "414-286-5736",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -8015,7 +8055,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "732-441-1547",
+   "phone": null,
    "source": "https://www.1547realty.com",
    "self_managed": true
   },
@@ -8035,8 +8075,8 @@
    "firm": "CapRock Real Estate",
    "name": null,
    "title": null,
-   "email": "info@caprockre.com",
-   "phone": "312-257-3250",
+   "email": null,
+   "phone": null,
    "source": "https://www.caprockcommercialrealty.com/",
    "self_managed": true
   },
@@ -8056,8 +8096,8 @@
    "firm": "Reign Capital",
    "name": null,
    "title": null,
-   "email": "info@reigncapital.com",
-   "phone": "646-504-2689",
+   "email": null,
+   "phone": null,
    "source": "https://www.reigncapital.com/contact",
    "self_managed": true
   },
@@ -8077,8 +8117,8 @@
    "firm": "Reign Capital",
    "name": null,
    "title": null,
-   "email": "info@reigncapital.com",
-   "phone": "646-504-2689",
+   "email": null,
+   "phone": null,
    "source": "https://www.reigncapital.com/contact",
    "self_managed": true
   },
@@ -8104,7 +8144,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-286-8350",
+   "phone": null,
    "source": "https://city.milwaukee.gov/Parking",
    "self_managed": true
   },
@@ -8125,7 +8165,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-347-0411",
+   "phone": null,
    "source": "https://411ewc.com/",
    "self_managed": true
   },
@@ -8146,7 +8186,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-273-8222",
+   "phone": null,
    "source": "https://www.thepfisterhotel.com",
    "self_managed": true
   },
@@ -8188,7 +8228,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-253-2254",
+   "phone": null,
    "source": "https://www.expansive.com",
    "self_managed": true
   },
@@ -8209,7 +8249,7 @@
    "name": "Phyllis Resop",
    "title": null,
    "email": null,
-   "phone": "414-225-5800",
+   "phone": null,
    "source": "https://www.vbmre.com/",
    "self_managed": true
   },
@@ -8229,8 +8269,8 @@
    "firm": "JE Hoffman Management Company",
    "name": "S. Baker",
    "title": null,
-   "email": "sbaker@hoffmanmgt.com",
-   "phone": "262-814-9877",
+   "email": null,
+   "phone": null,
    "source": "https://hoffmanmgt.com/about-us/",
    "self_managed": true
   },
@@ -8241,7 +8281,7 @@
    "firm": "Bear Real Estate Group (BEAR / BREG) - The Patent Block",
    "name": null,
    "title": null,
-   "email": null,
+   "email": "rentals@bearproperty.com",
    "phone": "262-694-2327",
    "source": "https://bearreg.com/",
    "self_managed": false
@@ -8250,8 +8290,8 @@
    "firm": "Bear Real Estate Group (Bear Property Management division)",
    "name": null,
    "title": null,
-   "email": "rentals@bearproperty.com",
-   "phone": "262-697-9616",
+   "email": null,
+   "phone": null,
    "source": "https://www.bearpropertymanagement.com/contact-us",
    "self_managed": true
   },
@@ -8262,7 +8302,7 @@
    "firm": "Bear Real Estate Group (BEAR / BREG) - The Patent Block",
    "name": null,
    "title": null,
-   "email": null,
+   "email": "rentals@bearproperty.com",
    "phone": "262-694-2327",
    "source": "https://bearreg.com/",
    "self_managed": false
@@ -8271,8 +8311,8 @@
    "firm": "Bear Real Estate Group (Bear Property Management division)",
    "name": null,
    "title": null,
-   "email": "rentals@bearproperty.com",
-   "phone": "262-697-9616",
+   "email": null,
+   "phone": null,
    "source": "https://www.bearpropertymanagement.com/contact-us",
    "self_managed": true
   },
@@ -8280,7 +8320,7 @@
  },
  "M00460": {
   "owner": {
-   "firm": null,
+   "firm": "Bear Real Estate Group",
    "name": null,
    "title": null,
    "email": "info@bearrealestategroup.com",
@@ -8292,8 +8332,8 @@
    "firm": "Bear Real Estate Group",
    "name": null,
    "title": null,
-   "email": "info@bearrealestategroup.com",
-   "phone": "262-612-0200",
+   "email": null,
+   "phone": null,
    "source": "https://bearrealestategroup.com",
    "self_managed": true
   },
@@ -8301,7 +8341,7 @@
  },
  "M00461": {
   "owner": {
-   "firm": null,
+   "firm": "Bear Real Estate Group",
    "name": null,
    "title": null,
    "email": "info@bearrealestategroup.com",
@@ -8313,8 +8353,8 @@
    "firm": "Bear Real Estate Group",
    "name": null,
    "title": null,
-   "email": "info@bearrealestategroup.com",
-   "phone": "262-612-0200",
+   "email": null,
+   "phone": null,
    "source": "https://bearrealestategroup.com",
    "self_managed": true
   },
@@ -8335,7 +8375,7 @@
  },
  "M00463": {
   "owner": {
-   "firm": null,
+   "firm": "Northwestern Mutual Real Estate (in-house)",
    "name": null,
    "title": null,
    "email": null,
@@ -8348,7 +8388,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-665-5474",
+   "phone": null,
    "source": "https://realestate.northwesternmutual.com/contact-us",
    "self_managed": true
   },
@@ -8366,7 +8406,7 @@
  },
  "M00466": {
   "owner": {
-   "firm": null,
+   "firm": "Northwestern Mutual Real Estate (in-house)",
    "name": null,
    "title": null,
    "email": null,
@@ -8379,7 +8419,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-665-5474",
+   "phone": null,
    "source": "https://realestate.northwesternmutual.com/contact-us",
    "self_managed": true
   },
@@ -8387,7 +8427,7 @@
  },
  "M00467": {
   "owner": {
-   "firm": null,
+   "firm": "Physicians Realty Trust / DOC (owner-occupied HQ, on-site management)",
    "name": null,
    "title": null,
    "email": null,
@@ -8400,7 +8440,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "844-362-7348",
+   "phone": null,
    "source": "https://www.docreit.com",
    "self_managed": true
   },
@@ -8421,7 +8461,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-220-9870",
+   "phone": null,
    "source": "https://pieperproperties.com/contact/",
    "self_managed": true
   },
@@ -8429,10 +8469,10 @@
  },
  "M00469": {
   "owner": {
-   "firm": null,
+   "firm": "MIAD (owner-occupied, in-house facilities)",
    "name": null,
    "title": null,
-   "email": null,
+   "email": "jweimer@miad.edu",
    "phone": "414-847-3200",
    "source": "https://www.miad.edu/ ; https://www.miad.edu/about-miad/welcome/directions-to-campus",
    "self_managed": false
@@ -8441,8 +8481,8 @@
    "firm": "MIAD (owner-occupied, in-house facilities)",
    "name": null,
    "title": null,
-   "email": "jweimer@miad.edu",
-   "phone": "414-847-3272",
+   "email": null,
+   "phone": null,
    "source": "https://www.miad.edu/",
    "self_managed": true
   },
@@ -8450,7 +8490,7 @@
  },
  "M00470": {
   "owner": {
-   "firm": null,
+   "firm": "R2 Companies (owner/operator)",
    "name": null,
    "title": null,
    "email": "management@r2.me",
@@ -8462,8 +8502,8 @@
    "firm": "R2 Companies (owner/operator)",
    "name": null,
    "title": null,
-   "email": "management@r2.me",
-   "phone": "312-226-9737",
+   "email": null,
+   "phone": null,
    "source": "https://r2.me/portfolio/222-east-erie/",
    "self_managed": true
   },
@@ -8483,8 +8523,8 @@
    "firm": "Historic Third Ward Association (BID No. 2)",
    "name": null,
    "title": null,
-   "email": "office@historicthirdward.org",
-   "phone": "414-273-1173",
+   "email": null,
+   "phone": null,
    "source": "https://www.historicthirdward.org",
    "self_managed": true
   },
@@ -8492,10 +8532,10 @@
  },
  "M00472": {
   "owner": {
-   "firm": null,
+   "firm": "Felton Properties Inc.",
    "name": null,
    "title": null,
-   "email": null,
+   "email": "brett@feltonprop.com",
    "phone": "503-227-2413",
    "source": "https://www.feltonpropertiesinc.com/properties/241-n-broadway/ ; https://www.feltonpropertiesinc.com/contact-us/",
    "self_managed": false
@@ -8504,8 +8544,8 @@
    "firm": "Felton Properties Inc.",
    "name": null,
    "title": null,
-   "email": "brett@feltonprop.com",
-   "phone": "414-897-6319",
+   "email": null,
+   "phone": null,
    "source": "https://www.feltonpropertiesinc.com/contact-us/",
    "self_managed": true
   },
@@ -8518,7 +8558,7 @@
  },
  "M00474": {
   "owner": {
-   "firm": null,
+   "firm": "Marshall Building LLC (on-site management)",
    "name": null,
    "title": null,
    "email": "bob@marshallbuildingmke.com",
@@ -8530,8 +8570,8 @@
    "firm": "Marshall Building LLC (on-site management)",
    "name": null,
    "title": null,
-   "email": "bob@marshallbuildingmke.com",
-   "phone": "414-276-5210",
+   "email": null,
+   "phone": null,
    "source": "https://marshallbuildingmke.com/",
    "self_managed": true
   },
@@ -8552,7 +8592,7 @@
  },
  "M00476": {
   "owner": {
-   "firm": null,
+   "firm": "Kimpton Hotel & Restaurant Group, LLC (Kimpton Journeyman)",
    "name": null,
    "title": null,
    "email": "TalkToUs@journeymanhotel.com",
@@ -8564,8 +8604,8 @@
    "firm": "Kimpton Hotel & Restaurant Group, LLC (Kimpton Journeyman)",
    "name": null,
    "title": null,
-   "email": "TalkToUs@journeymanhotel.com",
-   "phone": "414-291-3970",
+   "email": null,
+   "phone": null,
    "source": "https://www.ihg.com/kimptonhotels/hotels/us/en/journeyman-hotel-milwaukee-wi/mketj/hoteldetail",
    "self_managed": true
   },
@@ -8585,8 +8625,8 @@
    "firm": "Skylight Music Theatre (Broadway Theatre Center)",
    "name": null,
    "title": null,
-   "email": "tickets@skylightmusictheatre.org",
-   "phone": "414-291-7800",
+   "email": null,
+   "phone": null,
    "source": "https://skylightmusictheatre.org/contact-us/",
    "self_managed": true
   },
@@ -8632,7 +8672,7 @@
    "firm": "Founders 3 Management Co",
    "name": null,
    "title": null,
-   "email": "info@founders3.com",
+   "email": null,
    "phone": "414-271-1111",
    "source": "https://founders3.com/contact/",
    "self_managed": false
@@ -8658,8 +8698,8 @@
    "firm": "City of Milwaukee - City Real Estate (Dept. of City Development)",
    "name": null,
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "414-286-5736",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -8684,7 +8724,7 @@
    "firm": "Founders 3 Management Co",
    "name": null,
    "title": null,
-   "email": "info@founders3.com",
+   "email": null,
    "phone": "414-271-1111",
    "source": "https://founders3.com/property/cathedral-square-office-space/",
    "self_managed": false
@@ -8706,7 +8746,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-271-6402",
+   "phone": null,
    "source": "https://www.yelp.com/biz/k-and-l-trust-milwaukee-2",
    "self_managed": true
   },
@@ -8810,8 +8850,8 @@
    "firm": "Milwaukee School of Engineering (MSOE)",
    "name": null,
    "title": null,
-   "email": "explore@msoe.edu",
-   "phone": "414-277-7222",
+   "email": null,
+   "phone": null,
    "source": "https://www.msoe.edu/",
    "self_managed": true
   },
@@ -8852,8 +8892,8 @@
    "firm": "Milwaukee World Festival, Inc.",
    "name": null,
    "title": null,
-   "email": "info@summerfest.com",
-   "phone": "414-273-2680",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeeworldfestival.com/contact",
    "self_managed": true
   },
@@ -8874,7 +8914,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-347-6480",
+   "phone": null,
    "source": "https://www.mgic.com/contact",
    "self_managed": true
   },
@@ -8894,8 +8934,8 @@
    "firm": null,
    "name": "Milwaukee Repertory Theatre",
    "title": null,
-   "email": "reception@milwaukeerep.com",
-   "phone": "414-224-1761",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeerep.com/about-us/contact-us",
    "self_managed": true
   },
@@ -8916,7 +8956,7 @@
    "name": "Marcus Hotels & Resorts (The Marcus Corporation)",
    "title": null,
    "email": null,
-   "phone": "414-905-1000",
+   "phone": null,
    "source": "https://www.marcuscorp.com/contact",
    "self_managed": true
   },
@@ -8979,7 +9019,7 @@
    "name": "AAP Properties LLC",
    "title": null,
    "email": null,
-   "phone": "414-277-1000",
+   "phone": null,
    "source": "https://urbanmilwaukee.com/building/1000-north-water-street/",
    "self_managed": true
   },
@@ -8999,8 +9039,8 @@
    "firm": null,
    "name": "3L Living - Milwaukee",
    "title": null,
-   "email": "info.MKE@3lliving.com",
-   "phone": "414-563-1218",
+   "email": null,
+   "phone": null,
    "source": "https://www.3lliving.com/contact",
    "self_managed": true
   },
@@ -9020,8 +9060,8 @@
    "firm": null,
    "name": "Edgewater Real Estate",
    "title": null,
-   "email": "info@edgewaterre.com",
-   "phone": "414-255-2277",
+   "email": null,
+   "phone": null,
    "source": "https://edgewaterre.com",
    "self_managed": true
   },
@@ -9042,7 +9082,7 @@
    "name": "Wisconsin Center District",
    "title": null,
    "email": null,
-   "phone": "414-908-6000",
+   "phone": null,
    "source": "https://wcd.org/contact/",
    "self_managed": true
   },
@@ -9096,8 +9136,8 @@
    "firm": null,
    "name": "Compass Properties, LLC",
    "title": null,
-   "email": "info@CityCenter735.com",
-   "phone": "414-765-0305",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/pace/bbc/challenge-participants/City-Center",
    "self_managed": true
   },
@@ -9117,8 +9157,8 @@
    "firm": null,
    "name": "Compass Properties, LLC",
    "title": null,
-   "email": "info@CityCenter735.com",
-   "phone": "414-765-0305",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/pace/bbc/challenge-participants/City-Center",
    "self_managed": true
   },
@@ -9202,7 +9242,7 @@
    "name": "Wisconsin Center District",
    "title": null,
    "email": null,
-   "phone": "414-908-6000",
+   "phone": null,
    "source": "https://wcd.org/contact/",
    "self_managed": true
   },
@@ -9223,7 +9263,7 @@
    "name": "Irgens",
    "title": null,
    "email": null,
-   "phone": "414-443-0700",
+   "phone": null,
    "source": "https://irgens.com/properties/770-north/",
    "self_managed": true
   },
@@ -9264,8 +9304,8 @@
    "firm": "Milwaukee Symphony Orchestra",
    "name": null,
    "title": null,
-   "email": "info@mso.org",
-   "phone": "414.291.6010",
+   "email": null,
+   "phone": null,
    "source": "https://www.mso.org/home/contact/",
    "self_managed": true
   },
@@ -9295,8 +9335,8 @@
    "firm": "Saxony Properties",
    "name": null,
    "title": null,
-   "email": "info@saxonyproperties.com",
-   "phone": "312-785-3222",
+   "email": null,
+   "phone": null,
    "source": "http://saxonyproperties.com/",
    "self_managed": true
   },
@@ -9316,8 +9356,8 @@
    "firm": "Van Buren Management, Inc.",
    "name": null,
    "title": null,
-   "email": "rrinzel@vanburenmanagement.com",
-   "phone": "414-224-5010",
+   "email": null,
+   "phone": null,
    "source": "https://www.vbmre.com/cathedral-place",
    "self_managed": true
   },
@@ -9337,8 +9377,8 @@
    "firm": "Van Buren Management, Inc.",
    "name": null,
    "title": null,
-   "email": "rrinzel@vanburenmanagement.com",
-   "phone": "414-224-5010",
+   "email": null,
+   "phone": null,
    "source": "https://www.vbmre.com/cathedral-place",
    "self_managed": true
   },
@@ -9363,8 +9403,8 @@
    "firm": "Van Buren Management, Inc.",
    "name": null,
    "title": null,
-   "email": "rrinzel@vanburenmanagement.com",
-   "phone": "414-224-5010",
+   "email": null,
+   "phone": null,
    "source": "https://www.vbmre.com/",
    "self_managed": true
   },
@@ -9406,7 +9446,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-271-1444",
+   "phone": null,
    "source": "https://realestate.northwesternmutual.com/contact-us",
    "self_managed": true
   },
@@ -9427,7 +9467,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-271-1444",
+   "phone": null,
    "source": "https://realestate.northwesternmutual.com/contact-us",
    "self_managed": true
   },
@@ -9490,7 +9530,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-271-1444",
+   "phone": null,
    "source": "https://realestate.northwesternmutual.com/contact-us",
    "self_managed": true
   },
@@ -9511,7 +9551,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-271-1444",
+   "phone": null,
    "source": "https://realestate.northwesternmutual.com/contact-us",
    "self_managed": true
   },
@@ -9531,8 +9571,8 @@
    "firm": "Italian Community Center Inc",
    "name": null,
    "title": null,
-   "email": "office@iccmilwaukee.com",
-   "phone": "414-223-2180",
+   "email": null,
+   "phone": null,
    "source": "https://www.iccmilwaukee.com/contact-us",
    "self_managed": true
   },
@@ -9553,7 +9593,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-765-4103",
+   "phone": null,
    "source": "https://iremwi.com/US_Bank_Corporate_Real_Estate_Division",
    "self_managed": true
   },
@@ -9574,7 +9614,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-765-4103",
+   "phone": null,
    "source": "https://iremwi.com/US_Bank_Corporate_Real_Estate_Division",
    "self_managed": true
   },
@@ -9583,8 +9623,8 @@
  "M00530": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9595,7 +9635,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9604,8 +9644,8 @@
  "M00531": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9616,7 +9656,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9625,8 +9665,8 @@
  "M00532": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9637,7 +9677,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9646,8 +9686,8 @@
  "M00533": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9658,7 +9698,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9667,8 +9707,8 @@
  "M00534": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9679,7 +9719,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9688,8 +9728,8 @@
  "M00535": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9700,7 +9740,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9709,8 +9749,8 @@
  "M00536": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9721,7 +9761,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9730,8 +9770,8 @@
  "M00537": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9742,7 +9782,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9751,8 +9791,8 @@
  "M00538": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9763,7 +9803,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9772,8 +9812,8 @@
  "M00539": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9784,7 +9824,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9793,8 +9833,8 @@
  "M00540": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9805,7 +9845,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9814,8 +9854,8 @@
  "M00541": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9826,7 +9866,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9835,8 +9875,8 @@
  "M00542": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9847,7 +9887,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9856,8 +9896,8 @@
  "M00543": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9868,7 +9908,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9877,8 +9917,8 @@
  "M00544": {
   "owner": {
    "firm": "Wangard Partners, Inc.",
-   "name": null,
-   "title": null,
+   "name": "Jamie Wolski",
+   "title": "Vice President, Property Management Operations",
    "email": "info@wangard.com",
    "phone": "414-777-1200",
    "source": "https://www.wangard.com/contact/",
@@ -9889,7 +9929,7 @@
    "name": "Jamie Wolski",
    "title": "Vice President, Property Management Operations",
    "email": null,
-   "phone": "414-935-4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -9909,8 +9949,8 @@
    "firm": "Wangard Partners, Inc.",
    "name": null,
    "title": null,
-   "email": "info@wangard.com",
-   "phone": "414-777-1200",
+   "email": null,
+   "phone": null,
    "source": "https://www.wangard.com/office/875-e-wisconsin/",
    "self_managed": true
   },
@@ -9930,8 +9970,8 @@
    "firm": "Wangard Partners, Inc.",
    "name": null,
    "title": null,
-   "email": "info@wangard.com",
-   "phone": "414-777-1200",
+   "email": null,
+   "phone": null,
    "source": "https://www.wangard.com/office/875-e-wisconsin/",
    "self_managed": true
   },
@@ -9951,8 +9991,8 @@
    "firm": "Wangard Partners, Inc.",
    "name": null,
    "title": null,
-   "email": "info@wangard.com",
-   "phone": "414-777-1200",
+   "email": null,
+   "phone": null,
    "source": "https://www.wangard.com/office/875-e-wisconsin/",
    "self_managed": true
   },
@@ -9972,8 +10012,8 @@
    "firm": "Wangard Partners, Inc.",
    "name": null,
    "title": null,
-   "email": "info@wangard.com",
-   "phone": "414-777-1200",
+   "email": null,
+   "phone": null,
    "source": "https://www.wangard.com/office/875-e-wisconsin/",
    "self_managed": true
   },
@@ -9993,8 +10033,8 @@
    "firm": "Wangard Partners, Inc.",
    "name": null,
    "title": null,
-   "email": "info@wangard.com",
-   "phone": "414-777-1200",
+   "email": null,
+   "phone": null,
    "source": "https://www.wangard.com/office/875-e-wisconsin/",
    "self_managed": true
   },
@@ -10014,8 +10054,8 @@
    "firm": "Wangard Partners, Inc.",
    "name": null,
    "title": null,
-   "email": "info@wangard.com",
-   "phone": "414-777-1200",
+   "email": null,
+   "phone": null,
    "source": "https://www.wangard.com/office/875-e-wisconsin/",
    "self_managed": true
   },
@@ -10035,8 +10075,8 @@
    "firm": "Wangard Partners, Inc.",
    "name": null,
    "title": null,
-   "email": "info@wangard.com",
-   "phone": "414-777-1200",
+   "email": null,
+   "phone": null,
    "source": "https://www.wangard.com/office/875-e-wisconsin/",
    "self_managed": true
   },
@@ -10082,8 +10122,8 @@
    "firm": "Irgens",
    "name": null,
    "title": null,
-   "email": "info@irgens.com",
-   "phone": "414.443.0700",
+   "email": null,
+   "phone": null,
    "source": "https://irgens.com/contact/",
    "self_managed": true
   },
@@ -10145,8 +10185,8 @@
    "firm": "JR Hospitality",
    "name": null,
    "title": null,
-   "email": "info@jrhospitality.com",
-   "phone": "612-412-9500",
+   "email": null,
+   "phone": null,
    "source": "https://www.jrhospitality.com/contact.php/1000",
    "self_managed": true
   },
@@ -10167,7 +10207,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(319) 752-7400",
+   "phone": null,
    "source": "https://www.hawkeyehotels.com/contact",
    "self_managed": true
   },
@@ -10197,7 +10237,7 @@
    "firm": "J. Jeffers & Co., LLC",
    "name": null,
    "title": null,
-   "email": "information@jjeffers.com",
+   "email": null,
    "phone": null,
    "source": "https://www.jjeffers.com/contact",
    "self_managed": true
@@ -10206,7 +10246,7 @@
  },
  "M00562": {
   "owner": {
-   "firm": null,
+   "firm": "MCR Hotels",
    "name": null,
    "title": null,
    "email": "inquiries@mcrhotels.com",
@@ -10218,7 +10258,7 @@
    "firm": "MCR Hotels",
    "name": null,
    "title": null,
-   "email": "inquiries@mcrhotels.com",
+   "email": null,
    "phone": null,
    "source": "https://www.mcrhotels.com/contact/",
    "self_managed": true
@@ -10227,7 +10267,7 @@
  },
  "M00563": {
   "owner": {
-   "firm": null,
+   "firm": "Hempel Real Estate (Hempel Companies)",
    "name": null,
    "title": null,
    "email": null,
@@ -10240,7 +10280,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-224-0384",
+   "phone": null,
    "source": "https://hempelcompanies.com",
    "self_managed": true
   },
@@ -10248,7 +10288,7 @@
  },
  "M00564": {
   "owner": {
-   "firm": null,
+   "firm": "Hempel Real Estate (Hempel Companies)",
    "name": null,
    "title": null,
    "email": null,
@@ -10261,7 +10301,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-224-0384",
+   "phone": null,
    "source": "https://hempelcompanies.com",
    "self_managed": true
   },
@@ -10269,7 +10309,7 @@
  },
  "M00565": {
   "owner": {
-   "firm": null,
+   "firm": "R2 Companies",
    "name": null,
    "title": null,
    "email": "management@r2.me",
@@ -10281,8 +10321,8 @@
    "firm": "R2 Companies",
    "name": null,
    "title": null,
-   "email": "management@r2.me",
-   "phone": "+1 312 226 9737",
+   "email": null,
+   "phone": null,
    "source": "https://r2.me",
    "self_managed": true
   },
@@ -10290,7 +10330,7 @@
  },
  "M00566": {
   "owner": {
-   "firm": null,
+   "firm": "R2 Companies",
    "name": null,
    "title": null,
    "email": "management@r2.me",
@@ -10302,8 +10342,8 @@
    "firm": "R2 Companies",
    "name": null,
    "title": null,
-   "email": "management@r2.me",
-   "phone": "+1 312 226 9737",
+   "email": null,
+   "phone": null,
    "source": "https://r2.me",
    "self_managed": true
   },
@@ -10311,7 +10351,7 @@
  },
  "M00567": {
   "owner": {
-   "firm": null,
+   "firm": "CSM Corporation (CSM Lodging)",
    "name": null,
    "title": null,
    "email": null,
@@ -10324,7 +10364,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(612) 395-7000",
+   "phone": null,
    "source": "https://www.csmcorp.net",
    "self_managed": true
   },
@@ -10332,7 +10372,7 @@
  },
  "M00568": {
   "owner": {
-   "firm": null,
+   "firm": "R2 Companies",
    "name": null,
    "title": null,
    "email": "management@r2.me",
@@ -10344,8 +10384,8 @@
    "firm": "R2 Companies",
    "name": null,
    "title": null,
-   "email": "management@r2.me",
-   "phone": "+1 312 226 9737",
+   "email": null,
+   "phone": null,
    "source": "https://r2.me",
    "self_managed": true
   },
@@ -10353,7 +10393,7 @@
  },
  "M00569": {
   "owner": {
-   "firm": null,
+   "firm": "R2 Companies",
    "name": null,
    "title": null,
    "email": "management@r2.me",
@@ -10365,8 +10405,8 @@
    "firm": "R2 Companies",
    "name": null,
    "title": null,
-   "email": "management@r2.me",
-   "phone": "+1 312 226 9737",
+   "email": null,
+   "phone": null,
    "source": "https://r2.me",
    "self_managed": true
   },
@@ -10374,7 +10414,7 @@
  },
  "M00570": {
   "owner": {
-   "firm": null,
+   "firm": "Urban Innovations",
    "name": "Joi Harrell",
    "title": "General Manager",
    "email": "jharrell@urbaninnovations.com",
@@ -10386,8 +10426,8 @@
    "firm": "Urban Innovations",
    "name": "Joi Harrell",
    "title": "General Manager",
-   "email": "jharrell@urbaninnovations.com",
-   "phone": "(312) 970-3285",
+   "email": null,
+   "phone": null,
    "source": "https://www.hub640.com/contact",
    "self_managed": true
   },
@@ -10395,7 +10435,7 @@
  },
  "M00571": {
   "owner": {
-   "firm": null,
+   "firm": "Urban Innovations",
    "name": "Joi Harrell",
    "title": "General Manager",
    "email": "jharrell@urbaninnovations.com",
@@ -10407,8 +10447,8 @@
    "firm": "Urban Innovations",
    "name": "Joi Harrell",
    "title": "General Manager",
-   "email": "jharrell@urbaninnovations.com",
-   "phone": "(312) 970-3285",
+   "email": null,
+   "phone": null,
    "source": "https://www.hub640.com/contact",
    "self_managed": true
   },
@@ -10416,9 +10456,9 @@
  },
  "M00572": {
   "owner": {
-   "firm": null,
-   "name": null,
-   "title": null,
+   "firm": "Antietam LLC",
+   "name": "John M. Silseth",
+   "title": "Registered Agent / Principal",
    "email": null,
    "phone": "(414) 291-3977",
    "source": "https://www.mapquest.com/us/wisconsin/graceville-llc-400458854",
@@ -10429,7 +10469,7 @@
    "name": "John M. Silseth",
    "title": "Registered Agent / Principal",
    "email": null,
-   "phone": "(414) 291-3977",
+   "phone": null,
    "source": "https://opencorporates.com/companies/us_wi/A038140",
    "self_managed": true
   },
@@ -10437,7 +10477,7 @@
  },
  "M00573": {
   "owner": {
-   "firm": null,
+   "firm": "Hempel Real Estate (Hempel Companies)",
    "name": null,
    "title": null,
    "email": null,
@@ -10450,7 +10490,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-224-0384",
+   "phone": null,
    "source": "https://hempelcompanies.com",
    "self_managed": true
   },
@@ -10458,7 +10498,7 @@
  },
  "M00574": {
   "owner": {
-   "firm": null,
+   "firm": "Sunset Investors",
    "name": null,
    "title": null,
    "email": null,
@@ -10471,7 +10511,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 727-2779",
+   "phone": null,
    "source": "http://www.sunsetinvestors.com/contact.html",
    "self_managed": true
   },
@@ -10512,7 +10552,15 @@
   "notes": "126 S 2nd St (Lindsay Bros Building), record owner BRIAN M JOST \u2014 longtime private individual owner, self-managed. No company website/email/phone found (private individual). NOTE: reporting indicates Jost agreed to sell the complex to Chicago-based BK Development LLC; MPROP still lists Jost as owner. No reachable contact available via first-party sources."
  },
  "M00577": {
-  "owner": null,
+  "owner": {
+   "firm": "Guardian Fine Art Services",
+   "name": "John Shannon",
+   "title": "Owner",
+   "email": null,
+   "phone": null,
+   "source": "https://www.guardianfineart.com",
+   "self_managed": true
+  },
   "manager": {
    "firm": "Guardian Fine Art Services",
    "name": "John Shannon",
@@ -10556,8 +10604,8 @@
    "firm": null,
    "name": "City of Milwaukee - Dept. of City Development, City Real Estate",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -10577,8 +10625,8 @@
    "firm": null,
    "name": "City of Milwaukee - Dept. of City Development, City Real Estate",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -10598,8 +10646,8 @@
    "firm": null,
    "name": "City of Milwaukee - Dept. of City Development, City Real Estate",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -10619,8 +10667,8 @@
    "firm": null,
    "name": "City of Milwaukee - Dept. of City Development, City Real Estate",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -10654,7 +10702,7 @@
    "name": "Standard Electric Supply Co.",
    "title": null,
    "email": null,
-   "phone": "(414) 272-8100",
+   "phone": null,
    "source": "https://www.standardelectricsupply.com",
    "self_managed": true
   },
@@ -10695,8 +10743,8 @@
    "firm": null,
    "name": "JBB Holdings LLC (Bachman Furniture)",
    "title": null,
-   "email": "info@bachmanfurniture.com",
-   "phone": "(414) 461-9000",
+   "email": null,
+   "phone": null,
    "source": "https://bachmanfurniture.com/contact/",
    "self_managed": true
   },
@@ -10720,7 +10768,7 @@
    "firm": null,
    "name": "Brennan Family Ltd Partnership (J.M. Brennan, Inc.)",
    "title": null,
-   "email": null,
+   "email": "mattb@jmbrennan.com",
    "phone": "(414) 342-3829",
    "source": "https://www.jmbrennan.com/contact",
    "self_managed": false
@@ -10729,8 +10777,8 @@
    "firm": null,
    "name": "Brennan Family Ltd Partnership (J.M. Brennan, Inc.)",
    "title": null,
-   "email": "mattb@jmbrennan.com",
-   "phone": "(414) 342-3829",
+   "email": null,
+   "phone": null,
    "source": "https://www.jmbrennan.com/contact",
    "self_managed": true
   },
@@ -10750,8 +10798,8 @@
    "firm": null,
    "name": "Eagles Auditorium Inc / Eagles Entertainment (The Rave)",
    "title": null,
-   "email": "info@therave.com",
-   "phone": "(414) 342-7283",
+   "email": null,
+   "phone": null,
    "source": "https://www.therave.com/",
    "self_managed": true
   },
@@ -10784,8 +10832,8 @@
    "firm": null,
    "name": "City of Milwaukee - Dept. of City Development, City Real Estate",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -10805,8 +10853,8 @@
    "firm": null,
    "name": "City of Milwaukee - Dept. of City Development, City Real Estate",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -10826,8 +10874,8 @@
    "firm": null,
    "name": "City of Milwaukee - Dept. of City Development, City Real Estate",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -10847,8 +10895,8 @@
    "firm": null,
    "name": "State of Wisconsin Department of Transportation - Southeast Region",
    "title": null,
-   "email": "ser.dtsd@dot.wi.gov",
-   "phone": "(262) 548-5902",
+   "email": null,
+   "phone": null,
    "source": "https://wisconsindot.gov",
    "self_managed": true
   },
@@ -10868,8 +10916,8 @@
    "firm": null,
    "name": "City of Milwaukee - City Real Estate (DCD)",
    "title": null,
-   "email": "cityrealestate@milwaukee.gov",
-   "phone": "414-286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -10895,7 +10943,7 @@
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -10915,8 +10963,8 @@
    "firm": null,
    "name": "City of Milwaukee - City Real Estate (DCD)",
    "title": null,
-   "email": "cityrealestate@milwaukee.gov",
-   "phone": "414-286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -10936,8 +10984,8 @@
    "firm": null,
    "name": "St. Charles Youth & Family Services, Inc.",
    "title": null,
-   "email": "info@stcharlesinc.org",
-   "phone": "414-476-3710",
+   "email": null,
+   "phone": null,
    "source": "https://stcharlesinc.org/contact-us/",
    "self_managed": true
   },
@@ -10978,7 +11026,7 @@
    "firm": null,
    "name": "Founders 3 Real Estate Services",
    "title": null,
-   "email": "info@founders3.com",
+   "email": null,
    "phone": "414-271-1111",
    "source": "https://founders3.com/services/",
    "self_managed": false
@@ -10999,7 +11047,7 @@
    "firm": null,
    "name": "Founders 3 Real Estate Services",
    "title": null,
-   "email": "info@founders3.com",
+   "email": null,
    "phone": "414-271-1111",
    "source": "https://founders3.com/services/",
    "self_managed": false
@@ -11042,7 +11090,7 @@
    "name": "Public Storage Inc.",
    "title": null,
    "email": null,
-   "phone": "414-395-0259",
+   "phone": null,
    "source": "https://www.publicstorage.com/self-storage-wi-milwaukee/1376.html",
    "self_managed": true
   },
@@ -11062,8 +11110,8 @@
    "firm": null,
    "name": "City of Milwaukee - City Real Estate (DCD)",
    "title": null,
-   "email": "cityrealestate@milwaukee.gov",
-   "phone": "414-286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -11084,7 +11132,7 @@
    "name": "Pettit National Ice Center",
    "title": null,
    "email": null,
-   "phone": "414-266-0100",
+   "phone": null,
    "source": "https://www.thepettit.com/contact",
    "self_managed": true
   },
@@ -11104,8 +11152,8 @@
    "firm": null,
    "name": "Beau Pere Real Estate LLC",
    "title": null,
-   "email": "hello@bprere.com",
-   "phone": "(203) 536 8535",
+   "email": null,
+   "phone": null,
    "source": "https://www.beauperere.com/contact",
    "self_managed": true
   },
@@ -11126,7 +11174,7 @@
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -11147,7 +11195,7 @@
    "name": "HSI Properties",
    "title": null,
    "email": null,
-   "phone": "262-439-8701",
+   "phone": null,
    "source": "http://www.hsi-properties.com",
    "self_managed": true
   },
@@ -11168,7 +11216,7 @@
    "name": "J. F. Ahern Co.",
    "title": null,
    "email": null,
-   "phone": "414-921-7580",
+   "phone": null,
    "source": "https://www.jfahern.com/contact-us/milwaukee-wisconsin",
    "self_managed": true
   },
@@ -11201,8 +11249,8 @@
    "firm": null,
    "name": "C. Coakley Relocation Systems",
    "title": null,
-   "email": "info@ccoakley.com",
-   "phone": "414.272.4040",
+   "email": null,
+   "phone": null,
    "source": "https://www.ccoakley.com/contact",
    "self_managed": true
   },
@@ -11223,7 +11271,7 @@
    "name": "Potawatomi Hotel & Casino (owner-operated)",
    "title": null,
    "email": null,
-   "phone": "1-800-729-7244",
+   "phone": null,
    "source": "https://www.potawatomi.com/contact",
    "self_managed": true
   },
@@ -11265,7 +11313,7 @@
    "name": "Potawatomi Hotel & Casino (owner-operated)",
    "title": null,
    "email": null,
-   "phone": "1-800-729-7244",
+   "phone": null,
    "source": "https://www.potawatomi.com/contact",
    "self_managed": true
   },
@@ -11286,7 +11334,7 @@
    "name": "Potawatomi Hotel & Casino (owner-operated)",
    "title": null,
    "email": null,
-   "phone": "1-800-729-7244",
+   "phone": null,
    "source": "https://www.potawatomi.com/contact",
    "self_managed": true
   },
@@ -11307,7 +11355,7 @@
    "name": "Potawatomi Hotel & Casino (owner-operated)",
    "title": null,
    "email": null,
-   "phone": "1-800-729-7244",
+   "phone": null,
    "source": "https://www.potawatomi.com/contact",
    "self_managed": true
   },
@@ -11340,8 +11388,8 @@
    "firm": null,
    "name": "Brittain Brothers, LLC",
    "title": null,
-   "email": "info@brittainbrothers.com",
-   "phone": "414-383-1776",
+   "email": null,
+   "phone": null,
    "source": "https://www.brittainbrothers.com/",
    "self_managed": true
   },
@@ -11361,8 +11409,8 @@
    "firm": null,
    "name": "Academy of Excellence, Inc. (owner-occupied school)",
    "title": null,
-   "email": "info@mkeacademy.com",
-   "phone": "414.369.2193",
+   "email": null,
+   "phone": null,
    "source": "https://www.mkeacademy.org/contact",
    "self_managed": true
   },
@@ -11382,7 +11430,7 @@
    "firm": null,
    "name": "Founders 3 Management Company",
    "title": null,
-   "email": "info@founders3.com",
+   "email": null,
    "phone": "414-271-1111",
    "source": "https://founders3.com/property/the-timbers/",
    "self_managed": false
@@ -11403,7 +11451,7 @@
    "firm": null,
    "name": "Founders 3 Management Company",
    "title": null,
-   "email": "info@founders3.com",
+   "email": null,
    "phone": "414-271-1111",
    "source": "https://founders3.com/property/atlas-tannery-business-complex/",
    "self_managed": false
@@ -11424,8 +11472,8 @@
    "firm": null,
    "name": "LCM Funds Real Estate LLC",
    "title": null,
-   "email": "info@lcmfunds.com",
-   "phone": "414-271-2520",
+   "email": null,
+   "phone": null,
    "source": "https://www.lcmfunds.com/",
    "self_managed": true
   },
@@ -11450,8 +11498,8 @@
    "firm": null,
    "name": "River Place Lofts property management",
    "title": null,
-   "email": "inquiries@riverplacelofts.com",
-   "phone": "414-982-0690",
+   "email": null,
+   "phone": null,
    "source": "http://riverplacelofts.com/contact",
    "self_managed": true
   },
@@ -11472,7 +11520,7 @@
    "name": "Joseph Property Development, LLC",
    "title": null,
    "email": null,
-   "phone": "414-277-7771",
+   "phone": null,
    "source": "https://josephpropertydevelopment.com/contact",
    "self_managed": true
   },
@@ -11534,8 +11582,8 @@
    "firm": "The Iron Horse Hotel",
    "name": null,
    "title": null,
-   "email": "info@theironhorsehotel.com",
-   "phone": "(414) 374-4766",
+   "email": null,
+   "phone": null,
    "source": "https://www.theironhorsehotel.com/contact",
    "self_managed": true
   },
@@ -11555,8 +11603,8 @@
    "firm": "Pieper Properties Inc",
    "name": "Leanne Rutowski, Property Manager",
    "title": null,
-   "email": "leanne@pieperproperties.com",
-   "phone": "414-220-9870",
+   "email": null,
+   "phone": null,
    "source": "https://pieperproperties.com/contact/",
    "self_managed": true
   },
@@ -11618,8 +11666,8 @@
    "firm": "Coakley Bros Co",
    "name": null,
    "title": null,
-   "email": "info@coakleybrothers.com",
-   "phone": "(414) 278-7060",
+   "email": null,
+   "phone": null,
    "source": "https://coakleybrothers.com/contact/",
    "self_managed": true
   },
@@ -11628,7 +11676,7 @@
  "M00635": {
   "owner": {
    "firm": "Wangard Partners (507 South 2nd Street Development LLC)",
-   "name": null,
+   "name": "Jamie Wolski, Property Management",
    "title": null,
    "email": null,
    "phone": "414-777-1200",
@@ -11640,7 +11688,7 @@
    "name": "Jamie Wolski, Property Management",
    "title": null,
    "email": null,
-   "phone": "414.935.4116",
+   "phone": null,
    "source": "https://www.wangard.com/contact/",
    "self_managed": true
   },
@@ -11661,7 +11709,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(612) 332-3000",
+   "phone": null,
    "source": "https://www.sherman-associates.com/contact/",
    "self_managed": true
   },
@@ -11681,8 +11729,8 @@
    "firm": "IndependenceFirst Inc",
    "name": null,
    "title": null,
-   "email": "info@independencefirst.org",
-   "phone": "(414) 291-7510",
+   "email": null,
+   "phone": null,
    "source": "https://www.independencefirst.org",
    "self_managed": true
   },
@@ -11703,7 +11751,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "+1-414-808-0100",
+   "phone": null,
    "source": "https://www.zurn.com/us/en/contact-us.html",
    "self_managed": true
   },
@@ -11724,7 +11772,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 867-2540",
+   "phone": null,
    "source": "https://www.lcmfunds.com/portfolio",
    "self_managed": true
   },
@@ -11745,7 +11793,7 @@
    "name": "Gregory Spanos, Managing Director",
    "title": null,
    "email": null,
-   "phone": "414-362-6381",
+   "phone": null,
    "source": "https://www.linkedin.com/company/sixsibs-capital",
    "self_managed": true
   },
@@ -11766,7 +11814,7 @@
    "name": "Gregory Spanos, Managing Director",
    "title": null,
    "email": null,
-   "phone": "414-362-6381",
+   "phone": null,
    "source": "https://www.linkedin.com/company/sixsibs-capital",
    "self_managed": true
   },
@@ -11787,7 +11835,7 @@
    "name": "Gregory Spanos, Managing Director",
    "title": null,
    "email": null,
-   "phone": "414-362-6381",
+   "phone": null,
    "source": "https://www.linkedin.com/company/sixsibs-capital",
    "self_managed": true
   },
@@ -11796,7 +11844,7 @@
  "M00643": {
   "owner": {
    "firm": "Mandel Group Inc (Mandel Fifth Ward Holdings LLC)",
-   "name": null,
+   "name": "Jason Babcock, Commercial Properties",
    "title": null,
    "email": "info@mandelgroup.com",
    "phone": "414-347-3600",
@@ -11807,8 +11855,8 @@
    "firm": "Mandel Group Inc",
    "name": "Jason Babcock, Commercial Properties",
    "title": null,
-   "email": "jbabcock@mandelgroup.com",
-   "phone": "(414) 347-3600",
+   "email": null,
+   "phone": null,
    "source": "https://mandelgroup.com/about/commercial-properties/",
    "self_managed": true
   },
@@ -11817,7 +11865,7 @@
  "M00644": {
   "owner": {
    "firm": "Mandel Group Inc (Mandel Fifth Ward Holdings LLC)",
-   "name": null,
+   "name": "Jason Babcock, Commercial Properties",
    "title": null,
    "email": "info@mandelgroup.com",
    "phone": "414-347-3600",
@@ -11828,8 +11876,8 @@
    "firm": "Mandel Group Inc",
    "name": "Jason Babcock, Commercial Properties",
    "title": null,
-   "email": "jbabcock@mandelgroup.com",
-   "phone": "(414) 347-3600",
+   "email": null,
+   "phone": null,
    "source": "https://mandelgroup.com/about/commercial-properties/",
    "self_managed": true
   },
@@ -11850,7 +11898,7 @@
    "name": "Robert L. Feind Jr., President",
    "title": null,
    "email": null,
-   "phone": "(414) 291-4400",
+   "phone": null,
    "source": "http://nationaltoolwarehouse.com",
    "self_managed": true
   },
@@ -11871,7 +11919,7 @@
    "name": "Robert L. Feind Jr., President",
    "title": null,
    "email": null,
-   "phone": "(414) 291-4400",
+   "phone": null,
    "source": "http://nationaltoolwarehouse.com",
    "self_managed": true
   },
@@ -11892,7 +11940,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-291-4400",
+   "phone": null,
    "source": "https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=NATL+WAREHOUSE+CORP",
    "self_managed": true
   },
@@ -11912,8 +11960,8 @@
    "firm": "Hansen Storage Company",
    "name": null,
    "title": null,
-   "email": "info@hansenstorage.com",
-   "phone": "414-476-9221",
+   "email": null,
+   "phone": null,
    "source": "https://www.hansenstorage.com/24/412-S.-Water-Street-Milwaukee",
    "self_managed": true
   },
@@ -11938,8 +11986,8 @@
    "firm": "Milwaukee Ballet Company Inc",
    "name": null,
    "title": null,
-   "email": "connect@milwaukeeballet.org",
-   "phone": "414.902.2100",
+   "email": null,
+   "phone": null,
    "source": "https://milwaukeeballet.org/contact/",
    "self_managed": true
   },
@@ -12015,7 +12063,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12036,7 +12084,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -12056,7 +12104,7 @@
    "firm": "Cermak Fresh Market (Cermak Realty LLC)",
    "name": null,
    "title": null,
-   "email": "support@cermakfresh.com",
+   "email": null,
    "phone": null,
    "source": "https://www.cermakfreshmarket.com/",
    "self_managed": true
@@ -12078,7 +12126,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12112,7 +12160,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-436-4600",
+   "phone": null,
    "source": "https://cristoreymilwaukee.org/contact/",
    "self_managed": true
   },
@@ -12133,7 +12181,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-291-4400",
+   "phone": null,
    "source": "https://urbanmilwaukee.com/2026/09/01/seven-story-warehouse-partially-collapses/",
    "self_managed": true
   },
@@ -12154,7 +12202,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12175,7 +12223,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -12196,7 +12244,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12217,7 +12265,7 @@
    "name": "Villarreal family / El Rey (owner-managed)",
    "title": null,
    "email": null,
-   "phone": "(414) 643-1640",
+   "phone": null,
    "source": "Common Villarreal/El Rey ownership and operation; https://urbanmilwaukee.com/business/el-rey-properties/",
    "self_managed": true
   },
@@ -12293,7 +12341,7 @@
    "name": "MPS Department of Facilities and Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12314,7 +12362,7 @@
    "name": "MPS Department of Facilities and Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12335,7 +12383,7 @@
    "name": "MPS Department of Facilities and Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12356,7 +12404,7 @@
    "name": "City of Milwaukee DCD \u2014 City Real Estate",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -12377,7 +12425,7 @@
    "name": "El Rey Enterprises / Villarreal family (owner-managed)",
    "title": null,
    "email": null,
-   "phone": "(414) 643-1640",
+   "phone": null,
    "source": "https://urbanmilwaukee.com/business/el-rey-properties/",
    "self_managed": true
   },
@@ -12398,7 +12446,7 @@
    "name": "MPS Department of Facilities and Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12419,7 +12467,7 @@
    "name": "City of Milwaukee (Fire Dept facilities / DCD City Real Estate)",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -12440,7 +12488,7 @@
    "name": "MPS Department of Facilities and Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12460,8 +12508,8 @@
    "firm": null,
    "name": "AMERCO Real Estate Co / U-Haul (owner-managed)",
    "title": null,
-   "email": "info@amercorealestate.com",
-   "phone": "(602) 263-6555",
+   "email": null,
+   "phone": null,
    "source": "https://amercorealestate.com",
    "self_managed": true
   },
@@ -12481,8 +12529,8 @@
    "firm": null,
    "name": "AMERCO Real Estate Co / U-Haul (owner-managed)",
    "title": null,
-   "email": "info@amercorealestate.com",
-   "phone": "(602) 263-6555",
+   "email": null,
+   "phone": null,
    "source": "https://amercorealestate.com",
    "self_managed": true
   },
@@ -12502,8 +12550,8 @@
    "firm": null,
    "name": "La Causa Inc (owner-managed)",
    "title": null,
-   "email": "AE@lacausa.org",
-   "phone": "(414) 647-8750",
+   "email": null,
+   "phone": null,
    "source": "https://lacausa.org/",
    "self_managed": true
   },
@@ -12524,7 +12572,7 @@
    "name": "City of Milwaukee / Port Milwaukee (self-managed)",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -12545,7 +12593,7 @@
    "name": "City of Milwaukee / Port Milwaukee (self-managed)",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -12565,8 +12613,8 @@
    "firm": "C. Coakley Relocation Systems",
    "name": null,
    "title": null,
-   "email": "info@ccoakley.com",
-   "phone": "414-272-4040",
+   "email": null,
+   "phone": null,
    "source": "https://www.ccoakley.com/contact ; 836 E Bay St listed as a Coakley warehouse location",
    "self_managed": true
   },
@@ -12587,7 +12635,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 800-1000",
+   "phone": null,
    "source": "https://www.storage-mart.com/milwaukee",
    "self_managed": true
   },
@@ -12607,8 +12655,8 @@
    "firm": "Jonas Builders",
    "name": null,
    "title": null,
-   "email": "bschroeder@jonasbuilders.com",
-   "phone": "414-342-9201",
+   "email": null,
+   "phone": null,
    "source": "https://www.jonasbuilders.com (1982 S Hilbert St listed in their featured/managed properties)",
    "self_managed": true
   },
@@ -12628,8 +12676,8 @@
    "firm": "Jonas Builders",
    "name": null,
    "title": null,
-   "email": "bschroeder@jonasbuilders.com",
-   "phone": "414-342-9201",
+   "email": null,
+   "phone": null,
    "source": "https://www.jonasbuilders.com",
    "self_managed": true
   },
@@ -12649,8 +12697,8 @@
    "firm": "Jonas Builders",
    "name": null,
    "title": null,
-   "email": "bschroeder@jonasbuilders.com",
-   "phone": "414-342-9201",
+   "email": null,
+   "phone": null,
    "source": "https://www.jonasbuilders.com",
    "self_managed": true
   },
@@ -12670,8 +12718,8 @@
    "firm": "Jonas Builders",
    "name": null,
    "title": null,
-   "email": "bschroeder@jonasbuilders.com",
-   "phone": "414-342-9201",
+   "email": null,
+   "phone": null,
    "source": "https://www.jonasbuilders.com",
    "self_managed": true
   },
@@ -12692,7 +12740,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 744-2018",
+   "phone": null,
    "source": "http://www.lincolnwarehouse.com",
    "self_managed": true
   },
@@ -12726,7 +12774,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 483-1800",
+   "phone": null,
    "source": "Restaurant Depot operates its own store at 125 W Becher St",
    "self_managed": true
   },
@@ -12747,7 +12795,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-290-1920 ext. 7089",
+   "phone": null,
    "source": "https://www.river1.us (office at 210 W Becher St, Suite 800)",
    "self_managed": true
   },
@@ -12781,7 +12829,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-384-8300",
+   "phone": null,
    "source": "https://www.hornygoatmarina.com/",
    "self_managed": true
   },
@@ -12802,7 +12850,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12823,7 +12871,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12844,7 +12892,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12864,8 +12912,8 @@
    "firm": "City of Milwaukee Dept. of City Development - Real Estate",
    "name": "Matt Haessly",
    "title": null,
-   "email": "mhaess@milwaukee.gov",
-   "phone": "(414) 286-5736",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -12886,7 +12934,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -12907,7 +12955,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "414-286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -12928,7 +12976,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "414-286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -12949,7 +12997,7 @@
    "name": "City of Milwaukee - Department of Public Works (DPW)",
    "title": null,
    "email": null,
-   "phone": "414-286-2489",
+   "phone": null,
    "source": "https://city.milwaukee.gov/dpw/Contact",
    "self_managed": true
   },
@@ -12970,7 +13018,7 @@
    "name": "City of Milwaukee - Department of Public Works (DPW)",
    "title": null,
    "email": null,
-   "phone": "414-286-2489",
+   "phone": null,
    "source": "https://city.milwaukee.gov/dpw/Contact",
    "self_managed": true
   },
@@ -12991,7 +13039,7 @@
    "name": "City of Milwaukee - DPW Sanitation / City Real Estate",
    "title": null,
    "email": null,
-   "phone": "414-286-2489",
+   "phone": null,
    "source": "https://city.milwaukee.gov/dpw/Contact",
    "self_managed": true
   },
@@ -13012,7 +13060,7 @@
    "name": "City of Milwaukee - DPW Sanitation / City Real Estate",
    "title": null,
    "email": null,
-   "phone": "414-286-2489",
+   "phone": null,
    "source": "https://city.milwaukee.gov/dpw/Contact",
    "self_managed": true
   },
@@ -13033,7 +13081,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "414-286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -13054,7 +13102,7 @@
    "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13075,7 +13123,7 @@
    "name": "City of Milwaukee - Milwaukee Fire Department / City Real Estate",
    "title": null,
    "email": null,
-   "phone": "414-286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -13096,7 +13144,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "414-286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -13117,7 +13165,7 @@
    "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13138,7 +13186,7 @@
    "name": "Hintz Holdings",
    "title": null,
    "email": null,
-   "phone": "262-835-7770",
+   "phone": null,
    "source": "https://urbanmilwaukee.com/2023/09/10/plats-and-parcels-klements-sausage-factory-sells-redevelopment-coming/",
    "self_managed": true
   },
@@ -13159,7 +13207,7 @@
    "name": "City of Milwaukee - Milwaukee Fire Department / City Real Estate",
    "title": null,
    "email": null,
-   "phone": "414-286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -13180,7 +13228,7 @@
    "name": "Milwaukee Public Library (Bay View Branch) / City Real Estate",
    "title": null,
    "email": null,
-   "phone": "414-286-3000",
+   "phone": null,
    "source": "https://mpl.org ; https://city.milwaukee.gov/DCD/Shares/Contact-Us/Real-Estate-Contact-Info",
    "self_managed": true
   },
@@ -13201,7 +13249,7 @@
    "name": "Milwaukee Recreation (Beulah Brinton Community Center)",
    "title": null,
    "email": null,
-   "phone": "414-475-8180",
+   "phone": null,
    "source": "https://www.milwaukeerecreation.net/rec/About/Contact/Directory.htm",
    "self_managed": true
   },
@@ -13222,7 +13270,7 @@
    "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13243,7 +13291,7 @@
    "name": "MPS Department of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13263,8 +13311,8 @@
    "firm": null,
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "(414) 283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13285,7 +13333,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -13305,8 +13353,8 @@
    "firm": null,
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "(414) 283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13327,7 +13375,7 @@
    "name": "Target Corporation (owner-operated retail store T-0223)",
    "title": null,
    "email": null,
-   "phone": "612-304-6073",
+   "phone": null,
    "source": "https://www.target.com/",
    "self_managed": true
   },
@@ -13361,7 +13409,7 @@
    "name": "United Migrant Opportunity Services (UMOS) Inc",
    "title": null,
    "email": null,
-   "phone": "414-389-6000",
+   "phone": null,
    "source": "http://www.umos.org",
    "self_managed": true
   },
@@ -13407,8 +13455,8 @@
    "firm": null,
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "(414) 283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13444,7 +13492,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -13464,8 +13512,8 @@
    "firm": null,
    "name": "Milwaukee Public Schools - Facilities & Maintenance Services",
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "(414) 283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13486,7 +13534,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -13507,7 +13555,7 @@
    "name": "Aurora Health Care Inc (corporate real estate / facilities)",
    "title": null,
    "email": null,
-   "phone": "414-219-7434",
+   "phone": null,
    "source": "https://www.aurorahealthcare.org/",
    "self_managed": true
   },
@@ -13528,7 +13576,7 @@
    "name": "Aurora Health Care Inc (corporate real estate / facilities)",
    "title": null,
    "email": null,
-   "phone": "414-219-7434",
+   "phone": null,
    "source": "https://www.aurorahealthcare.org/",
    "self_managed": true
   },
@@ -13549,7 +13597,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(866) 350-5906",
+   "phone": null,
    "source": "https://www.storage-mart.com",
    "self_managed": true
   },
@@ -13570,7 +13618,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13590,8 +13638,8 @@
    "firm": "City of Milwaukee - City Real Estate (DCD)",
    "name": null,
    "title": null,
-   "email": "CREOffers@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -13612,7 +13660,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13633,7 +13681,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13653,8 +13701,8 @@
    "firm": "Storage Rentals of America (SROA)",
    "name": null,
    "title": null,
-   "email": "contact@sroa.com",
-   "phone": "1-800-457-5678",
+   "email": null,
+   "phone": null,
    "source": "https://www.sroa.com/contact",
    "self_managed": true
   },
@@ -13675,7 +13723,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13695,8 +13743,8 @@
    "firm": "City of Milwaukee - City Real Estate (DCD)",
    "name": null,
    "title": null,
-   "email": "CREOffers@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -13717,7 +13765,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(479) 204-2161",
+   "phone": null,
    "source": "https://www.walmart.com/store/2828-milwaukee-wi",
    "self_managed": true
   },
@@ -13738,7 +13786,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13759,7 +13807,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 210-5707",
+   "phone": null,
    "source": "https://carmenschools.org/contact-us/",
    "self_managed": true
   },
@@ -13780,7 +13828,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-483-3080",
+   "phone": null,
    "source": "https://www.lindnerlogistics.com",
    "self_managed": true
   },
@@ -13800,8 +13848,8 @@
    "firm": "City of Milwaukee - City Real Estate (DCD)",
    "name": null,
    "title": null,
-   "email": "CREOffers@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -13821,8 +13869,8 @@
    "firm": "City of Milwaukee - City Real Estate (DCD)",
    "name": null,
    "title": null,
-   "email": "CREOffers@milwaukee.gov",
-   "phone": "(414) 286-5730",
+   "email": null,
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -13842,8 +13890,8 @@
    "firm": "El Rey Foods / PJR Properties LLC",
    "name": null,
    "title": null,
-   "email": "ernesto@elreyfoods.com",
-   "phone": "(414) 643-1640",
+   "email": null,
+   "phone": null,
    "source": "https://www.elreyfoods.com",
    "self_managed": true
   },
@@ -13895,7 +13943,7 @@
    "name": "Frank Giuffre",
    "title": null,
    "email": null,
-   "phone": "414-747-7400",
+   "phone": null,
    "source": "https://urbanmilwaukee.com/business/mallory-properties/",
    "self_managed": true
   },
@@ -13921,7 +13969,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-286-2489",
+   "phone": null,
    "source": "https://city.milwaukee.gov/mpw",
    "self_managed": true
   },
@@ -13941,8 +13989,8 @@
    "firm": "Milwaukee Public Schools \u2014 Facilities & Maintenance Services",
    "name": null,
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -13983,8 +14031,8 @@
    "firm": "Milwaukee Public Schools \u2014 Facilities & Maintenance Services",
    "name": null,
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -14026,7 +14074,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "847-714-0002",
+   "phone": null,
    "source": "https://assessments.milwaukee.gov (owner: LOOMIS CENTRE LLC % LEARSI & CO INC)",
    "self_managed": true
   },
@@ -14058,7 +14106,7 @@
    "firm": "Cascade Capital Group, LLC (owner entity SUNRISE PROPERTY HOLDINGS, LLC)",
    "name": null,
    "title": null,
-   "email": null,
+   "email": "info@nshorehc.com",
    "phone": "847-745-7000",
    "source": "https://cascadellc.com (owner_website_known match)",
    "self_managed": false
@@ -14067,8 +14115,8 @@
    "firm": "North Shore Healthcare / Sunrise Health Services (on-site operator-manager)",
    "name": null,
    "title": null,
-   "email": "info@nshorehc.com",
-   "phone": "414-541-1000",
+   "email": null,
+   "phone": null,
    "source": "https://www.nshorehc.com/locations/sunrise-health-services/",
    "self_managed": true
   },
@@ -14089,7 +14137,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-286-2489",
+   "phone": null,
    "source": "https://city.milwaukee.gov/mpw/infrastructure/Playgrounds",
    "self_managed": true
   },
@@ -14109,8 +14157,8 @@
    "firm": "Milwaukee Public Schools \u2014 Facilities & Maintenance Services",
    "name": null,
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -14130,8 +14178,8 @@
    "firm": "Milwaukee Public Schools \u2014 Facilities & Maintenance Services",
    "name": null,
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -14151,8 +14199,8 @@
    "firm": "Milwaukee Public Schools \u2014 Facilities & Maintenance Services",
    "name": null,
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -14172,8 +14220,8 @@
    "firm": "Milwaukee Public Schools \u2014 Facilities & Maintenance Services",
    "name": null,
    "title": null,
-   "email": "fms@milwaukeepublicschools.org",
-   "phone": "414-283-4600",
+   "email": null,
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -14194,7 +14242,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-286-2489",
+   "phone": null,
    "source": "https://city.milwaukee.gov/mpw",
    "self_managed": true
   },
@@ -14215,7 +14263,7 @@
    "name": "Milwaukee Public Schools - Dept. of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -14236,7 +14284,7 @@
    "name": "Milwaukee Public Schools - Dept. of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -14256,8 +14304,8 @@
    "firm": null,
    "name": "Braeger Chevrolet",
    "title": null,
-   "email": "jenders@braeger.com",
-   "phone": "(414) 281-5000",
+   "email": null,
+   "phone": null,
    "source": "http://www.braeger.com",
    "self_managed": true
   },
@@ -14278,7 +14326,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -14299,7 +14347,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -14320,7 +14368,7 @@
    "name": "Milwaukee Public Schools - Dept. of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -14341,7 +14389,7 @@
    "name": "Milwaukee Public Schools - Dept. of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -14383,7 +14431,7 @@
    "name": "Milwaukee Public Schools - Dept. of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -14404,7 +14452,7 @@
    "name": "Public Storage",
    "title": null,
    "email": null,
-   "phone": "(800) 742-8673",
+   "phone": null,
    "source": "https://www.publicstorage.com",
    "self_managed": true
   },
@@ -14425,7 +14473,7 @@
    "name": "Russel Metals Williams Bahcall Inc.",
    "title": null,
    "email": null,
-   "phone": "(414) 481-7100",
+   "phone": null,
    "source": "https://www.russelmetals.com",
    "self_managed": true
   },
@@ -14446,7 +14494,7 @@
    "name": "Storage Depot",
    "title": null,
    "email": null,
-   "phone": "(414) 441-6050",
+   "phone": null,
    "source": "https://www.storage-depot.biz/",
    "self_managed": true
   },
@@ -14467,7 +14515,7 @@
    "name": "Milwaukee Public Schools - Dept. of Facilities & Maintenance Services",
    "title": null,
    "email": null,
-   "phone": "(414) 475-8393",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -14488,7 +14536,7 @@
    "name": "Value Hospitality Inc.",
    "title": null,
    "email": null,
-   "phone": "(414) 282-7000",
+   "phone": null,
    "source": "https://www.wyndhamhotels.com/travelodge/milwaukee-wisconsin/travelodge-milwaukee/overview",
    "self_managed": true
   },
@@ -14509,7 +14557,7 @@
    "name": "City of Milwaukee - DCD City Real Estate",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -14530,7 +14578,7 @@
    "name": "Sidhivinayak LLC",
    "title": null,
    "email": null,
-   "phone": "(414) 817-5004",
+   "phone": null,
    "source": "https://www.choicehotels.com/wisconsin/milwaukee/rodeway-inn-hotels/wi121",
    "self_managed": true
   },
@@ -14551,7 +14599,7 @@
    "name": "Sidhivinayak LLC",
    "title": null,
    "email": null,
-   "phone": "(414) 817-5004",
+   "phone": null,
    "source": "https://assessments.milwaukee.gov/SearchResults.asp?SearchOwner=SIDHIVINAYAK+LLC",
    "self_managed": true
   },
@@ -14572,7 +14620,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 304-6100",
+   "phone": null,
    "source": "https://nces.ed.gov/ccd/schoolsearch/school_detail.asp?ID=550960003342",
    "self_managed": true
   },
@@ -14592,8 +14640,8 @@
    "firm": "Islamic Society of Milwaukee (office)",
    "name": null,
    "title": null,
-   "email": "ismoffice@ismonline.org",
-   "phone": "(414) 282-1812",
+   "email": null,
+   "phone": null,
    "source": "https://www.ismonline.org",
    "self_managed": true
   },
@@ -14614,7 +14662,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 353-1919",
+   "phone": null,
    "source": "https://www.yelp.com/biz/secure-mini-storage-milwaukee",
    "self_managed": true
   },
@@ -14635,7 +14683,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(800) 543-5589 Ext. 1426",
+   "phone": null,
    "source": "https://rlrllc.com/",
    "self_managed": true
   },
@@ -14692,7 +14740,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "847-257-8800",
+   "phone": null,
    "source": "https://www.brennanllc.com/contact/",
    "self_managed": true
   },
@@ -14713,7 +14761,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "847-257-8800",
+   "phone": null,
    "source": "https://www.brennanllc.com/contact/",
    "self_managed": true
   },
@@ -14760,7 +14808,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 482-4444",
+   "phone": null,
    "source": "https://biztimes.com/holiday-inn-hotel-near-airport-sold-for-7-4-million/",
    "self_managed": true
   },
@@ -14781,7 +14829,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(800) 264-9485",
+   "phone": null,
    "source": "https://www.storage-mart.com/milwaukee/0481-w-layton-ave-53207",
    "self_managed": true
   },
@@ -14807,7 +14855,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "(414) 769-2100",
+   "phone": null,
    "source": "https://biztimes.com/best-western-hotel-near-airport-sold-for-7-9-million/",
    "self_managed": true
   },
@@ -14843,7 +14891,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-481-2400",
+   "phone": null,
    "source": "https://www.hotelplanner.com/Hotels/330500/Reservations-Royle-Hotel-Milwaukee-Airport-Milwaukee-5311-South-Howell-Ave-53207",
    "self_managed": true
   },
@@ -14863,8 +14911,8 @@
    "firm": "Plymouth Industrial REIT",
    "name": null,
    "title": null,
-   "email": "info@plymouthreit.com",
-   "phone": "617-340-3814",
+   "email": null,
+   "phone": null,
    "source": "https://www.plymouthreit.com",
    "self_managed": true
   },
@@ -14885,7 +14933,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "212-537-0492",
+   "phone": null,
    "source": "https://www.linklogistics.com/contact/",
    "self_managed": true
   },
@@ -14906,7 +14954,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "212-537-0492",
+   "phone": null,
    "source": "https://www.linklogistics.com/contact/",
    "self_managed": true
   },
@@ -14927,7 +14975,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-744-3600",
+   "phone": null,
    "source": "http://www.buzzfile.com/business/Manchester-Suites-Hotel-414-744-3600",
    "self_managed": true
   },
@@ -14947,8 +14995,8 @@
    "firm": "Leader Paper Products, Inc.",
    "name": null,
    "title": null,
-   "email": "cs@leaderpaper.com",
-   "phone": "414-645-5760",
+   "email": null,
+   "phone": null,
    "source": "https://www.leaderpaper.com/contact/locations",
    "self_managed": true
   },
@@ -14982,7 +15030,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -15003,7 +15051,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-228-3500",
+   "phone": null,
    "source": "https://www.generalcapitalgroup.com",
    "self_managed": true
   },
@@ -15024,7 +15072,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -15044,8 +15092,8 @@
    "firm": "Cascade Capital Group",
    "name": null,
    "title": null,
-   "email": "info@cascadellc.com",
-   "phone": "847-745-7000",
+   "email": null,
+   "phone": null,
    "source": "https://cascadellc.com/contact-us/",
    "self_managed": true
   },
@@ -15066,7 +15114,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -15087,7 +15135,7 @@
    "name": null,
    "title": null,
    "email": null,
-   "phone": "414-283-4600",
+   "phone": null,
    "source": "https://www.milwaukeepublicschools.org/about/directory/operations/facilities-maintenance",
    "self_managed": true
   },
@@ -15128,8 +15176,8 @@
    "firm": "Raymond Management Company",
    "name": null,
    "title": null,
-   "email": "contact@raymondteam.com",
-   "phone": "608-833-4100",
+   "email": null,
+   "phone": null,
    "source": "https://www.raymondteam.com/contact/",
    "self_managed": true
   },
@@ -15151,7 +15199,7 @@
  "M00818": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Associated Bag Company (self-managed / owner-occupied)",
    "title": null,
    "email": "customerservice@associatedbag.com",
    "phone": "(414) 769-1000",
@@ -15162,8 +15210,8 @@
    "firm": null,
    "name": "Associated Bag Company (self-managed / owner-occupied)",
    "title": null,
-   "email": "customerservice@associatedbag.com",
-   "phone": "(414) 769-1000",
+   "email": null,
+   "phone": null,
    "source": "https://associatedbag.com",
    "self_managed": true
   },
@@ -15172,7 +15220,7 @@
  "M00819": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Tax Airfreight, Inc. (self-managed / owner-occupied)",
    "title": null,
    "email": null,
    "phone": "(414) 769-6565",
@@ -15184,7 +15232,7 @@
    "name": "Tax Airfreight, Inc. (self-managed / owner-occupied)",
    "title": null,
    "email": null,
-   "phone": "(414) 769-6565",
+   "phone": null,
    "source": "https://www.taxair.com/contact/",
    "self_managed": true
   },
@@ -15193,7 +15241,7 @@
  "M00820": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "City of Milwaukee - DCD City Real Estate (self-managed)",
    "title": null,
    "email": null,
    "phone": "(414) 286-5730",
@@ -15205,7 +15253,7 @@
    "name": "City of Milwaukee - DCD City Real Estate (self-managed)",
    "title": null,
    "email": null,
-   "phone": "(414) 286-5730",
+   "phone": null,
    "source": "https://city.milwaukee.gov/DCD/CityRealEstate",
    "self_managed": true
   },
@@ -15214,7 +15262,7 @@
  "M00821": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Estes Express Lines - Real Estate Dept (self-managed / owner-occupied)",
    "title": null,
    "email": null,
    "phone": "(804) 353-1900",
@@ -15226,7 +15274,7 @@
    "name": "Estes Express Lines - Real Estate Dept (self-managed / owner-occupied)",
    "title": null,
    "email": null,
-   "phone": "(804) 353-1900",
+   "phone": null,
    "source": "https://www.estes-express.com/contact",
    "self_managed": true
   },
@@ -15235,7 +15283,7 @@
  "M00822": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Lindner Logistics (self-managed / owner-operated)",
    "title": null,
    "email": "info@lindnerlogistics.com",
    "phone": "414-483-3080",
@@ -15246,8 +15294,8 @@
    "firm": null,
    "name": "Lindner Logistics (self-managed / owner-operated)",
    "title": null,
-   "email": "info@lindnerlogistics.com",
-   "phone": "414-483-3080",
+   "email": null,
+   "phone": null,
    "source": "https://www.lindnerlogistics.com/contact",
    "self_managed": true
   },
@@ -15256,7 +15304,7 @@
  "M00823": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Burlington (self-managed / owner-occupied retail)",
    "title": null,
    "email": null,
    "phone": "(609) 387-7800",
@@ -15268,7 +15316,7 @@
    "name": "Burlington (self-managed / owner-occupied retail)",
    "title": null,
    "email": null,
-   "phone": "(609) 387-7800",
+   "phone": null,
    "source": "https://www.burlington.com",
    "self_managed": true
   },
@@ -15277,7 +15325,7 @@
  "M00824": {
   "owner": {
    "firm": null,
-   "name": null,
+   "name": "Wisco Hotel Group (self-managed / owner-operator)",
    "title": null,
    "email": "info@wiscohotels.com",
    "phone": "(608) 826-0500",
@@ -15288,8 +15336,8 @@
    "firm": null,
    "name": "Wisco Hotel Group (self-managed / owner-operator)",
    "title": null,
-   "email": "info@wiscohotels.com",
-   "phone": "(608) 826-0500",
+   "email": null,
+   "phone": null,
    "source": "https://www.wiscohotels.com",
    "self_managed": true
   },
