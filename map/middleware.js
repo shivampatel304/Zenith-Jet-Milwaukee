@@ -1,4 +1,4 @@
-// Access-code gate for the Milwaukee Covered Buildings dashboard (edge middleware, Node.js runtime).
+// Access-code gate for the Azzera Covered Buildings dashboard (edge middleware, Node.js runtime).
 //
 // Runs before every request, including the page, the scripts and both data files, so nothing loads without
 // a valid session. Configuration comes from the project's environment variables:
@@ -143,7 +143,7 @@ const BASE_HEADERS = {
 function loginPage({ next = '/', error = '', status = 401 } = {}) {
   const html = `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="robots" content="noindex, nofollow"><title>Milwaukee Covered Buildings · Access</title>
+<meta name="robots" content="noindex, nofollow"><title>Azzera Covered Buildings · Access</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23111827'/%3E%3Cpath d='M9 10h14L10 22h13' fill='none' stroke='%23fff' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
 <style>
   :root { color-scheme: light; }
@@ -180,7 +180,7 @@ function loginPage({ next = '/', error = '', status = 401 } = {}) {
 <body>
   <form class="card" method="post" action="${LOGIN_PATH}" autocomplete="off">
     <div class="mark" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M9 10h14L10 22h13"/></svg></div>
-    <h1>Milwaukee Covered Buildings</h1>
+    <h1>Azzera Covered Buildings</h1>
     <p>Azzera · internal dashboard</p>
     <label for="code">6-digit PIN</label>
     <input id="code" name="code" type="password" inputmode="numeric" pattern="[0-9]{6}" maxlength="6" minlength="6" placeholder="••••••" autocomplete="off" autofocus required>

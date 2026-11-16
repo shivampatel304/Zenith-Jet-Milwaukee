@@ -481,3 +481,32 @@ dialog.modal p { margin: 0 0 14px; font-size: 13px; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { animation-duration: 0.01ms !important; transition-duration: 0.01ms !important; }
 }
+
+/* City selector (Milwaukee / Québec) — one deployment, two datasets */
+.city-switch {
+  display: inline-flex;
+  margin-left: 14px;
+  padding: 3px;
+  gap: 2px;
+  background: rgba(15, 23, 42, 0.06);
+  border: 1px solid rgba(15, 23, 42, 0.10);
+  border-radius: 999px;
+}
+.city-switch button {
+  appearance: none;
+  border: 0;
+  background: transparent;
+  color: #475569;
+  font: 600 12px/1 inherit;
+  padding: 6px 12px;
+  border-radius: 999px;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background .15s, color .15s;
+}
+.city-switch button:hover { color: #0f172a; }
+.city-switch button.active {
+  background: #fff;
+  color: #0f172a;
+  box-shadow: 0 1px 2px rgba(15, 23, 42, 0.12);
+}
