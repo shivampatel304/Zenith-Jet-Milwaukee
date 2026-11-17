@@ -1,15 +1,29 @@
-/* City selector. One deployment serves both Milwaukee and Québec City; the
- * ?city= query param picks which dataset + bundle to load. Default is Milwaukee
- * (the original link stays unchanged). The header toggle just reloads with the
- * other city — simplest, bullet-proof switch for a static, gated site.
- * Loaded as an external file because the page CSP forbids inline scripts. */
+/* Region selector. One deployment serves Milwaukee + several Québec regions; the
+ * ?city= query param picks which dataset + bundle + map view to load. Default is
+ * Milwaukee (the original link stays unchanged). The header toggle reloads with the
+ * chosen region. Loaded as an external file because the page CSP forbids inline
+ * scripts. The Québec regions all share one bundle (app-quebec.js); view config
+ * (data file, map center/bounds/sun) is passed through window.__CITYCFG__. */
 (function () {
-  var city = new URLSearchParams(location.search).get('city') === 'quebec'
-    ? 'quebec' : 'milwaukee';
-  var CFG = {
+  var CITIES = {
     milwaukee: { title: 'Milwaukee Covered Buildings', sub: 'Azzera · 826 buildings', bundle: 'app.js' },
-    quebec: { title: 'Québec City Covered Buildings', sub: 'Azzera · 1,587 buildings', bundle: 'app-quebec.js' },
-  }[city];
+    quebec: {
+      title: 'Québec City Covered Buildings', sub: 'Azzera · 1,587 covered buildings',
+      bundle: 'app-quebec.js', data: 'data/quebec_data.json', lots: 'data/quebec_lots.geojson',
+      intro: [-71.30, 46.80, 10.4], home: [-71.214, 46.8139, 12.8],
+      sun: [46.814, -71.208], bounds: [[-71.75, 46.55], [-70.85, 47.10]],
+    },
+    westisland: {
+      title: 'West Island — Covered Buildings', sub: 'Azzera · 695 covered buildings',
+      bundle: 'app-quebec.js', data: 'data/quebec_wi_data.json', lots: 'data/quebec_wi_lots.geojson',
+      intro: [-73.86, 45.46, 10.6], home: [-73.80, 45.47, 11.6],
+      sun: [45.46, -73.86], bounds: [[-74.10, 45.38], [-73.68, 45.56]],
+    },
+  };
+  var param = new URLSearchParams(location.search).get('city');
+  var city = CITIES[param] ? param : 'milwaukee';
+  var CFG = CITIES[city];
+  window.__CITYCFG__ = CFG;
 
   document.title = CFG.title;
 

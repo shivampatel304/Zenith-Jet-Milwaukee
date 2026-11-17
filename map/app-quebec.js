@@ -26,7 +26,20 @@ const CONFIG = {
   intro: { center: [-71.30, 46.80], zoom: 10.4, pitch: 50, bearing: -20 },
   home: { center: [-71.214, 46.8139], zoom: 12.8, pitch: 55, bearing: -15 },
   cityMinZoom: 13,
+  maxBounds: [[-71.75, 46.55], [-70.85, 47.10]],
 };
+
+// Region override (set by boot.js via ?city=). One bundle serves every Québec
+// region; data file + map view come from here so each region opens tight.
+if (window.__CITYCFG__ && window.__CITYCFG__.data) {
+  const cc = window.__CITYCFG__;
+  CONFIG.dataUrl = cc.data;
+  CONFIG.lotsUrl = cc.lots;
+  CONFIG.intro = { center: [cc.intro[0], cc.intro[1]], zoom: cc.intro[2], pitch: 50, bearing: -20 };
+  CONFIG.home = { center: [cc.home[0], cc.home[1]], zoom: cc.home[2], pitch: 55, bearing: -15 };
+  CONFIG.sun = { lat: cc.sun[0], lon: cc.sun[1], month: 9, day: 15, utcOffsetHours: -4 };
+  CONFIG.maxBounds = cc.bounds;
+}
 
 const FONT = '"Inter Variable", Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif';
 const UNKNOWN = 'Unknown';
@@ -2335,7 +2348,7 @@ async function main() {
     minZoom: 9.5,
     maxZoom: 19,
     maxPitch: 76,
-    maxBounds: [[-71.75, 46.55], [-70.85, 47.10]],
+    maxBounds: CONFIG.maxBounds,
     attributionControl: false,
     canvasContextAttributes: { antialias: true, powerPreference: 'high-performance' },
     fadeDuration: 150,
