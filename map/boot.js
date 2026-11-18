@@ -19,6 +19,12 @@
       intro: [-73.86, 45.46, 10.6], home: [-73.80, 45.47, 11.6],
       sun: [45.46, -73.86], bounds: [[-74.10, 45.38], [-73.68, 45.56]],
     },
+    southshore: {
+      title: 'South Shore — Covered Buildings', sub: 'Azzera · 1,209 covered buildings',
+      bundle: 'app-quebec.js', data: 'data/quebec_ss_data.json', lots: 'data/quebec_ss_lots.geojson',
+      intro: [-73.44, 45.47, 10.4], home: [-73.47, 45.52, 12.0],
+      sun: [45.47, -73.44], bounds: [[-73.75, 45.25], [-73.05, 45.72]],
+    },
   };
   var param = new URLSearchParams(location.search).get('city');
   var city = CITIES[param] ? param : 'milwaukee';
