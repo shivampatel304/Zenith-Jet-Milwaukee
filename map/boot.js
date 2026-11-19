@@ -19,6 +19,12 @@
       intro: [-73.86, 45.46, 10.6], home: [-73.80, 45.47, 11.6],
       sun: [45.46, -73.86], bounds: [[-74.10, 45.38], [-73.68, 45.56]],
     },
+    northshore: {
+      title: 'North Shore — Covered Buildings', sub: 'Azzera · 1,317 covered buildings',
+      bundle: 'app-quebec.js', data: 'data/quebec_ns_data.json', lots: 'data/quebec_ns_lots.geojson',
+      intro: [-73.75, 45.62, 10.2], home: [-73.75, 45.57, 11.4],
+      sun: [45.62, -73.75], bounds: [[-74.20, 45.42], [-73.35, 45.85]],
+    },
     southshore: {
       title: 'South Shore — Covered Buildings', sub: 'Azzera · 1,209 covered buildings',
       bundle: 'app-quebec.js', data: 'data/quebec_ss_data.json', lots: 'data/quebec_ss_lots.geojson',
